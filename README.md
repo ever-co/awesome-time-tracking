@@ -1,8 +1,11 @@
 # Awesome Time Tracking
 
-Time Tracking - Software, Methodologies and Practices
+Time Tracking - Software, Methodologies and Practices.
 
 ## Software 
+
+Please see the full list of PM and Time-Tracking Software at our [Notion](https://everco.notion.site/PM-and-Time-Tracking-Software-54c7c618172b4026a40ea94e584d0278).  
+We are working to filter that list and move relevant items into this repo, stay tuned 🚀.
 
 ### Open-Source / Open-Core / Open-Code
 
@@ -10,6 +13,12 @@ Time Tracking - Software, Methodologies and Practices
 - [Ever Teams](https://ever.team) - Open Work and Project Management Platform (including optional screenshots, Desktop & Mobile Apps, etc.) ([Source Code](https://github.com/ever-co/ever-teams)) `AGPL-3.0 with Commons Clause`
 - [ActivityWatch](https://activitywatch.net) - Free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. ([Source Code](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0`
 - [TimeTagger](https://timetagger.app) - Tag your time, get the insight ([Source Code](https://github.com/almarklein/timetagger)) `GPL-3.0`
+
+WIP
+
+### Commercial
+
+WIP
 
 ## License
 
