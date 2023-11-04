@@ -8,6 +8,8 @@ Time Tracking - Software, Methodologies and Practices
 
 - [Ever Gauzy](https://gauzy.co) -  Open Business Management Platform (ERP/CRM/HRM) with Time-Tracking functionality (including optional screenshots, Desktop Timer App, etc.) ([Source Code](https://github.com/ever-co/ever-gauzy)) `AGPL-3.0`
 - [Ever Teams](https://ever.team) - Open Work and Project Management Platform (including optional screenshots, Desktop & Mobile Apps, etc.) ([Source Code](https://github.com/ever-co/ever-teams)) `AGPL-3.0 with Commons Clause`
+- [ActivityWatch](https://activitywatch.net) - Free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. ([Source Code](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0`
+- [TimeTagger](https://timetagger.app) - Tag your time, get the insight ([Source Code](https://github.com/almarklein/timetagger)) `GPL-3.0`
 
 ## License
 
