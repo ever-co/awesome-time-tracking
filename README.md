@@ -15,6 +15,7 @@ We are working to filter that list and move relevant items into this repo, stay 
 - [ActivityWatch](https://activitywatch.net) - Free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. ([Source Code](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0`
 - [TimeTagger](https://timetagger.app) - Tag your time, get the insight ([Source Code](https://github.com/almarklein/timetagger)) `GPL-3.0`
 - [SolidTime](https://www.solidtime.io) - Modern open-source time-tracking app ([Source Code](https://github.com/solidtime-io/solidtime)) `AGPL-3.0`
+- [Traggo](https://traggo.net) - Self-hosted tag-based time tracking ([Source Code](https://github.com/traggo/server)) `GPL-3.0`
 - [Anvaka Time](https://time.anvaka.com) - A very simple interface to Google Sheets, that allows you to track time. Every time when you work on something - you can log time here, and edit it in Google Sheets later. ([Source Code](https://github.com/anvaka/time)) `MIT`
 - [Time Tracking Flutter & Firebase](https://github.com/bizz84/starter_architecture_flutter_firebase) - A time tracking application built with Flutter & Firebase. ([Source Code](https://github.com/bizz84/starter_architecture_flutter_firebase)) `MIT`
 - [GNOME time tracker](https://github.com/projecthamster/hamster) - Hamster is time tracking for individuals. It helps you to keep track of how much time you have spent during the day on activities you choose to track. ([Source Code](https://github.com/projecthamster/hamster)) `GPL-3.0`
@@ -28,6 +29,7 @@ We are working to filter that list and move relevant items into this repo, stay 
 - [Selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun! (Outdated [Source Code](https://github.com/selfspy/selfspy)) `GPL-3.0`
 - [ULogMe](https://github.com/karpathy/ulogme) - Automatically collect and visualize usage statistics in Ubuntu/OSX environments. (Outdated [Source Code](https://github.com/karpathy/ulogme)) `MIT`
 - [TimeTrex](https://www.timetrex.com) - Taking the Work Out of Workforce Management. Automate your time & attendance, payroll and HR management in one easy-to-use platform. `Unknown license`
+- [TomeTracker](https://github.com/tommerty/TomeTracker) - Time tracking app using localstorage. ([Source Code](https://github.com/tommerty/TomeTracker)) `GPL-3.0`
 
 Note: in **bold** we highlighted platforms built by our company, see all our OSS at: <https://github.com/ever-co>.
 
