@@ -9,7 +9,7 @@ We are working to filter that list and move relevant items into this repo, stay 
 
 ### Open-Source
 
-- [Ever Clokr](https://clokr.co) - Open Time Tracking Platform (WIP) ([Source Code will be available soon](https://github.com/ever-clokr)) `AGPL-3.0`
+- [Ever Cloc](https://cloc.ai) - Open Time Tracking Platform (WIP) ([Source Code will be available soon](https://github.com/ever-co/ever-cloc)) `AGPL-3.0`
 - [Ever Teams](https://ever.team) - Open Work and Project Management Platform (including optional screenshots, Desktop & Mobile Apps, etc.) ([Source Code](https://github.com/ever-co/ever-teams)) `AGPL-3.0`
 - [Ever Gauzy](https://gauzy.co) - Open Business Management Platform (ERP/CRM/HRM) with Time-Tracking functionality (including optional screenshots, Desktop Timer App, etc.) ([Source Code](https://github.com/ever-co/ever-gauzy)) `AGPL-3.0`
 - [ActivityWatch](https://activitywatch.net) - Free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. ([Source Code](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0`
@@ -23,6 +23,7 @@ We are working to filter that list and move relevant items into this repo, stay 
 - [Tockler](https://maygo.github.io/tockler) - An application that tracks your time by monitoring your active window title and idle time. ([Source Code](https://github.com/MayGo/tockler)) `GPL-2.0`
 - [Invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament. ([Source Code](https://github.com/Hasnayeen/invobook)) `MIT`
 - [Time Tracker](https://www.wfhg.cc) - "Time Tracker, to be the best time tracker for browsers" ([Source Code](https://github.com/sheepzh/timer)) `MIT`
+- [Shion](https://shion.app) - Time Tracker. ([Source Code](https://github.com/shion-app/shion)) `GPL-3.0` 
 - [Selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun! (Outdated [Source Code](https://github.com/selfspy/selfspy)) `GPL-3.0`
 - [ULogMe](https://github.com/karpathy/ulogme) - Automatically collect and visualize usage statistics in Ubuntu/OSX environments. (Outdated [Source Code](https://github.com/karpathy/ulogme)) `MIT`
 - [TimeTrex](https://www.timetrex.com) - Taking the Work Out of Workforce Management. Automate your time & attendance, payroll and HR management in one easy-to-use platform. `Unknown license`
