@@ -15,6 +15,7 @@ We are working to filter that list and move relevant items into this repo, stay 
 - [ActivityWatch](https://activitywatch.net) - Free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. ([Source Code](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0`
 - [TimeTagger](https://timetagger.app) - Tag your time, get the insight ([Source Code](https://github.com/almarklein/timetagger)) `GPL-3.0`
 - [SolidTime](https://www.solidtime.io) - Modern open-source time-tracking app ([Source Code](https://github.com/solidtime-io/solidtime)) `AGPL-3.0`
+- [Ziit](https://ziit.app) - Self-hosted alterantive to Wakatime/WakAPI for code time tracking. ([Source Code](https://github.com/0pandadev/ziit)) `AGPL-3.0`
 - [Traggo](https://traggo.net) - Self-hosted tag-based time tracking ([Source Code](https://github.com/traggo/server)) `GPL-3.0`
 - [Anvaka Time](https://time.anvaka.com) - A very simple interface to Google Sheets, that allows you to track time. Every time when you work on something - you can log time here, and edit it in Google Sheets later. ([Source Code](https://github.com/anvaka/time)) `MIT`
 - [Time Tracking Flutter & Firebase](https://github.com/bizz84/starter_architecture_flutter_firebase) - A time tracking application built with Flutter & Firebase. ([Source Code](https://github.com/bizz84/starter_architecture_flutter_firebase)) `MIT`
