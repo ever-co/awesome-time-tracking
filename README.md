@@ -246,8 +246,8 @@ Note: in **bold** we highlighted platforms built by our company, see all our OSS
 ## Cross-Platform Time Tracking
 
 - [Charm](https://github.com/charmbracelet/charm) - Charm is a cross-platform time tracking software tailored for professionals, offering tools to log and manage billable work hours. ([Read more](/details/charm.md)) `cross-platform` `billable-hours` `professionals` `open-source`
-- [Pendulums](https://pendulums.io/) - Pendulums is a free and open source time tracking tool supporting real-time and offline tracking, project assignment, and productivity charting, suitable for teams and individuals. ([Read more](/details/pendulums.md)) `open-source` `real-time` `productivity` `teams`
-- [Task Coach](https://www.taskcoach.org/) - Task Coach is a free, open source todo manager with built-in effort tracking, allowing users to monitor time spent on tasks. Its hierarchical task management, effort tracking, and cross-platform availability make it directly relevant for time tracking needs. ([Read more](/details/task-coach.md)) `open-source` `task-management` `cross-platform` `effort-tracking`
+- [Pendulums](https://pendulums.io/) - Pendulums is a free and open-source time tracking tool supporting real-time and offline tracking, project assignment, and productivity charting, suitable for teams and individuals. ([Read more](/details/pendulums.md)) `open-source` `real-time` `productivity` `teams`
+- [Task Coach](https://www.taskcoach.org/) - Task Coach is a free, open-source todo manager with built-in effort tracking, allowing users to monitor time spent on tasks. Its hierarchical task management, effort tracking, and cross-platform availability make it directly relevant for time tracking needs. ([Read more](/details/task-coach.md)) `open-source` `task-management` `cross-platform` `effort-tracking`
 - [Timetagger](https://github.com/almarklein/timetagger) - Timetagger is a free open-source time-tracker app with an intuitive user interface, built-in Pomodoro tool, PDF/CSV reporting, a CLI tool, and a developer-friendly web API. It is designed for tracking time across devices and platforms, making it highly relevant for time tracking needs. ([Read more](/details/timetagger.md)) `open-source` `pomodoro` `api` `reporting`
 - [Timeular](https://timeular.com/) - A physical device and app for effortless, smart, and secure time and leave tracking for individuals and teams. ([Read more](/details/timeular.md)) `device` `cross-platform` `leave-tracking` `teams`
 - [Toggl](https://toggl.com/track/) - Toggl is a time-tracking platform offering desktop, web, and mobile clients, with features such as idle detection, reminders, Pomodoro timer, and daily time tracking. It is widely used for productivity and efficiency, and includes open-source desktop apps and command-line tools. ([Read more](/details/toggl.md)) `cross-platform` `productivity` `reporting` `integration`
@@ -265,6 +265,10 @@ Note: in **bold** we highlighted platforms built by our company, see all our OSS
 
 - [Project Time Tracking Platform](https://www.softwareadvice.com/time-tracking/) - A project time tracking platform offers modern, digital solutions for tracking employee time and project hours. It automates timesheet filling, task allocation, and report generation, helping businesses optimize billable hours, compliance, and productivity. Essential for businesses looking to replace outdated paper logs and Excel timesheets with comprehensive time tracking and analysis. `overview` `reference` `billable-hours` `automation`
 - [Timesheet Apps](https://en.wikipedia.org/wiki/Timesheet) - A category of applications designed specifically for tracking work hours, project allocation, and employee productivity. These apps offer features like automated time tracking, manual entries, reporting, integrations, and mobile accessibility, making them essential tools for effective time management and accurate payroll processing. ([Read more](/details/timesheet-apps.md)) `overview` `reference` `timesheet` `productivity`
+
+## Legal
+
+All product names, logos, and brands are the property of their respective owners. All company, product, and service names used in this repository, related repositories, and associated websites are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.
 
 ## License
 
