@@ -17,8 +17,8 @@ We are working to filter that list and move relevant items into this repo, stay 
 - [Desktop Time Tracking Applications](#desktop-time-tracking-applications)
 - [Time Tracking CLI Tools](#time-tracking-cli-tools)
 - [Cross-Platform Time Tracking](#cross-platform-time-tracking)
-- [Countdown & Interval Timers](#countdown-interval-timers)
-- [Time Tracking Overview & Resources](#time-tracking-overview-resources)
+- [Countdown & Interval Timers](#countdown--interval-timers)
+- [Time Tracking Overview & Resources](#time-tracking-overview--resources)
 
 ## Open-Source
 
