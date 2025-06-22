@@ -1,12 +1,19 @@
 # Awesome Time Tracking
 
+## 🌟 What is it
+
 Time Tracking - Software, Methodologies and Practices.  
 A curated list of time tracking applications, libraries, and tools.
 
 Please see the full list of PM and Time-Tracking Software at our [Notion](https://everco.notion.site/PM-and-Time-Tracking-Software-54c7c618172b4026a40ea94e584d0278).  
 We are working to filter that list and move relevant items into this repo, stay tuned 🚀.
 
-## Table of Contents
+## 🔥 Acknowledgements
+
+This directory was built and is maintained using the [Ever Works](https://ever.works) Directory Builder platform.  
+The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
+
+## 📑 Table of Contents
 
 - [Open-Source](#open-source)
 - [Team & Project Time Tracking](#team--project-time-tracking)
@@ -266,7 +273,15 @@ Note: in **bold** we highlighted platforms built by our company, see all our OSS
 - [Project Time Tracking Platform](https://www.softwareadvice.com/time-tracking/) - A project time tracking platform offers modern, digital solutions for tracking employee time and project hours. It automates timesheet filling, task allocation, and report generation, helping businesses optimize billable hours, compliance, and productivity. Essential for businesses looking to replace outdated paper logs and Excel timesheets with comprehensive time tracking and analysis. `overview` `reference` `billable-hours` `automation`
 - [Timesheet Apps](https://en.wikipedia.org/wiki/Timesheet) - A category of applications designed specifically for tracking work hours, project allocation, and employee productivity. These apps offer features like automated time tracking, manual entries, reporting, integrations, and mobile accessibility, making them essential tools for effective time management and accurate payroll processing. ([Read more](/details/timesheet-apps.md)) `overview` `reference` `timesheet` `productivity`
 
-## Legal
+## 🍺 Contribute
+
+-   Please give us :star: on Github, it **helps**!
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ever-works/awesome-time-tracking&type=Date)](https://star-history.com/#ever-works/awesome-time-tracking&Date)
+
+## ™️ Legal
 
 All product names, logos, and brands are the property of their respective owners. All company, product, and service names used in this repository, related repositories, and associated websites are for identification purposes only. The use of these names, logos, and brands does not imply endorsement, affiliation, or sponsorship.
 
@@ -276,7 +291,7 @@ We disclaim any responsibility for errors, omissions, or inaccuracies in the con
 
 If you believe that your intellectual property rights or other legal rights have been infringed, please contact us immediately at <legal@ever.works> and we will take appropriate action.
 
-## License
+## 🛡️ License
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
