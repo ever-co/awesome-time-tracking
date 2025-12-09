@@ -1,43 +1,27 @@
 # TEMS
 
-**Category:** Team Project Time Tracking  
-**Tags:** open-source, invoicing, expense-tracking, approval-workflows  
-[Source](https://slashdot.org/software/comparison/TEMS-vs-Timewatch/)
-
----
+**Category:** Open Source  
+**Tags:** open-source, expense-tracking, multi-user, billing, invoicing
 
 ## Description
-TEMS is a tool designed for organizations that bill clients based on tracked time and materials. It enables capturing time and expense entries by project and account, generates detailed invoices, and supports approval workflows. TEMS is suitable for freelancers, small business owners, consultants, attorneys, accountants, and organizations managing both prime and subcontractor arrangements. It emphasizes user-friendliness and security, concealing sensitive financial information from regular users while allowing access to those who need it.
-
----
+TEMS (Time and Expense Management System) is a system used by state agencies to manage travel reimbursement requests and track time and expenses across multiple projects and users. It facilitates the submission, approval, and processing of travel and expense requests, and assists administrators with billing and invoicing. TEMS is accessible via the state intranet or internet.
 
 ## Features
-- Time and expense activity tracking
-- Billable hours tracking
-- Billing rate management
-- Expense tracking (by project and account)
-- Invoice processing and detailed invoice generation
-- Multiple billing rates support
-- Project tracking
-- Reimbursement management
-- Time tracking by client and by project
-- Weekly expense reports
-- Automated mileage calculations
-- Approval workflows for time and expenses
-- Management of prime and subcontractor arrangements
-- Concealment of financial and confidential data from regular users
-- User-friendly and secure design
-- Supports both employees and contractors
-- Web-based and on-premises deployment
-- Available on iPhone, iPad, Android, Windows, Mac, Linux, Chromebook
-- API access
-
----
+- Time and expense tracking across multiple projects and users
+- Submission and processing of travel reimbursement requests
+- Automated workflow for approval (routes requests to supervisors and fiscal office)
+- Administrative tools for managing user access and roles
+- Billing and invoicing support
+- Integration with agency administrators for user management
+- Read-only and review modes for reimbursement requests in different workflow stages
+- Ability to inactivate (but not delete) trips or reimbursement requests
+- Point-to-point mileage calculation for Washington cities
+- Password management features (reset, requirements, etc.)
+- Web-based access (works with Microsoft Edge or Google Chrome)
+- Multi-user support with role-based access
 
 ## Pricing
-No specific price information is available from the provided content.
+No pricing information is provided. TEMS is used by Washington state agencies and appears to be provided as an internal state government system.
 
----
-
-## Integrations
-No integration details available.
+## Source
+[https://ofm.wa.gov/it-systems/accounting-systems/travel-and-expense-management-tems](https://ofm.wa.gov/it-systems/accounting-systems/travel-and-expense-management-tems)
