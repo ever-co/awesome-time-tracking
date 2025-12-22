@@ -3,7 +3,7 @@
 A curated list of time tracking applications, libraries, and tools.
 
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [Attendance & Payroll Management](#attendance-payroll-management)
 - [Team & Project Time Tracking](#team-project-time-tracking)
@@ -16,12 +16,14 @@ A curated list of time tracking applications, libraries, and tools.
 - [Countdown & Interval Timers](#countdown-interval-timers)
 - [Cross-Platform Time Tracking](#cross-platform-time-tracking)
 - [Desktop Time Tracking Applications](#desktop-time-tracking-applications)
+- [Equipment & Fleet Time Tracking](#equipment-fleet-time-tracking)
 - [Open Sources](#open-sources)
 - [Personal Time Tracking](#personal-time-tracking)
 - [Productivity Tools](#productivity-tools)
 - [Time Tracking CLI Tools](#time-tracking-cli-tools)
 - [Time Tracking Overview & Resources](#time-tracking-overview-resources)
-- [Web-Based Time Tracking](#web-based-time-tracking)
+- [Time Tracking Utilities & Calculators](#time-tracking-utilities-calculators)
+- [Web Based Time Tracking](#web-based-time-tracking)
 
 
 ## Attendance & Payroll Management
@@ -29,6 +31,8 @@ A curated list of time tracking applications, libraries, and tools.
 - [All Hours](https://allhours.com/) - All Hours is a flexible and user-friendly Time & Attendance solution designed for medium and large businesses. It offers a combination of clocking time with terminals, mobile, and web apps, allowing businesses to record arrivals, departures, and breaks. The app includes features for planning absences, exporting data for payroll, and maintaining an audit log of changes. ([Read more](/details/all-hours.md)) `attendance` `payroll` `absence-planning`
 - [Time Card Calculator](https://www.timecardcalculator.net/settings.php) - A tool designed to help users calculate work hours and wages based on time card entries. It simplifies the process of tracking time worked, making it easier for both employees and employers to manage payroll efficiently. ([Read more](/details/time-card-calculator.md)) `payroll` `calculation` `time-management`
 - [Attendance Tracker](https://www.myattendancetracker.com/) - An application designed to keep track of employee attendance, ensuring accurate records of work hours and absences. It aids in maintaining compliance and streamlining HR processes. ([Read more](/details/attendance-tracker.md)) `attendance` `hr` `compliance`
+- [busybusy Construction Timesheet App](https://busybusy.com/construction-trades/construction-timesheet-app/) - Construction-focused timesheet software that consolidates daily employee hours, job and cost code allocations, and approvals to streamline payroll and job costing. ([Read more](/details/busybusy-construction-timesheet-app.md)) `timesheets` `payroll` `construction`
+- [busybusy Job Site Time Clock App](https://busybusy.com/job-site-time-clock-app/) - A job site time clock system designed for construction sites, allowing crews to clock in at fixed kiosks or shared devices on-site while capturing accurate project- and location-specific time data. ([Read more](/details/busybusy-job-site-time-clock-app.md)) `punch-clock` `attendance` `construction`
 
 ## Team & Project Time Tracking
 
@@ -140,11 +144,17 @@ A curated list of time tracking applications, libraries, and tools.
 ## Field Team Management
 
 - [ClockShark](https://www.clockshark.com/) - ClockShark is a time tracking application designed specifically for field teams. It offers features like GPS location tracking, job reminders, and seamless payroll integration, making it ideal for managing labor costs across different job sites. The platform is available as a web-based app and on iOS and Android devices. ([Read more](/details/clockshark.md)) `gps` `mobile` `payroll`
+- [busybusy](https://busybusy.com/) - busybusy is a construction-focused time tracking and job costing platform that helps field and remote teams track hours, locations, and project activity via mobile and web apps, including GPS-enabled clock-in/out and reporting for payroll and project management. ([Read more](/details/busybusy.md)) `gps` `mobile` `construction`
+- [busybusy Field Employee Tracking App (GPS)](https://busybusy.com/construction-trades/field-employee-tracking-app-gps/) - A GPS-enabled field employee tracking app that records where and when mobile crews are working, combining location data with time tracking for accountability and accurate billing. ([Read more](/details/busybusy-field-employee-tracking-app-gps.md)) `gps` `employee-monitoring` `construction`
+- [busybusy Landscaping Time Tracking Software](https://busybusy.com/construction-trades/landscaping-time-tracking-software/) - Vertical time tracking solution tailored for landscaping businesses, helping track crew hours by property and task, manage mobile timesheets, and feed accurate data into payroll and job costing. ([Read more](/details/busybusy-landscaping-time-tracking-software.md)) `gps` `timesheets` `small-business`
+- [busybusy Time Tracking Features](https://busybusy.com/features/) - Overview of busybusy’s construction time tracking capabilities, including mobile time clocks, GPS-based tracking, project and cost code tracking, overtime rules, approvals, and reporting for crews and field employees. ([Read more](/details/busybusy-time-tracking-features.md)) `gps` `reporting` `mobile`
 - [FieldServicely](https://mysignature.io/blog/best-black-friday-cyber-monday-business-deals/) - FieldServicely is a GPS-based time tracking app designed for field employees. It allows businesses to track employee locations and tasks in real-time, offering features like geofenced clock-in and clock-out systems to manage time on job sites effectively. ([Read more](/details/fieldservicely.md)) `gps` `real-time` `geofencing`
 
 ## Mobile Time Tracking
 
 - [ATracker](https://www.wonderapps.se/ATracker/home.html) - ATracker is a time tracking app for iOS and Android that offers one-tap timers, task switching, and detailed visual reports. It is designed for freelancers, personal users, and businesses, providing customizable interfaces and multi-device synchronization. ([Read more](/details/atracker.md)) `mobile` `reporting` `customization` `personal-use`
+- [busybusy Mobile Time Clock App](https://busybusy.com/mobile-time-clock-app/) - Mobile time clock software that turns smartphones into time clocks for crews, enabling employees to punch in/out, switch tasks, and submit time from anywhere in the field. ([Read more](/details/busybusy-mobile-time-clock-app.md)) `mobile` `punch-clock` `construction`
+- [busybusy Mobile Time Tracking App](https://busybusy.com/mobile-time-tracking-app/) - A mobile time tracking app for construction and field teams that lets employees clock in/out from their phones, track time by job and cost code, capture GPS locations, and sync hours to timesheets and payroll. ([Read more](/details/busybusy-mobile-time-tracking-app.md)) `mobile` `gps` `construction`
 - [timetracker](https://github.com/SimonIT/timetracker) - Papierkram.de TimeTracker is a Flutter app for time tracking, providing a mobile solution for users needing to log their work hours. ([Read more](/details/timetracker.md)) `flutter` `mobile` `open-source` `personal-use`
 
 ## Resource Scheduling
@@ -153,6 +163,7 @@ A curated list of time tracking applications, libraries, and tools.
 
 ## Business Management
 
+- [busybusy Job Costing App](https://busybusy.com/job-costing-app/) - A job costing solution that uses tracked labor and equipment time to attribute costs to projects and cost codes, giving contractors visibility into job profitability in real time. ([Read more](/details/busybusy-job-costing-app.md)) `analytics` `job-costing` `construction`
 - [Scoro](https://www.scoro.com/) - Scoro is a business management software that includes time tracking features. It integrates project management, billing, and reporting, making it a versatile tool for businesses looking to streamline operations. ([Read more](/details/scoro.md)) `project-management` `billing` `reporting`
 
 ## Commerce
@@ -206,6 +217,11 @@ A curated list of time tracking applications, libraries, and tools.
 - [Timetrack](https://gtimelog.org/) - Timetrack is a simple time tracking application for the GNOME environment, helping users keep logs of time spent on various tasks. ([Read more](/details/timetrack.md)) `gnome` `open-source` `linux` `personal-use`
 - [Trakker](https://github.com/emiprandi/trakker) - A simple menubar time tracking app that integrates with Toggl, built with Electron and React for convenient desktop time tracking. ([Read more](/details/trakker.md)) `desktop` `electron` `integration` `simple`
 - [Xpert-Timer](https://www.xperttimer.com/) - Xpert-Timer is native project time-tracking software for Windows and Android, featuring a floating time bar, to-do list, document and client management, invoicing, and extensive reporting. It supports export to Excel/CSV and offers bi-directional sync with its mobile version. ([Read more](/details/xpert-timer.md)) `windows` `android` `invoicing` `reporting` `project-management`
+
+## Equipment & Fleet Time Tracking
+
+- [busybusy Equipment Time Tracking App](https://busybusy.com/equipment-time-tracking-app/) - Time tracking software focused on equipment usage, helping contractors track machine run time, location, and utilization to allocate costs accurately and improve job costing. ([Read more](/details/busybusy-equipment-time-tracking-app.md)) `gps` `usage-monitoring` `construction`
+- [FleetWatcher](https://www.fleetwatcher.com/) - FleetWatcher is a construction telematics and equipment management platform that tracks machine usage time, engine hours, idling, and haul cycle times to improve jobsite productivity and cost control. It can complement workforce time tracking systems by providing accurate equipment-time data for projects and payroll allocation. ([Read more](/details/fleetwatcher.md)) `gps` `usage-monitoring` `analytics`
 
 ## Open Sources
 
@@ -290,7 +306,14 @@ A curated list of time tracking applications, libraries, and tools.
 - [Time tracking software](https://byoxon.com/blog/top-8-time-tracking-apps-software-in-2025/) - Time tracking software captures hours spent by managers, employees, and freelancers on projects and tasks. It is essential for accurate wage calculation, client invoicing, payroll automation, and optimizing project budgets and timelines, making it a core tool for efficient organizational time management. ([Read more](/details/time-tracking-software.md)) `overview` `reference` `project-management` `payroll` `invoicing`
 - [Timesheet Apps](https://en.wikipedia.org/wiki/Timesheet) - A category of applications designed specifically for tracking work hours, project allocation, and employee productivity. These apps offer features like automated time tracking, manual entries, reporting, integrations, and mobile accessibility, making them essential tools for effective time management and accurate payroll processing. ([Read more](/details/timesheet-apps.md)) `overview` `reference` `timesheet` `productivity`
 
-## Web-Based Time Tracking
+## Time Tracking Utilities & Calculators
+
+- [California Overtime Calculator](https://busybusy.com/calculators/payroll-calculators/california-overtime/) - A specialized overtime calculator that applies California-specific overtime rules to tracked work hours, helping employers ensure compliant time tracking and payroll calculations in California. ([Read more](/details/california-overtime-calculator.md)) `web-based` `calculation` `compliance`
+- [Free Time Clock Calculator](https://busybusy.com/calculators/payroll-calculators/time-card/) - The Free Time Clock Calculator by busybusy is a web-based time card calculator that helps users convert clock-in and clock-out times into total hours worked for payroll and reporting. It supports accurate manual time tracking and payroll preparation without requiring a full time tracking system. ([Read more](/details/free-time-clock-calculator.md)) `web-based` `calculation` `payroll`
+- [Overtime Calculator](https://busybusy.com/calculators/payroll-calculators/overtime/) - An online calculator that uses tracked work hours to compute overtime and associated pay, helping businesses correctly handle overtime based on their time tracking data. ([Read more](/details/overtime-calculator.md)) `web-based` `calculation` `payroll`
+- [Savings Calculator (Savings by Switching)](https://busybusy.com/calculators/payroll-calculators/savings-by-switching/) - A payroll-focused savings calculator that estimates potential cost and time savings from switching to more efficient time tracking and payroll processes, such as adopting busybusy instead of manual methods. ([Read more](/details/savings-calculator-savings-by-switching.md)) `web-based` `calculation` `payroll`
+
+## Web Based Time Tracking
 
 - [AND.CO](https://www.and.co/) - AND.CO is a time tracking app tailored for freelancers. It offers features such as contract creation and simplified reporting, streamlining time management and client invoicing for independent workers. ([Read more](/details/andco.md)) `freelancers` `invoicing` `reporting` `web-based`
 - [Anuko](https://www.anuko.com/) - Anuko is a popular open source time tracking software that analyzes work hours for productivity and profitability, offering plugins for charts, attachments, and record locking. ([Read more](/details/anuko.md)) `open-source` `web-based` `productivity` `reporting`
@@ -304,6 +327,7 @@ A curated list of time tracking applications, libraries, and tools.
 - [On The Clock](https://www.ontheclock.com/) - On The Clock is a time tracking application designed to help businesses and individuals monitor work hours, making it highly suitable for accurate time tracking and management. ([Read more](/details/on-the-clock.md)) `attendance` `web-based` `reporting` `small-business`
 - [tasktime](https://github.com/vogler/tasktime-2019) - tasktime is a sample web app for task and time tracking, built with Svelte, Firebase, and Bulma for UI and authentication. ([Read more](/details/tasktime.md)) `open-source` `web-based` `task-management` `firebase`
 - [Time_Tracker](https://github.com/AdrienLF/Time_Tracker) - A simple web-based time tracker built with Dash and Plotly, supporting NFC-based clock-ins via phone. ([Read more](/details/time_tracker.md)) `open-source` `web-based` `nfc` `dash`
+- [Timesheets.com](https://www.timesheets.com/) - Timesheets.com is an online employee time tracking and timesheet system for payroll, billing, and attendance. It supports hourly time tracking, project and job-costing timesheets, expense tracking, PTO and sick leave accruals, scheduling, supervisor approvals and sign-offs, notifications, and mobile access with geo-authentication and security controls, making it suitable for both payroll processing and client billing/invoicing. ([Read more](/details/timesheetscom.md)) `web-based` `timesheets` `payroll`
 
 
 ## License
