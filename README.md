@@ -16,6 +16,7 @@ A curated list of time tracking applications, libraries, and tools.
 - [Commerce](#commerce)
 - [Countdown & Interval Timers](#countdown-interval-timers)
 - [Cross-Platform Time Tracking](#cross-platform-time-tracking)
+- [Developer Time Tracking](#developer-time-tracking)
 - [Equipment & Fleet Time Tracking](#equipment-fleet-time-tracking)
 - [Open Sources](#open-sources)
 - [Others](#others)
@@ -104,6 +105,7 @@ A curated list of time tracking applications, libraries, and tools.
 - [TimeCamp](https://www.timecamp.com/) - A comprehensive time management solution that tracks work hours, monitors productivity, and generates detailed reports. ([Read more](/details/timecamp.md)) `cloud-based` `productivity` `reporting` `teams`
 - [TimeChief](https://www.timechief.com/) - TimeChief is an all-in-one time tracking and work management solution. It helps workers and businesses track work hours, manage projects, and plan shifts efficiently through a user-friendly interface. ([Read more](/details/timechief.md)) `cloud-based` `project-management` `planning` `teams`
 - [Timeneye](https://www.timeneye.com/) - A time tracking tool designed for teams using Trello and Basecamp, allowing easy integration and visual tracking of hours and projects. ([Read more](/details/timeneye.md)) `integration` `teams` `web-based` `visualization`
+- [Timenotes](https://timenotes.io/) - Timenotes is a lightweight time tracking tool focused on simplicity, timesheets, and basic reporting for teams and freelancers. With GitHub integration, it lets developers record time against issues and development tasks without leaving GitHub, making it easier to maintain accurate logs for projects and invoicing. ([Read more](/details/timenotes.md)) `timesheets` `reporting` `freelancers`
 - [TimeSolv](https://www.timesolv.com/) - TimeSolv is a cloud-based time tracking and billing software targeted at law firms and professionals. It enables accurate time entry, budget management, invoicing, and reporting, supporting both online and offline use. ([Read more](/details/timesolv.md)) `billing` `professionals` `invoicing` `cloud-based`
 - [Timestrap](https://freelancingjournal.com/time-tracking-apps-freelancers/) - Timestrap is a free, self-hosted, open-source time tracking program for freelancers. It organizes tracked time by tasks and projects, includes multi-user support, reporting, charts, and can be installed via Docker. ([Read more](/details/timestrap.md)) `open-source` `self-hosted` `multi-user` `docker`
 - [Timey](https://timeyapp.com/) - Timey is a collaborative time tracking and project management platform available on web and mobile. It enables users and teams to track hours, manage tasks, and handle invoicing, making it suitable for efficient time management and project organization. ([Read more](/details/timey.md)) `collaborative` `web-based` `mobile` `project-management`
@@ -226,6 +228,10 @@ A curated list of time tracking applications, libraries, and tools.
 - [Timeular](https://timeular.com/) - A physical device and app for effortless, smart, and secure time and leave tracking for individuals and teams. ([Read more](/details/timeular.md)) `device` `cross-platform` `leave-tracking` `teams`
 - [Toggl](https://toggl.com/track/) - Toggl is a time-tracking platform offering desktop, web, and mobile clients, with features such as idle detection, reminders, Pomodoro timer, and daily time tracking. It is widely used for productivity and efficiency, and includes open-source desktop apps and command-line tools. ([Read more](/details/toggl.md)) `cross-platform` `productivity` `reporting` `integration`
 
+## Developer Time Tracking
+
+- [DueFocus](https://duefocus.com/) - DueFocus is a time tracking and productivity tool tailored for developers and software teams, offering task-focused tracking and coding analytics. Its GitHub integration allows users to link time entries to specific issues and commits, helping teams understand where development time is spent and improve project planning. ([Read more](/details/duefocus.md)) `developers` `analytics` `teams`
+
 ## Equipment & Fleet Time Tracking
 
 - [busybusy Equipment Time Tracking App](https://busybusy.com/equipment-time-tracking-app/) - Time tracking software focused on equipment usage, helping contractors track machine run time, location, and utilization to allocate costs accurately and improve job costing. ([Read more](/details/busybusy-equipment-time-tracking-app.md)) `gps` `usage-monitoring` `construction`
@@ -305,6 +311,7 @@ A curated list of time tracking applications, libraries, and tools.
 
 ## Time Tracking Apis & Integrations
 
+- [Kimai Plugin Marketplace](https://www.kimai.org/store/) - The Kimai Plugin Marketplace is the official store for paid and free plugins that extend the Kimai time‑tracking platform. It offers integrations, custom reports, additional export and invoicing options, and other feature extensions, enabling users to tailor Kimai to specific time tracking, billing, and reporting workflows. ([Read more](/details/kimai-plugin-marketplace.md)) `plugin` `integration` `invoicing`
 - [My Hours API](https://documenter.getpostman.com/view/8879268/TVmV4YYU#intro) - The My Hours API allows developers to programmatically access and manage time tracking data from My Hours, including projects, tasks, clients, and time entries. It supports integration of My Hours time tracking capabilities into custom applications, internal tools, and automated workflows. ([Read more](/details/my-hours-api.md)) `api` `integration` `developers`
 
 ## Time Tracking Cli Tools
