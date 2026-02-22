@@ -249,6 +249,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Developer Time Tracking
 
+- [Mantra](https://mantra.gonewx.com) - AI coding session management. Save, restore, and time-travel through your Claude Code, Cursor, and Windsurf sessions.
 - [DueFocus](https://duefocus.com/) - DueFocus is a time tracking and productivity tool tailored for developers and software teams, offering task-focused tracking and coding analytics. Its GitHub integration allows users to link time entries to specific issues and commits, helping teams understand where development time is spent and improve project planning. ([Read more](/details/duefocus.md)) `developers` `analytics` `teams`
 
 ## Equipment & Fleet Time Tracking
