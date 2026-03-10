@@ -1,64 +1,103 @@
 ## Overview
 
-Sling is a scheduling, time tracking and communication software for restaurants that allows managers and employees to organize all their work on a single platform. Sling is a free, user-friendly tool for scheduling, communication, and time tracking, ideal for smaller teams.
+Sling is a free and easy-to-use employee shift scheduling and planning software that helps your business manage shifts and communicate with employees. Trusted by businesses across various industries including restaurants, hotels, retail stores, call centers, and help desks.
 
-## Key Features
+## Features
 
-### Time Tracking
+### Employee Scheduling
+- Build employee schedules in minutes
+- Manage time off requests
+- Handle availability preferences
+- Process shift trade requests
+- Avoid exceeding budgets and scheduling overtime
+- Reduce absenteeism and late arrivals
+- Get notified of overlapping shifts
+- Handle unexpected changes without stress
 
-- Easily track employee hours and costs
-- Export timesheets for seamless payroll processing
-- Enable geofencing and time clock alerts
+### Time Clock Functionality
+- Accessible via mobile, web, or kiosk
+- Any device becomes a time tracking terminal (laptop, desktop, tablet, smartphone)
+- GPS geofencing support
+- Rounding rules configuration
 - Prevent early clock in
-- Track time, manage billable hours, and create invoices
+- Automatic clock out employees
+- Better time clock accuracy
+- Integrates with timesheets for payroll
 
-### Scheduling
+### Labor Cost Management
+- Calculate labor costs in real time as you schedule
+- See what each shift will cost as you add employees
+- Get notified if a shift exceeds your labor budget
+- Track employee hours and labor costs
+- Export timesheets for seamless payroll processing
+- Input employee pay rates for automatic calculations
 
-- Simple drag-and-drop schedule builder
-- Shift templates for recurring schedules
-- Availability and time-off management
-- Shift swapping capabilities
-- Auto-scheduling suggestions
+### Communication Tools
+- Streamline internal communication
+- Send messages in group or private conversations
+- Keep everyone informed
+- Give employees a voice
+- Build better company culture
+- Create collaborative environment
+- Works for remote or distributed teams
 
-### Communication
+### Employee Self-Service
+- View schedules on any device
+- Request time off
+- Trade shifts with coworkers
+- Communicate with team
+- Access work information 24/7
 
-- Team messaging and announcements
-- Individual and group chats
-- Push notifications for schedule changes
-- News feed for company updates
+## Platform Support
 
-### Employee Management
+- Web application
+- Mobile apps (iOS and Android)
+- Tablet apps
+- Desktop applications
+- Kiosk mode for time clock terminal
 
-- Sling's employee management tools have a rating of 87, on par with scheduling stalwarts like Deputy
-- User-friendly interface praised by small and medium-sized businesses
+## Benefits
 
-## Analyst Ratings
+- **Free to Use**: Core features available at no cost
+- **Easy Setup**: Get started quickly without complex configuration
+- **Labor Cost Control**: Real-time budget tracking prevents overspending
+- **Compliance**: Accurate time tracking supports compliance
+- **Better Communication**: Built-in messaging keeps team connected
+- **Flexible**: Works across multiple industries and business types
 
-Sling has an analyst rating of 84-85, demonstrating its position as a strong contender in the employee scheduling software market, particularly for small and medium-sized businesses that value user-friendliness and a generous free plan.
+## Ideal For
 
-## Strengths
+- Restaurants and food service
+- Hotels and hospitality
+- Retail stores
+- Call centers
+- Help desks
+- Healthcare facilities
+- Any shift-based business
+- Small to medium-sized businesses
 
-- Most users consider Sling to deliver strong value for money, especially praising the free version for small teams
-- User-friendly interface suitable for non-technical users
-- Comprehensive free plan for small teams
-- Good balance of features for the price
+## Industry-Specific Solutions
 
-## Limitations
+- **Retail**: Scheduling and time clock for retail stores
+- **Hospitality**: Solutions for hotels and restaurants
+- **Call Centers**: Specialized features for call center scheduling
+- **Help Desk**: Tools for help desk shift management
 
-- Lacks advanced features like built-in AI
-- No hiring and onboarding tools
-- No employee engagement trackers
-- Doesn't let you automate scheduling
-- No sales forecast analysis to optimize workforce allocation
+## Key Features Highlight
+
+- **GPS Geofencing**: Verify employee location at clock-in
+- **Real-Time Labor Costs**: See costs as you schedule
+- **Budget Alerts**: Get notified when shifts exceed budget
+- **Shift Trading**: Employees can trade shifts with manager approval
+- **Automatic Export**: Seamless payroll processing
+
+## What Makes Sling Unique
+
+Sling combines scheduling, time tracking, and communication in one free platform. The real-time labor cost calculation as you schedule is particularly valuable for budget-conscious businesses, and the built-in communication tools eliminate the need for separate messaging apps.
 
 ## Pricing
 
-Sling costs $1.70 to $3.40 per user. The platform offers a free plan for smaller teams with basic features, making it accessible for businesses just starting with digital scheduling and time tracking.
-
-## Best Use Cases
-
-- Small to medium-sized restaurants
-- Retail businesses with hourly employees
-- Shift-based businesses needing simple scheduling
-- Teams looking for a free or low-cost solution
-- Businesses transitioning from paper schedules
+- Free plan available with core features
+- Paid plans for advanced features
+- No credit card required to start
+- Scalable pricing as business grows

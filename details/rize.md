@@ -1,39 +1,64 @@
 ## Overview
 
-Rize is an AI-powered, automatic time tracking app meticulously designed to improve focus and help build better work habits. The application analyzes shifts in productivity, focus time, and work hours to highlight patterns that would be difficult to catch manually.
+Rize is an AI productivity coach that uses time tracking to improve your focus and build better work habits. Rize automatically tracks and categorizes your work activity in real-time without requiring manual timer start/stop actions.
 
 ## Features
 
 ### Automatic Time Tracking
 - Tracks activity on the computer in the background as you work across apps, tasks, and calls
 - No start/stop buttons required
-- Time is automatically annotated and categorized by client, project, and task
-- Works on macOS and Windows
+- Automatically categorizes work by client, project, and task
+- Eliminates manual time entry
+
+### AI-Powered Insights
+- Analyzes shifts in productivity, focus time, and work hours
+- Highlights patterns you'd never catch manually
+- Provides daily productivity scores
+- In-depth, personalized metrics to quantify and track focus
+- AI summaries of your work patterns
 
 ### Focus & Productivity Tools
-- Automatic focus detection
-- Intelligent distraction blocking
-- Focus music integration to stay immersed in work longer
-- Personalized Focus Quality Score
-- Insights about when you're most productive
-- Pattern identification in concentration
+- AI-powered break suggestions to recharge focus
+- Distraction blocker
+- Focus music library
+- Analysis of focus time quality
+- Context switching tracking
+- Identifies most distracting apps and websites
 
-### Break Management
-- Alerts you at the ideal time to take a break
-- Screen-blocking features to ensure breaks are truly effective
-- Research-backed break timing to improve productivity
+### Client & Project Management
+- Track billable hours by client and project
+- Eliminate underbilling
+- Maximize profitability
+- Detailed time reports for invoicing
 
-### Reporting
-- Daily report of time breakdown and productivity metrics via email
-- Weekly and monthly reports about efficiency and time usage
-- Comprehensive analytics dashboard
+## Platform Support
 
-## Who It's For
-
-Designed for business owners, freelancers, managers, and anyone who values their time and wants to optimize their efficiency.
+- macOS (Mojave 10.14.6 or later)
+- Windows (Windows 10 or later)
+- Cloud-based data sync
 
 ## Pricing
 
-- **Free Plan**: Basic features available
-- **Standard Plan**: $9.99/month (annual billing) or $16.99/month (monthly billing)
-- All plans include AI-powered insights and automatic tracking
+- For individuals: Starting at $9.99/month billed annually
+- 7-day free trial available
+- Different plans for teams and agencies
+
+## Benefits
+
+- **Effortless Tracking**: Accurate, low-friction automatic time capture
+- **AI Intelligence**: Smart categorization and insights
+- **Improved Focus**: Break nudges and focus timers with music
+- **Clean UI**: Intuitive interface with useful analytics
+- **Better Billing**: Track billable hours without manual effort
+
+## Ideal For
+
+- Freelancers tracking multiple clients
+- Agencies managing billable hours
+- Individuals seeking to improve focus and productivity
+- Anyone who wants automatic time tracking without manual timers
+- Professionals needing detailed productivity insights
+
+## User Reception
+
+Users praise Rize for its accurate tracking, clean user interface, and useful focus analytics. The AI-powered categorization and break suggestions are particularly valued features.
