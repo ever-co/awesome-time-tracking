@@ -1,25 +1,31 @@
 ## Overview
 
-Smartsheet is a cloud-based work execution platform that combines project management, collaboration, and automation features with integrated time tracking capabilities. Recognized as one of the best for mobile time tracking in 2026.
+Smartsheet is a versatile work management platform that combines spreadsheet-like functionality with powerful collaboration, automation, and time tracking features for teams and enterprises.
 
-## Features
+## Time Tracking Features
 
-- **Mobile Time Tracking**: Industry-leading mobile app for tracking time on the go
-- **Spreadsheet Interface**: Familiar grid-based interface for easy adoption
-- **Project Management**: Gantt charts, card view, calendar view, and dashboards
-- **Resource Management**: Track resource allocation and capacity across projects
-- **Automation**: Automated workflows and alerts to streamline processes
-- **Real-Time Collaboration**: Multiple users can work simultaneously with live updates
-- **Reporting & Analytics**: Customizable reports and dashboards for insights
-- **Integrations**: Connect with tools like Microsoft 365, Google Workspace, Slack, and Salesforce
-- **Portfolio Management**: Track multiple projects and programs across the organization
-- **Proofing & Approval**: Built-in review and approval workflows for creative assets
+- **Integrated Time Sheets**: Track time directly within project sheets
+- **Mobile Time Tracking**: Capture hours on-the-go with mobile apps
+- **Resource Management**: Allocate and track resource time across projects
+- **Automated Reminders**: Set up notifications for timesheet submissions
+- **Custom Forms**: Create time entry forms tailored to your workflow
+- **Real-Time Reporting**: Generate instant reports on time allocation and utilization
+- **Approval Workflows**: Automated approval processes for submitted time
+- **Budget Tracking**: Compare actual time against estimated budgets
+- **Integration**: Connect with thousands of apps via API and pre-built connectors
+
+## Additional Capabilities
+
+- Project and portfolio management
+- Gantt charts and calendar views
+- Automated workflows and alerts
+- Dashboard and reporting
+- File attachments and proofing
 
 ## Pricing
 
-- **Free**: For individuals, limited features
-- **Pro**: $9 per user per month (annual billing)
-- **Business**: $32 per user per month (annual billing)
-- **Enterprise**: Custom pricing with advanced security and controls
-
-All paid plans include unlimited sheets and users, with increasing feature sets and administrative capabilities.
+Smartsheet offers several pricing tiers:
+- Free plan for individual users (limited features)
+- Pro: $9/user/month (annual billing)
+- Business: $32/user/month (annual billing)
+- Enterprise: Custom pricing with advanced features and support

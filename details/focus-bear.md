@@ -1,44 +1,76 @@
 ## Overview
 
-Focus Bear is a powerful habit-building productivity and focus app designed to help people stay attentive and boost their productivity by blocking distracting apps and websites. It provides tools for creating daily habits, tracking goals, and managing focus sessions with customizable intervals.
+Focus Bear is a comprehensive productivity tool created for people with ADHD, combining distraction blocking, habit formation, and focus session management in one integrated platform. The app guides users through morning and evening routines while maintaining focus during work hours.
 
 ## Features
 
-- **Distraction Blocking**: Block specific apps and websites during focus sessions
-- **URL & Keyword Filtering**: Flexibility to block specific URLs or keywords
-- **Habit Tracking**: Create and track daily habits with visual progress
-- **Goal Setting**: Set and track goals with visual progress indicators
-- **Focus Sessions**: Customizable intervals for focus sessions and breaks
-- **Break Reminders**: Rejuvenating break prompts to prevent burnout
-- **Multi-Platform Support**: Available for Mac, Windows, Android, and iOS devices
-- **Morning Routine**: Guided morning routines to start your day productively
-- **Evening Wind-Down**: End-of-day routines for better work-life balance
-- **Focus Music**: Integrated focus-enhancing audio options
-- **ADHD-Friendly**: Specifically designed features for users with ADHD
-- **Screen Time Insights**: Track where you spend time across devices
+### Morning & Evening Routines
+- **Guided Routines**: Step-by-step guidance through customized morning and evening habits
+- **Habit Prompts**: Visual and audio reminders to complete each habit
+- **Routine Templates**: Pre-built routines based on research and best practices
+- **Progress Tracking**: Monitor completion of daily routines
+- **Flexibility**: Skip or modify routines based on daily needs
 
-## Best For
+### Focus Mode
+- **Distraction Blocking**: Block distracting websites and apps during focus sessions
+- **Customizable Blocklists**: Choose which sites to block during work time
+- **Break Reminders**: Automatic prompts for breaks at appropriate intervals
+- **Focus Timer**: Built-in timer for work sessions
+- **Gradual Breaks**: Gentle transitions between work and rest periods
 
-- People with ADHD or focus challenges
-- Remote workers who struggle with home distractions
-- Anyone building better productivity habits
-- Students preparing for exams or working on projects
-- Professionals looking to eliminate digital distractions
+### Habit Building
+- **Habit Stacking**: Link habits together for powerful routines
+- **Consistency Tracking**: Visual progress indicators and streaks
+- **Habit Templates**: Pre-designed habit sequences for common goals
+- **Custom Habits**: Create personalized habits for your specific needs
 
-## Cross-Platform
+### Time Awareness
+- **Session Tracking**: Record time spent in focus mode
+- **Productivity Reports**: View daily and weekly focus statistics
+- **Goal Setting**: Set focus time goals and track progress
 
-One of the few productivity apps that works seamlessly across:
-- macOS
-- Windows
-- Android
-- iOS
+## ADHD-Specific Features
 
-Settings and habits sync across all devices for consistent productivity.
+- **External Structure**: Provides the external scaffolding that ADHD brains need
+- **Dopamine-Friendly**: Designed around ADHD reward systems
+- **Low Friction**: Minimal setup and configuration required
+- **Visual Cues**: Strong visual prompts for task transitions
+- **Gentle Enforcement**: Helps maintain focus without being punitive
+
+## Platforms
+
+- macOS desktop app
+- Windows desktop app
+- iOS mobile app
+- Android mobile app
+- Cross-device synchronization
+
+## Use Cases
+
+- Individuals with ADHD seeking structure
+- Remote workers needing focus assistance
+- Anyone struggling with consistent routines
+- People trying to build better morning/evening habits
+- Teams wanting to reduce context switching
 
 ## Pricing
 
-Pricing information available on the Focus Bear website. Typically offers monthly and annual subscription options.
+Focus Bear offers:
+- Free trial period
+- Monthly subscription: Approximately $4.99/month
+- Annual subscription: Discounted annual rate
+- Lifetime license: One-time purchase option
 
-## Recognition
+## Integration
 
-Recognized among top productivity apps for 2026 for its comprehensive approach to focus management and habit building.
+- Calendar integration for automatic scheduling
+- Syncs across all devices
+- Exports focus session data
+- Works with habit tracking systems
+
+## Community & Support
+
+- Active user community
+- ADHD coaching resources
+- Regular feature updates based on user feedback
+- Responsive customer support

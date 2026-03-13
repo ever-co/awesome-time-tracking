@@ -1,24 +1,32 @@
 ## Overview
 
-Deltek Replicon Time is an AI-powered time tracking and workforce management platform designed for organizations that need advanced control over project hours and global labor compliance. It's recognized as the best for intelligent time tracking in 2026 and trusted by professional services firms, consultancies, and global teams managing complex billing or labor regulations.
+Deltek Replicon is recognized as a leader in intelligent time tracking, combining AI automation with comprehensive workforce management capabilities. The platform was recognized in G2's 2026 Best Software Awards for Best ERP Software Products.
 
 ## Features
 
-- **AI-Powered Timesheets**: Automatically track billable and payable hours, avoid errors, and speed up billing, costing, and payroll
-- **Global Compliance**: Support for labor laws in 145+ jurisdictions across 75+ countries
-- **Project Time Tracking**: Comprehensive tracking for project-based work with granular reporting
-- **Expense Management**: Track time and expenses together for complete project costing
-- **Multi-Currency Support**: Handle billing and payroll across different currencies
-- **Automated Workflows**: Streamline approvals and notifications
-- **Advanced Reporting**: Detailed analytics on utilization, profitability, and compliance
-- **Integrations**: Connect with SAP, Oracle, ADP, QuickBooks, Xero, Sage, Microsoft Dynamics 365, Salesforce, Tableau, and Power BI
-- **Mobile Apps**: Full-featured iOS and Android apps for time tracking on the go
-- **Resource Scheduling**: Allocate resources and forecast capacity needs
+- **ZeroTime AI**: Automatically tracks time from 100+ work apps including email, calendar, CRM, and project management tools
+- **AI-Powered Suggestions**: Machine learning algorithms suggest time entries based on work patterns
+- **Multi-Device Support**: Track time from desktop, mobile, browser, or offline
+- **Project Time Tracking**: Comprehensive project and task-level time tracking
+- **Compliance Management**: Built-in labor law compliance for global workforce
+- **Approval Workflows**: Configurable multi-level approval processes
+- **Client Billing**: Convert tracked time to accurate client invoices
+- **Resource Management**: Allocate and schedule resources across projects
+- **GPS and Geofencing**: Location tracking for field teams
+- **Expense Management**: Track and submit expenses alongside time
+- **Integration**: Pre-built integrations with major ERP, PSA, and accounting systems
+- **Advanced Analytics**: Real-time dashboards and customizable reports
+- **Global Operations**: Support for multiple languages, currencies, and time zones
 
-## Recognition
+## Use Cases
 
-Deltek was recognized in G2's 2026 Best Software Awards for Best ERP Software Products and received 67 badges from G2 for Winter 2026 in recognition of project-based industry leadership.
+- Professional services firms
+- Consulting organizations
+- Engineering and architecture firms
+- Government contractors
+- Healthcare organizations
+- Field service companies
 
 ## Pricing
 
-Starts at $6 per user per month, with pricing varying based on features and deployment options (cloud or on-premise).
+Deltek Replicon offers customized enterprise pricing based on organization size and requirements. Contact Deltek for a personalized quote and demo.
