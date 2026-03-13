@@ -517,17 +517,15 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Developer Time Tracking
 
-- [DueFocus](https://duefocus.com/) - DueFocus is a time tracking and productivity tool tailored for developers and software teams, offering task-focused tracking and coding analytics. Its GitHub integration allows users to link time entries to specific issues and commits, helping teams understand where development time is spent and improve project planning. ([Read more](/details/duefocus.md)) `Developers` `Analytics` `Teams`
-
-## Equipment & Fleet Time Tracking
-
-- [busybusy Equipment Time Tracking App](https://busybusy.com/equipment-time-tracking-app/) - Time tracking software focused on equipment usage, helping contractors track machine run time, location, and utilization to allocate costs accurately and improve job costing. ([Read more](/details/busybusy-equipment-time-tracking-app.md)) `Gps` `usage-monitoring` `Construction`
-- [FleetWatcher](https://www.fleetwatcher.com/) - FleetWatcher is a construction telematics and equipment management platform that tracks machine usage time, engine hours, idling, and haul cycle times to improve jobsite productivity and cost control. It can complement workforce time tracking systems by providing accurate equipment-time data for projects and payroll allocation. ([Read more](/details/fleetwatcher.md)) `Gps` `usage-monitoring` `Analytics`
+- [Mantra](https://mantra.gonewx.com) - AI coding session management. Save, restore, and time-travel through your Claude Code, Cursor, and Windsurf sessions.
+- [DueFocus](https://duefocus.com/) - DueFocus is a time tracking and productivity tool tailored for developers and software teams, offering task-focused tracking and coding analytics. Its GitHub integration allows users to link time entries to specific issues and commits, helping teams understand where development time is spent and improve project planning. ([Read more](/details/duefocus.md)) `developers` `analytics` `teams`
 
 ## Equipment & Fleet Time Tracking
 
 - [EARLY Tracker](https://early.app/tracker/) - An eight-sided physical time tracking cube (formerly known as Timeular Tracker) that makes time tracking interactive. Track time with a simple flip of the cube - assign a task to each side and turn the cube to start tracking instantly. ([Read more](/details/early-tracker.md)) `Hardware` `Physical Device` `Bluetooth`
 - [TimeFlip](https://timeflip.io/) - A 12-sided physical time tracking device cube that allows you to track time with a simple flip. Each side can be assigned to a different task, and flipping the dice automatically starts tracking time for that task via Bluetooth connection. ([Read more](/details/timeflip.md)) `Hardware` `Physical Device` `Bluetooth`
+- [busybusy Equipment Time Tracking App](https://busybusy.com/equipment-time-tracking-app/) - Time tracking software focused on equipment usage, helping contractors track machine run time, location, and utilization to allocate costs accurately and improve job costing. ([Read more](/details/busybusy-equipment-time-tracking-app.md)) `Gps` `usage-monitoring` `Construction`
+- [FleetWatcher](https://www.fleetwatcher.com/) - FleetWatcher is a construction telematics and equipment management platform that tracks machine usage time, engine hours, idling, and haul cycle times to improve jobsite productivity and cost control. It can complement workforce time tracking systems by providing accurate equipment-time data for projects and payroll allocation. ([Read more](/details/fleetwatcher.md)) `Gps` `usage-monitoring` `Analytics`
 
 ## Field Team Management
 
