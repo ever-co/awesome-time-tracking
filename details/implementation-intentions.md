@@ -1,146 +1,94 @@
 ## Overview
 
-Implementation intentions are self-regulatory tools introduced by psychologist Peter Gollwitzer in 1999. They transform goal intentions ("I want to achieve X") into if-then plans ("If situation Y occurs, then I will initiate behavior Z") to enhance goal attainment rates.
+Implementation Intentions are specific plans that spell out when, where, and how you will act on a goal using an if-then format: "If situation X arises, then I will perform response Y."
 
-## The Formula
+## The Science
 
-**"If [SITUATION], then I will [BEHAVIOR]"**
+Research shows implementation intentions:
+- Increase goal achievement by 2-3x
+- Automate desired behaviors
+- Reduce decision fatigue
+- Overcome procrastination
+- Bridge intention-action gap
 
-Examples:
-- "If it is 9 AM on Monday, then I will review my time log from last week"
-- "If I finish a work task, then I will immediately log the time spent"
-- "If I sit down at my desk, then I will start a 25-minute focus timer"
-- "If I receive a meeting invitation, then I will block 15 minutes before it for preparation"
+## Format
 
-## Research Evidence
+**Standard Goal**: "I will work on my report."
 
-### Effectiveness
-- **3x completion rate**: Difficult goal intentions were completed about 3 times more often when paired with implementation intentions
-- **Strong associative links**: Create automatic responses to specified situations
-- **Reduces decision fatigue**: Pre-decides actions, eliminating in-the-moment willpower requirements
-- **Works across domains**: Proven effective for time management, health behaviors, academic performance, and more
+**Implementation Intention**: "If it's 9am on Tuesday, then I will work on my report at my desk for 2 hours."
 
-### How They Work
+### Components
+- **Trigger (If)**: Specific situation/time
+- **Action (Then)**: Concrete behavior
+- **Context**: Where/how specified
 
-Implementation intentions enhance goal attainment by:
-1. **Heightening awareness**: Increase attention to specified situational cues
-2. **Automating initiation**: Trigger goal-directed behavior automatically when the cue is encountered
-3. **Reducing deliberation**: Eliminate the need to consciously decide to act
-4. **Overcoming obstacles**: Pre-commit to dealing with anticipated challenges
+## Examples
 
-## Components of Effective Implementation Intentions
+### Time Management
+- "If it's 8:30am, then I will start my most important task."
+- "If someone requests a meeting during my focus block, then I will suggest alternative times."
+- "If I finish a task early, then I will start the next planned item."
 
-### 1. Specific Situational Cue (IF)
-- **When**: Specify exact time ("At 5 PM")
-- **Where**: Define precise location ("When I enter my home office")
-- **Event**: Identify trigger event ("After I complete a Pomodoro")
-- **Condition**: Note specific circumstance ("If I feel unfocused")
+### Overcoming Obstacles
+- "If I feel like checking email, then I will wait until my designated email time at 11am."
+- "If an urgent request comes in, then I will ask if it can wait until after my focus session."
+- "If I'm tempted to multitask, then I will close all other tabs and focus on one thing."
 
-### 2. Clear Goal-Directed Behavior (THEN)
-- Use action verbs (start, complete, review, log)
-- Be specific about what action to take
-- Make the behavior immediately doable
-- Define completion clearly
+### Building Habits
+- "If it's Friday at 4pm, then I will review my week and plan next week."
+- "If I complete a pomodoro, then I will take a 5-minute break."
+- "If I log off for the day, then I will note my stopping point for tomorrow."
 
-## Applications for Time Management
+## Creating Effective IIs
 
-### Starting Work
-- "If I arrive at my desk, then I will immediately start my first time-tracked task"
-- "If my morning alarm goes off, then I will get up and review my daily plan"
+### Be Specific
+- ❌ "When I have time, I'll exercise"
+- ✅ "If it's 7am on Monday/Wednesday/Friday, then I'll do a 30-minute workout"
 
-### Time Tracking
-- "If I complete a task, then I will log the time before starting anything else"
-- "If it's the end of my workday, then I will finalize my timesheet"
-- "If I switch projects, then I will stop my current timer and start a new one"
+### Link to Cues
+- Time-based: "At 2pm..."
+- Event-based: "After lunch..."
+- Situation-based: "When email notification appears..."
 
-### Focus Protection
-- "If someone interrupts me during deep work, then I will politely ask to schedule a time to talk later"
-- "If I feel the urge to check social media, then I will take a 2-minute stretch break instead"
+### Make It Actionable
+- Clear, concrete action
+- Within your control
+- Measurable completion
+- Realistically achievable
 
-### Break Management
-- "If I complete a 25-minute Pomodoro, then I will take a 5-minute break"
-- "If I've been working for 90 minutes, then I will take a 15-minute walk"
+## Integration with Time Tracking
 
-### Planning & Review
-- "If it's Friday at 4 PM, then I will review my weekly time allocation"
-- "If I start my workday, then I will spend 10 minutes planning my tasks"
-- "If it's the last day of the month, then I will analyze my time tracking data"
+### Track Adherence
+- Log when IIs are followed
+- Measure completion rate
+- Identify effective triggers
+- Refine based on data
 
-## Creating Effective Implementation Intentions
+### Create Time-Based IIs
+- "If my time log shows <20 hours on Project X, then I will block 4 hours next week."
+- "If I've had 3 low-productivity days, then I will adjust my schedule."
 
-### Step 1: Identify Your Goal
-What do you want to achieve?
-- Example: "I want to track my time more consistently"
+## Benefits
 
-### Step 2: Identify Obstacles
-What prevents you from achieving this goal?
-- Example: "I forget to start timers", "I get distracted"
+- Reduces need for willpower
+- Automates good behaviors
+- Overcomes decision paralysis
+- Increases consistency
+- Bridges planning-action gap
+- Handles obstacles proactively
 
-### Step 3: Create If-Then Plans
-For each obstacle, create a specific implementation intention:
-- "If I sit down to work, then I will start my time tracker"
-- "If I notice I'm distracted, then I will pause and restart my timer"
+## Common Mistakes
 
-### Step 4: Make It Concrete
-Ensure both the IF and THEN are specific and actionable:
-- ✅ "If I finish lunch, then I will review my afternoon schedule"
-- ❌ "I should plan my afternoon sometime after lunch"
-
-### Step 5: Practice & Reinforce
-Mentally rehearse the if-then link several times to strengthen the association
+1. Too vague: "If I can, then I will..."
+2. Unrealistic: "If it's Monday, then I'll complete my entire project."
+3. No trigger: "Then I will work out" (missing the if)
+4. Multiple actions: Trying to change too much at once
 
 ## Best Practices
 
-- **Be specific**: Vague cues and behaviors reduce effectiveness
-- **Start small**: Begin with 2-3 implementation intentions, not 20
-- **Link to existing habits**: Use established routines as the IF
-- **Make it realistic**: Choose behaviors you can actually execute
-- **Write them down**: Physical documentation strengthens commitment
-- **Review regularly**: Revisit and adjust implementation intentions weekly
-- **Track success**: Monitor whether you're following through
-
-## Common Mistakes to Avoid
-
-1. **Too many at once**: Starting with too many implementation intentions creates overwhelm
-2. **Vague cues**: "Sometime in the morning" vs. "At 9:00 AM"
-3. **Complex behaviors**: The THEN should be simple and immediately doable
-4. **Unrealistic triggers**: Choosing cues that rarely occur
-5. **No measurement**: Not tracking whether you're following through
-
-## Integration with Other Methods
-
-### Time Blocking
-- "If it's [blocked time], then I will work on [specific task]"
-
-### Pomodoro Technique
-- "If I complete a Pomodoro, then I will take a 5-minute break"
-
-### Getting Things Done (GTD)
-- "If I capture an item in my inbox, then I will process it within 48 hours"
-
-### Habit Stacking
-- Implementation intentions are the foundation of habit stacking
-- Habit stacking is essentially chaining multiple implementation intentions
-
-## Time Tracking Specific Examples
-
-### Daily Tracking
-- "If I boot up my computer, then I will open my time tracking app"
-- "If I receive a work email, then I will log time before responding"
-- "If I attend a meeting, then I will start a timer for it"
-
-### Weekly Review
-- "If it's Friday afternoon, then I will export my weekly time report"
-- "If I see incomplete time entries, then I will fill them in immediately"
-
-### Project Management
-- "If I start working on a new project, then I will create a time category for it"
-- "If a project is completed, then I will analyze total time spent"
-
-## Measurement & Iteration
-
-- Track implementation rate (how often you follow through)
-- Note which if-then plans work best for you
-- Adjust or replace ineffective implementation intentions
-- Celebrate successes to reinforce the behavior
-- Review and update monthly as routines change
+1. Start with 2-3 IIs maximum
+2. Focus on biggest challenges
+3. Write them down
+4. Review weekly
+5. Adjust based on experience
+6. Celebrate successes

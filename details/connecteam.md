@@ -1,62 +1,56 @@
-# Connecteam
+## Overview
 
-[Connecteam](https://connecteam.com/) is a cloud-based team management and time tracking platform designed to help businesses of all sizes manage daily operations, scheduling, communication, and HR processes. It is suitable for deskless teams in industries like construction, retail, manufacturing, cleaning services, and more.
+Connecteam is an all-in-one employee management platform designed specifically to support remote and deskless teams with precise time tracking, scheduling, and real-time communication.
 
-## Features
+## Core Features
 
-### Time Tracking & Scheduling
-- **Time Clock:** Automated and accurate work hour tracking with digital timesheets.
-- **Geo-fencing:** Location-based attendance verification.
-- **Scheduling:** Create, distribute, and manage staff schedules.
-- **One-click Payroll:** Export timesheets to payroll systems.
-- **Overtime and Time-off Tracking:** Monitor work hours, overtime, and manage absence policies.
+### Time Tracking
+- GPS-enabled time clock
+- Geofencing for location verification
+- Real-time monitoring
+- Break and overtime tracking
+- Attendance management
 
-### Daily Operations
-- **Task Management:** Assign and track tasks in real time.
-- **Mobile Checklists & Forms:** Customizable forms and checklists with live field reporting.
-- **Conditional Forms:** Dynamic forms based on responses.
+### Scheduling
+- Shift scheduling
+- Drag-and-drop calendar
+- Availability management
+- Shift swapping
+- Schedule templates
 
-### Communication Tools
-- **Company Updates:** Central newsfeed with engagement tracking.
-- **Chat:** Secure internal messaging.
-- **Directory/Phonebook:** Access to team contact information.
-- **Surveys & Polls:** Collect feedback in real time.
-- **Events Manager:** Announce and manage company events.
-- **Knowledge Base:** Centralized company information repository.
+### Communication
+- In-app messaging
+- Team updates
+- Announcements
+- Document sharing
+- Real-time notifications
 
-### HR & Employee Management
-- **Training & Onboarding:** Mobile courses, interactive training, and onboarding workflows.
-- **Quizzes:** Evaluate employee knowledge.
-- **Recognition & Rewards:** Employee acknowledgment and motivation tools.
-- **Employee Documents:** Store and manage files and certificates.
-- **Timeline & Milestones:** Track employee lifecycle events.
-- **Employee ID Card Management:** Digital ID cards.
-- **Org Chart:** Visualize company hierarchy.
+### Task Management
+- Task assignment
+- Progress tracking
+- Checklists
+- Job forms
+- Photo documentation
 
-### Integrations
-- Integrates with payroll and business tools like Gusto, Quickbooks, Xero, Paychex, ADP, Zapier, Wix Bookings, and Lightspeed.
+## Target Users
 
-## Use Cases
-- Time management
-- Operations management
-- Employee onboarding
-- Health & safety compliance
-- Employee engagement
-- Company intranet
+- Field service teams
+- Construction crews
+- Retail workers
+- Healthcare staff
+- Hospitality teams
+- Remote workforces
 
-## Industries Served
-- Construction
-- Cleaning services
-- Field services
-- Food & beverage
-- Homecare
-- Manufacturing
-- Retail
-- And more
+## Platform
+
+- iOS and Android apps
+- Web dashboard for managers
+- Time clock kiosk mode
+- Offline capabilities
 
 ## Pricing
-- **Free Plan:** Available for up to 10 users with full feature access and no hidden costs.
-- **Other Plans:** Not specified in the provided content.
 
-## Tags
-cloud-based, team, attendance, payroll
+Free plan available:
+- Includes time clock kiosk
+- Up to 10 users
+- Paid plans from $29/month for first 30 users
