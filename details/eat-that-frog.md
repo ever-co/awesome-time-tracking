@@ -1,91 +1,67 @@
 ## Overview
 
-"Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time" is a bestselling time management book by Brian Tracy. The book has sold more than 450,000 copies and been translated into 23 languages.
+Eat That Frog is a productivity philosophy and method based on a quote attributed to Mark Twain: "If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."
 
-## The Core Concept
+## The Concept
 
-Your "frog" is your biggest, most important task - the one you are most likely to procrastinate on if you don't do something about it. The concept is based on a Mark Twain quote:
+Your "frog" is your most important, often most dreaded task - the one you're most likely to procrastinate on. Eating the frog means doing this task first thing in the morning before anything else.
 
-> "If the first thing you do each morning is to eat a live frog, you can go through the day with the satisfaction of knowing that it is probably the worst thing that is going to happen to you all day long."
+## Why It Works
 
-## The Main Principle
+**Peak Mental Energy**
+Mornings typically offer your highest mental energy and fewest distractions.
 
-"Eat that frog" means that if you have two important tasks before you, start with the biggest, hardest, and most important task first. The key to reaching high levels of performance and productivity is to develop the lifelong habit of tackling your major task first thing each morning.
+**Eliminates Procrastination**
+Doing the hardest thing first removes all day anxiety about avoiding it.
 
-## Implementation
+**Creates Momentum**  
+Completing something difficult early builds confidence for the rest of the day.
 
-1. **Identify your frog**: Determine which task is your most important
-2. **Do it first**: Tackle it before anything else
-3. **Don't overthink**: Eat your frog before you do anything else and without taking too much time to think about it
-4. **Build the habit**: Make this your daily routine
+**Ensures Important Work Gets Done**
+Even if the rest of your day derails, the most important thing is finished.
 
-## The Three Keys
+**Reduces Stress**
+Not having the dreaded task looming improves mood all day.
 
-The core of what is vital to effective time management is:
-- **Decision**: Decide what your frog is
-- **Discipline**: Commit to eating it first
-- **Determination**: Persist until the habit is formed
+## How to Implement
 
-## The 21 Principles
+**Step 1: Identify Your Frog**
+The night before or first thing in morning, ask:
+- What task would make the biggest difference if completed?
+- What am I most tempted to avoid?
+- What has the most serious consequences if not done?
 
-The book provides 21 practical principles for overcoming procrastination and getting more done, including:
-- Set the table (clarify goals)
-- Plan every day in advance
-- Apply the 80/20 rule
-- Consider the consequences
-- Use the ABCDE method
-- Focus on key result areas
-- Apply the law of three
-- Prepare thoroughly before beginning
-- Do your homework
-- Upgrade key skills continuously
+**Step 2: Prepare**
+- Clear everything else from your workspace
+- Gather all materials needed for the frog
+- Set phone to do not disturb
+- Tell others you're unavailable
+
+**Step 3: Eat the Frog**
+- Work on ONLY the frog task
+- No email, no Slack, no other tasks
+- Continue until task is complete or significant progress made
+- Typically 1-2 hours of focused work
+
+**Step 4: Build the Habit**
+- Make this your daily routine
+- Protect your frog time fiercely  
+- Track completion to build streak
 
 ## Benefits
 
-### Productivity Gains
-- Accomplish most important work when energy is highest
-- Build momentum from early wins
-- Reduce procrastination significantly
-- Increase sense of accomplishment
+- **Guaranteed Progress** - Most important work always gets done
+- **Reduced Anxiety** - No all-day dread about avoided task
+- **Improved Confidence** - Daily wins build self-efficacy  
+- **Better Energy Management** - Use peak energy on peak importance
+- **Increased Productivity** - Momentum from early win carries through day
+- **Skill Development** - Regularly tackling hard things builds capability
 
-### Psychological Benefits
-- Reduces anxiety about difficult tasks
-- Builds confidence through completion
-- Creates positive momentum for the day
-- Eliminates task avoidance patterns
+## Use Cases
 
-## Integration with Other Methods
-
-- **Time Blocking**: Block your most productive morning hours for your frog
-- **GTD**: Your frog is likely in your "Next Actions" or "Projects" list
-- **Eisenhower Matrix**: Your frog is typically in Quadrant 2 (Important, Not Urgent)
-- **Pomodoro**: Use Pomodoros to work on your frog with full focus
-
-## Who It's For
-
-- Chronic procrastinators
-- Anyone avoiding difficult tasks
-- Professionals with complex projects
-- People feeling overwhelmed by task lists
-- Those wanting to boost productivity significantly
-- Anyone seeking to overcome avoidance patterns
-
-## About the Author
-
-Brian Tracy is the bestselling author of more than eighty books that have been translated into dozens of languages. He has served as a consultant and trainer to more than 1,000 corporations and is a highly sought-after speaker on productivity and time management.
-
-## Common Applications
-
-- Starting the day with the hardest work
-- Tackling avoided tasks immediately
-- Building productive morning routines
-- Overcoming analysis paralysis
-- Developing implementation habits
-
-## Key Takeaway
-
-The book shows you how to organize each day so you can zero in on critical tasks and accomplish them efficiently and effectively. Success comes from developing the lifelong habit of eating your frog first thing each morning.
-
-## Pricing
-
-The book "Eat That Frog!" is available for purchase in various formats (paperback, audiobook, ebook). The methodology itself is free to implement.
+Ideal for:
+- Individual contributors with control over their schedule
+- Entrepreneurs and self-employed professionals
+- People who procrastinate on important work
+- Anyone with a mix of urgent and important tasks
+- Knowledge workers doing creative or analytical work

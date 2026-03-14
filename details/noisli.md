@@ -1,38 +1,35 @@
 ## Overview
 
-Noisli is a background noise generator and ambient sound mixer that helps improve focus, boost productivity, and create optimal work environments by masking distractions.
-
-## Sound Library
-
-Noisli offers a variety of high-quality ambient sounds including:
-- Rain and thunderstorms
-- Ocean waves and water streams
-- White noise and pink noise
-- Brown noise
-- Wind and rustling leaves
-- Campfire crackling
-- Coffee shop ambiance
-- Train sounds
+Noisli is an ambient sound mixer and productivity tool that helps users focus, relax, or sleep by creating custom soundscapes from nature sounds, white noise, and ambient backgrounds.
 
 ## Features
 
-- Custom sound mixing to create personalized combinations
-- Save favorite sound combinations
-- Timer and alarm functionality
-- Distraction-free text editor
-- Offline mode for mobile apps
-- Cross-platform availability (web, iOS, Android, Chrome extension)
-- Volume controls for each individual sound
+- **Sound Mixer** - Combine and adjust 16+ ambient sounds (rain, thunder, wind, forest, etc.)
+- **Custom Combos** - Create and save favorite sound combinations
+- **Productivity Timer** - Built-in Pomodoro and interval timer
+- **Text Editor** - Distraction-free writing environment with autosave
+- **Offline Mode** - Download sounds for offline use (app version)
+- **Cross-Platform** - Web, iOS, Android, Chrome extension
+- **Fade In/Out** - Smooth transitions between sound combos
+- **Random Mode** - Automatically generate new combinations every few minutes
+
+## Available Sounds
+
+- Rain, Thunderstorm, Wind, Forest, Leaves
+- Water Stream, Seaside, Water
+- Campfire, Coffee Shop, White Noise, Pink Noise, Brown Noise
+- Train, Fan, Keyboard typing
 
 ## Use Cases
 
-- Blocking office distractions and background noise
-- Improving concentration during deep work
-- Reducing stress and anxiety
-- Enhancing sleep quality
-- Managing tinnitus symptoms
-- Creating consistent study environments
+Perfect for:
+- Remote workers needing background sound to mask distractions
+- Writers wanting distraction-free environment
+- People sensitive to silence or distracting office noise
+- Anyone using Pomodoro technique
+- Insomnia or meditation support
 
 ## Pricing
 
-Free web version available with basic features. Premium subscription ($10/year) unlocks mobile apps, offline mode, and text editor.
+- **Free web version** - Basic features
+- **Premium** - $10/year for apps, offline mode, and advanced features

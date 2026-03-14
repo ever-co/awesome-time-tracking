@@ -1,31 +1,25 @@
-# Timing
+## Overview
 
-[Timing](https://timingapp.com/) is a macOS-only automated time tracking app that records activity across your Mac, categorizes time by app, file, and domain, and provides a visual timeline. It is designed for users who want fully automatic tracking without the need for manual timers.
+Timing is an automatic time tracking app designed exclusively for Mac that tracks everything you do on your computer without requiring manual timers or start/stop buttons.
 
 ## Features
-- **Automatic Time Tracking:** Tracks your time in all apps without requiring manual timers.
-- **Comprehensive App Support:** Monitors activity in a wide range of applications, including:
-  - Web browsers (Safari, Chrome, Arc, Firefox, Brave, Edge, Orion, etc.)
-  - Remote work tools (Slack, Microsoft Teams, Zoom, Gmail, Apple Mail, Outlook, Google Meet, Skype)
-  - Office apps (OpenAI ChatGPT, Microsoft Word, Excel, PowerPoint, Apple Pages, Google Docs, Google Sheets, Anthropic Claude)
-  - Note-taking apps (Apple Notes, Notion, Obsidian, Drafts, DEVONthink, Evernote, Sublime Text, BBEdit)
-  - Development tools (VSCode, Cursor IDE, Xcode, GitHub, Windsurf IDE, iTerm, OpenAI ChatGPT, Anthropic Claude)
-  - Video and audio production (Final Cut Pro, Premiere Pro, After Effects, DaVinci Resolve, Cinema 4D, Logic Pro, Audition, Motion)
-- **Visual Timeline:** Presents a detailed visual timeline showing when you worked on what, allowing you to easily review your day.
-- **AI-Powered Insights:** Provides AI summaries that group related activities, highlight key topics, and spot work patterns for better understanding and more accurate time entries.
-- **Smart Automation:** Allows creation of custom rules (e.g., via drag-and-drop) to automate project assignment and categorization.
-- **Effortless Assignment:** Enables drag-and-drop assignment of time blocks, and automatically combines related activities for a clear overview.
-- **Flexible Organization:** Categorizes time by app, file, and domain, and provides smart suggestions to reduce manual effort.
-- **Compatible with a wide range of apps:** Extensive compatibility with productivity, development, communication, and creative software on macOS.
 
-## Category
-- Automated Time Tracking
+- **Automatic Tracking** - Automatically records which apps and documents you use
+- **No Manual Timers** - Never forget to start or stop a timer again
+- **Productivity Insights** - Analyze your productivity patterns and time allocation
+- **Timeline View** - Visual timeline showing your entire day's activities
+- **Project Categorization** - Automatically or manually categorize activities into projects
+- **Offline Support** - Works completely offline with no cloud dependency
+- **Privacy-Focused** - All data stored locally on your Mac
+- **Reporting** - Export detailed reports for billing and analysis
+- **Mac Native** - Built specifically for macOS with native performance
 
-## Tags
-macos, automatic-tracking, timeline, visualization, personal-use
+## Use Cases
 
-## Source
-[https://timingapp.com/](https://timingapp.com/)
+Perfect for Mac-using freelancers, consultants, developers, and professionals who bill by the hour and want automatic time tracking.
 
 ## Pricing
-No specific pricing information was provided in the available content.
+
+- **14-day free trial**
+- **Subscription** - $10/month or $79/year
+- **One-time purchase** - Available for long-term users

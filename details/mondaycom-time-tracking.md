@@ -1,22 +1,27 @@
-## Time Tracking Column
+## Overview
 
-The Time Tracking Column is available for Pro and Enterprise plans. Click play to start the timer, pause anytime, or add time manually by clicking into a cell and selecting 'Add session manually'.
+monday.com includes built-in time tracking capabilities integrated directly into its work management platform, allowing teams to track time on tasks and projects alongside their project management workflows.
 
-## Time Tracking Widget
+## Features
 
-The Time Tracking Widget provides a consolidated view of time spent across multiple tasks and projects, gathering data from individual Time Tracking Columns on various boards.
+- **Integrated Time Tracking** - Track time directly on tasks within monday.com boards
+- **Visual Boards** - Kanban-style boards with time tracking columns
+- **Automation** - Automate time tracking reminders and notifications
+- **Multiple Views** - Gantt, calendar, timeline, and kanban views with time data
+- **Team Collaboration** - Real-time collaboration on projects with time visibility
+- **Reporting** - Comprehensive time reports and analytics
+- **Budget Tracking** - Compare tracked time against project budgets
+- **Mobile Apps** - Track time from iOS and Android devices
+- **Integrations** - Connect with 200+ tools and apps
 
-### Widget Settings
+## Use Cases
 
-- Choose up to 5 boards to display
-- Pick which groups to show data from
-- Group tracked time by any Column on your boards
-- Completely customizable settings
-
-## Limitations
-
-The widget is basic and is the only report widget that works with the Time Tracking Column, resulting in basic reporting that shows total numbers based on selected boards and filters.
+Perfect for project-based teams, agencies, marketing teams, and organizations already using monday.com for project management.
 
 ## Pricing
 
-Time tracking available on Pro plan ($12/user/month) and Enterprise plans.
+Time tracking is available on monday.com paid plans:
+- **Basic** - Starting at $8/user/month
+- **Standard** - $10/user/month
+- **Pro** - $16/user/month
+- **Enterprise** - Custom pricing

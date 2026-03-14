@@ -1,31 +1,58 @@
-## What is the Ivy Lee Method?
+## Overview
 
-A 100+ year-old productivity system developed in 1918 by productivity consultant Ivy Lee for Charles M. Schwab, president of Bethlehem Steel Corporation.
+The Ivy Lee Method is a simple productivity technique created in 1918 by productivity consultant Ivy Lee for Charles M. Schwab, president of Bethlehem Steel Corporation. Despite being over 100 years old, it remains remarkably effective.
 
-## The Six Steps
+## The Method
 
-1. At the end of each work day, write down six most important things for tomorrow
-2. Prioritize those six items by true importance
-3. Tomorrow, concentrate only on the first task
-4. Work until first task is finished before moving to second
-5. Approach the rest of your list the same way
-6. Move any unfinished items to a new list of six tasks
+**End of Each Day:**
+1. Write down six most important tasks to accomplish tomorrow
+2. Prioritize those six items in order of true importance
+3. Go to sleep
 
-## Key Principles
+**Next Day:**
+1. Start working on task #1 immediately
+2. Work only on task #1 until it's finished
+3. Move to task #2, then #3, and so on
+4. At end of day, move unfinished tasks to new list of six
 
-- **Simplicity**: Only six tasks keeps system manageable
-- **Prioritization**: Forces hard decisions about what matters
-- **Single-Tasking**: Work on one task at a time
-- **Evening Planning**: Eliminates morning decision fatigue
+## Core Principles
+
+### Principle 1: Single-Tasking
+Work on one task at a time until completion. No multitasking.
+
+### Principle 2: Priority Execution
+Always work in priority order. The most important task comes first.
+
+### Principle 3: Limited List
+Exactly six tasks - enough to make progress, not so many to overwhelm.
+
+### Principle 4: Evening Planning
+Plan the night before so you wake up knowing exactly what to do.
+
+### Principle 5: Incomplete is OK
+Unfinished tasks roll to tomorrow. The constraint forces better prioritization.
 
 ## Why It Works
 
-- Removes morning decision-making
-- Focuses on high-value work first
-- Creates clear daily priorities
-- Prevents multitasking
-- Simple enough to maintain consistently
+**Removes Decision Fatigue**
+No morning decisions about what to work on.
+
+**Forces Prioritization**
+Limit of six tasks requires choosing what truly matters.
+
+**Prevents Procrastination**
+Clear first task with no alternatives makes starting easy.
+
+**Ensures Important Work**
+By prioritizing and working in order, high-value work gets done even if you don't finish all six.
+
+**Simplicity**
+No complex system to maintain - just six tasks.
 
 ## Historical Context
 
-Charles Schwab reportedly paid Ivy Lee $25,000 (equivalent to ~$400,000 today) for this advice.
+Ivy Lee charged Schwab $25,000 for this advice in 1918 (equivalent to $500,000+ today). Schwab called it the most profitable advice he'd ever received. Within three years, Bethlehem Steel became the largest independent steel producer in the world.
+
+## Use Cases
+
+Ideal for entrepreneurs, knowledge workers, managers, and anyone who struggles with prioritization or gets overwhelmed by long to-do lists.

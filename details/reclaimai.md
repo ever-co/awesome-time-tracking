@@ -1,33 +1,26 @@
 ## Overview
 
-Reclaim.ai is an AI-powered calendar assistant that automatically schedules your tasks, habits, breaks, and meetings to optimize your week for maximum productivity and work-life balance.
+Reclaim.ai is an AI-powered scheduling assistant that automatically optimizes your calendar by finding time for tasks, habits, meetings, and breaks while protecting your focus time.
 
-## Key Features
+## Features
 
-- **Smart 1:1 Meetings**: Automatically find the best time for recurring 1:1s
-- **Task Management**: Auto-schedule tasks from your project management tools
-- **Habits**: Build time for exercise, lunch, focus time into your calendar
-- **Buffer Time**: Automatically add breaks between meetings
-- **Smart Scheduling Links**: Share your availability while protecting focus time
-- **Calendar Sync**: Manage personal and work calendars together
+- **AI Scheduling** - Automatically schedule tasks and habits on your calendar
+- **Smart Time Blocking** - AI-driven time blocking that adapts to changes
+- **Focus Time Protection** - Automatically defend time for deep work
+- **Habit Scheduling** - Schedule recurring habits and personal time
+- **Meeting Optimization** - Find optimal meeting times across teams
+- **Calendar Sync** - Two-way sync with Google Calendar and Outlook
+- **Slack Integration** - Update Slack status based on calendar automatically
+- **Buffer Time** - Automatically add buffer time between meetings
+- **Analytics** - Insights into how you spend your time
 
-## AI Scheduling
+## Use Cases
 
-Reclaim uses AI to:
-- Defend your most productive hours for deep work
-- Automatically reschedule when priorities change
-- Ensure you never overbook your calendar
-- Balance flexibility with structure
-
-## Integrations
-
-- Google Calendar
-- Microsoft Outlook
-- Slack
-- Asana, Todoist, ClickUp, Linear
-- Zoom, Google Meet
+Perfect for busy professionals, managers, remote workers, and anyone struggling to find time for important work amid constant meetings.
 
 ## Pricing
 
-- Free tier available
-- Premium plans start at $8/user/month
+- **Free plan** - Basic AI scheduling features
+- **Starter** - $8/month for advanced features
+- **Business** - $12/month for team features
+- **Enterprise** - Custom pricing for organizations

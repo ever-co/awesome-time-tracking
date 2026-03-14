@@ -1,68 +1,22 @@
 ## Overview
 
-MyCase is a comprehensive legal practice management platform that includes innovative time tracking features like Smart Time Finder, which helps law firms capture billable time they might otherwise miss.
+MyCase is a comprehensive legal practice management software that integrates time tracking, billing, case management, and client communication specifically for law firms.
 
 ## Features
 
-### Smart Time Finder
-- Automatically generates a list of common billable activities
-- AI-powered suggestions based on your work patterns
-- Customers captured an additional 579,665 hours in 2023 using this feature
-- Identifies unbilled activities from emails, calls, and documents
-- One-click time entry from suggestions
+- **Legal Time Tracking** - Track billable hours with legal-specific features and ABA task codes
+- **Billing & Invoicing** - Generate invoices from tracked time with legal billing formats
+- **Case Management** - Manage cases, documents, and deadlines in one place
+- **Client Portal** - Secure client portal for communication and document sharing
+- **Trust Accounting** - Built-in trust accounting for IOLTA compliance
+- **Mobile Apps** - Track time and manage cases from iOS and Android devices
+- **Document Management** - Organize and store case documents securely
+- **Calendar Integration** - Sync with Outlook and Google Calendar
 
-### Time Tracking
-- Timer-based time entry
-- Manual time entry
-- Mobile time tracking
-- Bulk time entry options
-- Activity-based time capture
+## Use Cases
 
-### Practice Management
-- Case and matter management
-- Document management
-- Client intake and CRM
-- Calendar and deadline tracking
-- Task management workflows
-- Secure client portal
-
-### Billing & Payments
-- Automated invoice generation
-- Multiple billing arrangements
-- Trust accounting
-- Online payment processing
-- Expense tracking and billing
-- LEDES billing support
-
-### Client Communication
-- Secure client portal
-- Text messaging
-- Email integration
-- Document sharing
-- Payment requests
-
-## Platform Support
-
-- Cloud-based web application
-- Mobile apps for iOS and Android
-- Accessible from any device
-- Secure data storage
-
-## Benefits
-
-- **Capture More Time**: Smart Time Finder helps identify unbilled work
-- **Proven Results**: Users captured 579,665 additional hours in 2023
-- **All-in-One**: Complete practice management solution
-- **Client Experience**: Modern client portal improves satisfaction
-- **Easy to Use**: Intuitive interface requires minimal training
-
-## Ideal For
-
-- Solo practitioners
-- Small to medium law firms
-- Firms across all practice areas
-- Firms looking to improve time capture and billing efficiency
+Designed for solo attorneys, small law firms, and mid-sized practices across all legal practice areas requiring integrated practice management.
 
 ## Pricing
 
-Multiple pricing tiers available based on features and firm size. Free trial offered.
+Subscription-based pricing starting at approximately $49 per user per month. Contact MyCase for current pricing and plans.
