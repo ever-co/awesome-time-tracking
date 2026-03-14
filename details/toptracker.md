@@ -1,34 +1,23 @@
-# TopTracker
+## Overview
 
-[Source](https://blog.tmetric.com/16-best-time-tracking-apps-for-freelancers-2025-edition/)
-
-## Description
-TopTracker is a free time tracking application designed for freelancers and teams. It provides tools for automatic time tracking, productivity reporting, and privacy-focused screenshot features, aiming to offer transparent and flexible time management.
+TopTracker is a completely free time tracking tool created by Toptal, the talent network. It's designed for freelancers, remote workers, and distributed teams who need accurate time tracking without the cost of traditional time tracking software.
 
 ## Features
-- Automatic time tracking
-- Invoicing options
-- Unified view of all performed projects
-- Productivity summary reports
-- Screenshots (with optional blurring for privacy)
-- Ability to handle an unlimited number of projects
-- Privacy controls for users
-- Cross-platform support (Windows, macOS, Linux, web application)
 
-## Compatibility
-- Desktop: Windows, macOS, Linux
-- Web application: Accessible from any modern browser
-- **Note:** No dedicated mobile applications
+- 100% free for unlimited users
+- Automatic time tracking
+- Optional screenshot capture
+- Manual time entry
+- Project and task tracking
+- Client management
+- Invoice generation
+- Payment processing integration
+- Activity levels monitoring
+- Detailed time reports
+- Desktop apps for Windows, Mac, Linux
+- Mobile apps for iOS and Android
+- No credit card required
 
 ## Pricing
-- Free to use for individuals and teams
-- For additional pricing or enterprise needs, users are advised to contact the vendor directly
 
-## Tags
-- Freelancers
-- Privacy
-- Reporting
-- Cross-platform
-
-## Category
-- Personal Time Tracking
+TopTracker is completely free to use with no hidden fees, subscription costs, or user limits. All features are available at no charge, making it an ideal solution for freelancers and small teams on a budget.
