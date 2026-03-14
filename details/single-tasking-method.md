@@ -1,72 +1,93 @@
-## Overview
+## What is Single-Tasking?
 
-The Single-Tasking Method (also called monotasking) is a productivity practice of focusing completely on one task at a time before moving to the next. It directly opposes multitasking and is based on neuroscience research showing that task-switching significantly reduces productivity and increases errors.
+Single-tasking is the practice of focusing on one task at a time until completion or a natural stopping point, deliberately avoiding multitasking and task-switching.
 
-## Why Single-Tasking Works
+## Why Multitasking Fails
 
-- The brain cannot truly multitask; it rapidly switches between tasks
-- Each switch costs time (context switching penalty: 20-40% productivity loss)
-- Divided attention increases errors and reduces quality
-- Single-tasking enables deeper focus and flow states
-- Reduces mental fatigue from constant switching
-- Improves memory retention and learning
+- Human brains cannot truly multitask cognitive work
+- We actually rapidly switch between tasks
+- Each switch incurs a cognitive cost
+- Attention residue reduces performance on both tasks
+- Studies show multitasking reduces productivity by up to 40%
+
+## Benefits of Single-Tasking
+
+- Higher quality output
+- Faster task completion
+- Reduced errors
+- Lower stress and mental fatigue
+- Better retention and learning
+- Increased satisfaction with work
+- Easier to enter flow state
 
 ## How to Practice Single-Tasking
 
-### 1. Setup Your Environment
+### 1. Choose One Task
+
+Select the most important task or next item on your prioritized list.
+
+### 2. Remove Distractions
+
 - Close unnecessary browser tabs
 - Turn off notifications
-- Put phone in another room or drawer
-- Clear your desk of distractions
-- Use website blockers if needed
+- Put phone in another room
+- Close email and chat apps
+- Clear desk of unrelated items
 
-### 2. Choose Your Task
-- Pick ONE task to work on
-- Clearly define when the task is complete
-- Estimate time needed
-- Commit to working only on this task
+### 3. Set Clear Boundaries
 
-### 3. Work Focused
-- Set a timer (25-90 minutes)
-- Work solely on the chosen task
-- Capture interrupting thoughts in a notepad
-- Resist the urge to check email/phone
-- Stay with the task even when it gets difficult
+- Define what "done" means for this session
+- Set time block (e.g., 90 minutes)
+- Communicate unavailability to colleagues
 
-### 4. Take Breaks
-- After completing a focused session, take a break
-- Fully disconnect from work during breaks
-- Move, stretch, or change environment
-- Then choose your next single task
+### 4. Work Until Complete or Time Expires
 
-## Common Challenges and Solutions
+- Resist urge to check other things
+- Note interrupting thoughts for later
+- Stay with the discomfort of single focus
 
-**Challenge**: "I need to respond quickly to messages"
-**Solution**: Schedule specific times for communication (3x daily)
+### 5. Take a Break
 
-**Challenge**: "I get bored working on one thing"
-**Solution**: Use shorter focus blocks (25 min) and rotate tasks
+After completing task or time block, take deliberate break before next task.
 
-**Challenge**: "Interruptions are unavoidable"
-**Solution**: Communicate focus times, use do-not-disturb signals
+## Overcoming Multitasking Habits
 
-**Challenge**: "I forget other tasks while focusing"
-**Solution**: Keep a capture list nearby for quick notes
+### Track Task Switches
 
-## Benefits
+Notice how often you switch tasks. Awareness is first step to change.
 
-- 20-40% increase in productivity
-- Higher quality work output
-- Reduced stress and mental fatigue
-- Improved ability to enter flow states
-- Better memory and learning retention
-- Faster task completion
-- Increased job satisfaction
+### Create Friction
 
-## Measuring Progress
+Make it harder to switch (close apps, use website blockers, work offline).
 
-- Track number of single-tasking sessions per day
-- Notice improvement in task completion time
-- Monitor quality of work output
-- Assess end-of-day energy levels
-- Measure ability to focus without distraction
+### Batch Similar Tasks
+
+Group email, calls, or admin work to minimize context switches.
+
+### Use Implementation Intentions
+
+"When I feel urge to switch, I will take three breaths and refocus."
+
+## Tools and Techniques
+
+- Pomodoro Technique (25-minute focused sprints)
+- Time blocking on calendar
+- Website/app blockers (Freedom, Cold Turkey)
+- Focus modes (iOS Focus, Android Do Not Disturb)
+- Physical timer visible on desk
+
+## When Multiple Things Are Truly Urgent
+
+- Quickly triage and prioritize
+- Work on highest priority first
+- Set specific switch points
+- Minimize back-and-forth
+- Communicate realistic timelines
+
+## Workplace Applications
+
+- Dedicated "focus hours" on calendar
+- Team agreements about interruptions
+- Batch meetings together
+- Designated communication windows
+- Shared understanding of deep work time
