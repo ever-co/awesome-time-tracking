@@ -1,56 +1,64 @@
 ## Overview
 
-Code Time is a time-tracking plugin that integrates directly with all of the most popular code editors and IDEs. It is an open source plugin for automatic programming metrics and time tracking, trusted by over 700K developers and 10K companies across the globe.
+Code Time is an automatic time tracking plugin designed specifically for developers, integrating seamlessly with popular code editors to provide real-time coding activity metrics.
 
 ## Features
 
-### Real-Time Metrics
-- Status bar shows real-time metrics about time coded per day
-- Automatic tracking without manual start/stop
-- Daily active code time monitoring
-- Code time vs. meeting time visualization
-
-### Calendar Integration
-- Connect Google Calendar to visualize code time vs. meeting time
-- Protect your top code times
-- Block focus periods for deep work
-
-### Reporting
-- Weekly report delivered to email inbox
-- Simple data visualizations including:
-  - Top projects
-  - Daily active code time
-  - Daily meeting time
-- Code time by project (Pro plan)
-- Export data as JSON, CSV, or PNG (Pro plan)
-
-### IDE Integrations
-
-Supported editors and IDEs include:
+### IDE Integration
+Supported editors and IDEs:
 - Visual Studio Code
-- Visual Studio
 - IntelliJ IDEA
-- Android Studio
 - PyCharm
-- WebStorm
-- PhpStorm
-- RubyMine
-- GoLand
-- CLion
-- DataGrip
-- Rider
-- AppCode
-- Apache NetBeans
-- Eclipse IDE
 - Sublime Text
+- Vim
 - Atom
-- Cursor
+- And more
+
+### Automatic Tracking
+- Passive tracking of coding activity
+- No manual time entry required
+- Tracks time per file, project, and language
+- Background monitoring with minimal resource usage
+
+### Real-Time Metrics
+- **Status Bar Display**: See daily coding time at a glance
+- **Code Time Dashboard**: Detailed analytics and insights
+- **Productivity Metrics**: Lines of code, active time, keystrokes
+- **Language Breakdown**: Time spent per programming language
+
+### Developer Insights
+- Daily and weekly coding summaries
+- Best coding hours identification
+- Focus time analysis
+- Productivity trends over time
+
+### Privacy-Focused
+- Data stored locally or in secure cloud
+- No code content captured
+- Only metadata tracked (file names, durations)
+- Full control over data sharing
+
+## Key Benefits
+
+- **Zero friction**: Tracks automatically in background
+- **Developer-specific**: Built for coding workflows
+- **Cross-editor**: Use across multiple IDEs
+- **Trusted**: Used by 700,000+ developers and 10,000+ companies
+- **Free tier available**: Core features at no cost
+
+## Use Cases
+
+- Individual developers tracking coding habits
+- Development teams measuring effort
+- Freelance developers billing clients
+- Managers understanding team capacity
+- Remote teams tracking distributed work
+
+## Platform
+
+Plugin/extension for major code editors and IDEs
 
 ## Pricing
 
-- **Free Plan**: Basic time tracking across editors and IDEs
-- **Pro Plan**: $9.95/month
-  - Advanced reporting
-  - Code time by project
-  - Data export (JSON, CSV, PNG)
-  - Additional analytics features
+Free tier with core tracking features
+Paid plans for advanced analytics and team features

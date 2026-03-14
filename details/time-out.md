@@ -1,38 +1,74 @@
 ## Overview
 
-Time Out by Dejal is a break reminder application for macOS that gently reminds you to take breaks on a regular basis, helping reduce digital eye strain, prevent burnout, and avoid repetitive strain injury (RSI).
+Time Out is a macOS application designed to promote healthier computing habits by reminding users to take regular breaks, helping prevent repetitive strain injury (RSI), eye strain, and mental fatigue.
 
 ## Features
 
-### Two Types of Breaks
+### Break Types
 
-1. **Normal Break**: Typically set for 10 minutes every hour for longer rest periods
-2. **Micro Break**: Short 15-second breaks every 15 minutes to rest your eyes and hands
+**Normal Breaks**:
+- Longer breaks (typically 10 minutes)
+- Recommended every hour
+- Full-screen break screen
+- Stretch and move away from computer
 
-### Additional Features
+**Micro Breaks**:
+- Short breaks (typically 15-30 seconds)
+- Every 10-15 minutes
+- Quick eye rest and posture check
+- Minimal workflow interruption
 
-- Menubar countdown showing time until next break
-- Global keyboard shortcuts for quick control
-- Customizable HTML-based break themes
-- Natural break support (detects when you're away and adjusts accordingly)
-- Customizable break schedules
-- Skip or postpone breaks when needed
-- Optional sounds and notifications
-- Idle detection to pause breaks when you're not at your computer
+### Customization
+- Adjustable break frequency
+- Customizable break duration
+- Personalized break messages
+- Flexible schedule options
 
-## Benefits
+### Break Enforcement
+- **Full-screen mode**: Blocks screen during break
+- **Semi-transparent mode**: Gentle reminder without blocking
+- **Postpone option**: Delay break if in critical task
+- **Skip option**: Skip breaks when needed
 
-- **Prevents Eye Strain**: Regular micro breaks help reduce digital eye strain from extended screen time
-- **Reduces RSI Risk**: Frequent short breaks prevent repetitive strain injuries from keyboard and mouse use
-- **Improves Focus**: Scheduled breaks help maintain concentration and prevent burnout
-- **Customizable**: Fully adjustable break intervals and durations to fit your workflow
+### Smart Scheduling
+- Automatic pause when computer is idle
+- Doesn't count idle time toward break timer
+- Adjusts to your actual usage patterns
+- Can sync with calendar for meeting awareness
+
+## Key Benefits
+
+### Health
+- Reduces risk of RSI
+- Prevents eye strain and fatigue
+- Encourages movement and stretching
+- Promotes better posture awareness
+
+### Productivity
+- Mental reset improves focus
+- Prevents burnout during long sessions
+- Maintains energy throughout day
+- Better long-term performance
+
+### Flexibility
+- Unobtrusive when breaks aren't needed
+- Adapts to work patterns
+- Can be temporarily disabled
+- Respects user control
 
 ## Platform
 
-- macOS only
-- Available on the Mac App Store and via Setapp
-- Native macOS application with system integration
+macOS exclusive
 
 ## Pricing
 
-Available as a one-time purchase on the Mac App Store or included with Setapp subscription.
+Free version available with core features
+Pro version for advanced customization
+
+## Ideal For
+
+- Mac users spending long hours at computer
+- Developers and designers
+- Writers and content creators
+- Anyone experiencing RSI symptoms
+- Remote workers maintaining healthy habits

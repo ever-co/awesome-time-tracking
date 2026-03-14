@@ -1,60 +1,39 @@
 ## Overview
 
-Nesto is a Pomodoro timer app with integrated music and notifications for enhancing focus on tasks, available on desktop and mobile. The app enables deep focus with uninterrupted music to achieve a "state of flow" even in noisy environments.
+Nesto is a Pomodoro timer application that combines time management techniques with built-in music integration to help users achieve deep focus during work sessions.
 
 ## Features
 
-### Embedded Music
-- Background music powered by YouTube
-- Seven playlists for focus including:
-  - Nature Sounds
-  - Classical Music
-  - And other focus-enhancing genres
-- Uninterrupted playback during work sessions
+### Pomodoro Timer
+- Traditional 25-minute focus sessions
+- Customizable work and break intervals
+- Session tracking and history
+- Visual and audio notifications
 
-### Standard Pomodoro Format
-- Focus for 25 minutes with no interruptions
-- Notification sound when timer expires
-- Short break of 5 minutes
-- Long break of 15 minutes every four Pomodoros
-- Classic Pomodoro Technique implementation
+### Music Integration
+- Embedded music player
+- Curated focus playlists
+- Seamless music control within timer
+- No need to switch between apps
 
-### Task Management
-- Add tasks to Nesto's to-do list
-- Track progress over time
-- Task completion monitoring
-- Integrate Pomodoros with specific tasks
+### Notifications
+- Desktop notifications for session changes
+- Mobile push notifications
+- Customizable alert sounds
+- Break reminders
 
-### Premium Features
-- Add your own YouTube playlists to the app
-- Listen to custom playlists ad-free
-- Uninterrupted music playback
-- Advanced customization options
+### Cross-Platform
+- Desktop application
+- Mobile apps
+- Synchronized across devices
 
-## Focus Enhancement
+## Key Benefits
 
-- Combines productivity technique with background music
-- Helps maintain focus in noisy environments
-- State of flow achievement
-- Reduces environmental distractions through music
+- Combines timer and music in one app
+- Reduces distractions from switching between apps
+- Enables consistent focus sessions
+- Simple, focused interface
 
-## Who It's For
+## Platform
 
-- Students
-- Creatives
-- Professionals
-- Anyone needing focus with ambient music
-- People working in noisy environments
-- Users who prefer music during focused work
-
-## Platform Availability
-
-- Web-based (nesto.cc)
-- Desktop compatible
-- Mobile compatible
-- Cross-device accessibility
-
-## Pricing
-
-- Free version available
-- Nesto Premium for custom playlists and ad-free experience
+Available on desktop and mobile (iOS, Android)
