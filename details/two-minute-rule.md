@@ -1,151 +1,88 @@
 ## Overview
 
-The two-minute rule is a concept from David Allen's workflow management method called Getting Things Done (GTD). The rule states: "If an action will take less than two minutes, it should be done at the moment it's defined."
+The Two-Minute Rule, coined by David Allen in Getting Things Done, states that "If an action will take less than two minutes, it should be done at the moment it's defined." This rule is a defense against procrastination and prevents small things from accumulating.
 
-## Core Principle
+## Core Concept
 
-According to David Allen, if you determine an action can be done in two minutes, you should do it right then because it'll take longer to organize it and review it than it would be to actually finish it. It would take you less than two minutes to do it, but it would take you longer than two minutes to look at it again and review it and reflect on it later on.
+If a task takes less than two minutes:
+- Do it now
+- Don't write it down
+- Don't add it to your to-do list
+- Don't schedule it for later
+- Complete it immediately
 
-## The Logic
+## Flexibility of the Rule
 
-### Time Efficiency
-- **Doing it now**: 2 minutes
-- **Organizing + Reviewing + Doing later**: 4+ minutes
-- **Conclusion**: Just do it now
+David Allen notes that two minutes is just a guideline:
+- **Long processing window:** Extend to 5-10 minutes
+- **Rapid processing needed:** Shorten to 1 minute or 30 seconds
+- Adjust based on available time and context
 
-### Mental Efficiency
-- Eliminates need to track the task
-- Reduces mental clutter
-- Frees working memory
-- Prevents task accumulation
+## When to Apply It
+
+The rule should be applied primarily when:
+- Engaging with new input
+- Processing your in-tray
+- Interacting with people
+- Dealing with random intersections
+- Going through email or messages
+
+## When NOT to Apply It
+
+David Allen warns against:
+- Becoming a slave to two-minute actions throughout entire day
+- Letting quick tasks constantly interrupt deep work
+- Using it as excuse to avoid important work
+- Applying it outside of processing/intake phases
 
 ## Benefits
 
-### Efficiency
-- Pure efficiency factor
-- Saves time in the long run
-- Prevents administrative overhead
+**Prevents Accumulation:**
+- Small tasks don't pile up
+- Inbox stays manageable
+- Reduces mental clutter
 
-### Reduces Mental Clutter
-- People have found it powerful not just for efficiency
-- Also valuable for not having to park it
-- Avoid looking at it again
-- No need to re-think it later
+**Reduces Procrastination:**
+- Eliminates "I'll do it later" mentality
+- Creates immediate progress
+- Builds momentum
 
-### Prevents Task Accumulation
-- Defense against procrastination
-- Prevents small things from piling up
-- Maintains momentum
-- Reduces feeling of overwhelm
+**Saves Time Overall:**
+- Less overhead from task management
+- No need to write down, schedule, track quick tasks
+- Administrative efficiency
 
-## When to Apply
+## Practical Examples
 
-The rule should be applied primarily when you are engaging with new input:
-- Processing email
-- Reviewing voicemails
-- Going through physical inbox
-- Handling incoming requests
-- During GTD Clarify step
-
-## Important Caveats
-
-### Don't Become a Slave to Two-Minute Tasks
-David Allen warns you shouldn't become a slave to spending your day doing two-minute actions. Apply this during designated processing time, not constantly throughout the day.
-
-### Flexible Time Threshold
-Two minutes is just a guideline:
-- If you have a long open window of time, extend cutoff to 5 or 10 minutes
-- If you're very pressed for time, lower it to 1 minute
-- Adapt based on available time and energy
-
-### Context Matters
-- Don't interrupt deep work for two-minute tasks
-- Batch two-minute tasks if they're similar
-- Consider priority - some two-minute tasks can wait
-
-## Examples of Two-Minute Tasks
-
-### At Work:
-- Reply to a quick email
+**Good Two-Minute Tasks:**
+- Reply to simple emails
 - File a document
 - Make a quick phone call
-- Update a spreadsheet entry
 - Schedule a meeting
-- Forward information
-- Add item to shopping list
+- Update a status
+- Send a brief message
 
-### At Home:
-- Put dishes in dishwasher
-- Hang up coat
-- Wipe down counter
-- Respond to a text
-- Water a plant
-- Take out trash
+**Not Two-Minute Tasks (even if they seem quick):**
+- Any task requiring deep thinking
+- Tasks that might expand beyond 2 minutes
+- Important decisions
+- Creative work
 
 ## Integration with GTD
 
-The Two-Minute Rule is part of the GTD Clarify step:
+The Two-Minute Rule is part of the larger Getting Things Done methodology:
+- Capture everything
+- Clarify what it means
+- **Apply Two-Minute Rule during clarification**
+- Organize remaining items
+- Review regularly
+- Engage with tasks
 
-1. **Capture**: Collect everything
-2. **Clarify**: Process each item
-   - Is it actionable?
-   - If yes, will it take less than 2 minutes?
-   - **If yes → DO IT NOW**
-   - If no → Defer, Delegate, or Add to Next Actions
-3. **Organize**: Put in appropriate place
-4. **Reflect**: Review regularly
-5. **Engage**: Choose what to do
+## 2026 Perspectives
 
-## Common Mistakes
-
-### Interrupting Deep Work
-- Don't let two-minute tasks break concentration
-- Save them for processing time
-- Batch similar quick tasks
-
-### Overestimating Time
-- People often think tasks take longer than they do
-- Actually time yourself occasionally
-- Adjust your estimates
-
-### Using as Procrastination
-- Don't use two-minute tasks to avoid important work
-- Complete them during designated processing
-- Don't let them crowd out deep work
-
-## Variations and Adaptations
-
-### The One-Minute Rule
-- Some adapt to one minute
-- For very busy periods
-- More restrictive threshold
-
-### The Five-Minute Rule
-- When you have more available time
-- Less time pressure
-- More flexible application
-
-## Who It's For
-
-- GTD practitioners
-- Anyone drowning in small tasks
-- People with email overload
-- Those struggling with task accumulation
-- Professionals with many small interruptions
-- Anyone wanting to reduce mental clutter
-
-## Psychological Benefits
-
-- Sense of accomplishment from quick wins
-- Momentum from completing tasks
-- Reduced anxiety from clearing small items
-- Feeling of progress
-- Less mental burden
-
-## Key Insight
-
-The Two-Minute Rule recognizes that the administrative overhead of managing a task can exceed the effort of simply doing it. By immediately completing quick tasks, you prevent them from clogging your productivity system and occupying mental energy.
-
-## Pricing
-
-The principle itself is free to apply. It is detailed in David Allen's book "Getting Things Done" which is available for purchase.
+Recent content emphasizes:
+- Powerful technique for modern knowledge workers
+- Helps manage constant stream of inputs
+- Particularly useful for email and message management
+- Complements other GTD practices
+- Included in updated GTD guides and app picks for 2026
