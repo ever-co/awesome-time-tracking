@@ -1,27 +1,22 @@
 ## Overview
 
-ExakTime provides comprehensive time tracking solutions specifically designed for construction and field service industries, offering advanced features like GPS tracking, facial recognition, and multilingual support.
+ExakTime is one of the most well-known construction time tracking applications, having been around since 1999 with a 100% focus on the construction industry. The platform provides specialized solutions for tracking time, attendance, and labor costs on construction job sites.
 
 ## Features
 
-- Real-time GPS location tracking for field workers
-- Facial recognition technology to prevent buddy punching
-- Multilingual interface supporting English, Spanish, and French
-- Job costing and project tracking capabilities
-- Equipment and asset tracking
-- Offline mode for areas without connectivity
-- Mobile apps for iOS and Android
-- Integration with major payroll and accounting systems
-- Digital forms and checklists
-- Geofencing for jobsite verification
+- **Rugged Time Clocks**: Purpose-built hardware designed to withstand harsh construction environments
+- **GPS Tracking**: Captures exact location data when employees clock in and out
+- **Job Costing**: Real-time labor cost tracking against specific projects and cost codes
+- **Mobile Apps**: Allow workers to clock in from their smartphones with geofencing
+- **Offline Mode**: Continues tracking even when cellular coverage is unavailable
+- **Compliance**: Supports prevailing wage, certified payroll, and union reporting requirements
+- **Payroll Integration**: Exports time data to major payroll providers
+- **Equipment Tracking**: Monitor equipment location and usage hours
 
 ## Use Cases
 
-- Construction companies managing multiple jobsites
-- Field service teams requiring location verification
-- Multilingual crews needing translated interfaces
-- Companies requiring accurate job costing data
+Ideal for general contractors, specialty contractors, and construction firms of all sizes that need durable time tracking solutions for multiple job sites with features tailored to construction workflows.
 
 ## Pricing
 
-Contact ExakTime for custom pricing based on team size and features required.
+Pricing varies based on number of employees, hardware requirements, and features needed. Contact ExakTime for detailed pricing information.

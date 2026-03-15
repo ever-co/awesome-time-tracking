@@ -1,63 +1,24 @@
 ## Overview
 
-Timeero is a cloud-based workforce management tool that tracks employee hours, mileage, and location with a GPS time tracking app. The platform is the preferred choice for companies in field services, construction, real estate, home healthcare, sales, and more.
+Timeero is an intelligent GPS time tracking and mileage tracking solution designed for mobile teams, with automatic detection of driving activity and robust offline capabilities for field workers in areas with poor cellular coverage.
 
 ## Features
 
-### GPS Tracking & Location Monitoring
-- Employee location tracking system with breadcrumb trail
-- Shows where everyone is or has been
-- Works seamlessly offline for remote job sites
-- 77% of construction businesses use GPS tracking systems
+- **Automatic Mileage Tracking**: Recognizes when employees are driving and automatically begins tracking mileage
+- **Mileage Reimbursement**: Calculates estimated reimbursement amounts based on IRS rates or custom rates
+- **GPS Breadcrumbs**: Records detailed location trails throughout the workday
+- **Offline Mode**: Continues tracking time and location even without cellular or internet connection
+- **Geofencing**: Set up virtual boundaries around job sites with automatic alerts
+- **Segmented Tracking**: Separate personal and business mileage automatically
+- **Who's Working Map**: Real-time map view showing all active employees and their locations
+- **PTO Management**: Request and approve time off within the app
+- **Facial Recognition**: Optional face verification to prevent buddy punching
+- **Integrations**: Connect with QuickBooks, ADP, Paychex, and other payroll/accounting systems
 
-### Time Tracking
-- Capture regular hours, breaks, and overtime with precision
-- Sign off on hours worked
-- Take photos of completed work
-- Add project notes
-- Collect client signatures - all within the app
+## Use Cases
 
-### Geofencing
-- Restrict clock-in to specific locations
-- Automatic clock-in/out reminders when employees arrive or leave geofenced locations
-- Location-based workflow automation
-
-### Mileage Tracking
-- Automatic business mileage tracking
-- For reimbursement purposes
-- Tax deduction documentation
-- IRS-compliant mileage logs
-
-### Security Features
-- Facial Recognition on any iPad
-- Job site deployment ready
-- Prevent buddy punching
-- Time theft prevention
-
-### Offline Capability
-- Continue tracking without internet connection
-- Data syncs when back online
-- Ideal for remote construction sites
-
-## Industries Served
-
-- Construction
-- Field Services
-- Real Estate
-- Home Healthcare
-- Sales Teams
-- Any mobile workforce
+Ideal for construction crews, field service technicians, sales teams, delivery drivers, and any mobile workforce that needs accurate time and mileage tracking with offline reliability.
 
 ## Pricing
 
-- **$4/user/month**
-- No monthly base fee
-- 14-day free trial
-- No credit card required for trial
-
-## Platform Availability
-
-- iOS
-- Android
-- Web dashboard
-- iPad support for facial recognition
+Pricing starts at competitive per-user monthly rates with different tiers based on features needed.

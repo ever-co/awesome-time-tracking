@@ -1,99 +1,24 @@
 ## Overview
 
-Lawmatics is a unique legal software platform that combines time tracking and billing with comprehensive CRM (Client Relationship Management) capabilities, enabling law firms to manage the entire client lifecycle from intake through billing and beyond.
+Lawmatics is a comprehensive legal CRM and client intake platform that includes integrated time tracking and billing features, enabling law firms to manage the entire client lifecycle from first contact through final invoice in one system.
 
 ## Features
 
-### Time Tracking & Billing
-- Timer and manual time entry
-- Mobile time tracking
-- Expense tracking
-- Invoice generation
-- E-payment processing
-- Multiple billing arrangements
-
-### CRM & Client Intake
-- Lead tracking and management
-- Automated intake forms
-- Client pipeline management
-- Contact management
-- Communication history
-- Client portal
-
-### Marketing Automation
-- Email marketing campaigns
-- Automated follow-ups
-- Drip campaigns
-- Lead nurturing sequences
-- Marketing analytics
-
-### Client Portal
-- Secure client access
-- Document sharing
-- E-signature capabilities
-- Invoice viewing and payment
-- Two-way messaging
-- Intake form submission
-
-### Practice Management
-- Matter management
-- Task management
-- Calendar integration
-- Workflow automation
-- Team collaboration
-
-### Payment Processing
-- E-payment options (credit card, ACH)
-- Payment plans
-- Retainer management
-- Automatic payment reminders
-- Trust accounting
-
-## Platform Support
-
-- Cloud-based web application
-- Mobile apps for iOS and Android
-- API for custom integrations
-- Accessible from any device
+- **Client Intake Automation**: Automated lead capture, qualification, and follow-up workflows
+- **Time Tracking**: Built-in timers and manual time entry with matter-level tracking
+- **Billing & Invoicing**: Generate invoices from tracked time and expenses
+- **CRM**: Full-featured client relationship management with contact history
+- **Marketing Automation**: Email campaigns, drip sequences, and client nurturing
+- **Document Automation**: Generate engagement letters, contracts, and other documents
+- **Client Portal**: Secure portal for document sharing and communication
+- **Reporting**: Analytics on intake conversion, revenue, and firm performance
+- **Integrations**: Connect with practice management systems, accounting software, and other legal tech tools
+- **Two-Way Texting**: Communicate with clients via SMS from the platform
 
 ## Benefits
 
-- **Complete Solution**: CRM + Time Tracking + Billing in one platform
-- **Client-Focused**: Features designed to improve client experience
-- **Growth Oriented**: Marketing automation helps firms grow
-- **Efficient Intake**: Automated client intake saves time
-- **Better Collections**: E-payments and portals improve payment rates
-
-## Ideal For
-
-- Small to mid-sized law firms
-- Firms focused on client experience
-- Practices wanting to improve intake and conversion
-- Firms seeking marketing automation
-- Attorneys who want CRM and billing in one system
-
-## What Makes Lawmatics Unique
-
-Unlike traditional legal billing software, Lawmatics focuses on the entire client relationship - from the first inquiry through case completion and beyond. The CRM features help firms grow while the billing features ensure they get paid.
-
-## Practice Areas
-
-Works well for:
-- Personal injury
-- Family law
-- Estate planning
-- Immigration
-- And other client-focused practice areas
+By combining CRM, intake, time tracking, and billing in one platform, Lawmatics eliminates the need for multiple software subscriptions and ensures data flows seamlessly between client development and revenue management.
 
 ## Pricing
 
-Contact Lawmatics for pricing based on firm size and features needed. Free demo available.
-
-## Integration
-
-Integrates with popular legal and business tools including:
-- Google Workspace
-- Microsoft 365
-- Zapier
-- Payment processors
-- And more
+Pricing is customized based on firm size and features required. Contact Lawmatics for a quote.

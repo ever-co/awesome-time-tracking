@@ -1,92 +1,31 @@
-## VivifyScrum
+## Overview
 
-**Description**  
-VivifyScrum is a web-based agile project management tool for Scrum and Kanban teams. It combines project planning, collaboration, time tracking, team management, and invoicing in a single application for small teams and large organizations.
+VivifyScrum is a comprehensive agile project management platform that combines Scrum and Kanban boards with integrated time tracking and invoicing, making it a complete solution for agile teams managing billable projects.
 
----
+## Features
 
-### Features
+- **Scrum Boards**: Sprint planning, backlog management, and sprint retrospectives
+- **Kanban Boards**: Visual workflow management with WIP limits
+- **Time Tracking**: Built-in timers and manual time entry with task-level tracking
+- **Invoicing**: Generate invoices from tracked time and project budgets
+- **Burndown Charts**: Sprint progress visualization
+- **Team Management**: User roles, permissions, and workload management
+- **Reports**: Velocity, team performance, and time tracking reports
+- **Custom Workflows**: Create workflows that match your process
+- **Multiple Projects**: Manage multiple projects and teams in one workspace
+- **Mobile Apps**: Native iOS and Android apps for on-the-go management
+- **Integrations**: Connect with Slack, GitHub, GitLab, and other tools
+- **Client Portal**: Share project progress with clients
+- **Recurring Tasks**: Automate repetitive tasks
 
-- **Agile project management**  
-  - Plan, start, manage, track, and deliver projects in one tool  
-  - Supports Scrum and Kanban workflows
+## Unique Combination
 
-- **Scrum & Kanban boards**  
-  - Unlimited Scrum and Kanban boards  
-  - Unlimited items/tasks  
-  - Fully customizable Scrum boards  
-  - Simple Kanban boards for continuous flow  
-  - Visual collaboration on tasks and workflows
+Unlike many agile tools, VivifyScrum includes both time tracking and invoicing, making it particularly valuable for agencies and consultancies running agile projects that need to bill clients.
 
-- **Project tracking & workflow management**  
-  - Track project progress across boards  
-  - Organize and manage multiple projects in one place  
-  - Support for efficient end-to-end workflows
+## Benefits
 
-- **Collaboration**  
-  - Shared collaboration boards for teams  
-  - Centralized place to manage work and communicate around tasks
+Provides all tools needed for agile project delivery and client billing in one platform, eliminating the need for separate time tracking and invoicing software.
 
-- **Time tracking**  
-  - Built-in time tracker (VivifyScrum Time Tracker)  
-  - Track time spent on tasks  
-  - Automatic worklogs based on tracked time
+## Pricing
 
-- **Invoicing & billing**  
-  - Create invoices tailored to business requirements and branding  
-  - Manage clients within the tool  
-  - Send invoices and track payments  
-  - Use tracked time and project data as the basis for invoicing
-
-- **Team management**  
-  - Manage team members in one place  
-  - View team availability  
-  - Track and balance workload across the team
-
-- **Education & training**  
-  - Free online Scrum training via VivifyScrum EDU, accessible with a VivifyScrum account
-
-- **Scalability**  
-  - Unlimited number of workspaces, boards, and tasks across plans (pricing based on team size)
-
----
-
-### Pricing
-
-All paid plans include unlimited workspaces, boards, and tasks, with pricing based on team size. Each plan comes with a 7-day free trial.
-
-#### Monthly billing
-- **Starter**  
-  - For teams up to 10 members  
-  - **$10 / month** (covers the entire team)
-
-- **Standard**  
-  - For teams between 11 and 50 members  
-  - **$6 / user / month**, billed monthly
-
-- **Growth**  
-  - For teams between 51 and 100 members  
-  - **$5 / user / month**, billed monthly
-
-- **Enterprise**  
-  - For teams with 100+ members  
-  - Tailored for higher security, scale, and custom development needs  
-  - Custom pricing (contact sales)
-
-#### Annual billing
-- **Starter**  
-  - For teams up to 10 members  
-  - **$96 / year** (covers the entire team)
-
-- **Standard**  
-  - For teams between 11 and 50 members  
-  - **$4.8 / user / month**, billed annually
-
-- **Growth**  
-  - For teams between 51 and 100 members  
-  - **$4 / user / month**, billed annually
-
-- **Enterprise**  
-  - For teams with 100+ members  
-  - Tailored for higher security, scale, and custom development needs  
-  - Custom pricing (contact sales)
+Affordable tiered pricing starting with a free plan for small teams, with paid plans unlocking time tracking, invoicing, and advanced features.

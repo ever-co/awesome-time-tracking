@@ -1,67 +1,30 @@
-# Timenotes
+## Overview
 
-Lightweight time tracking and timesheet tool for teams and freelancers, with basic reporting and integrations for popular project management platforms.
-
-- **Website:** https://timenotes.io/
-- **Category:** Team & project time tracking
-- **Best for:** Small teams, agencies, and freelancers needing simple time tracking, timesheets, and invoicing reports
-
----
+Timenotes is a browser-based time tracking extension for Google Chrome that embeds time tracking capabilities directly into popular web applications, allowing users to track time without switching tools or contexts.
 
 ## Features
 
-### Time Tracking
-- Start and stop timers with one click
-- Add new time entries via a form
-- Edit previous time logs
-- Track time directly from:
-  - Web interface
-  - iOS mobile app
-  - Android mobile app
-  - Chrome extension
+- **Browser Extension**: Chrome extension that adds time tracking to web apps
+- **One-Click Tracking**: Start timers with a single click from any integrated app
+- **Multi-Platform Integration**: Works with project management, issue tracking, and productivity tools
+- **Automatic Project Detection**: Detects current project context from web page
+- **Manual Time Entry**: Add time retroactively when needed
+- **Time Reports**: View time spent by project, client, or time period
+- **Idle Detection**: Pause timer automatically during inactivity
+- **Daily Reminders**: Notifications to log time at end of day
+- **Export**: Export time data to CSV or other formats
+- **Offline Mode**: Queue time entries when offline, sync when reconnected
+- **Privacy-Focused**: Minimal data collection with user control
+- **Lightweight**: Minimal impact on browser performance
 
-### Timesheets
-- Monthly timesheet view
-- Overview of how each team member tracks time
-- Visibility into workload to see who may be overworked or underutilized
+## Supported Platforms
 
-### Reporting & Invoicing
-- Generate reports from logged working hours
-- Use filters to narrow down data (e.g., by person, project, or period)
-- Create client-facing time reports suitable for invoicing
+Integrates with popular tools like Asana, Trello, GitHub, Jira, and many other web-based productivity platforms.
 
-### Task & Project Integration
-- Automatically fetches tasks from connected tools
-- Allows tracking time directly on tasks in integrated tools
+## Benefits
 
-### Cross-Platform Use
-- Real-time synchronization of time tracking data across:
-  - Desktop app (platform not specified)
-  - Web app
-  - iOS mobile app
-  - Android mobile app
-  - Chrome extension
-
----
-
-## Integrations
-- Asana (time tracking on Asana tasks)
-- Trello (time tracking on Trello cards)
-- Basecamp (time tracking on Basecamp items)
-- GitHub (time tracking on GitHub issues and development tasks)
-- Todoist (time tracking on Todoist tasks)
-
----
+Eliminates the friction of switching to a separate time tracking app, making it more likely users will actually track time consistently by embedding the feature where work happens.
 
 ## Pricing
-Flat, non–per-user pricing, including all premium features:
 
-- **Plan 1 – Up to 10 team members**  
-  - Price: **$6.99**  
-  - Includes all premium features and functionality
-
-- **Plan 2 – Unlimited users**  
-  - Price: **$69**  
-  - Includes all premium features and functionality
-
-(Exact billing period is not specified in the provided content.)
+Free tier available with basic features. Premium plans unlock advanced reporting, integrations, and team features.

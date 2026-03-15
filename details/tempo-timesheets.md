@@ -1,36 +1,31 @@
 ## Overview
 
-Tempo Timesheets is the most popular time tracking app for Jira, launched in 2009. It's an AI-integrated timesheet application that lets staff log time entries with a click, while automation boosts compliance and simplifies tracking. The platform features intuitive automation and Jira-native design, making it a trusted time tracking and capacity management tool for teams of all sizes.
+Tempo Timesheets is the leading time tracking solution for Jira, extending Atlassian's platform with comprehensive timesheet management, resource planning, and financial tracking capabilities designed for professional services and development teams.
 
 ## Features
 
-- **Automated Time Tracking**: Eliminates manual entry, significantly reducing errors and freeing up teams for more strategic tasks
-- **AI Recommendations**: AI-powered suggestions for time tracking entries
-- **Jira Integration**: Deep, native integration with Jira Cloud and Data Center
-- **Calendar Integration**: Sync with calendars for easier time logging
-- **IDE Integration**: Track time directly from development environments
-- **Compliance Management**: Built-in features to ensure timesheet compliance
-- **Advanced Reporting**: Comprehensive reports on time spent, project progress, and team productivity
-- **Financial Management**: Track budgets, costs, and revenue across projects
-- **Capacity Planning**: Visualize team capacity and workload distribution
-- **Custom Periods**: Define custom timesheet periods to match your workflow
-- **Approval Workflows**: Streamlined timesheet approval processes
-- **Mobile Apps**: Full-featured iOS and Android apps for time tracking on the go
-- **Timesheet Gadgets**: Customizable dashboard widgets for at-a-glance insights
+- **Jira Integration**: Native integration with Jira issues and projects
+- **Time Tracking**: Log time directly in Jira or via browser extension
+- **Timesheets**: Weekly and monthly timesheet views with approval workflows
+- **Project Planning**: Forecast resource needs and project timelines
+- **Capacity Management**: View team availability and workload
+- **Budget Tracking**: Track project budgets against actual time and costs
+- **Chrome Extension**: Track time from any web page with Tempo button
+- **Mobile Apps**: Log time and submit timesheets from iOS and Android
+- **Invoicing**: Generate invoices from tracked time (Tempo Accounts)
+- **Reporting**: Advanced reports on time, costs, and resource utilization
+- **Approvals**: Timesheet approval workflows for managers
+- **Billing Rates**: Set different rates by role, project, or team member
+- **API**: Robust API for custom integrations and reporting
 
-## Best For
+## Product Suite
 
-Development teams, software companies, and organizations already using Jira for project management who need robust time tracking and resource management capabilities.
+Tempo offers multiple products including Timesheets (time tracking), Planner (resource management), Budget Manager, and Cost Tracker, which can be used together or separately.
 
-## Ratings
+## Benefits
 
-- SmartScore: 8.3/10
-- User Satisfaction: 94%
+For teams already using Jira, Tempo provides professional time tracking without leaving their existing workflow, with data flowing seamlessly between issues, timesheets, and financial reports.
 
 ## Pricing
 
-Enterprise pricing calculated based on the number of users. Contact Tempo for quote-based pricing tailored to your organization's needs.
-
-## Recognition
-
-Tempo Timesheets is one of the most trusted and widely-used time tracking solutions in the Atlassian Marketplace, with thousands of teams worldwide relying on it for Jira time tracking.
+Subscription-based pricing with different tiers for Jira Cloud and Jira Data Center deployments. Pricing scales with number of users.

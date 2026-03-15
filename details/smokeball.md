@@ -1,65 +1,24 @@
 ## Overview
 
-Smokeball is a comprehensive legal practice management software that combines case management, time tracking, and billing in one centralized system. It's particularly well-suited for small-to-medium law firms looking to streamline all business activities.
+Smokeball is an all-in-one legal practice management solution designed specifically for small and mid-sized law firms, combining case management, document automation, time tracking, and billing in a single cloud-based platform.
 
 ## Features
 
-### Automatic Time Tracking
-- Tracks time automatically as you work
-- Activity-based time capture
-- No manual timers required
-- Captures billable time that would otherwise be lost
-- Integrates time tracking with case activities
+- **Automatic Time Tracking**: AutoTime captures billable activities automatically as lawyers work in documents, emails, and other applications
+- **Case Management**: Complete matter tracking with deadlines, tasks, and document organization
+- **Document Automation**: Pre-built and custom templates for common legal documents
+- **Billing & Invoicing**: Generate invoices from tracked time with flexible billing arrangements
+- **Email Integration**: Sync emails directly to matters with automatic time capture
+- **Trust Accounting**: Built-in IOLTA and trust accounting features
+- **Court Forms**: Access to jurisdiction-specific court forms library
+- **Mobile App**: Manage cases and track time on iOS and Android devices
+- **Reporting**: Practice analytics including revenue forecasting and realization rates
+- **Integrations**: Connect with QuickBooks, Outlook, Gmail, and other tools
 
-### Case Management
-- Matter-centric organization
-- Deadline tracking and calendaring
-- Task management
-- Client communication tracking
-- Document management
+## Practice Areas
 
-### Document Automation
-- Legal form automation
-- Template library for common documents
-- Auto-population of case data
-- Electronic signatures
-- Document assembly
-
-### Billing & Invoicing
-- Automated invoice generation from tracked time
-- Multiple billing arrangements
-- Trust accounting
-- Expense tracking
-- Payment processing
-
-### Integration
-- Microsoft Office integration
-- Outlook calendar sync
-- Email integration
-- Legal research tools
-- Court filing systems
-
-## Platform Support
-
-- Desktop application (Windows)
-- Cloud-based access
-- Mobile apps for iOS and Android
-
-## Benefits
-
-- **All-in-One Solution**: Everything needed to run a law firm in one platform
-- **Automatic Capture**: Never miss billable time
-- **Document Efficiency**: Automated document creation saves hours
-- **Centralized**: All case information in one place
-- **Practice Area Specific**: Templates and workflows for different practice areas
-
-## Ideal For
-
-- Small law firms (2-20 attorneys)
-- Medium-sized firms
-- Firms in personal injury, family law, criminal defense, estate planning
-- Firms wanting to eliminate multiple software subscriptions
+Supports multiple practice areas including family law, personal injury, criminal defense, estate planning, real estate, and more with practice-specific features and templates.
 
 ## Pricing
 
-Offers multiple pricing tiers based on features and firm size. Free trial available.
+Subscription-based pricing with different tiers based on features and number of users. Free trial available.

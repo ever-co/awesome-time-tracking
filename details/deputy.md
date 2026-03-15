@@ -1,24 +1,25 @@
-# Deputy
+## Overview
 
-[Deputy](https://www.deputy.com/) is a workforce management and time tracking application designed for businesses, particularly larger companies and HR teams. It provides tools for employee scheduling, timesheet management, compliance, and integrates with payroll and accounting systems.
+Deputy is a comprehensive workforce management platform designed for shift-based businesses, providing scheduling, time tracking, task management, and labor compliance tools in one integrated system.
 
 ## Features
-- **Employee Scheduling**: Create employee schedules quickly, allow shift swapping, and manage labor costs effectively.
-- **Time Tracking & Timesheets**: Record accurate employee timesheets, automate wage calculation, and export timesheet data.
-- **Compliance Management**: Manage and automate local, state, and federal labor law compliance to help avoid payroll mistakes and legal issues.
-- **Approval Workflows**: Timesheet verification, approval, and export workflows for streamlined operations.
-- **Payroll and Accounting Integration**: Connect Deputy with popular payroll and accounting software via integrations and open API.
-- **Hiring & Onboarding**: Post jobs, hire candidates, and manage onboarding with organized HR document collection.
-- **Employee Engagement**: Track engagement with features like Shift Pulse+.
-- **Dashboarding**: Visualize and manage workforce data through dashboards.
+
+- **Smart Scheduling**: AI-powered auto-scheduling based on demand forecasting, employee availability, and skills
+- **Time Clock**: Multiple clock-in methods including mobile, kiosk, biometric, and geofencing
+- **Timesheet Management**: Automatic digital timesheets with hours, breaks, and overtime tracking
+- **Labor Compliance**: Automatic enforcement of break rules, overtime limits, and Fair Workweek requirements
+- **Task Management**: Assign and track daily tasks and operational checklists
+- **Communication**: Team messaging and shift notifications
+- **Leave Management**: PTO requests and approval workflows
+- **Payroll Integration**: Export verified timesheets to major payroll providers
+- **Reporting**: Real-time labor cost analytics and forecasting
+- **Mobile Apps**: Full-featured iOS and Android apps for managers and employees
+- **Kiosk Mode**: Turn tablets into time clock stations
+
+## Industries Served
+
+Optimized for hospitality (hotels, restaurants), retail, healthcare, and other shift-based industries with specific features for each sector.
 
 ## Pricing
-- **Free Starter Plan**: Available for basic needs (details not specified in provided content).
-- **Premium Package**: Available for advanced features (details not specified in provided content).
-- Other pricing options may exist; users should visit the [Deputy pricing page](https://www.deputy.com/) for the most up-to-date information.
 
-## Category
-team-project-time-tracking
-
-## Tags
-approval-workflows, payroll, enterprise, integration
+Subscription-based with tiered pricing starting from basic scheduling to advanced workforce management. Per-employee monthly pricing with volume discounts.

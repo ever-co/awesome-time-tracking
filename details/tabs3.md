@@ -1,85 +1,26 @@
 ## Overview
 
-Tabs3 is a comprehensive legal billing and practice management software designed specifically for law firms of all sizes. It offers robust time tracking, flexible billing options, and complete trust accounting features to ensure legal compliance.
+Tabs3 is a long-established legal billing and practice management solution that has served law firms for over 40 years, providing robust time and billing features combined with general ledger accounting and practice management tools.
 
 ## Features
 
-### Time Tracking
-- Multiple time entry methods (timer, manual, batch)
-- Mobile time entry apps
-- Quick time entry shortcuts
-- Time entry templates
-- Activity-based time capture
-
-### Billing & Invoicing
-- Flexible billing arrangements (hourly, flat fee, contingency, hybrid)
-- Customizable invoice templates
-- Electronic billing (LEDES, UTBMS)
-- Pre-billing reports and review
-- Split billing capabilities
-- Batch invoice generation
-
-### Trust Accounting
-- IOLTA/trust account management
-- Three-way reconciliation
-- Trust-to-operating transfers
-- Trust account reports
-- Compliance features for legal ethics rules
-
-### Practice Management
-- Matter management
-- Client management and CRM
-- Calendar and docket control
-- Conflict checking
-- Document management integration
-- Email integration
-
-### Reporting
-- 100+ standard reports
-- Custom report designer
-- Financial reports and analysis
-- Productivity reports
-- Realization and collection reports
-- Aging reports
-
-## Platform Support
-
-- Windows desktop application
-- Cloud-hosted option (Tabs3 Cloud)
-- Mobile apps for time entry
-- Remote access capabilities
-
-## Benefits
-
-- **Legal-Specific**: Built exclusively for law firms
-- **Compliance Ready**: Trust accounting meets bar association requirements
-- **Flexible Billing**: Supports all common legal billing arrangements
-- **Comprehensive**: Handles time tracking through payment processing
-- **Established**: Trusted by law firms for over 40 years
-
-## Ideal For
-
-- Solo practitioners
-- Small to large law firms
-- All practice areas
-- Firms needing robust trust accounting
-- Firms with complex billing requirements
-
-## Deployment Options
-
-- **On-Premise**: Install on your own servers
-- **Tabs3 Cloud**: Hosted solution with automatic backups and updates
-- **Hybrid**: Combination of local and cloud
+- **Time Entry**: Multiple time entry methods including timers, shortcuts, and batch entry
+- **Billing**: Flexible billing arrangements including hourly, flat fee, contingency, and mixed
+- **Trust Accounting**: Full trust account management with IOLTA compliance
+- **General Ledger**: Integrated accounting with accounts payable and receivable
+- **Pre-billing**: Review and edit time and costs before generating invoices
+- **Payment Processing**: Accept credit cards and electronic payments
+- **Document Management**: Integration with PracticeMaster for document assembly and management
+- **Conflict Checking**: Identify potential conflicts of interest
+- **Reporting**: Extensive financial and operational reporting capabilities
+- **Customization**: Highly customizable fields, screens, and reports
+- **Security**: Role-based permissions and audit trails
+- **Cloud or On-Premise**: Available as cloud-hosted or locally installed software
 
 ## Integration
 
-- Integrates with popular legal software:
-  - Document management systems
-  - Microsoft Office
-  - Email platforms
-  - Accounting software (QuickBooks, etc.)
-  - Payment processing services
+Tabs3 integrates seamlessly with PracticeMaster case management software, providing a complete practice management solution when used together.
 
 ## Pricing
 
-Contact Tabs3 for pricing based on firm size and deployment option. Offers perpetual licenses and subscription options.
+Pricing varies based on deployment model, number of users, and modules selected. Contact Tabs3 for detailed pricing information.

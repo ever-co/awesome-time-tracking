@@ -1,22 +1,26 @@
 ## Overview
 
-TimeClock 365 is a cloud-based employee management platform that integrates time tracking, attendance monitoring, and door access control into a single unified solution.
+TimeClock 365 is a comprehensive time and attendance system designed for healthcare organizations, medical practices, and other industries requiring accurate time tracking with strong compliance and integration capabilities.
 
 ## Features
 
-- **Time Tracking** - Comprehensive employee time and attendance tracking
-- **Door Access Control** - Integrated physical access control for building security
-- **Employee Management** - Complete employee management system
-- **Cloud-Based Platform** - Access from anywhere via cloud technology
-- **Real-Time Monitoring** - Monitor employee attendance and access in real-time
-- **Reporting** - Generate detailed reports on attendance, hours worked, and access logs
-- **Mobile Access** - Manage time tracking and access control from mobile devices
-- **Integration Capabilities** - Connect with payroll and HR systems
+- **Multiple Clock-In Methods**: Mobile app, web browser, kiosk, biometric, and phone-based clock-in
+- **Facial Recognition**: Prevent buddy punching with facial recognition technology
+- **GPS Tracking**: Verify employee location at clock-in for field and mobile workers
+- **Scheduling**: Create and publish staff schedules with conflict detection
+- **Leave Management**: Track PTO, sick time, and other leave types
+- **Overtime Alerts**: Automatic notifications when employees approach overtime thresholds
+- **Department Tracking**: Track time across multiple departments or cost centers
+- **Compliance**: Support for FMLA, ACA, and healthcare-specific labor regulations
+- **Payroll Integration**: Connect with major payroll providers for seamless data transfer
+- **Reporting**: Comprehensive reports on hours, attendance, labor costs, and exceptions
+- **Mobile Apps**: Native iOS and Android apps for employees and managers
+- **API Access**: REST API for custom integrations
 
-## Use Cases
+## Healthcare Features
 
-Perfect for businesses requiring integrated time tracking and physical security, including corporate offices, healthcare facilities, and secure workplaces.
+Specific features for healthcare including credential tracking, shift differential calculations, and support for complex healthcare scheduling patterns.
 
 ## Pricing
 
-Contact TimeClock 365 for pricing based on employee count and features needed.
+Subscription-based pricing with per-employee monthly fees. Free trial available.

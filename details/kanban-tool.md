@@ -1,78 +1,31 @@
 ## Overview
 
-Kanban Tool is a comprehensive workflow management platform that combines visual Kanban boards with seamless time tracking capabilities. It helps teams visualize work, manage flow, and track time spent on tasks through an intuitive drag-and-drop interface.
+Kanban Tool is a visual workflow management application that combines traditional kanban methodology with modern features like time tracking, analytics, and process automation to help teams optimize their work processes.
 
 ## Features
 
-- Visual Kanban boards with customizable columns
-- Automatic time tracking with drag-and-drop activation
-- Manual time logging options
-- Work-in-progress (WIP) limits
-- Task cards with rich details and attachments
-- Real-time collaboration
-- Board templates for different workflows
-- Analytics and reporting dashboards
-- Power-ups and integrations
-- Mobile apps for iOS and Android
+- **Kanban Boards**: Visual boards with customizable columns and workflows
+- **Time Tracking**: Built-in time tracking with start/stop timers on tasks
+- **Swimlanes**: Organize work by team, priority, or project within boards
+- **WIP Limits**: Set work-in-progress limits to prevent bottlenecks
+- **Analytics**: Cycle time, lead time, and throughput charts
+- **Power-Ups**: Add functionality like checklists, comments, and attachments
+- **Process Automation**: Auto-assign tasks, set due dates, and trigger actions
+- **Time Reports**: Analyze time spent on tasks, projects, and team members
+- **Calendar View**: See tasks and deadlines in calendar format
+- **Team Collaboration**: Comments, mentions, and file sharing
+- **Mobile Apps**: Native iOS and Android applications
+- **Integrations**: Connect with Slack, email, and other productivity tools
+- **Templates**: Pre-built board templates for common workflows
 
-## Time Tracking Capabilities
+## Methodology Support
 
-- Automatic timer initiation when tasks move to "Doing" column
-- Simple stopwatch timers for tasks
-- Manual time entry for completed work
-- Time tracking analytics and insights
-- Billable hours tracking
-- Time estimates vs. actual time comparison
-- Individual and team time reports
-- Export time data for payroll and billing
+While optimized for Kanban, the tool can support Scrum workflows with sprint planning features and burndown charts available through configuration.
 
-## Workflow Management
+## Benefits
 
-- Pull-based work system
-- Visual representation of work stages
-- Bottleneck identification
-- Cycle time monitoring
-- Cumulative flow diagrams
-- Task dependencies and relationships
-- Swimlanes for team or priority organization
-- Task filtering and searching
-
-## Collaboration Features
-
-- Real-time board updates
-- Task comments and discussions
-- @mentions for team notifications
-- File attachments and links
-- Activity logs and audit trails
-- Team member assignment
-- Due dates and reminders
-
-## Analytics and Metrics
-
-- Lead time and cycle time tracking
-- Throughput measurements
-- Work-in-progress monitoring
-- Team velocity metrics
-- Individual productivity reports
-- Time allocation analysis
-- Custom reporting capabilities
-
-## Integration
-
-- Slack for notifications
-- Zapier for automation
-- API access for custom integrations
-- Calendar integrations
-- File storage platforms
-
-## Use Cases
-
-- Agile software development teams
-- Marketing and creative agencies
-- Operations and support teams
-- Personal productivity management
-- Project portfolio management
+Combines visual task management with time tracking, allowing teams to see both workflow status and time investment in one tool, supporting continuous improvement through analytics.
 
 ## Pricing
 
-Offers free and paid plans with varying features and user limits. Visit Kanban Tool for current pricing details.
+Tiered pricing from free plan for small teams to enterprise plans with advanced features and unlimited boards.

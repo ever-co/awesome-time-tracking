@@ -1,49 +1,31 @@
-# Avaza
+## Overview
 
-[Avaza](https://www.avaza.com/) is a unified work management platform designed for teams to collaborate on projects, track time and expenses, schedule resources, manage quotes and invoices, and communicate via integrated chat. It supports multiple task views (Kanban, Gantt, List) and is suitable for teams wanting to combine project management, time tracking, and business operations in one web-based solution.
+Avaza is a comprehensive work management platform designed for service businesses, combining project management, time tracking, expense management, and invoicing to provide an end-to-end solution for managing billable work.
 
 ## Features
-- **Project & Task Management**
-  - Collaborate on projects and tasks with team and clients
-  - Email-enabled discussions, notifications, and activity feeds
-  - Instantly toggle between Kanban, Gantt, and List views
-  - Visualize, filter, and group tasks within and across projects
-  - Flexible project budgeting and billing methods
-  - Convert emails into tasks
-- **Resource Scheduling**
-  - Team availability overview
-  - Manage and allocate resources to projects
-  - Drag & drop scheduling and assignment editing
-  - Add user leave and public holidays for accurate forecasting
-- **Time Tracking**
-  - One-click time tracking from every screen
-  - Track time directly on tasks
-  - Flexible per-project, per-user rates
-  - Optional timesheet approval workflows
-- **Expense Management**
-  - Digitize receipts via mobile or browser
-  - Expense approvals
-  - Manage recurring expenses
-- **Quoting & Invoicing**
-  - Create and customize professional invoices
-  - Convert estimates into invoices
-  - On-billing of timesheets and expenses
-  - Recurring and retainer invoices
-  - Accept online payments (cards, wallets, bank debits)
-- **Team Chat**
-  - 1-1 and group chat
-  - Topic-focused channels
-  - File sharing (photos, videos, documents)
-  - Native apps for iOS, Android, Windows, Mac
-- **Reporting**
-  - 50+ real-time, customizable reports
-  - Reports on staff utilization, project progress, profitability, time and expenses, uninvoiced work
-  - Schedule automatic report delivery
-- **Integrations**
-  - Connect with 500+ apps (e.g., Zapier, GitHub, Stripe, Xero, Google Workspace, Dropbox)
+
+- **Time Tracking**: Timers, timesheets, and mobile time tracking for billable and non-billable hours
+- **Project Management**: Tasks, Gantt charts, Kanban boards, and project collaboration
+- **Expense Tracking**: Capture receipts and track project-related expenses
+- **Invoicing**: Generate invoices from tracked time and expenses with customizable templates
+- **Quotes**: Create and send professional quotes and estimates
+- **Resource Scheduling**: Allocate team members to projects and view capacity
+- **Team Chat**: Built-in messaging for project discussions
+- **Recurring Invoices**: Automate billing for retainer clients
+- **Online Payments**: Accept credit card and PayPal payments
+- **Reporting**: Financial reports, project profitability, and team utilization
+- **Client Portal**: Allow clients to view projects, invoices, and make payments
+- **Mobile Apps**: Full-featured iOS and Android applications
+- **Integrations**: Connect with accounting software, payment processors, and other tools
+
+## Target Audience
+
+Ideal for consultants, agencies, professional services firms, and freelancers who need to manage projects and bill clients from one platform.
+
+## Benefits
+
+Eliminates the need for multiple subscriptions by combining project management, time tracking, and billing in one affordable platform with seamless data flow between functions.
 
 ## Pricing
-*No pricing information was provided in the content.*
 
-## Tags
-project-management, kanban, teams, web-based
+Tiered pricing starting with a free plan for small teams, with paid plans offering advanced features like resource scheduling and custom branding.

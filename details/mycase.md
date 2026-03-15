@@ -1,22 +1,26 @@
 ## Overview
 
-MyCase is a comprehensive legal practice management software that integrates time tracking, billing, case management, and client communication specifically for law firms.
+MyCase is a cloud-based legal practice management platform designed to help law firms manage cases, track time, bill clients, and communicate effectively, all from a single integrated system.
 
 ## Features
 
-- **Legal Time Tracking** - Track billable hours with legal-specific features and ABA task codes
-- **Billing & Invoicing** - Generate invoices from tracked time with legal billing formats
-- **Case Management** - Manage cases, documents, and deadlines in one place
-- **Client Portal** - Secure client portal for communication and document sharing
-- **Trust Accounting** - Built-in trust accounting for IOLTA compliance
-- **Mobile Apps** - Track time and manage cases from iOS and Android devices
-- **Document Management** - Organize and store case documents securely
-- **Calendar Integration** - Sync with Outlook and Google Calendar
+- **Time Tracking**: Timers, manual entry, and mobile time tracking for billable activities
+- **Expense Tracking**: Record and bill client expenses with receipt capture
+- **Invoicing**: Generate professional invoices from tracked time and expenses
+- **Payment Processing**: Accept credit card, debit card, and eCheck payments online
+- **Trust Accounting**: IOLTA-compliant trust account management
+- **Case Management**: Organize case files, documents, and communications
+- **Client Portal**: Secure client access to case information and documents
+- **Document Management**: Store, organize, and share case documents
+- **Calendaring**: Shared calendars with court date tracking and conflict checking
+- **Communication**: Email, text messaging, and secure messaging with clients
+- **Mobile Apps**: Full-featured iOS and Android applications
+- **Reporting**: Financial and operational reports for practice insights
 
-## Use Cases
+## Benefits
 
-Designed for solo attorneys, small law firms, and mid-sized practices across all legal practice areas requiring integrated practice management.
+MyCase streamlines the entire legal workflow from client intake through final payment, helping firms save time on administrative tasks and get paid faster through integrated payment processing.
 
 ## Pricing
 
-Subscription-based pricing starting at approximately $49 per user per month. Contact MyCase for current pricing and plans.
+Subscription-based pricing with per-user monthly fees. Different plan tiers offer varying levels of features and support. Free trial available.
