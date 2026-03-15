@@ -1316,7 +1316,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Timesheets.com](https://www.timesheets.com/) - Employee timesheet software with scheduling, expense tracking, and comprehensive work hours tracking capabilities. Features cloud-based flexibility, in-browser functionality, real-time activity feeds, and integrations with major payroll providers for compliance-friendly remote work time tracking. ([Read more](/details/timesheetscom.md)) `Timesheets` `Expense Tracking` `Payroll Integration`
 - [TimeWizz](https://timewizz.com/en/home/) - TimeWizz is a comprehensive time management software designed for agencies and SMBs, offering an all-in-one solution that makes complex work environments simple with features like space bar time tracking and automatic project time calculations. ([Read more](/details/timewizz.md)) `Simple` `Modern` `All In One`
 - [Vimcal](https://www.vimcal.com) - Ultra-fast calendar application designed for meeting-heavy professionals with instant response times, keyboard shortcuts, and advanced time zone management for efficient scheduling. ([Read more](/details/vimcal.md)) `Calendar` `Scheduling` `Productivity` `Keyboard Shortcuts`
-
+- [Awesome Time Tracking Tools](https://github.com/timeclick-software/time-tracking-tools) – Curated list of time tracking software and employee time clock tools for businesses.
 
 ## 🍺 Contribute
 
