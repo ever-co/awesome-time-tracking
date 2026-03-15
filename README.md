@@ -9,7 +9,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## 📑 Table of Contents
 
 - [Practices (275)](#practices)
-- [Productivity Tools (80)](#productivity-tools)
+- [Productivity Tools (81)](#productivity-tools)
 - [Attendance & Payroll Management (6)](#attendance--payroll-management)
 - [Automated Time Tracking (26)](#automated-time-tracking)
 - [Professional Services (32)](#professional-services)
@@ -33,7 +33,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Cross-Platform Time Tracking (6)](#cross-platform-time-tracking)
 - [Desktop Time Tracking Applications (4)](#desktop-time-tracking-applications-1)
 - [Developer Time Tracking (1)](#developer-time-tracking-1)
-- [Employee Monitoring (3)](#employee-monitoring)
+- [Employee Monitoring (4)](#employee-monitoring)
 - [Employee Scheduling (13)](#employee-scheduling)
 - [Equipment & Fleet Time Tracking (2)](#equipment--fleet-time-tracking)
 - [Equipment & Fleet Time Tracking (3)](#equipment--fleet-time-tracking-1)
@@ -48,14 +48,14 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Personal Time Tracking (17)](#personal-time-tracking-1)
 - [Practices (2)](#practices-1)
 - [Productivity Tools (1)](#productivity-tools-1)
-- [Project Management (10)](#project-management)
+- [Project Management (11)](#project-management)
 - [Resource Scheduling (8)](#resource-scheduling-1)
-- [Time Blocking & Interval Timers (1)](#time-blocking--interval-timers)
+- [Time Blocking & Interval Timers (9)](#time-blocking--interval-timers)
 - [Time Tracking Apis & Integrations (4)](#time-tracking-apis--integrations)
 - [Time Tracking Apis & Integrations (12)](#time-tracking-apis--integrations-1)
 - [Time Tracking Cli Tools (60)](#time-tracking-cli-tools)
 - [Time Tracking Cli Tools (2)](#time-tracking-cli-tools-1)
-- [Time Tracking Overview & Resources (3)](#time-tracking-overview--resources-1)
+- [Time Tracking Overview & Resources (4)](#time-tracking-overview--resources-1)
 - [Time Tracking Utilities & Calculators (39)](#time-tracking-utilities--calculators)
 - [Time Tracking Utilities & Calculators (8)](#time-tracking-utilities--calculators-1)
 - [Web Based Time Tracking (13)](#web-based-time-tracking)
@@ -413,6 +413,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Stretchly](https://hovancik.net/stretchly/) - Open-source cross-platform break reminder app designed to remind you to take breaks through configurable mini-breaks and long breaks. Lightweight, simple interface allows you to pause or skip breaks if necessary. ([Read more](/details/stretchly.md)) `Open Source` `Cross Platform` `Break Reminder`
 - [Structured Daily Planner](https://structured.app/) - Visual day planner app with timeline-based design that brings together calendar, to-dos, routines, and habits. Features AI to draft schedules and automatically reschedule missed tasks, with over 1.5 million active users. Available for iOS, Mac, Apple Watch, Android, and web with customizable icons and recurring events. ([Read more](/details/structured-daily-planner.md)) `Daily Planning` `Visual` `Calendar Integration`
 - [Sunsama](https://www.sunsama.com/) - Daily planning and time tracking tool that helps create realistic daily plans by combining calendar integration, task management, and time tracking. Sunsama uses timeboxing and daily rituals to help users focus on what matters most each day. ([Read more](/details/sunsama.md)) `Daily Planning` `Timeboxing` `Calendar Integration`
+- [Tadum](https://tadum.app/) - Cloud-based meeting agenda and minutes platform for remote teams. Creates shared agendas accessible to all attendees with real-time collaboration, automatic meeting minutes, and accountability features that roll forward open items, helping teams stay organized and productive across recurring meetings. ([Read more](/details/tadum.md)) `Meeting Management` `Collaboration` `Remote Teams`
 - [Taskade](https://www.taskade.com/) - An AI-powered productivity workspace that combines task management, time tracking, and team collaboration. Features the Flowtime Technique guide and AI assistants for workflow automation, offering a unified platform for managing projects, tasks, and time. ([Read more](/details/taskade.md)) `AI Powered` `Collaboration` `Workflow Automation`
 - [TickTick](https://ticktick.com) - Comprehensive task management and timeboxing app that helps individuals and teams organize tasks, manage time effectively, and boost productivity with integrated Pomodoro timer functionality. ([Read more](/details/ticktick.md)) `Task Management` `Timeboxing` `Pomodoro`
 - [Tide](https://tide.moreless.io/) - Focus and meditation app combining Pomodoro timer functionality with a rich library of high-quality nature sounds including rain, ocean waves, and forest ambiance. Tide helps users maintain concentration and reduce stress through audio-enhanced focus sessions. ([Read more](/details/tide.md)) `Pomodoro` `Nature Sounds` `Meditation`
@@ -882,6 +883,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Employee Monitoring
 
+- [Flowace](https://flowace.ai/) - AI-powered productivity tracking and time management software designed for modern remote and hybrid teams. Offers automatic attendance tracking, screenshot capabilities, productivity monitoring, and real-time insights to help businesses optimize workflows and boost team productivity. ([Read more](/details/flowace.md)) `AI Powered` `Productivity Analytics` `Automatic Tracking`
 - [MonitUp](https://www.monitup.com/) - AI-powered employee monitoring and time-tracking software with productivity insights and privacy-first controls for distributed teams. ([Read more](/details/monitup.md)) `AI-Powered` `Productivity Analytics` `Screenshots`
 - [Worksnaps](https://www.worksnaps.com/) - Time tracking software with automatic screenshot capture for remote teams that monitors keyboard and mouse activity, providing visual verification of work in 10-minute intervals. ([Read more](/details/worksnaps.md)) `Screenshots` `Remote Teams` `Activity Monitoring` `Automatic`
 - [WorkTime](https://www.worktime.com/) - Non-invasive employee monitoring software tracking productivity without capturing screenshots or personal content, offering GDPR, HIPAA, and GLBA compliance for privacy-conscious organizations. ([Read more](/details/worktime.md)) `Employee Monitoring` `Privacy Focused` `Compliance`
@@ -1067,6 +1069,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [monday.com Time Tracking](https://monday.com/) - Integrated time tracking feature within monday.com work management platform. Allows teams to track time directly on tasks and projects, with visual boards, automation, and comprehensive reporting for project-based work. ([Read more](/details/mondaycom-time-tracking.md)) `Project Management` `Team Collaboration` `Visual Board`
 - [Tempo Timesheets](https://www.tempo.io/) - Time tracking and resource planning solution for Jira, providing timesheets, project planning, and team capacity management with deep integration into Atlassian ecosystem for development and project teams. ([Read more](/details/tempo-timesheets.md)) `Jira` `Atlassian` `Development`
 - [TimeCamp Planner](https://www.timecamp.com/planner/) - Task management software with communication and collaboration features, integrated time tracking, and project timeline capabilities for teams. ([Read more](/details/timecamp-planner.md)) `Task Management` `Team Collaboration` `Integration`
+- [TimeHero](https://www.timehero.com/) - AI-powered task management platform featuring automatic scheduling that adapts to your calendar, availability, and priorities. Automatically builds action plans, reschedules tasks when priorities change, and optimizes team workloads, acting like a personal assistant for project and workflow management. ([Read more](/details/timehero.md)) `AI Powered` `Automation` `Scheduling`
 - [VivifyScrum](https://www.vivifyscrum.com/) - All-in-one Scrum and Kanban project management platform with built-in time tracking, invoicing, and team management features, offering flexibility for both small companies and growing agile teams. ([Read more](/details/vivifyscrum.md)) `Scrum` `Agile` `Invoicing`
 - [Workzone](https://www.workzone.com/) - Comprehensive web-based project management and collaboration tool designed to support teams and organizations of all sizes. For over 23 years, Workzone has been the trusted project management software for organizations that run complex, high-volume projects with time tracking, budget management, and team collaboration features. ([Read more](/details/workzone.md)) `Project Management` `Collaboration` `Time Tracking`
 - [YouTrack](https://www.jetbrains.com/youtrack/) - JetBrains project management and issue tracking tool with integrated time tracking, agile boards, and burndown charts, allowing teams to track time estimates and actual time spent directly within issues. ([Read more](/details/youtrack.md)) `Issue Tracking` `Agile` `Development`
@@ -1084,6 +1087,14 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Time Blocking & Interval Timers
 
+- [Amie](https://amie.so/) - All-in-one joyful productivity app combining calendar, todos, and email in a beautifully designed interface. Features AI-powered scheduling, unified workspace for tasks and events, meeting integration with all video providers, and seamless drag-and-drop planning to help users manage their day with ease. ([Read more](/details/amie.md)) `AI Powered` `Calendar Integration` `All In One`
+- [Flat Tomato](https://www.flatpomodoro.com/) - Beautifully designed Pomodoro timer app with calendar integration and task estimation features. Offers extensive customization options, Todoist integration, and multiple visualization methods for productivity statistics. One-time purchase pricing provides lifetime access to all features for focused time management. ([Read more](/details/flat-tomato.md)) `Pomodoro` `iOS` `Calendar Integration`
+- [FocusPomo](https://apps.apple.com/us/app/focuspomo-pomodoro-timer/id1528322796) - Minimalist Pomodoro timer app for Apple ecosystem with charming design and cute tomato characters. Features iCloud sync, productivity charts, time tracking insights, and customizable countdown with gravity sensor tomatoes. Includes desktop widgets, Apple Health synchronization, and distraction blocking across iPhone, iPad, Mac, and Apple Watch. ([Read more](/details/focuspomo.md)) `Pomodoro` `Macos` `Apple Watch`
+- [Habitify](https://habitify.me/) - Cross-platform habit tracking app with elegant design featuring time-of-day scheduling, health app integration, and flexible streak tracking. Helps users build and maintain consistent routines through insightful analytics, customizable reminders, and automated progress tracking across all devices. ([Read more](/details/habitify.md)) `Habit Tracking` `Health Integration` `Cross Platform`
+- [HabitNow](https://habitnow.app/) - Android-exclusive habit tracker with clean interface offering comprehensive customization of habits and to-dos. Features daily, weekly, and monthly goal tracking with one-time premium unlock instead of subscriptions, making it an affordable choice for Android users seeking detailed stats and flexible habit management. ([Read more](/details/habitnow.md)) `Habit Tracking` `Android` `Customizable`
+- [Loop Habit Tracker](https://loophabits.org/) - Open-source habit tracking app for Android with complete privacy, no ads, and flexible scheduling. Helps users create and maintain long-term positive habits with beautiful charts, detailed statistics, customizable reminders, and home screen widgets, all while keeping data locally stored without requiring internet connection. ([Read more](/details/loop-habit-tracker.md)) `Open Source` `Android` `Privacy Focused`
+- [Pomotodo](https://pomotodo.com/) - Pomodoro-inspired time management app designed for creative professionals. Combines task management with Pomodoro technique timer, offering both free and professional versions across iOS and Android platforms for focused work sessions and productivity tracking. ([Read more](/details/pomotodo.md)) `Pomodoro` `Mobile` `Freelancers`
+- [Study Bunny](https://apps.apple.com/us/app/study-bunny-focus-timer/id1478345385) - Gamified focus timer app designed for students featuring an adorable bunny rewards system. Combines Pomodoro technique with productivity tracking, to-do lists, flashcards, and study analytics. Completely free with no locked features, helping students build focus habits through visual rewards and motivational support. ([Read more](/details/study-bunny.md)) `Pomodoro` `Students` `Gamification`
 - [Superhuman Calendar](https://superhuman.com/) - AI-powered calendar features integrated into Superhuman email client with intelligent event creation, automatic scheduling, and meeting briefing capabilities for 2026. ([Read more](/details/superhuman-calendar.md)) `AI` `Calendar` `Email Management` `Automation`
 
 ## Time Tracking Apis & Integrations
@@ -1181,6 +1192,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [A-Systems Time Clocks](https://www.a-systems.net/) - A provider of time clock apps and solutions for construction businesses, offering the "Top 11 Time Clock Apps for Construction (2026)" comprehensive guide. Specializes in helping construction companies select and implement mobile time tracking solutions for field crews. ([Read more](/details/a-systems-time-clocks.md)) `Construction` `Mobile Apps` `Reviews`
 - [Kitesuite](https://kitesuite.com/) - A project management platform offering comprehensive guides on time tracking in project management. Provides the complete 2026 guide to implementing effective time tracking practices, methodologies, and tools for project-based work and team productivity optimization. ([Read more](/details/kitesuite.md)) `Project Management` `Education` `Best Practices`
 - [Qualisync](https://qualisync.com/) - A productivity resource platform offering comprehensive guides on time management methods including time blocking, task batching, timeboxing, and day theming. Provides research-backed frameworks for optimizing focus and efficiency through structured time management approaches. ([Read more](/details/qualisync.md)) `Education` `Methodologies` `Time Management`
+- [Timestripe](https://timestripe.com/) - Goal management and planning tool using the unique Horizons system to connect daily tasks with long-term vision. Seamlessly bridges short-term actions with objectives spanning days, weeks, months, years, and even decades, helping users maintain strategic focus while executing daily work. ([Read more](/details/timestripe.md)) `Goal Setting` `Planning` `Strategic`
 
 ## Time Tracking Utilities & Calculators
 
