@@ -8,10 +8,10 @@ This directory was built and is maintained using the [Ever Works](https://ever.w
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
 ## 📑 Table of Contents
 
-- [Practices (282)](#practices)
+- [Practices (285)](#practices)
 - [Productivity Tools (82)](#productivity-tools)
 - [Attendance & Payroll Management (6)](#attendance--payroll-management)
-- [Automated Time Tracking (26)](#automated-time-tracking)
+- [Automated Time Tracking (28)](#automated-time-tracking)
 - [Professional Services (42)](#professional-services)
 - [Team & Project Time Tracking (69)](#team--project-time-tracking)
 - [Attendance & Payroll Management (57)](#attendance--payroll-management-1)
@@ -22,7 +22,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Field Team Management (5)](#field-team-management)
 - [Mobile Time Tracking (4)](#mobile-time-tracking)
 - [Resource Scheduling (1)](#resource-scheduling)
-- [Team & Project Time Tracking (26)](#team--project-time-tracking-1)
+- [Team & Project Time Tracking (27)](#team--project-time-tracking-1)
 - [Time Tracking Overview & Resources (13)](#time-tracking-overview--resources)
 - [Business Management (31)](#business-management)
 - [Business Management (2)](#business-management-1)
@@ -35,18 +35,19 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Desktop Time Tracking Applications (4)](#desktop-time-tracking-applications-1)
 - [Developer Time Tracking (1)](#developer-time-tracking-1)
 - [Employee Monitoring (4)](#employee-monitoring)
-- [Employee Scheduling (14)](#employee-scheduling)
+- [Employee Scheduling (15)](#employee-scheduling)
 - [Equipment & Fleet Time Tracking (2)](#equipment--fleet-time-tracking)
 - [Equipment & Fleet Time Tracking (3)](#equipment--fleet-time-tracking-1)
 - [Field Team Management (18)](#field-team-management-1)
-- [Freelancers (11)](#freelancers)
+- [Freelancers (12)](#freelancers)
+- [Meeting & Team Time Tracking (1)](#meeting--team-time-tracking)
 - [Mobile Time Tracking (8)](#mobile-time-tracking-1)
 - [Open Sources (8)](#open-sources)
 - [Open Sources (5)](#open-sources-1)
 - [Others (22)](#others)
-- [Others (1)](#others-1)
+- [Others (2)](#others-1)
 - [Personal Time Tracking (21)](#personal-time-tracking)
-- [Personal Time Tracking (19)](#personal-time-tracking-1)
+- [Personal Time Tracking (22)](#personal-time-tracking-1)
 - [Practices (2)](#practices-1)
 - [Productivity Tools (1)](#productivity-tools-1)
 - [Project Management (12)](#project-management)
@@ -54,13 +55,14 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Blocking & Interval Timers (9)](#time-blocking--interval-timers)
 - [Time Tracking Apis & Integrations (4)](#time-tracking-apis--integrations)
 - [Time Tracking Apis & Integrations (12)](#time-tracking-apis--integrations-1)
-- [Time Tracking Cli Tools (60)](#time-tracking-cli-tools)
-- [Time Tracking Cli Tools (2)](#time-tracking-cli-tools-1)
+- [Time Tracking Cli Tools (2)](#time-tracking-cli-tools)
+- [Time Tracking CLI Tools (60)](#time-tracking-cli-tools-1)
+- [Time Tracking CLI Tools (1)](#time-tracking-cli-tools-2)
 - [Time Tracking Overview & Resources (4)](#time-tracking-overview--resources-1)
 - [Time Tracking Utilities & Calculators (39)](#time-tracking-utilities--calculators)
 - [Time Tracking Utilities & Calculators (8)](#time-tracking-utilities--calculators-1)
 - [Web Based Time Tracking (13)](#web-based-time-tracking)
-- [Web Based Time Tracking (8)](#web-based-time-tracking-1)
+- [Web Based Time Tracking (9)](#web-based-time-tracking-1)
 
 
 ## Practices
@@ -83,6 +85,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [1-3-5 Rule](https://hubstaff.com/blog/1-3-5-rule/) - A productivity technique that involves completing one major task, three medium tasks, and five minor tasks each day. This task management method emphasizes prioritization and focus by limiting daily tasks to nine well-defined items that align with your brain's natural capacity. ([Read more](/details/1-3-5-rule.md)) `Productivity Method` `Task Management` `Prioritization`
 - [10-10-10 Rule](https://www.inc.com/marcel-schwantes/how-emotionally-intelligent-leaders-use-the-10-10-10-rule-to-make-the-right-decisions/91070239) - Decision-making framework by Suzy Welch that evaluates choices by considering their impact in 10 minutes, 10 months, and 10 years. This method enables logical, grounded decisions by balancing short-term demands with long-term vision, eradicating rash decision-making. ([Read more](/details/10-10-10-rule.md)) `Decision Making` `Time Management` `Strategic Thinking`
 - [18-Minute Plan](https://bregmanpartners.com/18minutes/) - The 18-Minute Plan is a daily productivity ritual created by Peter Bregman consisting of 5 minutes of morning planning, 1 minute of refocus every hour for 8 hours, and 5 minutes of evening review to manage your day and master distraction. ([Read more](/details/18-minute-plan.md)) `Daily Planning` `Focus` `Reflection` `Time Management`
+- [2-List Strategy (Buffett)](https://jamesclear.com/buffett-focus) - Warren Buffett's prioritization method where you list 25 goals, circle the top 5 as your focus, and treat the remaining 20 as items to avoid at all costs until the top 5 are achieved. ([Read more](/details/2-list-strategy-buffett.md)) `Prioritization` `Focus` `Elimination`
 - [3-3-3 Method](https://www.inc.com/jessica-stillman/productivity-time-management-oliver-burkeman-333-method.html) - Productivity framework that structures your workday into three hours of deep work, three shorter tasks, and three maintenance activities. Popularized by Oliver Burkeman to align effort with natural energy levels. ([Read more](/details/3-3-3-method.md)) `Productivity Method` `Deep Work` `Timeboxing`
 - [4D System](https://www.insightful.io/blog/4d-system-time-tracking) - A time management technique that prioritizes tasks with four actions: Delete, Delegate, Defer, and Do. This system helps filter and manage workload more effectively by categorizing every task into one of these four action categories. ([Read more](/details/4d-system.md)) `Prioritization` `Decision Making` `Workflow`
 - [5-Second Rule](https://www.melrobbins.com/the-5-second-rule/) - Anti-procrastination technique created by Mel Robbins that uses a simple countdown mechanism to overcome hesitation and initiate action. The method involves counting backwards from 5 to 1, then immediately taking physical action before the brain can create excuses or self-doubt. ([Read more](/details/5-second-rule.md)) `Procrastination` `Methodology` `Psychology`
@@ -148,6 +151,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Context Switching Research](https://www.apa.org/topics/research/multitasking) - Scientific research demonstrating that task-switching costs up to 40% of productive time, with workers requiring an average of 23 minutes to fully refocus after interruptions. Studies show knowledge workers toggle between applications 1,200 times per day, costing an estimated $450 billion annually in lost productivity in the US alone. ([Read more](/details/context-switching-research.md)) `Research Based` `Cognitive Science` `Productivity Analytics`
 - [Context Switching Technique](https://www.atlassian.com/blog/productivity/context-switching) - Productivity method involving grouping tasks by the type of mental energy they require. Deep creative work is scheduled during high-energy morning hours, while administrative tasks are batched for lower-energy afternoon periods, minimizing cognitive switching costs. ([Read more](/details/context-switching-technique.md)) `Energy Management` `Task Batching` `Cognitive Efficiency`
 - [Critical Path Method (CPM)](https://asana.com/resources/critical-path-method) - Project scheduling algorithm that identifies the longest sequence of dependent activities and calculates the minimum time required to complete a project, essential for effective time tracking and project management. ([Read more](/details/critical-path-method-cpm.md)) `Project Management` `Scheduling` `Planning`
+- [Daily Highlight Method](https://maketime.blog) - Time management strategy from the book 'Make Time' where you choose one specific 60-90 minute task as your daily focal point to prioritize and protect, ensuring progress on what matters most. ([Read more](/details/daily-highlight-method.md)) `Focus` `Prioritization` `Daily Planning`
 - [Daily Standup (Daily Scrum)](https://www.atlassian.com/agile/scrum/standups) - Short 15-minute daily meeting in agile methodologies where team members synchronize work, discuss progress toward sprint goals, and identify blockers. Promotes collaboration, transparency, and quick problem resolution. ([Read more](/details/daily-standup-daily-scrum.md)) `Agile` `Scrum` `Team Collaboration`
 - [Daily Standup Time Management](https://www.atlassian.com/agile/scrum/standups) - Agile ceremony practice of brief daily team synchronization meetings, typically 15 minutes or less, focusing on progress updates, blockers, and daily plans to maintain alignment without excessive meeting overhead. ([Read more](/details/daily-standup-time-management.md)) `Agile` `Scrum` `Meetings`
 - [Daily Wins Tracking](https://gettingresults.com/daily-wins-habit/) - Productivity practice of identifying and celebrating three achievable accomplishments each day. Research-backed method that triggers dopamine release and increases motivation by 22%. ([Read more](/details/daily-wins-tracking.md)) `Goal Setting` `Motivation` `Tracking` `Positive Psychology`
@@ -344,6 +348,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Work Clean (Mise en Place)](https://workclean.com) - Productivity system based on professional kitchen organization principles where chefs 'put everything in place' before cooking, adapted by Dan Charnas into 10 principles for organizing work and life efficiently. ([Read more](/details/work-clean-mise-en-place.md)) `Organization` `Preparation` `Workflow`
 - [Work-Life Balance Tracking](https://www.rescuetime.com/work-life-balance) - Practice of monitoring time allocation between work, personal life, and recovery activities to identify imbalances and make intentional adjustments. Uses time tracking data to ensure sustainable productivity and wellbeing. ([Read more](/details/work-life-balance-tracking.md)) `Wellness` `Balance` `Time Allocation`
 - [Work-Life Integration](https://www.rescuetime.com/work-life-balance) - Modern approach to managing time that blends work and personal life flexibly rather than strictly separating them. Focuses on integrating responsibilities holistically for greater flexibility and satisfaction. ([Read more](/details/work-life-integration.md)) `Work Life Balance` `Flexibility` `Remote Work`
+- [Yesterbox](https://yesterbox.com) - Email management technique created by Tony Hsieh where you process only yesterday's emails each day, creating a finite daily goal and preventing the endless inbox zero treadmill. ([Read more](/details/yesterbox.md)) `Email Management` `Inbox Zero` `Productivity`
 - [Zeigarnik Effect](https://www.verywellmind.com/zeigarnik-effect-overview-4178562) - Psychological phenomenon where people remember uncompleted or interrupted tasks better than completed ones. Understanding this effect helps optimize productivity by leveraging our brain's natural tendency to hold onto unfinished work. ([Read more](/details/zeigarnik-effect.md)) `Psychology` `memory` `task-completion`
 - [Zero Inbox Method](https://blog.inbox zero.com/) - Email management philosophy aiming to keep inbox empty or nearly empty by quickly processing all messages using triage decisions. Reduces stress, improves responsiveness, and prevents important items from getting lost. ([Read more](/details/zero-inbox-method.md)) `Email Management` `Organization` `Productivity`
 - [Zero-Based Calendar](https://www.inc.com/melanie-deziel/how-a-zero-based-calendar-can-supercharge-your-productivity.html) - Zero-Based Calendar is a time management technique that allocates every hour of the day with a specific task or purpose, maximizing productivity by leaving no time unused or unassigned, inspired by zero-based budgeting principles. ([Read more](/details/zero-based-calendar.md)) `Time Blocking` `Planning` `Intentional` `Scheduling`
@@ -465,8 +470,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Champ](https://www.timechamp.io/) - Workforce intelligence software that organizations use to track and analyze employee activity and productivity during working hours. Transforms raw activity data into actionable insights with features like live screen recording, keystroke tracking, and automated attendance. ([Read more](/details/time-champ.md)) `Employee Monitoring` `Productivity` `Workforce Management`
 - [TimeCamp](https://www.timecamp.com/) - Automatic time tracking software with comprehensive features for tracking billable hours, managing projects, and generating invoices. TimeCamp combines automatic desktop tracking with manual time entry, budgeting, and extensive integrations. ([Read more](/details/timecamp.md)) `Automatic Tracking` `Invoicing` `Budgeting`
 - [Timemator](https://timemator.com/) - Automatic time tracking app for Mac that lets you automatically record your working time by tracking your project files, applications, or websites. Designed specifically for the Apple ecosystem with native apps for macOS, iOS, and watchOS. ([Read more](/details/timemator.md)) `macOS` `iOS` `Automatic`
+- [TimeSentry](https://www.futuretools.io/tools/timesentry) - AI-powered time tracking and billing software that automatically populates timesheets by connecting to email, calendars, and project management tools to suggest narrative time entries for professionals. ([Read more](/details/timesentry.md)) `Ai Powered` `Automated` `Billing`
 - [Timing](https://timingapp.com/) - Automatic time tracking app exclusively for Mac that tracks everything you do without manual timers. Timing automatically records which apps and documents you use, providing comprehensive productivity insights and accurate timesheets for macOS users. ([Read more](/details/timing.md)) `Macos` `Automatic` `Productivity Analytics`
 - [Tockler](https://tockler.io/) - Tockler is a free and open-source automatic desktop time tracking application that monitors your active window title and idle time to track computer usage and working time across Mac, Linux, and Windows platforms. ([Read more](/details/tockler.md)) `Open Source` `Automatic` `Desktop` `Privacy`
+- [TrackerJam](https://www.trackerjam.com) - Automated browser web time tracking tool combining Chrome extension and dashboard to analyze team browser activity, providing detailed productivity insights and core time metrics. ([Read more](/details/trackerjam.md)) `Browser Based` `Automated` `Team Analytics`
 - [Traqq](https://traqq.com) - Ethical time tracking and employee monitoring software that automatically captures work time online and offline while respecting employee privacy. Features application usage tracking without intrusive screen recording. ([Read more](/details/traqq.md)) `Employee Monitoring` `Privacy` `Automatic Tracking` `Cross Platform`
 - [Webtime Tracker](https://chrome.google.com/webstore/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk) - Simple Chrome extension for time tracking that monitors how much time you spend on different websites and applications, helping identify time-wasters and improve focus with automatic activity categorization. ([Read more](/details/webtime-tracker.md)) `Browser Extension` `Activity Tracking` `Productivity`
 - [WebWork Tracker](https://www.webwork-tracker.com/) - Chrome extension and desktop application for automatic time tracking with screenshots, activity monitoring, and productivity analysis. Designed for remote teams and freelancers requiring detailed work verification. ([Read more](/details/webwork-tracker.md)) `Chrome Extension` `Screenshots` `Remote Work`
@@ -765,6 +772,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [Clockify](https://clockify.me/) - Free time tracking software for teams with unlimited users and projects. Clockify offers time tracking, timesheets, reporting, and project management features without limitations on the free plan, making it ideal for budget-conscious teams. ([Read more](/details/clockify.md)) `Free` `Unlimited Users` `Reporting`
 - [awork](https://www.awork.com/) - Project management tool built for agencies with integrated time tracking, budget control, and AI reporting. Features capacity planning and team utilization monitoring for client projects. ([Read more](/details/awork.md)) `Project Management` `Teams` `AI` `Budgeting`
+- [Bubbles](https://www.usebubbles.com/) - Asynchronous video collaboration tool with AI meeting notes and screen recording capabilities that enables teams to eliminate live meetings through async feedback and time-tracked collaboration. ([Read more](/details/bubbles.md)) `Async` `Ai Powered` `Screen Recording`
 - [Celoxis](https://www.celoxis.com/) - Comprehensive project management software with integrated time tracking, weekly timesheets, and advanced resource planning. Features AI capabilities, Gantt charts, and powerful reporting for enterprises. ([Read more](/details/celoxis.md)) `Project Management` `Enterprise` `Reporting` `Timesheets`
 - [Clockodo](https://www.clockodo.com) - Cloud-based time tracking software designed for small to medium-sized businesses. Provides simple, efficient time tracking with project management, reporting, and team collaboration features. ([Read more](/details/clockodo.md)) `Cloud Based` `Small Business` `Reporting`
 - [Connecteam](https://connecteam.com/) - All-in-one employee management platform for remote and deskless teams, combining time tracking, shift scheduling, task assignment, and communication tools in a mobile-first solution. ([Read more](/details/connecteam.md)) `Mobile` `All In One` `Deskless Workers`
@@ -934,6 +942,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [symplr Workforce](https://www.symplr.com/) - Healthcare workforce management platform that helps hospitals and health systems manage payroll accuracy, control overtime, and balance staff schedules with AI-powered recommendations for fair workload distribution and staffing predictions. ([Read more](/details/symplr-workforce.md)) `Healthcare` `Ai Powered` `Workforce Management`
 - [TimeClock 365](https://timeclock365.com/) - Cloud-based time tracking solution for healthcare and medical staff, offering time clock, scheduling, leave management, and payroll integration with industry-specific compliance features for medical facilities. ([Read more](/details/timeclock-365.md)) `Healthcare` `Cloud Based` `Compliance`
 - [TimeWellScheduled](https://timewellscheduled.com) - Free employee scheduling and time clock software with payroll integration designed specifically for retail, hotels, and restaurants to streamline workforce management. ([Read more](/details/timewellscheduled.md)) `Free` `Scheduling` `Retail`
+- [When2Meet](https://www.when2meet.com) - Minimalist web-based group scheduling tool that helps find optimal meeting times through visual availability grids, entirely free with no registration required, supported by ads and donations. ([Read more](/details/when2meet.md)) `Free` `Scheduling` `No Login`
 - [ZoomShift](https://www.zoomshift.com/) - Free work schedule maker and employee time clock app designed specifically for restaurants and small to medium-sized businesses needing agile scheduling tools. Simplifies restaurant employee scheduling with drag-and-drop capabilities and real-time labor cost tracking. ([Read more](/details/zoomshift.md)) `Restaurant` `Scheduling` `Time Clock`
 
 ## Equipment & Fleet Time Tracking
@@ -972,6 +981,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [Avaza](https://www.avaza.com/) - All-in-one project management and time tracking platform for freelancers and teams, combining time sheets, expense tracking, invoicing, and project collaboration in a single integrated solution. ([Read more](/details/avaza.md)) `Project Management` `Invoicing` `All In One`
 - [Better Impact](https://www.betterimpact.com/) - Volunteer management software trusted by over 25,000 organizations to automate scheduling, track volunteer hours, and communicate with volunteers through self-scheduling, automated communications, and one-click reports. ([Read more](/details/better-impact.md)) `Volunteer Management` `Nonprofit` `Scheduling`
+- [Indy](https://weareindy.com) - All-in-one project management software for freelancers featuring hourly rate calculator, proposal and contract templates, time tracking, task management, and automated invoicing. ([Read more](/details/indy.md)) `Freelance` `Invoicing` `Contracts`
 - [Invoicely](https://invoicely.com/) - Completely free web-based invoicing solution for small businesses, freelancers, and web designers to send payment invoices, manage earnings, expenses, and track activity logs. ([Read more](/details/invoicely.md)) `Invoicing` `Free` `Billing` `Freelance`
 - [MinuteDock](https://minutedock.com/) - Lightweight time tracking and billing software designed for professional services firms with conversational time entry, integrated invoicing, and seamless accounting software integration for accurate client billing. ([Read more](/details/minutedock.md)) `Time Tracking` `Invoicing` `Professional Services`
 - [Neon CRM](https://www.neonone.com/) - Comprehensive nonprofit management platform that integrates volunteer management with donor engagement, offering tools for recruiting, onboarding, scheduling, and tracking volunteer activities alongside fundraising capabilities. ([Read more](/details/neon-crm.md)) `Nonprofit` `Crm` `Volunteer Management`
@@ -981,6 +991,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Tyme](https://www.tyme-app.com/en/) - Elegant time tracking app for Mac, iPhone, iPad, and Apple Watch designed for freelancers and teams to effortlessly track billable hours, manage project budgets, and create invoices with cross-device sync. ([Read more](/details/tyme.md)) `Mac` `Freelancers` `Invoicing`
 - [Volgistics](https://www.volgistics.com/) - Comprehensive volunteer management software solution helping organizations coordinate volunteer schedules, track service hours, manage communications, and generate reports for thousands of volunteers efficiently. ([Read more](/details/volgistics.md)) `Volunteer Management` `Nonprofit` `Cloud Based`
 - [Wobbly](https://www.wobbly.me/) - Comprehensive time-tracking solution with invoicing that simplifies task and project management for freelancers and small businesses. ([Read more](/details/wobbly.md)) `Free` `Invoicing` `Small Business`
+
+## Meeting & Team Time Tracking
+
+- [Minutes.io](https://minutes.io) - Web-based meeting minutes software with attendance management, global and by-topic time tracking, decision support, and collaboration features, used globally by KPMG offices. ([Read more](/details/minutesio.md)) `Meetings` `Collaboration` `Decision Tracking`
 
 ## Mobile Time Tracking
 
@@ -1040,6 +1054,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Others
 
 - [TestGorilla](https://www.testgorilla.com/) - Skills assessment platform that helps companies evaluate candidates with timed tests and challenges. While not a time tracker, it measures time-to-completion for hiring assessments and coding tests. ([Read more](/details/testgorilla.md)) `Hiring` `Assessments` `Testing`
+- [Workfrom](https://workfrom.co) - Remote work location discovery platform featuring over 16,900 verified cafes and workspaces with details on WiFi speeds, noise levels, power outlets, and body doubling accountability sessions. ([Read more](/details/workfrom.md)) `Remote Work` `Location Based` `Body Doubling`
 
 ## Personal Time Tracking
 
@@ -1075,11 +1090,14 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Daily](https://dailytimetracking.com/) - Effortless time tracking app tailored for individual use on Mac. Periodically asks what you're doing, removing the need to toggle timers manually. Designed specifically for Mac with a focus on simplicity and minimal friction. ([Read more](/details/daily.md)) `macOS` `Simple` `Individual`
 - [Daylio](https://daylio.net/) - Self-care bullet journal and mood tracker that allows users to track mood, energy, sleep, stress, and daily activities without writing. Create entries in two taps by selecting mood and activities, with customizable tracking scales for comprehensive life logging. ([Read more](/details/daylio.md)) `Mood Tracking` `Wellness` `Mobile`
 - [Energy Level Tracker](https://energyleveltracker.app/) - A dedicated app for tracking energy levels throughout the day to identify peak performance times and optimize task scheduling. Provides insights into daily habits and energy patterns to help users manage moods, take appropriate breaks, and schedule high-priority work during energy peaks. ([Read more](/details/energy-level-tracker.md)) `Energy Management` `Analytics` `Well Being`
+- [Intend](https://intend.do/) - Intention-based productivity tool (formerly Complice) that combines daily intention-setting, goal tracking, virtual coworking, and regular reviews to align daily actions with long-term objectives. ([Read more](/details/intend.md)) `Goal Setting` `Intentions` `Virtual Coworking`
 - [Llama Life](https://llamalife.co/) - ADHD-focused task management app that helps users complete tasks one at a time through timeboxing and single-task focus, with countdown timers for every task and an AI assistant to break down larger tasks. ([Read more](/details/llama-life.md)) `Adhd` `Timeboxing` `Focus` `Timer`
 - [Minutes Time Tracking](https://www.minutes.app/) - Simplified time tracking app focused on tracking time in discrete minutes rather than complex project hierarchies. Designed for freelancers and solopreneurs who want straightforward time logging. ([Read more](/details/minutes-time-tracking.md)) `Freelancers` `Simple` `Minimal`
+- [neurolist](https://play.google.com/store/apps/details?id=neurolist.app.neurolist) - AI planner designed for ADHD and neurodivergent individuals featuring a smart timer that helps overcome time-blindness by organizing tasks into a playlist with dedicated time slots for each subtask. ([Read more](/details/neurolist.md)) `Adhd` `Ai Powered` `Neurodivergent`
 - [Plutio](https://www.plutio.com) - All-in-one business management platform for freelancers combining time tracking with projects, proposals, contracts, and client portals. Features one-click invoice generation from tracked time, eliminating the need for multiple disconnected tools. ([Read more](/details/plutio.md)) `Freelancers` `All In One` `Invoicing` `Client Management`
 - [Super Productivity](https://super-productivity.com/) - Open-source to-do list and time tracker with integrated Pomodoro timer and timeboxing features. Super Productivity combines task management with time tracking, helping users implement timeboxing and time blocking productivity methods. ([Read more](/details/super-productivity.md)) `Open Source` `Pomodoro` `Timeboxing`
 - [Things 3](https://culturedcode.com/things/) - Award-winning task manager exclusively for Apple ecosystem with elegant design, powerful project organization, and seamless integration across Mac, iPhone, iPad, and Apple Watch. ([Read more](/details/things-3.md)) `iOS` `Mac` `Task Management` `Apple`
+- [Thruday](https://thruday.com/) - Neurodivergent-friendly daily planner app designed specifically for ADHD, Autism, and Epilepsy, built from lived experience and backed by science-based research to reduce friction in planning. ([Read more](/details/thruday.md)) `Adhd` `Neurodivergent` `Accessibility`
 - [TickTag](https://www.producthunt.com/products/ticktag) - TickTag is a macOS-native time tracking app where every hashtag becomes a smart category that can be colored, described, or assigned an hourly rate, offering flexible tag-based time management launched in October 2025. ([Read more](/details/ticktag.md)) `Macos` `Tag Based` `Native` `Hashtags`
 - [Tiimo](https://www.tiimoapp.com/) - Award-winning visual daily planner designed for neurodivergent individuals with ADHD and autism, featuring AI co-planning, color-coded schedules, and sensory-friendly design. ([Read more](/details/tiimo.md)) `Adhd` `Autism` `Neurodivergent` `Visual` `Ai Powered`
 - [timeBuzzer](https://timebuzzer.com) - Time tracking solution featuring physical hardware buzzer for one-click tracking combined with desktop and mobile apps. Designed to make time tracking simple and efficient while increasing billable hours for consultants and agencies. ([Read more](/details/timebuzzer.md)) `Hardware` `Physical Device` `Billable Hours`
@@ -1164,6 +1182,11 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Time Tracking Cli Tools
 
+- [Timenotes](https://timenotes.io/) - Chrome time tracking extension that integrates seamlessly with web-based productivity tools, providing one-click time tracking across multiple platforms with automatic project detection and reporting. ([Read more](/details/timenotes.md)) `Browser Extension` `Chrome` `Integration`
+- [Timenotes Chrome Extension](https://timenotes.io/) - Browser-based time tracking extension that integrates with popular web applications. Provides simple, one-click time tracking directly within the tools you already use for seamless workflow integration. ([Read more](/details/timenotes-chrome-extension.md)) `Chrome Extension` `Browser` `Integration`
+
+## Time Tracking CLI Tools
+
 - [Asana Time Tracking (TrackingTime Integration)](https://trackingtime.co/integrations/time-tracking-for-asana) - A TrackingTime integration for Asana that lets teams track time on Asana tasks and projects directly from Asana, keeping accurate work logs without leaving the app. ([Read more](/details/asana-time-tracking-trackingtime-integration.md))
 - [Bartib](https://github.com/nikolassv/bartib) - Bartib is a command-line time tracking tool that logs activities in plaintext files and provides flexible reporting options, making it suitable for straightforward personal time tracking. ([Read more](/details/bartib.md)) `command-line` `logging` `Reporting` `Open Source`
 - [Basecamp Time Tracking (TrackingTime Integration)](https://trackingtime.co/integrations/time-tracking-for-basecamp-4) - A TrackingTime integration for Basecamp that enables teams to track time on Basecamp projects and tasks, consolidating project work and time data. ([Read more](/details/basecamp-time-tracking-trackingtime-integration.md))
@@ -1225,10 +1248,9 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Xero Projects](https://early.app/de/blog/xero-time-tracking/) - Xero is an online accounting platform that includes Xero Projects, a module for time tracking and project cost management, allowing businesses to track billable hours, monitor project profitability, and invoice based on logged time. ([Read more](/details/xero-projects.md)) `Billing` `Invoicing` `Accounting`
 - [Zeit](https://github.com/mrusme/zeit) - Zeit is a command-line tool for tracking time spent on tasks and projects. It is open-source and provides a straightforward interface for managing and recording time usage. ([Read more](/details/zeit.md)) `Open Source` `command-line` `Simple` `programmers`
 
-## Time Tracking Cli Tools
+## Time Tracking CLI Tools
 
-- [Timenotes](https://timenotes.io/) - Chrome time tracking extension that integrates seamlessly with web-based productivity tools, providing one-click time tracking across multiple platforms with automatic project detection and reporting. ([Read more](/details/timenotes.md)) `Browser Extension` `Chrome` `Integration`
-- [Timenotes Chrome Extension](https://timenotes.io/) - Browser-based time tracking extension that integrates with popular web applications. Provides simple, one-click time tracking directly within the tools you already use for seamless workflow integration. ([Read more](/details/timenotes-chrome-extension.md)) `Chrome Extension` `Browser` `Integration`
+- [TimeSpin](https://www.timespin.net/en/timespin-en/) - Twelve-sided time tracking die that enables autonomous, offline-capable theme-based time tracking through intuitive rotational movement, syncing data to cross-platform cloud software for analysis. ([Read more](/details/timespin.md)) `Hardware` `Physical Device` `Offline`
 
 ## Time Tracking Overview & Resources
 
@@ -1309,6 +1331,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Web Based Time Tracking
 
 - [Clockspot](https://www.clockspot.com/) - Cloud-based employee timesheet and time clock software with a simple, easy-to-use interface that requires near-zero learning curve. Employees can clock in from any cell phone, landline, or web browser in 30 seconds or less, with real-time updates for managers. ([Read more](/details/clockspot.md)) `Web Based` `Cloud Based` `Simple`
+- [LifeAt](https://lifeat.io) - Immersive virtual workspace combining focus music, task management, Pomodoro timer, and virtual co-working with over 400+ realistic background spaces for remote work productivity. ([Read more](/details/lifeat.md)) `Virtual Coworking` `Pomodoro` `Body Doubling`
 - [LogMyHours](https://logmyhours.com/) - Free time tracking and invoicing software that helps track hours, share reports and invoices with clients, and stay organized for small businesses and teams. ([Read more](/details/logmyhours.md)) `Free` `Invoicing` `Freelancers`
 - [mite](https://mite.de/en/) - Sleek online time tracking tool from Germany designed for designers, developers, architects, and attorneys. Features powerful reporting, customer and project management, with official apps for iOS, Android, and macOS. Built in collaboration with professionals who rely on it daily, emphasizing simplicity and ease of use. ([Read more](/details/mite.md)) `Simple` `Team` `Reporting`
 - [Noko](https://nokotime.com/) - Friendly online time tracking software for teams and freelancers. Formerly known as Freckle Time Tracking, Noko provides simple, intuitive time logging with powerful reporting and integrations for project-based work. ([Read more](/details/noko.md)) `Freelance` `Team Collaboration` `Invoicing`
