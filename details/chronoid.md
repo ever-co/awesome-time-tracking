@@ -1,45 +1,76 @@
 ## Overview
 
-Chronoid is an open-source time tracking solution that prioritizes simplicity, privacy, and user control. It can be self-hosted, giving organizations complete ownership of their time tracking data.
+Chronoid is an automatic time tracking application built exclusively for freelancers working on macOS. It stands out for offering a genuinely free plan with unlimited tracking capabilities.
 
-## Features
+## Key Features
 
-- Simple, intuitive time tracking interface
-- Project and task organization
-- Manual and timer-based time entry
-- Detailed reporting and analytics
-- Team collaboration features
-- API access for integrations
-- Self-hosted deployment option
-- Data export capabilities
-- Multi-user support
-- Privacy-focused design with no third-party tracking
+### Automatic Time Tracking
+Chronoid automatically records:
+- Applications used
+- Documents and files worked on
+- Websites visited
+- Time duration for each activity
 
-## Self-Hosting Benefits
+### Free Unlimited Plan
+Unlike many competitors, Chronoid offers:
+- Unlimited time tracking
+- No limits on projects or clients
+- Core features available for free
+- No forced upgrade after trial period
 
-- Complete data ownership and control
-- Enhanced privacy and security
-- Customization options for specific needs
-- No recurring subscription fees
-- Compliance with data residency requirements
-- Integration with internal systems
+### Privacy-Focused Design
+All data is stored locally on your Mac by default, with optional cloud sync only if you choose to enable it.
 
-## Technical Details
+### Freelancer-Centric Features
+- Project and client organization
+- Hourly rate tracking
+- Billable vs. non-billable time
+- Export capabilities for invoicing
 
-- Modern web-based architecture
-- Docker deployment support
-- Database options for flexibility
-- REST API for integrations
-- Regular updates and community support
+### Retrospective Tracking
+Review past activity and categorize it into projects after the fact, perfect for freelancers who forget to track in real-time.
 
-## Ideal For
+## Benefits
 
-- Organizations with strict data privacy requirements
-- Teams wanting to avoid cloud-based solutions
-- Companies with technical resources for self-hosting
-- Privacy-conscious individuals and businesses
-- Organizations in regulated industries
+### Cost-Effective
+The free tier makes professional time tracking accessible to freelancers just starting out or those on tight budgets.
+
+### Simple Interface
+Focused on core freelance needs without overwhelming complexity.
+
+### Mac-Native
+Built specifically for macOS, taking advantage of platform capabilities for smooth, efficient tracking.
+
+## Use Cases
+
+- Solo freelancers
+- Independent consultants
+- Creative professionals
+- Anyone needing basic automatic time tracking without subscription costs
+
+## Limitations
+
+- Mac-only (no Windows, Linux, or mobile apps)
+- Fewer team collaboration features compared to enterprise solutions
+- Smaller ecosystem than established players
+
+## Comparison
+
+### vs. Timing
+Chronoid offers a more generous free plan; Timing has more advanced features and longer track record.
+
+### vs. Timemator
+Similar freelancer focus and automatic tracking; pricing models differ.
+
+### vs. RescueTime
+Chronoid focuses on billable hour tracking; RescueTime emphasizes productivity analytics.
+
+## Platform
+
+Exclusively for macOS.
 
 ## Pricing
 
-Free and open-source. Self-hosting costs depend on infrastructure choices.
+- Free plan with core features
+- Premium plan available for advanced features
+- No artificial limits on free tier
