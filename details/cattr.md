@@ -1,28 +1,28 @@
-# Cattr
+## Overview
 
-**Website:** [https://cattr.app](https://cattr.app)  
-**Source:** [GitHub](https://github.com/cattr-app)  
-**Category:** Team / Project Time Tracking
-
-## Description
-Cattr is an open-source, self-hosted time tracking tool designed to monitor employee productivity. It is intended for integration with existing infrastructure and emphasizes transparency and security through on-premises deployment.
+Cattr is an open-source time tracking solution that provides comprehensive monitoring and tracking capabilities for both individual and team use. It focuses on delivering detailed insights into work patterns and productivity.
 
 ## Features
-- **Open-Source & Self-Hosted:** Fully open-source and can be deployed on your own infrastructure for maximum data control.
-- **Time Tracking:** Track work time for individuals or teams.
-- **Screenshot Capture:** Optionally enable screenshot capture for employees, providing visual records of work sessions.
-- **Activity Detection:** Detects keyboard and mouse activity to gauge active work time.
-- **Customizable Extensions:** Supports extensions to customize or expand functionality.
-- **Per-Employee Controls:** Enable or disable features like screenshot capture and activity tracking per employee.
-- **Integration Ready:** Designed to integrate with existing team workflows and infrastructure.
+
+- Automatic time tracking
+- Screenshot capture at configurable intervals
+- Activity level detection
+- Application and website usage monitoring
+- Project and task tracking
+- Team management
+- Detailed reporting and analytics
+- Integration with popular project management tools
+- Desktop client for Windows, macOS, and Linux
+- Self-hosted deployment option
+
+## Use Cases
+
+- Remote team management
+- Freelancer productivity tracking
+- Project time allocation
+- Client billing and invoicing
+- Employee monitoring (with consent)
 
 ## Pricing
-- **Open Source:** Free to use and self-host under an open-source license.
 
-## Tags
-open-source, automatic-tracking, teams, self-hosted
-
-## Source
-- [Cloudron Forum Thread](https://forum.cloudron.io/topic/2872/cattr-time-tracking)
-- [Cattr Official Website](https://cattr.app)
-- [GitHub Repository](https://github.com/cattr-app)
+Free and open-source. Can be self-hosted on your own infrastructure.

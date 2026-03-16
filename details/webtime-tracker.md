@@ -1,34 +1,36 @@
 ## Overview
 
-Webtime Tracker is a Chrome extension that automatically tracks how you spend time in your browser, categorizing websites and applications to provide insights into productivity patterns and time allocation.
+Webtime Tracker is a privacy-focused Chrome extension that helps you understand how you spend your time online by automatically tracking website usage and displaying insightful statistics.
 
 ## Features
 
-- **Automatic Tracking**: Passively tracks time spent on websites without manual timers
-- **Activity Categorization**: Automatically categorizes websites as productive, neutral, or distracting
-- **Daily Reports**: See how you spent your day across different sites and categories
-- **Domain Grouping**: Aggregate time across related domains (e.g., all Google services)
-- **Time Limits**: Set limits for distracting websites with notifications
-- **Focus Mode**: Block distracting sites during designated focus periods
-- **Statistics**: Historical data showing trends in time allocation
-- **Privacy**: All data stored locally in your browser
-- **Export**: Export time tracking data for analysis
-- **Idle Detection**: Automatically pause tracking during inactivity
-- **Custom Categories**: Create custom categories for different types of work
-- **Goals**: Set daily productivity goals and track progress
+- Automatic website time tracking
+- Daily, weekly, and monthly statistics
+- Visual charts and graphs
+- Domain grouping
+- Time limits and goals
+- Detailed breakdown by site
+- Export data functionality
+- Blacklist for excluding sites
+- Zero ads or tracking
+- All data stored locally
+
+## Privacy
+
+- No data sent to external servers
+- All tracking happens locally in your browser
+- No account required
+- Complete control over your data
+- Open source code available for inspection
 
 ## Use Cases
 
-Ideal for knowledge workers who want to understand where browser time goes, identify productivity drains, and build better browsing habits without manual time logging.
-
-## Benefits
-
-Provides objective data about digital habits, helps identify time-wasting patterns, and supports better time allocation decisions through awareness and gentle accountability.
-
-## Privacy Focus
-
-All tracking data stays in your browser with no cloud sync or external servers, ensuring complete privacy of browsing activity.
+- Understanding web browsing habits
+- Identifying time-wasting websites
+- Improving productivity awareness
+- Setting browsing goals
+- Personal accountability
 
 ## Pricing
 
-Free Chrome extension with no premium tiers or subscriptions.
+Completely free with no ads or premium features.

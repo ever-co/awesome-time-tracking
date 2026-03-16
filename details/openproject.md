@@ -1,35 +1,42 @@
 ## Overview
 
-OpenProject is a leading open-source project management platform that provides comprehensive features including time tracking, cost reporting, Gantt charts, and agile boards, available as both a self-hosted solution and cloud service.
+OpenProject is a leading open-source project management software that includes powerful time tracking and cost reporting capabilities, suitable for teams of all sizes.
 
-## Features
+## Time Tracking Features
 
-- **Time Tracking**: Log time on tasks with detailed time and cost reports
-- **Cost Tracking**: Budget planning and cost reporting per project
-- **Gantt Charts**: Timeline visualization with dependencies and milestones
-- **Agile Boards**: Scrum and Kanban boards for agile teams
-- **Work Packages**: Flexible task and issue tracking system
-- **Project Planning**: Roadmaps, versions, and release planning
-- **Team Collaboration**: Comments, mentions, and file attachments
-- **Wiki**: Integrated documentation and knowledge base
-- **Meeting Management**: Agendas, minutes, and action items
-- **Custom Fields**: Extend work packages with organization-specific data
-- **Reporting**: Customizable reports and dashboards
-- **Integrations**: Connect with GitHub, Nextcloud, and other tools
-- **Multi-Project**: Manage portfolios of multiple projects
-- **Mobile-Friendly**: Responsive design works on tablets and phones
+- Log time on work packages and projects
+- Time and cost reporting
+- Budget management and cost tracking
+- Estimated vs. actual time comparison
+- Billable hours tracking
+- Time sheets and approval workflows
+- Detailed time reports with filtering
+- Export time data for payroll and invoicing
+- Multi-currency support
+- Integration with project planning
+
+## Project Management Features
+
+- Work package management (tasks, bugs, features)
+- Gantt charts for project scheduling
+- Agile boards (Scrum, Kanban)
+- Team collaboration tools
+- Document management
+- Meeting agendas and minutes
+- Wiki for documentation
+- Roadmap visualization
+- Custom fields and workflows
+- Two-factor authentication
 
 ## Deployment Options
 
-- **Community Edition**: Free, self-hosted open-source version
-- **Enterprise Cloud**: Hosted by OpenProject with premium features
-- **Enterprise On-Premises**: Self-hosted with enterprise support
-
-## Benefits
-
-Provides enterprise-grade project management capabilities without vendor lock-in, with the option to self-host for complete data control or use cloud hosting for convenience.
+- Cloud-hosted (managed by OpenProject)
+- Self-hosted on-premise
+- Docker deployment
+- Available for Linux and container platforms
 
 ## Pricing
 
-- **Community Edition**: Free and open-source (AGPL license)
-- **Cloud/Enterprise**: Paid plans with additional features and support
+- Community Edition: Free and open-source
+- Enterprise Cloud: Starting at €5.95 per user/month
+- Enterprise On-Premises: Custom pricing for self-hosted deployments
