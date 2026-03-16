@@ -1,26 +1,21 @@
-# Toggl Plan
+## Overview
 
-[Visit Website](https://toggl.com/plan/)
-
-## Description
-Toggl Plan is a visual project management tool designed for small and mid-sized teams, both remote and in-office. It provides intuitive planning, scheduling, and workload management with seamless integration to Toggl Track for time tracking and project insights.
+Toggl Plan (formerly Teamweek) is a visual project planning and team scheduling tool that helps teams plan projects, allocate resources, and manage capacity with an intuitive drag-and-drop timeline interface.
 
 ## Features
-- **Visual Planning**: Organize projects and team tasks with drag-and-drop timelines.
-- **Workload Management**: Visualize team capacity, balance workloads, and prevent burnout by understanding work hours and availability at a glance.
-- **Conflict-Free Scheduling**: Alerts for scheduling conflicts, including integration with Google Calendar to reflect true team availability.
-- **Multiple Views**: Bird's-eye views for stakeholders and focused, task-specific views for team members.
-- **Kanban Boards**: Manage and track project progress in real time.
-- **Time Tracking Integration**: Two-way integration with Toggl Track to start timers from tasks and sync tracked time back to Toggl Plan.
-- **Reporting**: Compare estimated vs. actual hours, generate time reports for project profitability, billing, and payroll.
-- **Shareable Timelines**: Share project timelines with clients for transparency and automatic milestone updates.
-- **Remote and In-Office Team Support**: Suitable for various team setups, including agencies, consultancies, and implementation teams.
 
-## Category
-team-project-time-tracking
-
-## Tags
-project-management, integration, web-based, planning
+- **Visual Timeline**: Color-coded drag-and-drop timeline for project planning
+- **Team Scheduling**: See who's working on what at a glance
+- **Capacity Planning**: Monitor team workload and availability
+- **Project Templates**: Reusable project templates for recurring workflows
+- **Task Management**: Break down projects into tasks with assignments and estimates
+- **Time Estimates**: Plan with time estimates and track against actuals
+- **Team Calendar**: Shared calendar showing all team members' schedules
+- **Milestones**: Set project milestones and track progress
+- **Toggl Track Integration**: Seamlessly integrates with Toggl Track for time tracking
+- **Collaboration**: Share plans with clients and stakeholders
+- **Mobile Apps**: iOS and Android apps for on-the-go planning
 
 ## Pricing
-*No pricing information provided in the available content.*
+
+Free plan for up to 5 team members with basic features. Team plan at $8 per user per month with unlimited projects and tasks. Business plan at $13.35 per user per month adds billable rates and advanced features.

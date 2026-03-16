@@ -1,54 +1,20 @@
 ## Overview
 
-POINT is a comprehensive volunteer management platform designed specifically for nonprofit organizations, schools, and community groups to efficiently track, manage, and report on volunteer activities.
+POINT is a volunteer management platform that simplifies volunteer time tracking for nonprofits, schools, and community organizations with an intuitive mobile-first approach that makes logging hours effortless.
 
 ## Features
 
-### Time Tracking Methods
-- **Automatic Logging**: Automated time capture for volunteer activities
-- **Manual Entry**: Volunteers and administrators can manually log hours
-- **Self-Check-In Kiosks**: Digital sign-in stations for events and regular volunteer shifts
-- **Mobile App**: Track volunteer time on-the-go
-
-### Reporting & Insights
-- **Automatic Insights**: Built-in analytics that automatically generate insights from volunteer data
-- **Custom Reports**: Create tailored reports with a single click
-- **Grant-Friendly Reporting**: Documentation suitable for grant applications and compliance
-- **Hour Tracking**: Precise tracking of volunteer hours for valuation and impact measurement
-
-### Volunteer Management
-- **Scheduling**: Coordinate volunteer shifts and assignments
-- **Communication**: Built-in tools for volunteer outreach and engagement
-- **Event Management**: Organize volunteer events with integrated sign-in
-- **Database Management**: Maintain comprehensive volunteer records
-
-## Use Cases
-
-- **Nonprofit Organizations**: Track volunteer contributions for annual reports and grants
-- **Schools**: Manage parent volunteers and community service hours
-- **Community Groups**: Coordinate local volunteer initiatives
-- **Charities**: Document volunteer impact for fundraising and transparency
-- **Faith-Based Organizations**: Track service hours and ministry involvement
-
-## Value Proposition
-
-With the Independent Sector value of volunteer time at nearly $33.49 per hour (2026), accurate tracking helps organizations:
-- Demonstrate impact to donors and grant providers
-- Value volunteer contributions financially
-- Make data-driven decisions about program development
-- Ensure compliance with grant requirements
-
-## Platform Features
-
-- All-in-one solution eliminating need for multiple tools
-- User-friendly interface for both administrators and volunteers
-- Secure data storage and management
-- Scalable for organizations of all sizes
-
-## Availability
-
-Web-based platform with mobile applications for iOS and Android, accessible at pointapp.org.
+- **Mobile Check-In**: Volunteers check in and out using their smartphones with GPS verification
+- **Automatic Time Tracking**: Hours are automatically calculated when volunteers check in to events
+- **Event Management**: Create and manage volunteer events with capacity limits and schedules
+- **Impact Dashboard**: Real-time dashboard showing total volunteer hours and impact metrics
+- **Volunteer Profiles**: Track individual volunteer hours, events attended, and achievements
+- **QR Code Check-In**: Support for QR code scanning for quick event check-ins
+- **Reporting**: Generate reports on volunteer hours by individual, event, or time period
+- **Notifications**: Automated reminders for upcoming volunteer opportunities
+- **Offline Mode**: Continue tracking hours even without internet connection
+- **Export**: Export volunteer hour data for grant reporting and compliance
 
 ## Pricing
 
-Contact POINT for pricing information tailored to organizational needs and size.
+Free tier available for small organizations. Paid plans start at approximately $20 per month for larger organizations with advanced features like custom branding and integrations.

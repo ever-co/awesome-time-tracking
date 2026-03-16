@@ -1,23 +1,20 @@
-# Harvest
+## Overview
 
-[Harvest](https://www.getharvest.com/) is a robust web-based time tracking and invoicing software designed for businesses to track time, manage expenses, and streamline workflow for teams of all sizes.
+Harvest is a straightforward time tracking and invoicing platform designed for freelancers, consultants, and agencies to track billable hours, monitor project budgets, and get paid faster with integrated invoicing.
 
 ## Features
-- **Time Tracking**: Simple, 1-click time tracking for projects and tasks. Available on desktop (Mac/PC), mobile (iOS/Android), and web browser. Offers reminders to track time.
-- **Project Setup**: Add projects, tasks, and team members manually or import from project management tools.
-- **Reporting & Analysis**: Generate instant reports on budgets, time spent, team capacity, expenses, and more. Drill down into detailed data for insights.
-- **Invoicing & Payments**: Create and send invoices for tracked time and expenses with just a few clicks. Clients can pay directly from the invoice. Includes automated follow-up and reminders. Integrates with Xero and QuickBooks.
-- **Budget Monitoring**: Set hourly or fixed-fee budgets for projects. Monitor and receive alerts as budgets are approached or reached.
-- **Cost Tracking**: Track billable and non-billable hours, materials, supplies, travel costs, etc. Upload receipts and attach them to invoices.
-- **Expense Management**: Manage expenses for every client and project.
-- **Integrations**: Over 50 integrations with popular tools to fit into your existing workflow.
-- **Team Management**: Manage team utilization and monitor workload.
 
-## Category
-team-project-time-tracking
-
-## Tags
-invoicing, expense-tracking, team, web-based
+- **Time Tracking**: Track time with browser-based timers, desktop apps, or mobile apps
+- **Browser Extensions**: Chrome, Firefox, and Edge extensions to track time from any web app
+- **Project Budgets**: Set budgets by hours or fees and get alerts when approaching limits
+- **Team Timesheets**: View and approve team timesheets with detailed breakdowns
+- **Expense Tracking**: Log expenses and attach receipts for client reimbursement
+- **Invoicing**: Create professional invoices from tracked time and expenses
+- **Online Payments**: Accept credit card and PayPal payments through invoices
+- **Reporting**: Visual reports on time, expenses, team capacity, and project profitability
+- **Integrations**: Native integrations with Asana, Trello, Basecamp, Jira, Slack, and 100+ tools
+- **Forecasting**: Plan team capacity and forecast project timelines
 
 ## Pricing
-*No pricing details were found in the provided content.*
+
+Free plan for 1 user with 2 projects. Pro plan at $12 per user per month with unlimited projects, invoicing, and integrations. All plans include unlimited time tracking.

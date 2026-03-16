@@ -1,39 +1,20 @@
 ## Overview
 
-monday dev is a development-focused variant of monday work management that provides integrated time tracking alongside sprint planning, issue tracking, and development workflow management designed specifically for software teams.
+monday dev is a specialized version of monday.com built specifically for software development teams, offering agile planning, sprint management, roadmapping, and time tracking integrated with popular development tools.
 
-## Time Tracking for Developers
+## Features
 
-- Track time against sprints and issues
-- Integrated timers for development tasks
-- Time estimates vs. actuals
-- Velocity calculations
-- Burndown metrics
+- **Sprint Planning**: Plan and manage sprints with capacity planning and velocity tracking
+- **Roadmaps**: Visual roadmaps with timeline and Gantt views for release planning
+- **Time Tracking**: Built-in time tracking on tasks and user stories (Pro tier and above)
+- **Backlog Management**: Prioritize and groom product backlog with story points
+- **Kanban & Scrum**: Flexible boards supporting both kanban and scrum methodologies
+- **Bug Tracking**: Dedicated bug tracking with severity levels and assignment
+- **GitHub Integration**: Two-way sync with GitHub for automated updates from commits and PRs
+- **Reporting**: Sprint reports, burndown charts, and velocity metrics
+- **Automation**: 200+ automation recipes for repetitive tasks
+- **Custom Workflows**: Configure workflows to match team processes
 
-## Development Features
+## Pricing
 
-- Sprint planning and management
-- Issue and bug tracking
-- Code review workflows
-- Release management
-- DevOps integration
-
-## Integration with Development Tools
-
-- Git integration (GitHub, GitLab, Bitbucket)
-- CI/CD pipeline connectivity
-- Jira import capabilities
-- Slack and communication tools
-- Time tracking apps (Harvest, Toggl)
-
-## Benefits
-
-- Unified platform for dev work and time tracking
-- Better project estimation through historical data
-- Improved sprint planning accuracy
-- Team capacity visibility
-- Automated reporting
-
-## Target Users
-
-Software development teams, engineering managers, and Agile practitioners needing integrated project management and time tracking tailored to development workflows.
+Standard plan starts at $12 per user per month with basic features. Pro plan at $20 per user per month includes time tracking and advanced reporting. Enterprise plans with enhanced security and support available.

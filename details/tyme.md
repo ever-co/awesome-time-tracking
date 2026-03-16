@@ -1,63 +1,20 @@
 ## Overview
 
-Tyme can be used as a freelancer or employee, and it's designed to effortlessly track billable hours, manage project budgets, and visualize productivity across Mac, iPhone, iPad, and Apple Watch.
+Tyme is an elegantly designed time tracking application for Mac and iOS that emphasizes visual organization and ease of use, making it simple to track billable hours and manage projects across devices.
 
-## Key Features for Freelancers
+## Features
 
-### Time Tracking
-
-- Toggle timers for tasks and projects
-- Manual time entry support
-- Task and project organization
-- Billable hours tracking
-- Project budget management
-
-### Cross-Platform Sync
-
-- Syncs to all your Macs, iPads and iPhones
-- Apple Watch support
-- iCloud synchronization
-- Real-time data updates across devices
-
-### Automatic Tracking
-
-- Use Geofencing to automatically start and stop timers when you arrive at your workplace or a client's office
-- Location-based automation
-- Reduces manual timer management
-
-### Invoicing & Export
-
-- **Plugin Support**: Integrates with Lexware Office, sevdesk, and GrandTotal for invoicing and data import/export
-- **Export Formats**: Export recorded times as PDF, CSV or JSON
-- **Report Generation**: Detailed time reports for client billing
-
-## Visualization & Productivity
-
-- Visual time tracking displays
-- Budget vs. actual tracking
-- Productivity insights
-- Time allocation analysis
+- **Visual Timeline**: Unique timeline view showing your day's activities at a glance
+- **Project Hierarchy**: Organize work with projects, tasks, and subtasks
+- **Live Tracking**: Start and stop timers with one click from menu bar or widget
+- **Categories**: Color-coded categories for better visual organization
+- **Automatic Sync**: Seamless sync between Mac and iOS devices via iCloud
+- **Invoicing**: Generate invoices directly from tracked time
+- **Budget Tracking**: Set project budgets and track time against them
+- **Reports**: Detailed reports with export to PDF, CSV, and Excel
+- **Keyboard Shortcuts**: Fast navigation and control with keyboard
+- **Widgets**: iOS home screen widgets for quick time tracking
 
 ## Pricing
 
-- **Monthly**: $4.99 per month
-- **Annually**: $44.99 per year (saves $14.89)
-- **Free Trial**: 14-day trial available for new users
-
-## User Ratings
-
-Tyme is rated 4.6 out of 5 on the US Mac App Store, based on 290+ reviews.
-
-## Limitations
-
-- Tyme's focus on simple time tracking suits freelancers and small teams but may lack the advanced features larger organizations need
-- Limited automatic time-tracking features beyond geofencing
-- Primarily designed for Apple ecosystem
-
-## Best For
-
-- Freelancers tracking billable hours
-- Small teams on Mac/iOS
-- Consultants managing multiple projects
-- Apple ecosystem users
-- Users needing invoicing integration
+One-time purchase: $29.99 for Mac, $14.99 for iOS, or $39.99 for bundle. Tyme 3 offers subscription option at $2.99/month or $19.99/year with cloud sync and team features.

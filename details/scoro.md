@@ -1,44 +1,20 @@
-### Scoro - Business Management Software
+## Overview
 
-**Category:** Business Management
+Scoro is an all-in-one business management solution that integrates time tracking, project management, CRM, quoting, and billing to help professional services firms streamline operations and improve profitability.
 
-**Website:** [Scoro](https://www.scoro.com/)
+## Features
 
-**Description:**
-Scoro is a comprehensive business management software that seamlessly integrates project management, billing, and reporting functionalities. Designed to streamline business operations, Scoro is equipped with tools to enhance efficiency and productivity across various industries.
+- **Time Tracking**: Track billable and non-billable time with timers, manual entry, or calendar integration
+- **Project Management**: Plan projects with Gantt charts, kanban boards, and task dependencies
+- **Work Scheduling**: Capacity planning and resource allocation across teams
+- **CRM**: Manage sales pipeline, contacts, and customer relationships
+- **Quoting**: Create professional quotes and proposals with approval workflows
+- **Invoicing**: Generate invoices from tracked time and expenses automatically
+- **Financial Reporting**: Real-time dashboards on profitability, utilization, and cash flow
+- **Team Collaboration**: Shared calendars, file sharing, and team communication
+- **Mobile App**: iOS and Android apps for time tracking and project updates
+- **Integration**: Connects with accounting software, email, calendars, and more
 
-**Features:**
-- **Project Management:** Manage projects from initial quote to final delivery, ensuring successful outcomes.
-- **Time Tracking:** Keep accurate records of billable and non-billable hours for better time management.
-- **Billing and Invoicing:** Automate invoicing processes to reduce manual errors and save time.
-- **Reporting and Dashboards:** Gain insights into business performance with robust reporting tools.
-- **Resource Planning:** Optimize resource allocation and manage team capacity efficiently.
-- **Quoting and Budgeting:** Create accurate quotes and budgets to maintain financial control.
-- **Collaboration Tools:** Enhance team communication and collaboration for better project outcomes.
+## Pricing
 
-**Industries Served:**
-- Consultancy (Business, Legal, Accounting, Environmental)
-- Agency (Creative, Advertising, Marketing, Digital, PR)
-- Architecture (Design, Planning, Drafting)
-- Engineering & Construction (Infrastructure, Development)
-- Software Development (Product Engineering, SaaS)
-- IT Services (Technology Consultancies)
-- Event Management (Marketing and Performing Arts)
-
-**Roles Supported:**
-- Executives: Gain visibility and control over business operations.
-- Operations Managers: Streamline processes and manage capacity.
-- Project Managers: Deliver projects successfully from start to finish.
-- Financial Managers: Control costs and automate financial processes.
-- Team Members: Track progress and manage tasks effectively.
-
-**Pricing:**
-While specific pricing details are not provided in the available content, Scoro offers various plans to cater to different business needs. Potential users are encouraged to visit [Scoro's Pricing Page](https://www.scoro.com/pricing/) for detailed information.
-
-**Brand Logo:** ![Scoro Logo](https://cdn.prod.website-files.com/673473202f01ae5c847dfbe1/6826f34430360d71a93380ff_images.png)
-
-**Tags:** Project Management, Billing, Reporting
-
----
-
-For more information, visit [Scoro's Official Website](https://www.scoro.com/).
+Essential plan starts at $28 per user per month with basic features. Standard at $42 per user per month adds work scheduling and detailed reporting. Professional and Ultimate plans available with advanced features and customization.

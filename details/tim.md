@@ -1,48 +1,20 @@
 ## Overview
 
-Tim is a native macOS time tracker designed with performance and user experience in mind. It features a fully native macOS UI with support for system features and extensive automation capabilities.
+Tim is a minimalist time tracking app for macOS that lives in your menu bar, offering a clean and efficient way to track time on tasks and projects with keyboard-first controls.
 
 ## Features
 
-### Native macOS Experience
-- Fully native macOS UI
-- Light & dark mode support
-- Familiar macOS user experience
-- System integration
+- **Menu Bar Timer**: Displays current task and time directly in the macOS menu bar
+- **Keyboard Shortcuts**: Control everything with customizable keyboard shortcuts
+- **Multiple Tasks**: Switch between tasks quickly without leaving your keyboard
+- **Native UI**: Fully native macOS design with light and dark mode support
+- **Low Overhead**: Minimal memory footprint and CPU usage
+- **Simple Reports**: Basic reporting on time spent per task and project
+- **CSV Export**: Export time entries for billing or analysis
+- **Offline First**: All data stored locally, no cloud sync required
+- **Privacy**: No tracking, analytics, or data collection
+- **Task History**: Quick access to recently used tasks
 
-### Performance Optimized
-- Low memory footprint
-- Respects battery life
-- Efficient resource usage
-- Fast and responsive
+## Pricing
 
-### Automation & Integration
-- AppleScript support for scripting
-- Shortcuts integration
-- Spotlight search integration
-- Deep links support
-- x-callback-url for custom automations
-
-## Benefits
-
-- **True Mac App**: Built specifically for macOS with native technologies
-- **Automation Ready**: Extensive automation support for power users
-- **Battery Friendly**: Optimized to minimize battery drain
-- **Fast & Light**: Minimal resource usage keeps your Mac running smoothly
-
-## Platform
-
-- macOS only
-- Native Swift/Cocoa application
-
-## Ideal For
-
-Mac users who value native app experience, want automation capabilities, and need a performance-optimized time tracker that doesn't drain system resources or battery life.
-
-## Automation Examples
-
-With AppleScript and Shortcuts support, you can:
-- Start/stop timers from custom scripts
-- Integrate with other automation workflows
-- Create keyboard shortcuts for common tasks
-- Build custom integrations with other apps
+One-time purchase of $5 for lifetime access. Free trial available to test features before purchase.

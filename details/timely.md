@@ -1,29 +1,20 @@
-# Timely
+## Overview
 
-[Timely](https://timelyapp.com/) is an AI-powered time tracking tool that automatically records work hours and tasks, designed for freelancers, teams, agencies, and businesses seeking accurate and efficient time management.
+Timely is an automatic time tracking application that uses AI to capture all work activities in the background, then intelligently suggests how to categorize time into projects and tasks, creating accurate timesheets with minimal manual effort.
 
 ## Features
-- **Automatic Time Tracking:** Runs in the background to capture work activity without manual input or timers.
-- **AI-Powered Timesheets:** Uses AI to generate accurate timesheets based on user activity and logging patterns.
-- **Memory Tracker:** Automatically records activity with high accuracy, reducing manual effort.
-- **Comprehensive Reporting:** Provides customizable, actionable reports for billing, project management, and performance reviews.
-- **Project Dashboard:** Offers instant insight into project health, progress, and deliverables.
-- **Team-Wide Transparency:** Centralized dashboards give managers real-time views of team performance and resource allocation.
-- **Task Management:** Streamlined task management tools to enhance team collaboration.
-- **Time Planning:** Tools for capacity planning and maximizing team productivity.
-- **Flexible Billable Rates:** Customizable billable rates to optimize revenue and profitability.
-- **Tags:** Allows for simple and robust classification to streamline workflows.
-- **Integrations:** Integrates with over 100 apps and offers 2-way sync with popular project management tools.
-- **Privacy by Design:** User privacy is prioritized—only users can access their tracked memories unless they choose to share them.
+
+- **Automatic Tracking**: Captures all applications, websites, documents, and meetings automatically
+- **Memory**: Creates a comprehensive timeline of your entire workday
+- **AI Suggestions**: Machine learning suggests how to categorize tracked time
+- **Privacy by Default**: All data stored privately, nothing visible to managers by default
+- **Manual Override**: Easy drag-and-drop interface to adjust or refine time entries
+- **Project Budgets**: Track time against project budgets and get alerts
+- **Team Scheduling**: Plan team capacity and workload distribution
+- **Reporting**: Detailed reports on billable hours, productivity, and project profitability
+- **Integrations**: Connects with Asana, Jira, GitHub, Google Calendar, and more
+- **Mobile Apps**: iOS and Android apps for tracking time on the go
 
 ## Pricing
-*No specific pricing plans or details were found in the provided content.*
 
-## Category
-- Automated Time Tracking
-
-## Tags
-- AI
-- Automatic Tracking
-- Productivity
-- Cross-Platform
+Starter plan at $9 per user per month with basic automatic tracking. Premium at $16 per user per month adds team scheduling and advanced reporting. Unlimited plan at $22 per user per month with all features.
