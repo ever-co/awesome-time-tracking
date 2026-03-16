@@ -1,31 +1,54 @@
 ## Overview
 
-POINT is described as the most powerful free volunteer management platform for nonprofits, providing comprehensive tools for volunteer recruitment, scheduling, communication, and hour tracking without subscription fees.
+POINT is a comprehensive volunteer management platform designed specifically for nonprofit organizations, schools, and community groups to efficiently track, manage, and report on volunteer activities.
 
 ## Features
 
-- **Free Forever**: No cost for nonprofits regardless of size or volunteer count
-- **Volunteer Website Integration**: Embeddable widgets for volunteer signup on your website
-- **Mobile App**: Native iOS and Android apps for volunteers and coordinators
-- **Automatic Time Logging**: GPS-enabled automatic check-in and check-out
-- **Manual Time Entry**: Volunteers and admins can manually log hours
-- **Self-Check-In Kiosks**: Turn tablets into volunteer check-in stations
-- **Shift Scheduling**: Create and publish volunteer opportunities and shifts
-- **Communication**: Email and push notifications for volunteer engagement
-- **Custom Reports**: Generate reports on volunteer hours, impact, and demographics
-- **Group Management**: Organize volunteers into teams or groups
-- **Skills Tracking**: Match volunteers to opportunities based on skills and interests
-- **Background Checks**: Integrated volunteer screening options
-- **Impact Dashboard**: Visual analytics showing volunteer contribution and impact
+### Time Tracking Methods
+- **Automatic Logging**: Automated time capture for volunteer activities
+- **Manual Entry**: Volunteers and administrators can manually log hours
+- **Self-Check-In Kiosks**: Digital sign-in stations for events and regular volunteer shifts
+- **Mobile App**: Track volunteer time on-the-go
 
-## Benefits for Nonprofits
+### Reporting & Insights
+- **Automatic Insights**: Built-in analytics that automatically generate insights from volunteer data
+- **Custom Reports**: Create tailored reports with a single click
+- **Grant-Friendly Reporting**: Documentation suitable for grant applications and compliance
+- **Hour Tracking**: Precise tracking of volunteer hours for valuation and impact measurement
 
-Eliminates the cost barrier for volunteer management software, making professional-grade tools accessible to organizations of all sizes, from small community groups to large nonprofits.
+### Volunteer Management
+- **Scheduling**: Coordinate volunteer shifts and assignments
+- **Communication**: Built-in tools for volunteer outreach and engagement
+- **Event Management**: Organize volunteer events with integrated sign-in
+- **Database Management**: Maintain comprehensive volunteer records
 
-## Grant Reporting
+## Use Cases
 
-Provides detailed hour tracking and impact reports needed for grant applications and funding compliance.
+- **Nonprofit Organizations**: Track volunteer contributions for annual reports and grants
+- **Schools**: Manage parent volunteers and community service hours
+- **Community Groups**: Coordinate local volunteer initiatives
+- **Charities**: Document volunteer impact for fundraising and transparency
+- **Faith-Based Organizations**: Track service hours and ministry involvement
+
+## Value Proposition
+
+With the Independent Sector value of volunteer time at nearly $33.49 per hour (2026), accurate tracking helps organizations:
+- Demonstrate impact to donors and grant providers
+- Value volunteer contributions financially
+- Make data-driven decisions about program development
+- Ensure compliance with grant requirements
+
+## Platform Features
+
+- All-in-one solution eliminating need for multiple tools
+- User-friendly interface for both administrators and volunteers
+- Secure data storage and management
+- Scalable for organizations of all sizes
+
+## Availability
+
+Web-based platform with mobile applications for iOS and Android, accessible at pointapp.org.
 
 ## Pricing
 
-Completely free for nonprofit organizations. Optional premium add-ons available for advanced features.
+Contact POINT for pricing information tailored to organizational needs and size.
