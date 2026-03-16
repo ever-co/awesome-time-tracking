@@ -1,35 +1,19 @@
 ## Overview
 
-Noisli is an ambient sound mixer and productivity tool that helps users focus, relax, or sleep by creating custom soundscapes from nature sounds, white noise, and ambient backgrounds.
+Noisli is a background noise generator that provides high-quality soothing sounds like rain, ocean, brown noise and white noise to help mask loud noises, reduce stress, improve focus and productivity.
 
 ## Features
 
-- **Sound Mixer** - Combine and adjust 16+ ambient sounds (rain, thunder, wind, forest, etc.)
-- **Custom Combos** - Create and save favorite sound combinations
-- **Productivity Timer** - Built-in Pomodoro and interval timer
-- **Text Editor** - Distraction-free writing environment with autosave
-- **Offline Mode** - Download sounds for offline use (app version)
-- **Cross-Platform** - Web, iOS, Android, Chrome extension
-- **Fade In/Out** - Smooth transitions between sound combos
-- **Random Mode** - Automatically generate new combinations every few minutes
-
-## Available Sounds
-
-- Rain, Thunderstorm, Wind, Forest, Leaves
-- Water Stream, Seaside, Water
-- Campfire, Coffee Shop, White Noise, Pink Noise, Brown Noise
-- Train, Fan, Keyboard typing
+- 16 total sounds with 10 common nature sounds, train, coffeeshop plus 4 noise types (fan, white, pink and brown noise)
+- Mix different sounds and create your perfect sound ambience tailored to your personal need and taste by activating one or more sounds and adjusting the volume sliders
+- Curated playlists for noise masking, focus and concentration, study, writing, sleep, and relaxation
+- Online timer and a distraction-free text editor
+- Simple, beautiful user interface
 
 ## Use Cases
 
-Perfect for:
-- Remote workers needing background sound to mask distractions
-- Writers wanting distraction-free environment
-- People sensitive to silence or distracting office noise
-- Anyone using Pomodoro technique
-- Insomnia or meditation support
+Noisli is mainly used to drown out annoying noises in order to better concentrate and to enhance productivity, or to create a pleasant audio environment for relaxing or sleeping. Already used all over the world by coders, programmers, bloggers, writers, students and translators during work, and also useful for helping with insomnia, reducing stress, soothing headaches, and masking Tinnitus and helping with ADD and ADHD.
 
 ## Pricing
 
-- **Free web version** - Basic features
-- **Premium** - $10/year for apps, offline mode, and advanced features
+Free web version available, with premium features in iOS and Android apps.

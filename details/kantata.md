@@ -1,102 +1,20 @@
 ## Overview
 
-Kantata Professional Services Automation (formerly Mavenlink and Kimble) is an enterprise PSA platform purpose-built for professional services organizations. It combines resource management, project delivery, and financial operations in a unified system.
+Kantata (formerly Mavenlink) is a Professional Services Automation (PSA) platform that provides integrated project management, resource management, project accounting, and team collaboration features for effective project, task, team, and revenue tracking.
 
-## Resource Management
+## Key Features
 
-- Real-time resource availability tracking
-- Skills-based resource matching
-- Capacity planning and forecasting
-- Resource utilization analytics
-- Demand planning
-- Scenario modeling
-- Bench management
-- Resource request and allocation workflows
+- **Advanced Project Management**: Track tasks, milestones, deliverables, and profitability in terms of hours and dollars
+- **Time Tracking**: Track time manually or automatically, add time and expenses directly to projects, review and approve all time entries from the same location
+- **Resource Planning**: Comprehensive resource planning and allocation capabilities
+- **Financial Management**: Project accounting and profitability tracking
+- **Collaboration Tools**: Team collaboration features integrated throughout the platform
+- **Multiple Views**: Tabular views including activity, task tracker, Gantt, time and expense, resource planner, files, and proofs
 
-## Time Tracking
+## Target Audience
 
-- Flexible timesheet entry
-- Mobile time tracking
-- Timer and manual entry
-- Project and task-level tracking
-- Approval workflows
-- Integration with project plans
-- Time allocation across multiple projects
-- Billable and non-billable time
-
-## Project Delivery
-
-- Project planning and scheduling
-- Task management
-- Milestone tracking
-- Gantt charts and timelines
-- Project templates
-- Collaboration tools
-- Document management
-- Risk and issue tracking
-
-## Financial Management
-
-- Project budgeting and forecasting
-- Revenue recognition
-- WIP (Work in Progress) tracking
-- Profitability analysis
-- Invoice generation
-- Expense management
-- Financial reporting
-- Integration with ERP systems
-
-## Four-Stage Resource Lifecycle
-
-1. **Estimating**: Project scoping and resource estimation
-2. **Planning**: Resource allocation and scheduling
-3. **Executing**: Active project delivery and tracking
-4. **Optimizing**: Performance analysis and improvement
-
-## Business Intelligence
-
-- Real-time dashboards
-- Predictive analytics
-- Utilization metrics
-- Project performance KPIs
-- Revenue forecasting
-- Custom reporting
-- Executive scorecards
-
-## Integration Ecosystem
-
-- Salesforce CRM
-- Microsoft Dynamics
-- NetSuite
-- QuickBooks
-- Jira
-- Slack
-- Microsoft Teams
-- Google Workspace
-
-## Platform Editions
-
-- **Kantata OX** (formerly Mavenlink): Optimized for mid-market firms
-- **Kantata SX** (formerly Kimble): Designed for enterprise organizations
-
-## Use Cases
-
-- Consulting firms
-- IT services companies
-- Creative agencies
-- Engineering and architecture firms
-- Marketing agencies
-- Professional services divisions of larger enterprises
-
-## Key Benefits
-
-- Unified platform eliminates tool sprawl
-- Real-time visibility into resource needs
-- Improved project profitability
-- Optimized resource utilization
-- Streamlined financial operations
-- Scalable from mid-market to enterprise
+Designed for professional services organizations that need to manage projects, resources, and financials in one integrated platform.
 
 ## Pricing
 
-Enterprise pricing model. Contact sales for custom quote based on organization size and requirements.
+Professional tier starts at $39 per user per month for collaboration, project management, and time tracking. Premier and Enterprise tiers include additional features like financials and resource tracking.

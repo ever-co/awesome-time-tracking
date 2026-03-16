@@ -1,45 +1,173 @@
 ## Overview
 
-Context switching refers to the act of shifting your attention between different tasks or projects, which disrupts focus and drains mental energy. Research shows it has a significant negative impact on productivity.
+Context switching cost refers to the time, energy, and productivity lost when shifting attention between different tasks, projects, or tools. Time tracking data can reveal these hidden productivity drains and inform strategies to minimize them.
 
-## The Research
+## The Science
 
-Context switching can lead to a **40% decrease in productivity** according to research from the American Psychological Association. Additionally, research from the University of California found that it takes an average of **23 minutes and 15 seconds** to fully regain focus after an interruption.
+### Switching Penalties
+- Average 23 minutes to regain deep focus
+- 40% productivity loss with frequent switching
+- Increased error rates
+- Mental fatigue accumulation
+- Reduced creative thinking
 
-## Why It's Costly
+### Attention Residue
+- Previous task thoughts linger
+- Incomplete task preoccupation
+- Divided mental resources
+- Reduced performance on new task
+- Coined by Sophie Leroy
 
-Every time you switch tasks, your brain needs time to:
-- Disengage from the current task
-- Clear the previous context from working memory
-- Load the new task context
-- Reorient and rebuild momentum
+## Types of Context Switches
 
-This mental overhead accumulates throughout the day, leading to increased fatigue and decreased output quality.
+### Task Switching
+- Moving between different work items
+- Changing project focus
+- Switching client work
+- Most measured type
 
-## Impact on Time Tracking
+### Tool Switching
+- Email to code to meeting
+- Multiple apps/platforms
+- Physical location changes
+- Device switches
 
-Frequent context switching makes accurate time tracking more difficult because:
-- Transition time between tasks is often unaccounted for
-- The true cost of switching isn't reflected in time logs
-- Productivity appears lower without understanding the root cause
+### Mental Switching
+- Creative to analytical work
+- Deep focus to shallow tasks
+- Strategic to tactical thinking
+- Learning to applying
 
-## Mitigation Strategies
+## Measuring Impact
 
-### Task Batching
-Group similar tasks together to complete all at once, reducing the number of context switches per day.
+### Time Tracking Insights
+- How often you switch tasks
+- Time per task/project
+- Fragmentation patterns
+- Peak focus periods
+- Distraction frequency
+
+### Key Metrics
+- **Switches per day**: Count of task changes
+- **Average task duration**: How long you stay focused
+- **Fragmentation index**: Distribution of time across tasks
+- **Deep work blocks**: Uninterrupted focus time
+
+## Cost Calculation Example
+
+```
+10 task switches per day
+× 23 minutes lost per switch
+= 230 minutes (3.8 hours) lost daily
+= 19 hours per week
+≈ 50% of productive capacity
+```
+
+## Reduction Strategies
 
 ### Time Blocking
-Allocate dedicated blocks of time to specific types of work, protecting against interruptions.
+- Dedicate blocks to single tasks
+- Batch similar activities
+- Protect deep work time
+- Schedule switches intentionally
 
-### Communication Boundaries
-Set specific times for checking email and messages rather than responding immediately.
+### Communication Batching
+- Check email 2-3 times daily
+- Batch Slack/messages
+- Set specific response times
+- Use DND modes
+
+### Meeting Management
+- Group meetings together
+- Morning or afternoon clusters
+- Leave space for deep work
+- Decline low-value meetings
+
+### Tool Consolidation
+- Reduce app sprawl
+- Integrate workflows
+- Single-tasking tools
+- Close unnecessary tabs
+
+### Maker vs Manager Schedule
+- Paul Graham's concept
+- Makers: long uninterrupted blocks
+- Managers: hourly slots
+- Protect maker time
+
+## Async Communication
+
+### Benefits
+- Reduces real-time interruptions
+- Allows batched responses
+- Documented decisions
+- Cross-timezone friendly
+- Lower context switch frequency
+
+### Implementation
+- Default to async tools
+- Clear expectations on response time
+- Embrace written communication
+- Reduce synchronous meetings
+
+## Digital Tools
+
+### Measurement
+- RescueTime (tracks switches automatically)
+- Toggl Track (manual project switching)
+- Clockify (task duration analysis)
+
+### Prevention
+- Freedom (blocks distractions)
+- Focus@Will (single-task mode)
+- Forest (stay-focused timer)
+- Cold Turkey (website/app blocker)
+
+## Personal Strategies
 
 ### Single-Tasking
-Focus on one task at a time until completion or a natural stopping point.
+- One browser tab
+- One project at a time
+- Complete before switching
+- Resist multitasking myth
 
-## Benefits of Reducing Context Switching
+### Transition Rituals
+- 5-minute buffer between tasks
+- Quick walk or stretch
+- Review notes from previous task
+- Set intention for next task
+- Clear desk/close apps
 
-By implementing task batching and reducing context switching, teams can:
-- Save an average of 5 hours per week
-- Reduce context switches from 40 to 15 times per day
-- Increase overall productivity by 25%
+### Energy Management
+- Match task type to energy level
+- Creative work during peak hours
+- Admin during low-energy times
+- Build in genuine breaks
+
+## Organizational Solutions
+
+### Meeting-Free Days
+- No meetings on Wednesdays
+- Protected deep work time
+- Async communication only
+- Higher focus productivity
+
+### Core Collaboration Hours
+- Set windows for sync work
+- Outside = focus time
+- Predictable availability
+- Reduced interruptions
+
+## When Context Switching Is Necessary
+
+- Urgent client issues
+- Time-sensitive deadlines
+- Genuine emergencies
+- Collaborative brainstorming
+- Cross-functional alignment
+
+The key is making switches **intentional** rather than reactive.
+
+## Bottom Line
+
+Context switching is one of the largest hidden costs to knowledge worker productivity. Time tracking makes the invisible visible, enabling data-driven strategies to reclaim hours of productive capacity.

@@ -1,24 +1,23 @@
 ## Overview
 
-WorkFlowy is a minimalist outlining and organization tool based on infinite nested lists. While primarily a note-taking and task management tool, it includes time tracking features for monitoring work on tasks and projects.
+Workflowy is a powerful online outliner app that lets you organize your thoughts, notes, and projects in infinitely nested lists. It's a clean and distraction-free app that helps you quickly capture notes, plan your to-do's, and get organized.
 
-## Features
+## Key Features
 
-- **Infinite Nesting** - Create unlimited levels of nested lists
-- **Zoom** - Zoom into any item to focus and work within that context
-- **Time Tracking** - Built-in time tracking for tasks and projects
-- **Tagging** - Use hashtags to categorize and filter items
-- **Search** - Powerful search across all lists
-- **Collaboration** - Share lists and collaborate in real-time
-- **Cross-Platform** - Web, desktop, iOS, and Android apps
-- **Offline Mode** - Work offline with automatic sync
-- **Minimalist Interface** - Clean, distraction-free interface
+- Capture notes and ideas in an instant
+- Organize complex thinking with infinite nesting
+- Ask AI to summarize or brainstorm with your notes
+- Plan and manage tasks with kanban boards
+- Tag and assign items
+- Link items across lists
+- Share and collaborate in real-time
+- Upload photos and files
+- Search your entire Workflowy in seconds
 
-## Use Cases
+## Notable Users
 
-Ideal for writers, planners, students, and anyone who thinks in outlines and needs simple time tracking alongside task organization.
+Used by Mike Cannon-Brookes (CEO of Atlassian), Farhad Manjoo from the New York Times, Slack's founders, and thousands of entrepreneurs, writers, engineers, scientists, creatives and students across the globe.
 
 ## Pricing
 
-- **Free plan** - 250 items per month
-- **Pro plan** - $4.99/month for unlimited items and features
+Free plan available. Premium version costs $4.99/month or $49.99/year.
