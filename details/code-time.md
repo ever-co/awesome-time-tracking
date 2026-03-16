@@ -1,64 +1,29 @@
 ## Overview
 
-Code Time is an automatic time tracking plugin designed specifically for developers, integrating seamlessly with popular code editors to provide real-time coding activity metrics.
+Code Time is an open source plugin that provides programming metrics right in Visual Studio Code. It automatically tracks coding activity and provides insights into development patterns.
 
-## Features
+## Key Features
 
-### IDE Integration
-Supported editors and IDEs:
+- Automatic time tracking within your IDE
+- Flow state detection with ability to mute notifications, enter Zen mode, hide OS dock, or set Slack status to away
+- Programming metrics and insights
+- Integration with VS Code, JetBrains IDEs, and other popular editors
+- Real-time productivity reports
+- Language and file-level time tracking
+- Offline tracking support
+
+## Integrations
+
+Code Time integrates with:
 - Visual Studio Code
-- IntelliJ IDEA
-- PyCharm
-- Sublime Text
-- Vim
+- JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
 - Atom
-- And more
+- Sublime Text
 
-### Automatic Tracking
-- Passive tracking of coding activity
-- No manual time entry required
-- Tracks time per file, project, and language
-- Background monitoring with minimal resource usage
+## Privacy
 
-### Real-Time Metrics
-- **Status Bar Display**: See daily coding time at a glance
-- **Code Time Dashboard**: Detailed analytics and insights
-- **Productivity Metrics**: Lines of code, active time, keystrokes
-- **Language Breakdown**: Time spent per programming language
-
-### Developer Insights
-- Daily and weekly coding summaries
-- Best coding hours identification
-- Focus time analysis
-- Productivity trends over time
-
-### Privacy-Focused
-- Data stored locally or in secure cloud
-- No code content captured
-- Only metadata tracked (file names, durations)
-- Full control over data sharing
-
-## Key Benefits
-
-- **Zero friction**: Tracks automatically in background
-- **Developer-specific**: Built for coding workflows
-- **Cross-editor**: Use across multiple IDEs
-- **Trusted**: Used by 700,000+ developers and 10,000+ companies
-- **Free tier available**: Core features at no cost
-
-## Use Cases
-
-- Individual developers tracking coding habits
-- Development teams measuring effort
-- Freelance developers billing clients
-- Managers understanding team capacity
-- Remote teams tracking distributed work
-
-## Platform
-
-Plugin/extension for major code editors and IDEs
+Code Time is open source and provides transparent tracking of your coding activity. All data can be kept private and is stored securely.
 
 ## Pricing
 
-Free tier with core tracking features
-Paid plans for advanced analytics and team features
+Free to use with optional premium features for advanced analytics and team insights.

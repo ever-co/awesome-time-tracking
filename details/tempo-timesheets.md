@@ -1,31 +1,158 @@
 ## Overview
 
-Tempo Timesheets is the leading time tracking solution for Jira, extending Atlassian's platform with comprehensive timesheet management, resource planning, and financial tracking capabilities designed for professional services and development teams.
+Tempo Timesheets is a comprehensive time tracking solution designed specifically for Jira users. The platform automatically detects time spent on coding activities and provides intelligent suggestions for time entry, seamlessly integrating with the Atlassian ecosystem.
 
-## Features
+## Key Features
 
-- **Jira Integration**: Native integration with Jira issues and projects
-- **Time Tracking**: Log time directly in Jira or via browser extension
-- **Timesheets**: Weekly and monthly timesheet views with approval workflows
-- **Project Planning**: Forecast resource needs and project timelines
-- **Capacity Management**: View team availability and workload
-- **Budget Tracking**: Track project budgets against actual time and costs
-- **Chrome Extension**: Track time from any web page with Tempo button
-- **Mobile Apps**: Log time and submit timesheets from iOS and Android
-- **Invoicing**: Generate invoices from tracked time (Tempo Accounts)
-- **Reporting**: Advanced reports on time, costs, and resource utilization
-- **Approvals**: Timesheet approval workflows for managers
-- **Billing Rates**: Set different rates by role, project, or team member
-- **API**: Robust API for custom integrations and reporting
+### Automatic Detection
+- Monitors coding activity automatically
+- Suggests time entries based on detected work
+- Correlates activity with Jira issues
+- Reduces manual time entry burden
 
-## Product Suite
+### Jira Integration
+- Native integration with Jira Software and Jira Service Management
+- Track time directly from Jira issues
+- Sync with Jira workflows
+- Leverage Jira project structure
+- Access from Jira interface
 
-Tempo offers multiple products including Timesheets (time tracking), Planner (resource management), Budget Manager, and Cost Tracker, which can be used together or separately.
+### Time Tracking Methods
+- Automatic time detection from IDE activity
+- Manual time entry
+- Timer-based tracking
+- Bulk time logging
+- Mobile time tracking (iOS/Android)
 
-## Benefits
+## Advanced Capabilities
 
-For teams already using Jira, Tempo provides professional time tracking without leaving their existing workflow, with data flowing seamlessly between issues, timesheets, and financial reports.
+### Timesheet Management
+- Weekly and monthly timesheet views
+- Timesheet approval workflows
+- Submitted vs. approved status tracking
+- Timesheet locking periods
+- Historical timesheet access
+
+### Project Planning
+- **Tempo Planner**: Resource capacity planning
+- Team workload visualization
+- Skills-based assignment
+- Vacation and time-off planning
+- Real-time availability views
+
+### Financial Tracking
+- Budget tracking per project/account
+- Cost and revenue reporting
+- Billable vs. non-billable categorization
+- Multiple billing rates
+- Invoice integration
+
+## Reporting & Analytics
+
+### Built-in Reports
+- Time by project, user, issue
+- Billable hours reports
+- Utilization reports
+- Budget vs. actual
+- Custom report builder
+
+### Data Exports
+- Export to Excel/CSV
+- Integration with BI tools
+- API access for custom reporting
+- Scheduled report delivery
+
+## Tempo Product Suite
+
+### Tempo Timesheets
+Core time tracking functionality
+
+### Tempo Planner
+Resource and capacity planning
+
+### Tempo Cost Tracker
+Financial management for projects
+
+### Tempo Budgets
+Project budget planning and monitoring
+
+## Integration Ecosystem
+
+### Atlassian Products
+- Jira Software
+- Jira Service Management
+- Confluence (reporting)
+- Jira Align (enterprise planning)
+
+### Third-Party Integrations
+- Salesforce
+- SAP
+- QuickBooks
+- Power BI
+- Tableau
+
+## Deployment Options
+
+- **Cloud**: Tempo for Jira Cloud
+- **Data Center**: On-premise deployment
+- **Server**: Legacy Jira Server support
+
+## Use Cases
+
+### Software Development
+- Track development time per issue
+- Monitor sprint velocity
+- Analyze team productivity
+- Bill clients accurately
+
+### Professional Services
+- Client project tracking
+- Resource utilization
+- Project profitability
+- Timesheet approvals
+
+### IT Service Management
+- Track support ticket resolution time
+- Measure SLA compliance
+- Team capacity planning
+- Service cost allocation
+
+## Automation Features
+
+- Auto-populate time based on IDE activity
+- Smart time suggestions
+- Bulk approval workflows
+- Automatic timesheet reminders
+- Integration with CI/CD for commit-based tracking
+
+## Mobile Capabilities
+
+- iOS and Android native apps
+- Offline time entry
+- Photo attachments
+- Push notifications
+- Mobile approvals
+
+## Compliance & Security
+
+- SOC 2 Type II certified
+- GDPR compliant
+- Enterprise-grade security
+- Audit trails
+- Role-based permissions
 
 ## Pricing
 
-Subscription-based pricing with different tiers for Jira Cloud and Jira Data Center deployments. Pricing scales with number of users.
+Subscription-based pricing per user:
+- Tempo Timesheets: Starting at $5/user/month
+- Tempo Planner: Additional cost
+- Cost Tracker & Budgets: Available as add-ons
+- Volume discounts available
+- Free trial for evaluation
+
+## Customer Base
+
+- Used by 18,000+ companies worldwide
+- Trusted by Fortune 500 enterprises
+- Popular in software development and professional services
+- Atlassian Marketplace top-rated app

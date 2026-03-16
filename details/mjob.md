@@ -1,87 +1,65 @@
 ## Overview
 
-mJob is construction time management software that bridges field and office, allowing you to track crews, verify GPS location, and sync daily logs directly to major construction ERP systems. mJobTime Corporation has been a trusted industry leader for over three decades.
+mJob is construction time tracking and field management software designed specifically for contractors and construction companies. The platform combines mobile time tracking with GPS verification, job costing, and crew management to help construction businesses manage their field workforce effectively.
 
-## Features
+## Key Features
 
-### Time Tracking & Verification
-- Secure construction time clock app
-- GPS geofencing technology
-- Facial recognition biometric verification
-- Eliminates unauthorized overtime
-- Prevents "buddy punching"
-- Employees log hours directly from the field
-- Mobile biometric time tracking with fingerprint scan
+### Time & Attendance
+- **Mobile Time Clock**: Employees clock in/out from their smartphones
+- **GPS Location Tracking**: Verify employee location at clock-in/out
+- **Offline Mode**: Track time without internet connection, sync when online
+- **Photo Time Stamps**: Require photos at clock-in for verification
+- **Geofencing**: Set job site boundaries and receive alerts
 
-### Job Costing & Labor Distribution
-- Distribute hours across specific jobs and cost codes
-- Supervisors can move labor and equipment time simultaneously
-- Accounting systems reflect reality daily
-- Real-time job costing
-- Budget tracking and alerts
-- Labor allocation to multiple projects
+### Job Costing
+- **Labor Cost Tracking**: Track labor hours and costs by job and phase
+- **Equipment Time**: Log equipment usage per job
+- **Real-Time Job Costs**: View up-to-date labor costs for active jobs
+- **Budget Tracking**: Monitor job budgets and receive overage alerts
+- **Cost Code Assignment**: Track time to specific cost codes
 
-### Payroll Automation
-- Simplifies complex union fringes
-- Prevailing wage automation
-- Labor rate calculations
-- Automated payroll synchronization
-- Meal breaks automation
-- Travel time tracking
-- Overtime calculations
+### Crew Management
+- **Crew Scheduling**: Assign crews to jobs and shifts
+- **Daily Reports**: Collect daily field reports and progress updates
+- **Time Card Approval**: Review and approve timecards before payroll
+- **Break Compliance**: Ensure proper break times are taken
 
-### Field Management
-- Geofencing ensures crews are at correct job site
-- Real-time notifications when shifts start/finish
-- Budget limit approaching alerts
-- Daily logs sync to office systems
-- Equipment operating cost visibility
-- Equipment maintenance logging
+### Field Service Features
+- **Job Notes**: Add notes and updates from the field
+- **Material Tracking**: Log materials used on each job
+- **Document Sharing**: Share plans and documents with field crews
+- **Weather Tracking**: Automatic weather logging for each job site
 
-### Equipment Management
-- Track equipment usage and costs
-- Maintenance logging
-- Maximize asset lifespan
-- Equipment efficiency monitoring
-- Operating cost analysis
+## Reporting
 
-## Integration
+- Certified payroll reports
+- Job cost reports
+- Labor productivity analysis
+- Equipment utilization reports
+- Time card summaries
+- Union fringe benefit reports
 
-Seamless integration with:
-- Sage
-- Viewpoint
+## Payroll Integration
+
+Export timecards to popular payroll systems:
 - QuickBooks
-- Foundation
 - ADP
-- Acumatica
-- Virtually any modern construction ERP via APIs
+- Paychex
+- Sage
+- Custom formats via CSV
 
-## Who It's For
+## Mobile Apps
 
-- Construction companies
+Robust mobile apps for iOS and Android designed for field use with offline capabilities.
+
+## Industries
+
 - General contractors
-- Field service businesses
-- Companies with mobile crews
-- Construction firms using Sage/Viewpoint/Acumatica
-- Organizations needing union payroll management
-
-## Company Background
-
-- Over 30 years in the industry
-- Trusted industry leader
-- Comprehensive suite of hardware and software solutions
-- Specialized in construction workforce management
-
-## Use Cases
-
-- Labor tracking across multiple job sites
-- Equipment management and maintenance
-- Materials handling
-- Documentation and compliance
-- Prevailing wage compliance
-- Union payroll management
-- Job costing and budget control
+- Specialty trades (electrical, plumbing, HVAC)
+- Landscaping
+- Concrete and masonry
+- Road construction
 
 ## Pricing
 
-Pricing plans available on website based on company size and features needed.
+Per-user monthly subscription. Contact vendor for current pricing.

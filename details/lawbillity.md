@@ -1,58 +1,36 @@
 ## Overview
 
-LawBillity is time and billing software specifically designed for law firms, providing comprehensive tools for attorney time tracking, invoice generation, and legal billing management.
+LawBillity is time and billing law firm software that helps legal professionals manage client billing, time tracking, and practice administration efficiently.
 
 ## Key Features
 
-### Time Tracking for Attorneys
-- Billable hour capture and tracking
-- Real-time time entry
-- Mobile time tracking
-- Timer-based and manual entry options
-- Client and matter-specific tracking
+- **Time Tracking**: Capture billable hours with timers or manual entry
+- **Expense Tracking**: Record and bill client expenses
+- **Invoice Generation**: Create professional legal invoices with customizable templates
+- **Trust Accounting**: Manage client trust accounts and IOLTA compliance
+- **Matter Management**: Organize cases and matters with detailed tracking
+- **Reporting**: Generate detailed billing and productivity reports
+- **Payment Processing**: Accept online payments from clients
 
-### Legal Billing
-- Invoice generation and customization
-- LEDES billing format support
-- Trust accounting capabilities
-- Payment processing integration
-- Billing rate management
+## Legal-Specific Capabilities
 
-### Practice Management
-- Client and matter management
-- Document management
-- Task and deadline tracking
-- Conflict checking
-- Calendar integration
+- 6-minute increment billing (standard legal billing format)
+- Multiple billing arrangements (hourly, flat fee, contingency, retainer)
+- ABA task codes support
+- LEDES billing format for corporate clients
+- Conflict of interest checking
 
-## Benefits for Law Firms
+## Integration
 
-- Improved billable hour capture rates
-- Reduced time leakage and revenue loss
-- Streamlined invoicing processes
-- Enhanced client billing transparency
-- Better matter profitability tracking
-- Compliance with legal billing standards
+LawBillity integrates with:
+- QuickBooks for accounting
+- Common legal software platforms
+- Email systems for client communication
 
-## Target Users
+## Target Market
 
-- Solo practitioners
-- Small to mid-sized law firms
-- Legal departments
-- Attorneys seeking to improve billing efficiency
+Ideal for solo attorneys, small law firms, and boutique practices looking for affordable legal billing software.
 
-## Compliance Features
+## Pricing
 
-- Jurisdictional billing rule compliance
-- Ethical billing standards adherence
-- Trust accounting regulations
-- IOLTA account management
-- Audit trail maintenance
-
-## Integration Capabilities
-
-- QuickBooks integration
-- Calendar synchronization
-- Payment processor integration
-- Document management systems
-- Legal research platforms
+Pricing typically starts around $39-59 per user per month with various plan tiers available.

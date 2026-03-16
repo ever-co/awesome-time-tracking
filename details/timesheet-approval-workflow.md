@@ -1,41 +1,81 @@
 ## Overview
 
-Timesheet approval workflows are systematic processes where employee-submitted time entries are reviewed and approved by supervisors or managers before being processed for payroll or client billing.
+Timesheet approval workflow is the systematic process of reviewing and approving employee time entries before processing payroll, ensuring accuracy, compliance, and proper authorization of hours worked.
 
-## Key Steps
+## Typical Workflow Steps
 
-1. **Employee Submission**: Workers log hours and submit timesheets (daily, weekly, or bi-weekly)
-2. **Manager Review**: Supervisors review for accuracy, completeness, policy compliance
-3. **Approval/Rejection**: Approve accurate entries or return with feedback for corrections
-4. **Payroll Processing**: Approved hours flow to payroll system
-5. **Audit Trail**: System maintains records of all changes and approvals
-
-## Benefits
-
-- Ensures accuracy before payroll processing
-- Prevents time theft and buddy punching
-- Maintains compliance with labor regulations
-- Creates audit trails for billing and accountability
-- Identifies patterns in overtime or absences
-- Validates billable hours for client invoicing
-
-## Common Features
-
-- Multi-level approval hierarchies
-- Bulk approval capabilities
-- Exception flagging
-- Mobile approval options
-- Integration with payroll systems
-- Automated reminders for pending approvals
+1. **Employee submission**: Worker completes and submits timesheet
+2. **Manager review**: Supervisor checks for accuracy
+3. **Approval or rejection**: Manager approves or requests corrections
+4. **Corrections** (if needed): Employee fixes issues
+5. **Resubmission**: Updated timesheet resubmitted
+6. **Final approval**: Manager gives final sign-off
+7. **Lock period**: Prevents further changes
+8. **Payroll export**: Approved hours sent to payroll
 
 ## Best Practices
 
-- Set clear submission deadlines
-- Define approval turnaround times
-- Establish escalation procedures
-- Provide feedback on rejections
-- Regular audits of approval patterns
+### Clear Deadlines
+- Set specific submission deadlines (e.g., Friday 5pm)
+- Automatic reminders before deadline
+- Escalation for late submissions
+- Grace period for corrections
 
-## Implementation
+### Approval Hierarchy
+- Direct manager approval required
+- Escalation path for manager absence
+- Department head final authority
+- HR/Payroll visibility
 
-Most modern time tracking software includes approval workflows. Can also be implemented with spreadsheets for small teams.
+### Quality Checks
+- Verify hours align with schedule
+- Check for missing time entries
+- Confirm breaks and overtime
+- Review unusual patterns
+- Validate project/task codes
+
+### Automation
+- Auto-submit on deadline if complete
+- Bulk approval for standard entries
+- Exception-only review
+- Automated compliance checks
+
+## Common Approval Rules
+
+### What Requires Approval
+- All employee time entries
+- Overtime hours
+- PTO requests
+- Schedule deviations
+- Time entry edits after submission
+
+### Auto-Approval Scenarios
+- Matches scheduled shifts exactly
+- No overtime
+- Regular employees with clean records
+- Manager discretion
+
+## Tools and Features
+
+### Approval Interface
+- Dashboard showing pending approvals
+- Batch approval capabilities
+- Drill-down for details
+- Mobile approval options
+- Notifications and alerts
+
+### Audit Trail
+- Who approved when
+- Original vs. edited values
+- Rejection reasons
+- Change history
+- Compliance documentation
+
+## Benefits
+
+- Accurate payroll
+- Reduced errors
+- Compliance documentation
+- Fraud prevention
+- Budget control
+- Fair labor practices

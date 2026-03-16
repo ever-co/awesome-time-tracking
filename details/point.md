@@ -1,20 +1,43 @@
 ## Overview
 
-POINT is a volunteer management platform that simplifies volunteer time tracking for nonprofits, schools, and community organizations with an intuitive mobile-first approach that makes logging hours effortless.
+POINT is an all-in-one volunteer management platform designed specifically for nonprofits. The platform positions itself as "the most powerful free volunteer management platform for nonprofits."
 
-## Features
+## Key Features
 
-- **Mobile Check-In**: Volunteers check in and out using their smartphones with GPS verification
-- **Automatic Time Tracking**: Hours are automatically calculated when volunteers check in to events
-- **Event Management**: Create and manage volunteer events with capacity limits and schedules
-- **Impact Dashboard**: Real-time dashboard showing total volunteer hours and impact metrics
-- **Volunteer Profiles**: Track individual volunteer hours, events attended, and achievements
-- **QR Code Check-In**: Support for QR code scanning for quick event check-ins
-- **Reporting**: Generate reports on volunteer hours by individual, event, or time period
-- **Notifications**: Automated reminders for upcoming volunteer opportunities
-- **Offline Mode**: Continue tracking hours even without internet connection
-- **Export**: Export volunteer hour data for grant reporting and compliance
+- **Flexible Time Logging**: Log volunteer time automatically, manually, or via self-check-in kiosks
+- **Volunteer Database**: Comprehensive volunteer profiles and history tracking
+- **Opportunity Management**: Create and post volunteer opportunities
+- **Scheduling Tools**: Coordinate volunteer shifts and events
+- **Communication Hub**: Send emails and notifications to volunteers
+- **Reporting Dashboard**: Track volunteer hours, demographics, and impact
+- **Mobile Apps**: iOS and Android applications for volunteers and coordinators
+- **Customizable Forms**: Collect volunteer information and waivers
+
+## Check-In Methods
+
+- QR code scanning
+- Kiosk mode for tablets
+- Mobile app check-in
+- Manual entry by coordinators
+- Geolocation verification
+
+## Integration Capabilities
+
+POINT integrates with various nonprofit tools and CRM systems to streamline data management across platforms.
+
+## Free for Nonprofits
+
+POINT offers robust features at no cost to qualified nonprofit organizations, making professional volunteer management accessible to organizations of all sizes.
+
+## Use Cases
+
+- Community service projects
+- Hospital and healthcare volunteering
+- Museum and cultural organizations
+- Animal shelters and rescues
+- Youth programs and mentoring
+- Disaster relief coordination
 
 ## Pricing
 
-Free tier available for small organizations. Paid plans start at approximately $20 per month for larger organizations with advanced features like custom branding and integrations.
+Free for nonprofits. Premium features and enterprise support available at additional cost.

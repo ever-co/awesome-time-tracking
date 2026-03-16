@@ -1,67 +1,62 @@
 ## Overview
 
-awork is a project management tool built specifically for agency workflows, managing complex client projects across internal teams and external collaborators with planning, scheduling, collaboration, and time tracking all in one place.
+awork is a work management platform that combines project management with comprehensive time tracking capabilities. The platform offers both manual time entry and timer-based tracking, fully integrated with project planning and team collaboration features.
 
-## Features
+## Time Tracking Features
 
-### Time Tracking
-- Integrated time tracking directly in project workflow
-- Real-time budget control
-- Fully automatic time tracking option
-- Manual time entry support
-- Time entries created for specific projects and tasks
-- Assigned to specific users
+### Time Entry Methods
+- **Timer Mode**: Start/stop timer for real-time tracking
+- **Manual Entry**: Add time entries after work is completed
+- **Bulk Entry**: Log multiple time entries at once
+- **Mobile Tracking**: Track time on iOS and Android apps
 
-### Agency-Specific Features
-- Monitor agency utilization
-- Plan team capacity
-- Multi-project planning visibility
-- Work with clients and freelancers at no extra cost
-- Manage complex client projects
-- Internal and external collaboration
+### Time Management
+- **Task-Based Tracking**: Link time entries to specific tasks
+- **Project Time Budgets**: Set and monitor time budgets per project
+- **Billable vs. Non-Billable**: Categorize time for accurate client billing
+- **Time Reports**: Detailed reports on time allocation and productivity
+- **Timesheet Approval**: Manager review and approval workflows
 
-### Reporting & Analytics
-- AI-powered reporting
-- Budget tracking and control
-- Utilization reports
-- Time tracking quote monitoring (users report 95% tracking rates)
-- Project profitability analysis
+## Project Management Integration
 
-### Invoicing Integration
-- Transform awork times to invoices with a click
-- Automated billing from tracked time
-- Client invoicing workflow
+- **Task Management**: Create and assign tasks with time estimates
+- **Project Planning**: Timeline and Gantt chart views
+- **Team Workload**: Visualize team capacity and allocation
+- **Kanban Boards**: Organize work in customizable boards
+- **Project Templates**: Reusable project structures
 
-### API & Integrations
-- Time Tracking API available
-- Developer documentation
-- Webhook support
-- Third-party integrations
+## API & Webhooks
 
-## Technical Details
+awork provides a comprehensive API with webhook support, documented at https://developers.awork.com/timetracking, allowing developers to:
+- Create and retrieve time entries programmatically
+- Integrate with third-party systems
+- Automate time tracking workflows
+- Build custom reporting tools
 
-- ISO 27001 certified
-- GDPR compliant
-- Hosted on ISO 27001 certified servers in Europe
-- European data hosting
+## Collaboration Features
 
-## Who It's For
+- Team chat and comments
+- File sharing and document management
+- Calendar integration
+- Notifications and reminders
+- Client portal for external stakeholders
 
-- Agencies
-- Creative teams
-- Consulting firms
-- Professional services
-- Teams managing multiple client projects
-- Organizations with external collaborators
+## Reporting & Analytics
 
-## Benefits
+- Time tracking reports by project, team, or individual
+- Profitability analysis
+- Utilization rates
+- Budget vs. actual comparisons
+- Export to CSV and Excel
 
-- Integration of time tracking within project organization
-- High time tracking adoption rates
-- Real-time visibility into project budgets
-- Streamlined client and freelancer collaboration
-- Centralized project and time management
+## Integrations
+
+awork integrates with popular tools including:
+- Slack for communication
+- Google Calendar and Outlook
+- Zapier for workflow automation
+- DATEV for accounting (German market)
 
 ## Pricing
 
-Pricing tiers available on website. Includes capacity for clients and freelancers at no additional cost.
+Subscription-based pricing per user per month. Free trial available to test all features.

@@ -1,30 +1,47 @@
 ## Overview
 
-Better Impact provides comprehensive volunteer management software that helps nonprofits, charities, healthcare organizations, and municipalities efficiently recruit, schedule, track, and engage volunteers at scale.
+Better Impact is a comprehensive volunteer management software trusted by over 25,000 organizations worldwide. The platform automates volunteer scheduling, tracks hours, and facilitates communication with volunteers.
 
-## Features
+## Core Features
 
-- **Volunteer Scheduling**: Self-service scheduling portal where volunteers can sign up for opportunities
-- **Hour Tracking**: Automated and manual hour logging with detailed activity tracking
-- **Communication Tools**: Email, SMS, and push notifications for volunteer engagement
-- **Volunteer Database**: Centralized records with skills, interests, availability, and history
-- **Background Checks**: Integrated background screening for volunteer safety
-- **Waiver Management**: Digital waiver and consent form collection
-- **Reporting**: One-click reports on hours, impact, demographics, and volunteer engagement
-- **Mobile App**: Volunteers can view schedules and log hours via mobile devices
-- **Kiosk Mode**: On-site check-in stations for volunteer events
-- **Custom Applications**: Build volunteer application forms with screening questions
-- **Training Management**: Track required trainings and certifications
-- **Integration**: Connect with Salesforce, donor management systems, and other tools
+- **Volunteer Hour Tracking**: Accurate tracking with multiple check-in methods
+- **Automated Scheduling**: Intelligent shift assignment and calendar management
+- **Volunteer Portal**: Self-service registration and opportunity browsing
+- **Background Screening**: Integrated volunteer vetting and compliance
+- **Communication Tools**: Email campaigns and automated notifications
+- **Reporting & Analytics**: Comprehensive reports on volunteer engagement and impact
+- **Mobile Optimization**: Mobile-friendly interface for on-the-go access
+- **Waiver Management**: Digital waiver collection and storage
 
-## Scale
+## Advanced Capabilities
 
-Trusted by over 25,000 organizations worldwide including hospitals, food banks, museums, animal shelters, and community service organizations.
+- Skills-based volunteer matching
+- Group and family volunteer management
+- Multi-location coordination
+- Custom branding for volunteer portals
+- API for third-party integrations
+- Advanced permissions and user roles
 
-## Benefits
+## Industries Served
 
-Reduces administrative burden on staff, improves volunteer satisfaction through self-service tools, and provides detailed metrics for grant reporting and impact measurement.
+- Healthcare and hospitals
+- Museums and cultural institutions
+- Animal welfare organizations
+- Educational institutions
+- Social service agencies
+- Faith-based organizations
+
+## Compliance & Security
+
+- GDPR and data privacy compliance
+- Secure data storage and backup
+- Audit trails for volunteer hours
+- Role-based access controls
+
+## Training & Support
+
+Better Impact provides comprehensive training resources, webinars, and dedicated customer support to help organizations maximize their volunteer programs.
 
 ## Pricing
 
-Pricing varies based on organization size and number of active volunteers. Contact Better Impact for a customized quote.
+Subscription-based pricing scaled to organization size and features needed. Contact vendor for detailed quote.

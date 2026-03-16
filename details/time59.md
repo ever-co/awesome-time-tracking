@@ -1,75 +1,35 @@
 ## Overview
 
-Time59 is online legal billing software designed specifically for small law firms and solo attorneys who want accurate, professional billing capabilities without the complexity and cost of enterprise-level practice management systems.
+Time59 is online legal billing software designed specifically for solo lawyers and small law firms. The platform offers straightforward time tracking, expense management, and client billing in an easy-to-use cloud-based interface.
 
-## Features
+## Key Features
 
-### Time Tracking
-- Timer-based time entry
-- Manual time entry
-- Quick time entry for rapid logging
-- Mobile time tracking
-- Billable and non-billable time separation
+- **Simple Time Tracking**: Quick time entry with timer or manual input
+- **Expense Management**: Track billable and non-billable expenses
+- **Client Invoicing**: Generate professional legal invoices
+- **Payment Tracking**: Monitor outstanding invoices and payments
+- **Trust Accounting**: Basic trust account management
+- **Client Portal**: Allow clients to view invoices and make payments online
+- **Reporting**: Basic billing and revenue reports
 
-### Legal Billing
-- Professional invoice generation
-- Customizable invoice templates
-- Multiple billing rates (attorney, paralegal, etc.)
-- Flat fee and hourly billing
-- Retainer management
-- Expense tracking and billing
+## Advantages for Solo Practitioners
 
-### Trust Accounting
-- Basic trust account tracking
-- Trust-to-operating transfers
-- Trust balance monitoring
-- IOLTA compliance features
+- Minimal learning curve
+- Affordable pricing for individual lawyers
+- No complex features that solo practitioners don't need
+- Cloud-based access from anywhere
+- No installation required
 
-### Client & Matter Management
-- Client database
-- Matter organization
-- Contact management
-- Basic case notes
-- Document attachment
+## Compliance
 
-### Reporting
-- Time and billing reports
-- Profitability analysis
-- Outstanding invoices
-- Payment history
-- Custom date ranges
+- Supports legal billing increments (6-minute/0.1 hour)
+- Trust accounting features for bar compliance
+- Secure data storage and backup
 
-## Platform Support
+## Mobile Access
 
-- Web-based application (access anywhere)
-- Mobile-responsive design
-- No software installation required
-- Cloud-based data storage
-
-## Benefits
-
-- **Affordable**: Designed for solo and small firm budgets
-- **Simple**: Easy to learn and use without extensive training
-- **Legal-Specific**: Features designed for attorneys
-- **No Complexity**: Only the features small firms actually need
-- **Cloud-Based**: Access from office, home, or court
-
-## Ideal For
-
-- Solo practitioners
-- Small law firms (2-5 attorneys)
-- Attorneys starting their own practice
-- Firms wanting to avoid expensive practice management systems
-- Lawyers who need simple, effective billing
-
-## What Makes Time59 Different
-
-Unlike comprehensive (and expensive) legal practice management systems, Time59 focuses specifically on time tracking and billing - the essentials that solo and small firm attorneys need most - at a price point that makes sense for smaller practices.
+Web-based platform accessible from mobile browsers for on-the-go time entry.
 
 ## Pricing
 
-Affordable monthly subscription designed for solo and small firm budgets. Visit website for current pricing. Free trial available.
-
-## Integration
-
-Focuses on core billing functionality with simple data export options for use with accounting software.
+Designed to be budget-friendly for solo practitioners with monthly subscription pricing. Contact vendor for current rates.

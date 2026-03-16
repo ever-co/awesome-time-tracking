@@ -1,106 +1,217 @@
 ## Overview
 
-Idle time detection is a feature in automated time tracking software that monitors computer activity (keyboard strokes, mouse movements, clicks) to determine when a user is actively working versus idle, automatically pausing or flagging inactive periods.
+Idle time detection is the automated practice of identifying periods when a user is inactive during tracked time. This helps ensure accurate billing, prevents forgotten running timers, and provides better productivity insights.
 
-## How It Works
+## How Idle Time Detection Works
+
+### Activity Monitoring
+- **Keyboard activity**: Keystrokes detected
+- **Mouse movement**: Cursor position changes
+- **Application focus**: Active window switching
+- **System events**: File operations, network activity
+
+### Idle Threshold
+- Typically 3-10 minutes of inactivity
+- Configurable based on work type
+- Different thresholds for different users/projects
+- Can vary by time of day
 
 ### Detection Methods
-- Keyboard activity monitoring
-- Mouse movement tracking
-- Mouse click detection
-- Application focus changes
-- Some tools: webcam-based presence detection
+1. **Computer input monitoring**: Keyboard and mouse
+2. **Application activity**: Active vs. background apps
+3. **Network activity**: Data transfer detection
+4. **Calendar integration**: Meeting times excluded
 
-### Typical Thresholds
-- 3-5 minutes of inactivity = idle
-- 10+ minutes = automatic pause
-- Customizable by organization
-- Different rules for different roles
+## Common Idle Time Scenarios
 
-## User Experience
+### Legitimate Idle Time
+- Meetings (not at computer)
+- Phone calls
+- Reading printed documents
+- Whiteboard sessions
+- Thinking and planning
+- Breaks and lunch
 
-### Idle Prompt
-When activity resumes after idle period:
-1. Pop-up asks: "What were you doing?"
-2. Options: Continue timing / Discard idle time / Different task
-3. User categorizes the gap
-4. Timer adjusts accordingly
+### Timer Accidents
+- Forgot to stop timer at end of day
+- Left computer for personal errand
+- Computer locked/screened
+- Extended away from desk
 
-### Manual Override
-- Users can mark idle time as productive
-- Examples: reading documents, watching tutorials, thinking
-- Maintains employee autonomy
+## Handling Idle Time
+
+### Automatic Actions
+1. **Pause timer**: Automatically stop tracking
+2. **Alert user**: Notification of detected idle time
+3. **Ask for categorization**: User confirms if working or idle
+4. **Discard idle time**: Remove from tracked hours
+5. **Log separately**: Track idle time for analysis
+
+### User Decisions
+- **Keep time**: Was working away from computer
+- **Discard time**: Was not working
+- **Partially discard**: Some time was work, some wasn't
+- **Change activity**: Reclassify to different project/task
 
 ## Benefits
 
-### Accuracy
-- Prevents accidental over-tracking
-- Captures actual work time
-- Reduces inflated timesheets
-- Honest representation of effort
+### For Employees
+- **Accuracy**: Don't accidentally bill for idle time
+- **Fairness**: Clear distinction between work and breaks
+- **Flexibility**: Can work away from computer
+- **Reminders**: Alerts prevent forgotten timers
 
-### Compliance
-- Ensures billable hours are truly worked
-- Protects against time theft claims
-- Provides audit trail
+### For Employers
+- **Honest billing**: Don't overcharge clients
+- **Productivity insights**: Understand actual work patterns
+- **Fair evaluation**: Judge employees on active time
+- **Cost savings**: Identify inefficiencies
 
-### Insights
-- Identifies unproductive patterns
-- Reveals workflow interruptions
-- Highlights need for breaks
-- Informs capacity planning
+### For Clients
+- **Accurate invoices**: Pay only for active work
+- **Transparency**: See detailed activity data
+- **Trust**: Confidence in billing integrity
 
-## Privacy Considerations
+## Configuration Best Practices
 
-### Respectful Implementation
-- Track activity, not content
-- Don't capture keystrokes or screenshots during idle
-- Clear policies about monitoring
-- Employee consent required
-- Transparency about data use
+### Setting Idle Threshold
+- **Short breaks**: 3-5 minutes (strict environments)
+- **Thinking time**: 8-10 minutes (creative work)
+- **Flexible work**: 10-15 minutes (autonomous workers)
 
-### What's NOT Tracked
-- Content of work (emails, documents)
-- Personal conversations
-- Specific keystrokes
-- Screen content during idle times
+### Notification Timing
+- Real-time alerts for immediate correction
+- End-of-day summary for batch review
+- Weekly reports for pattern analysis
 
-## Challenges
+### Policy Considerations
+- Clearly communicate how idle time is handled
+- Allow employees to explain idle periods
+- Don't punish legitimate away-from-desk work
+- Review and adjust thresholds periodically
+
+## Privacy Concerns
+
+### What to Monitor
+- **Acceptable**: Presence of activity (yes/no)
+- **Acceptable**: Application names and duration
+- **Questionable**: Specific keystrokes or mouse coordinates
+- **Problematic**: Screen content or screenshots without consent
+
+### Best Practices
+- Be transparent about monitoring
+- Allow employees to disable during breaks
+- Don't monitor outside work hours
+- Secure activity data properly
+- Give employees access to their own data
+
+## Integration with Time Tracking
+
+### Workflow
+1. User starts timer for task
+2. System monitors activity
+3. Idle period detected after threshold
+4. Timer paused automatically
+5. User returns, receives notification
+6. User confirms whether idle time was work
+7. Time adjusted accordingly
+8. Corrected time saved to timesheet
+
+### Time Entry Adjustments
+- Original time: 9:00 AM - 5:00 PM (8 hours)
+- Idle periods: 1 hour total
+- Adjusted time: 7 hours active work
+- User confirms or corrects
+
+## Tools with Idle Time Detection
+
+### Automatic Tracking
+- **RescueTime**: Automatic idle detection and categorization
+- **DeskTime**: Configurable idle time thresholds
+- **Hubstaff**: Idle time alerts with screenshot pause
+- **Time Doctor**: Idle detection with popup reminders
+- **ActivTrak**: Detailed idle vs. active analytics
+
+### Manual Tracking with Idle Protection
+- **Toggl Track**: Idle detection reminder
+- **Clockify**: Idle time alerts
+- **Harvest**: Idle time detection
+
+## Common Challenges
 
 ### False Positives
-- Reading lengthy documents
-- Watching training videos
-- Phone calls
-- Meetings away from desk
-- Thinking/planning time
+- **Reading**: Appears idle but is productive work
+- **Thinking**: Cognitive work without input
+- **Meetings**: Away from desk but working
+- **Phone calls**: Active work without computer use
 
 ### Solutions
-- Allow manual adjustments
-- Intelligent categorization
-- Integration with calendar
-- Meeting detection
-- User education
+- Allow manual time entry for away-from-desk work
+- Integrate with calendar for meeting detection
+- Educate employees on categorizing idle time honestly
+- Review and adjust thresholds
 
-## Configuration Options
+## Reporting and Analytics
 
-- Set idle threshold (minutes)
-- Auto-pause vs prompt user
-- Idle time categories
-- Different rules by project
-- Weekend/after-hours handling
+### Metrics to Track
+- Percentage of idle vs. active time
+- Patterns in idle time (time of day, day of week)
+- Idle time by employee or project
+- Impact on productivity metrics
 
-## Industry Variations
+### Using Idle Data
+- Identify workflow inefficiencies
+- Optimize work schedules
+- Improve time estimates
+- Understand natural work rhythms
 
-### Knowledge Work
-- Longer acceptable idle times
-- More manual override
-- Focus on output over activity
+## Legal and Ethical Considerations
 
-### Billable Services
-- Stricter idle monitoring
-- Client billing accuracy
-- Detailed activity logs
+### Employee Rights
+- Inform employees of monitoring
+- Provide access to their data
+- Allow reasonable idle time for breaks
+- Don't use for punitive measures without context
 
-## Popular Tools with Idle Detection
+### Compliance
+- Follow local labor laws
+- Respect privacy regulations (GDPR, etc.)
+- Maintain data security
+- Document policies clearly
 
-RescueTime, DeskTime, Hubstaff, Time Doctor, Clockify, Toggl Track, and most modern automatic time trackers.
+## Alternative Approaches
+
+### No Idle Detection
+- Trust employees to track honestly
+- Focus on outcomes, not monitoring
+- Risk of billing errors
+
+### Manual Idle Classification
+- Timer runs continuously
+- Employee manually removes idle time
+- Requires discipline
+
+### Calendar Integration
+- Exclude meeting times automatically
+- Combine with idle detection
+- More accurate for knowledge workers
+
+## ROI of Idle Time Detection
+
+### Benefits
+- Prevent overbilling clients (protect reputation)
+- More accurate project budgeting
+- Better productivity insights
+- Fair employee evaluation
+- Reduced time tracking errors
+
+### Costs
+- Minimal (feature of most modern time trackers)
+- Some employee time to categorize idle periods
+- Initial setup and policy communication
+
+### Payback
+- Typically immediate
+- Prevents costly billing disputes
+- Improves time estimation accuracy
+- Builds client trust

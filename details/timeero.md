@@ -1,24 +1,29 @@
 ## Overview
 
-Timeero is an intelligent GPS time tracking and mileage tracking solution designed for mobile teams, with automatic detection of driving activity and robust offline capabilities for field workers in areas with poor cellular coverage.
+Timeero is a GPS-based time tracking and mileage tracking platform designed for mobile workforces. The solution is ideal for construction contractors, field service teams, and businesses with employees working across multiple locations.
 
-## Features
+## Key Features
 
-- **Automatic Mileage Tracking**: Recognizes when employees are driving and automatically begins tracking mileage
-- **Mileage Reimbursement**: Calculates estimated reimbursement amounts based on IRS rates or custom rates
-- **GPS Breadcrumbs**: Records detailed location trails throughout the workday
-- **Offline Mode**: Continues tracking time and location even without cellular or internet connection
-- **Geofencing**: Set up virtual boundaries around job sites with automatic alerts
-- **Segmented Tracking**: Separate personal and business mileage automatically
-- **Who's Working Map**: Real-time map view showing all active employees and their locations
-- **PTO Management**: Request and approve time off within the app
-- **Facial Recognition**: Optional face verification to prevent buddy punching
-- **Integrations**: Connect with QuickBooks, ADP, Paychex, and other payroll/accounting systems
+- **GPS Time Tracking**: Accurate location tracking when employees clock in and out
+- **Geofencing**: Set up virtual boundaries and receive alerts when employees enter or leave designated areas
+- **Mileage Tracking**: Automatic mileage logging for reimbursement and tax purposes
+- **Route Replay**: Review employee travel routes and stops throughout the day
+- **Scheduled Tracking**: GPS tracking only during work hours
+- **PTO Management**: Track and manage paid time off requests
+- **Offline Capabilities**: Track time even without internet connection
 
-## Use Cases
+## Industries Served
 
-Ideal for construction crews, field service technicians, sales teams, delivery drivers, and any mobile workforce that needs accurate time and mileage tracking with offline reliability.
+- Construction
+- Field Services
+- Healthcare (home health)
+- Sales teams
+- Transportation and logistics
+
+## Integrations
+
+Timeero integrates with popular payroll and accounting systems including QuickBooks, ADP, Gusto, and Paychex.
 
 ## Pricing
 
-Pricing starts at competitive per-user monthly rates with different tiers based on features needed.
+Pricing starts at approximately $5 per user per month with various plans available based on features needed.
