@@ -1,40 +1,48 @@
-# ActivityWatch
+## Overview
 
-**Website:** [https://activitywatch.net/](https://activitywatch.net/)
+ActivityWatch is a free, open-source, privacy-focused automatic time tracker that runs on your computer and monitors which applications and websites you use. Unlike cloud-based solutions, all data is stored locally on your device, giving you complete control and ownership of your activity data.
 
-**Category:** Automated Time Tracking
+## Key Features
 
-**Tags:** open-source, automatic-tracking, privacy, cross-platform
+- **Automatic tracking** - Passively monitors application and website usage without manual timers
+- **Complete privacy** - All data stored locally on your device, never sent to external servers
+- **Open source** - Fully transparent codebase available for inspection and contribution
+- **Cross-platform** - Available for Windows, macOS, Linux, and Android
+- **Application monitoring** - Tracks which applications you use and for how long
+- **Website tracking** - Monitors browser activity and time spent on websites
+- **Customizable categorization** - Create custom categories to organize tracked activities
+- **Data visualization** - Charts and graphs showing activity patterns and time distribution
+- **Data export** - Export your activity data for external analysis
+- **No account required** - No registration, login, or cloud service dependency
 
----
+## Privacy & Data Control
 
-## Description
-ActivityWatch is a free and open-source app that automatically tracks how you spend time on your devices. It is privacy-focused, cross-platform, and extensible, providing users with detailed reports to analyze their time usage.
+ActivityWatch emphasizes privacy as a core principle:
+- All data remains on your local device
+- No telemetry or data collection by developers
+- No cloud sync or external servers
+- Full transparency through open-source code
+- Complete user ownership of all tracked data
 
----
+## Use Cases
 
-## Features
-- **Automatic Tracking:** Automatically tracks active application and window title usage out of the box.
-- **Watchers:** Extend tracking to additional activities via custom watchers (plugins).
-- **Categories:** Break down time usage into categories for better insights.
-- **Browser Extensions:** Track active tab usage in Chrome and Firefox browsers.
-- **Editor Plugins:** Track time spent coding with editor-specific plugins.
-- **Privacy-first:** All data is stored locally on your device, and does not leave your computer.
-- **Cross-platform:** Runs on Windows, macOS, Linux, and Android.
-- **Detailed Reporting:** Provides detailed reports and timelines for time analysis.
-- **Open Source:** Fully open source with community contributions.
-- **Extensible:** Supports custom plugins for additional tracking capabilities.
-- **Local Web Interface:** Access your data and reports via a local web UI (localhost:5600).
-- **Productivity Analysis:** Helps monitor productivity, track project time, log digital life, and identify behavioral trends.
-- **No Cloud Required:** No cloud account or external server necessary.
-- **Lifelogging & Quantified Self:** Useful for lifelogging and self-knowledge through numbers.
-- **Research Uses:** Can be used for research into attention, productivity, and behavior.
+- Personal productivity analysis and self-improvement
+- Understanding digital habits and time usage patterns
+- Identifying time-wasting activities
+- Privacy-conscious users who want local-only tracking
+- Developers and researchers who want to extend functionality
+- Anyone seeking free time tracking without subscription fees
 
-*Note: Device synchronization is planned but not yet available.*
+## Technical Details
 
----
+- Built with Python and modern web technologies
+- Modular architecture with extensible watchers
+- Active open-source community
+- Regular updates and improvements
+- Comprehensive documentation
 
 ## Pricing
-- **Free:** ActivityWatch is completely free and open-source software; no paid plans or subscriptions.
 
----
+Completely free and open-source. No premium tiers, subscriptions, or hidden costs.
+
+ActivityWatch is ideal for privacy-conscious individuals who want automatic time tracking without relying on cloud services or sharing their data with third parties.

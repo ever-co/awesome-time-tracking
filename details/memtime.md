@@ -1,53 +1,93 @@
-# Memtime
+## Overview
 
-[Website](https://memtime.com/)
+Memtime is an automatic time tracking software designed for professionals who value privacy. It runs passively in the background, memorizing time spent in various programs and applications, while keeping all activity data offline and stored locally on your device.
 
-**Category:** Automated Time Tracking
+## Key Privacy Feature
 
-**Tags:** automatic-tracking, cross-platform, background, usage-monitoring
+Memtime is the **only automatic time tracker that guarantees privacy by keeping activity data offline**. Unlike cloud-based solutions, all tracked data remains on your local device, giving you complete control.
 
----
+## How It Works
 
-## Description
+### Passive Background Tracking
 
-Memtime is an automatic background time tracking tool for Windows, Mac, and Linux users. It passively records work activity for accurate time tracking, designed for those who prefer not to manually start and stop timers.
+- Runs quietly without requiring user interaction
+- Memorizes time spent in different applications and programs
+- Captures activity data throughout the workday
+- Creates a detailed timeline of work activities
 
----
+### Memory Timeline
 
-## Features
+Memtime creates a private timeline showing:
+- Which programs were used and when
+- How long you spent in each application
+- Document and file names you worked on
+- Websites visited during work
 
-- **Automatic Time Tracking:** Captures all computer activities (programs, documents, emails, video calls, meetings, browser tabs) automatically in the background.
-- **Privacy-Focused:** All tracking data is stored exclusively on the user's device and is not accessible to anyone else, including Memtime.
-- **Detailed Activity Records:** Tracks time spent in the foreground window, including file names, email subjects, and browser tab titles.
-- **Review & Recall:** Users can review their activity timeline, zoom into any day, and remember what they worked on quickly.
-- **Project Hour Logging:** Allows fast creation of time entries for projects based on captured activity.
-- **Export & Integrations:** Time entries can be exported as reports or synced with project management software. Integrates with various project software platforms.
-- **Cross-Platform Support:** Compatible with Windows (including Windows Server 2016, 2019, 2022), macOS, and Linux.
-- **Unlimited Devices:** Licensed per user, not per device; users can install on multiple devices.
-- **Offline Operation:** Functions entirely offline; no data is uploaded to servers.
-- **No Employee Monitoring:** Designed for personal productivity, not for surveillance or employee monitoring.
-- **Use Cases:** Suitable for accounting, finance, marketing, consulting, legal, design, software development, IT, architecture, remote teams, and freelancers.
-- **No Credit Card Required for Trial:** 14-day free trial without requiring credit card details.
+### Manual Timesheet Creation
 
----
+While tracking is automatic, timesheet creation involves:
+- Reviewing your private activity timeline
+- Manually categorizing activities into projects/clients
+- Creating time entries based on actual work done
+- Exporting to project management or invoicing tools
 
-## Pricing
+This approach combines automatic capture with manual categorization for accuracy and privacy.
 
-- **Free Trial:** 14 days, no credit card required. No automatic charges after trial expiry.
+## Privacy Protection
 
-(No additional pricing plans were provided in the content.)
+### Local-Only Data Storage
+All activity data stays on your device—never uploaded to cloud servers.
 
----
+### No Surveillance
+Memtime is not a monitoring tool:
+- Never records keystrokes
+- Doesn't take screenshots
+- Doesn't track personal content
+- Activity data visible only to the user
 
-## Platforms
+### User Control
+Complete ownership and control over all tracked data.
 
-- Windows (including Windows Server 2016, 2019, 2022)
+## Integrations
+
+Memtime integrates with project management and time tracking platforms including:
+- Asana
+- ClickUp
+- Jira
+- Monday.com
+- And others
+
+This allows you to push finalized time entries to external systems while keeping raw activity data local.
+
+## Use Cases
+
+- Consultants tracking billable hours across multiple clients
+- Freelancers needing accurate time capture without cloud dependency
+- Privacy-conscious professionals
+- Teams in regulated industries with data sovereignty requirements
+- Anyone who wants automatic tracking without surveillance
+
+## Key Benefits
+
+- **Capture all work time** - Never miss billable minutes
+- **Privacy guaranteed** - Data never leaves your device
+- **Accurate reconstruction** - Review exact timeline when creating timesheets
+- **No manual timers** - Automatic background capture
+- **Flexible categorization** - Apply project/client tags later when processing
+
+## Platform Support
+
+- Windows
 - macOS
-- Linux
+- Web-based timesheet interface
 
----
+## Who It's For
 
-## Notable Limitations
+- Privacy-conscious professionals
+- Consultants billing multiple clients
+- Freelancers needing accurate hour capture
+- Teams in healthcare, legal, or financial sectors with privacy requirements
+- Anyone wanting automatic tracking without cloud surveillance
+- Professionals in regions with strict data protection laws
 
-- Not available for ChromeOS, iOS, or Android (pending platform support for activity tracking).
-- Not designed for employee monitoring; only personal tracking.
+Memtime offers a unique value proposition: the convenience of automatic time tracking combined with absolute privacy through local-only data storage. This makes it particularly appealing to professionals who want comprehensive time capture without compromising data security or privacy.

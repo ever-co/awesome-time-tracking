@@ -1,28 +1,43 @@
-# Time Doctor
+## Overview
 
-[Time Doctor](https://www.timedoctor.com/) is a comprehensive time tracking and workforce analytics tool designed for monitoring employee work hours, generating productivity reports, managing payroll, and integrating with over 60 productivity and project management applications. It is suitable for distributed, remote, and hybrid teams.
+Time Doctor is an AI-powered workforce analytics platform that transforms everyday work data into clear, actionable insights. It combines comprehensive time tracking with employee monitoring features specifically designed for managing distributed and remote teams.
 
-## Features
-- **Real-time and Automated Time Tracking:** Accurately tracks employee work hours in real time.
-- **Workforce Analytics:** Provides detailed insights into team performance, including productivity metrics, work bottlenecks, and employee workload.
-- **Screenshots and Activity Monitoring:** Captures screenshots and monitors website and application usage to verify work done.
-- **Inactivity Alerts and Productivity Ratings:** Identifies unusual work patterns and alerts about inactivity, helping to spot disengagement or burnout.
-- **Attendance and Scheduling:** Tracks time and attendance, manages schedules, and handles time approvals.
-- **Payroll Management:** Facilitates payroll calculations and management based on tracked hours.
-- **Work-life Balance Metrics:** Provides metrics to help balance workloads and prevent burnout.
-- **Executive Dashboard:** Offers high-level overviews of workforce metrics for management.
-- **Integration with 60+ Apps:** Integrates with popular productivity and project management tools for seamless workflow.
-- **Application and Web Usage Reports:** Detailed reporting on app and web usage for process optimization.
-- **Security and Compliance:** Enterprise-level security, with ISO 27001, HIPAA, SOC 2, and GDPR compliance. Custom user roles and permissions are available.
+## Key Features
 
-## Category
-- Automated Time Tracking
+- **AI-powered analytics** - Transforms time tracking data into workforce insights using artificial intelligence
+- **Time tracking** - Automatic and manual time tracking across projects and tasks
+- **Productivity monitoring** - Track application and website usage to understand work patterns
+- **Screenshots** - Optional screenshot capture at customizable intervals
+- **Activity tracking** - Monitor keyboard and mouse activity levels
+- **Distraction alerts** - Real-time notifications when employees spend time on unproductive sites
+- **Payroll integration** - Automatic payroll calculation based on tracked hours
+- **Project tracking** - Monitor time spent on specific projects and clients
+- **Client reporting** - Generate detailed reports for client billing
+- **Video playback** - Optional screen recording for detailed activity review
 
-## Tags
-- Workforce Analytics
-- Integration
-- Real-time
-- Productivity
+## Workforce Analytics
+
+Time Doctor's AI analyzes patterns in work data to provide:
+- Productivity trends and insights
+- Team performance metrics
+- Project profitability analysis
+- Resource allocation optimization
+- Attendance and punctuality tracking
+
+## Use Cases
+
+- Remote teams requiring accountability and transparency
+- Distributed workforces across multiple time zones
+- Agencies tracking billable hours for multiple clients
+- Companies managing contractors and freelancers
+- Organizations needing detailed productivity analytics
+
+## Privacy & Compliance
+
+Time Doctor emphasizes transparency with employees about monitoring policies and provides controls for managing what is tracked and when.
 
 ## Pricing
-Pricing information is **not provided** in the available content. Visit the [Time Doctor pricing page](https://www.timedoctor.com/) for details on plans and costs.
+
+Time Doctor offers multiple pricing tiers based on team size and required features, with options ranging from basic time tracking to comprehensive workforce analytics.
+
+Time Doctor is designed for organizations that need both time tracking and workforce analytics to manage remote and distributed teams effectively.

@@ -1,56 +1,116 @@
 ## Overview
 
-ClockShark is a user-friendly time tracking app tailored specifically for construction and field service teams, offering GPS-based tracking and geofencing optimized for mobile workforce management.
+ClockShark is a GPS-enabled time tracking application specifically designed for field service businesses, construction companies, and mobile workforces. The app tracks employee locations throughout the workday and provides scheduling, job costing, and payroll integration features.
 
-## Features
+## Key GPS Features
 
-### Mobile Time Tracking
-- **GPS Time Clock**: Automatic GPS location capture at every clock-in/out
-- **Geofencing**: Virtual job site boundaries with alerts for early/late arrivals
-- **Offline Mode**: Track time without cellular connection, auto-sync when online
-- **Photo Time Stamps**: Capture photos with time entries for job documentation
-- **Who's Working Now**: Real-time view of all active employees and their locations
+### Location Tracking
+- Tracks GPS location every 10-15 minutes while employees are clocked in
+- Creates a breadcrumb trail of where employees have been during their shift
+- Provides map view showing team member locations in real-time
 
-### Job & Project Management
-- **Job Costing**: Track labor hours and costs per job or project
-- **Task Codes**: Break down time by specific tasks within jobs
-- **Equipment Time Tracking**: Log equipment usage alongside employee hours
-- **Job Schedules**: Assign employees to specific jobs and time periods
+### Privacy Protection
+**IMPORTANT**: The GPS tracking ONLY tracks locations when workers are clocked in and will NEVER track workers after they're off the clock.
+
+This ensures:
+- Respect for employee privacy during off-hours
+- Compliance with privacy regulations
+- Clear boundaries between work and personal time
+
+### Geofencing
+- Set virtual boundaries around job sites
+- Automatic notifications when entering/leaving sites
+- Verify employees are at correct locations
+- Prevent unauthorized site access
+
+## Core Features
+
+### Time Tracking
+- Mobile GPS time clock
+- Clock in/out from smartphones
+- Job and task code assignment
+- Break tracking
+- Overtime calculation
 
 ### Scheduling
-- **Crew Scheduling**: Schedule teams for different job sites
-- **Shift Planning**: Create and publish work schedules
-- **Schedule Notifications**: Alert employees of schedule changes
-- **PTO Requests**: Time-off request and approval system
+- Create and share employee schedules
+- Assign crews to job sites
+- Schedule notifications and reminders
+- Drag-and-drop schedule management
 
-### Reporting & Payroll
-- **Payroll Integration**: Export to QuickBooks, ADP, Paychex, and other payroll systems
-- **Certified Payroll Reports**: Generate Davis-Bacon and certified payroll reports
-- **Overtime Tracking**: Automatic overtime calculations
-- **Timesheet Approval**: Manager review and approval workflows
-- **Custom Reports**: Detailed job costing and labor reports
+### Job Costing
+- Track labor costs by job
+- Monitor project budgets in real-time
+- Compare estimated vs. actual labor
+- Profitability analysis by project
 
-### Field Service Features
-- **Rugged Design**: App optimized for outdoor conditions and gloved hands
-- **Multi-Language Support**: Available in multiple languages
-- **Break Reminders**: Automatic break compliance reminders
+### Payroll Integration
+- Export timesheets to payroll systems
+- Integration with QuickBooks and other platforms
+- Automated overtime calculations
+- Accurate hour reporting
 
-## Target Industries
+## Use Cases
 
-- Construction and contractors
-- Field service companies
-- HVAC, plumbing, electrical
-- Landscaping and lawn care
-- Roofing and exterior services
+- **Construction companies** - Track crews across multiple job sites
+- **Field service businesses** - Monitor technicians visiting customer locations
+- **Landscaping teams** - Verify presence at client properties
+- **HVAC and plumbing** - Route optimization and job costing
+- **Any mobile workforce** - Teams working outside the office
 
-## Integrations
+## Benefits
 
-- QuickBooks Online and Desktop
-- Sage 100 Contractor
-- ADP, Paychex, Gusto
-- Xero
-- Custom API integrations
+### For Employers
+- Verify employees are at assigned job sites
+- Reduce time theft and buddy punching
+- Accurate job costing and profitability tracking
+- Simplified payroll processing
+- Real-time visibility into field operations
 
-## Pricing
+### For Employees
+- Easy clock-in/out from mobile device
+- Clear expectation of when tracking occurs
+- Privacy protection during off-hours
+- Accurate pay based on actual hours
 
-Per-employee monthly pricing with 14-day free trial. No setup fees or long-term contracts.
+## Mobile Platform
+
+- iOS mobile app
+- Android mobile app
+- Web-based dashboard for management
+- Offline mode capability
+
+## Reporting
+
+- Timesheet reports
+- Job costing reports
+- GPS location history
+- Employee activity summaries
+- Budget vs. actual comparisons
+
+## Compliance & Privacy
+
+ClockShark emphasizes:
+- Tracking only during work hours
+- Transparent communication with employees
+- Clear privacy policies
+- Compliance with labor laws
+
+## Integration Partners
+
+- QuickBooks (Desktop and Online)
+- Sage
+- ADP
+- Paychex
+- And other payroll/accounting platforms
+
+## Who It's For
+
+- Construction companies with field crews
+- Field service businesses (HVAC, plumbing, electrical)
+- Landscaping and maintenance services
+- Any business with mobile employees
+- Companies needing job costing with time tracking
+- Organizations wanting GPS verification without invasive surveillance
+
+ClockShark balances the business need for location verification with employee privacy rights by restricting GPS tracking strictly to work hours, making it a responsible solution for managing mobile workforces.

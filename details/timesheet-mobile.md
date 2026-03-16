@@ -1,89 +1,64 @@
 ## Overview
 
-Timesheet Mobile is a comprehensive mobile time tracking solution designed for construction businesses, contractors, and home builders who need to accurately track employee and contractor labor hours and locations across multiple jobsites.
+Timesheet Mobile is a GPS-enabled time tracking application designed specifically for mobile workforces and field teams. The app uses smartphone GPS and geofencing technology to automatically track employee hours and locations, providing real-time visibility into field operations.
 
-## Features
+## Key Features
 
-- GPS-verified time clock punch in/out
-- Real-time location tracking
-- Geofencing for jobsite verification
-- Offline time tracking with automatic sync
-- Photo capture at clock in/out
-- Digital timesheets
-- Job costing and project tracking
-- Equipment time tracking
-- Break and lunch tracking
-- Customizable pay rules
+- **GPS geofencing** - Accurately tracks hours and locations using any phone from any job location
+- **GPS Punch Prompt** - Automatic reminders to punch out when leaving a work site geofence
+- **Location timestamps** - Records when employees enter and leave designated work sites
+- **Geofence boundaries** - Set virtual perimeters around job sites for automatic tracking
+- **Real-time tracking** - Live updates on employee locations and work status
+- **Mobile-first design** - Built specifically for smartphone use in the field
+- **Photo capture** - Employees can attach photos at clock-in for job verification
+- **Offline mode** - Continue tracking even without cellular connection
+- **Multiple job sites** - Track work across different locations throughout the day
 
-## GPS and Location Features
+## Geofencing Technology
 
-- GPS coordinates captured at every punch
-- Location history and breadcrumb trails
-- Geofence creation for jobsites
-- Location-based alerts for managers
-- Map view of crew locations
-- Distance and mileage tracking
-- Verify workers are on correct jobsite
+Timesheet Mobile's geofencing capabilities provide:
+- Automatic clock-in/out reminders based on location
+- Verification that employees are at correct job sites
+- Timestamps indicating when employees arrive and depart
+- Prevention of time theft and buddy punching
+- System administrator alerts for unauthorized site departures
 
-## Mobile Capabilities
+## Administrative Features
 
-- iOS and Android native apps
-- Tablet support for field supervisors
-- Offline mode for areas without coverage
-- Automatic data synchronization
-- Push notifications
-- Mobile photo attachments
-- Quick punch with minimal taps
-
-## Construction-Specific Features
-
-- Multiple job/project tracking
-- Cost code assignment per job
-- Crew management and organization
-- Equipment and material tracking
-- Daily field reports
-- Weather condition logging
-- Safety incident reporting
-- Job notes and documentation
-
-## Management Dashboard
-
-- Real-time crew visibility
-- Web-based administrative portal
-- Timesheet approval workflows
-- Labor cost analysis by project
-- Reporting and analytics
-- Payroll export capabilities
-- Client billing reports
-
-## Payroll Integration
-
-- Export to QuickBooks
-- Export to other payroll systems
-- Certified payroll reporting
-- Prevailing wage compliance
-- Overtime calculation
-- Multiple pay rate support
-- Time rounding rules
-
-## Compliance and Security
-
-- Audit trails for all time entries
-- Tamper-proof time records
-- User authentication
-- Data encryption
-- Backup and disaster recovery
-- DCAA compliance features
+- **Web dashboard** - Browser-based management console for administrators
+- **Real-time reports** - View employee locations and hours in real-time
+- **Timesheet approvals** - Review and approve submitted timesheets
+- **Payroll export** - Export time data for payroll processing
+- **Job costing** - Track labor costs by project or client
+- **Overtime tracking** - Automatic overtime calculation and alerts
 
 ## Use Cases
 
-- General contractors managing multiple sites
-- Home builders tracking crew time
-- Specialty trade contractors
-- Landscape and outdoor services
-- Facility maintenance teams
-- Any field service business requiring location verification
+- Construction crews working at multiple job sites
+- Field service technicians
+- Landscaping and maintenance teams
+- Home healthcare workers
+- Delivery drivers
+- Sales representatives visiting client sites
+- Any mobile workforce requiring location verification
 
-## Pricing
+## Benefits
 
-Contact Timesheet Mobile for custom pricing based on team size and features required.
+- Eliminate paper timesheets and manual data entry
+- Prevent time theft through GPS verification
+- Improve payroll accuracy with automated tracking
+- Real-time visibility into field operations
+- Reduce administrative overhead
+- Ensure employees are at assigned locations
+
+## Privacy Considerations
+
+GPS tracking typically only occurs during work hours when employees are clocked in, protecting privacy during off-hours.
+
+## Platform Support
+
+- iOS devices (iPhone, iPad)
+- Android devices
+- Web-based administrative dashboard
+
+Timesheet Mobile is specifically designed for businesses with mobile workforces that need GPS-verified time tracking and geofencing capabilities to ensure accurate timekeeping and location accountability.

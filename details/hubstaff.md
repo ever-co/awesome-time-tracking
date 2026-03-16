@@ -1,27 +1,39 @@
-# Hubstaff
+## Overview
 
-[Visit Hubstaff](https://hubstaff.com/)
+Hubstaff is a comprehensive time tracking and workforce analytics platform specifically designed for remote and distributed teams that need monitoring capabilities. It combines time tracking with productivity data, flexible payroll management, and attendance tracking features.
 
-**Category:** Team Project Time Tracking  
-**Tags:** employee-monitoring, productivity, teams, cloud-based
+## Key Features
 
-## Description
-Hubstaff is an advanced time tracking and employee monitoring software designed to help teams and businesses manage productivity, projects, and workforce operations for remote, hybrid, and in-office environments.
+- **Global time tracking** - Track time via desktop, web, mobile, or GPS across all devices
+- **Activity monitoring** - Monitor keyboard and mouse activity levels during tracked time
+- **Screenshots** - Optional automated screenshot capture at customizable intervals
+- **Productivity monitoring** - Track app and website usage to understand how time is spent
+- **GPS tracking** - Location tracking for field workers and mobile teams
+- **Automated timesheets** - Convert tracking data into automated timesheets for payroll
+- **20+ customizable reports** - Monitor team performance and track project progress with detailed analytics
+- **Payroll integration** - Flexible payroll options with automatic calculation based on tracked hours
+- **Attendance management** - Track employee attendance, time off, and scheduling
+- **Project budgeting** - Set budgets and monitor spending in real-time
 
-## Features
-- **Time Tracking:** Multi-device tracking (desktop, web, mobile, GPS), background timer, and automated timesheets.
-- **Productivity Metrics:** Actionable insights on team activity, real-time productivity metrics, detection of unusual or fake activity, and productivity insights add-on.
-- **Payroll Automation:** Accurate time data integrated with payroll, supports automated payments on preferred payroll platforms directly through the app.
-- **Attendance and Leave Management:** Customizable employee schedules, shift management, PTO policies, holiday tracking, and advanced attendance tracking (completed, late, and missed shifts).
-- **Project Cost Management and Budgeting:** Control project costs, tailor pay/billing rates, manage employee/contractor payments, and send automated invoices. Set weekly budgets or time limits with alerts for overages.
-- **Advanced Reporting:** Over 20 customizable reports for employee activity, project progress, budget adherence, and profitability.
-- **Dashboards:** Data-driven analytics dashboards for managers and employees.
-- **Integrations:** 35+ integrations with tools for project management, accounting, payroll, team management, and more.
-- **Privacy Controls:** Options to blur apps, URLs, and screenshots; no keystroke logging, no email monitoring, no camera access. Data collection ends when timer is stopped.
-- **Access Control:** Single sign-on, custom roles/permissions, users control when to clock in/out and submit hours.
-- **On-Premise/Self-Hosted Option:** Available for enterprise needs.
-- **Industry Solutions:** Adaptable for staffing, software development, e-commerce, consulting, real estate, marketing agencies, and more.
-- **Easy Onboarding:** Concierge setup, MSI installer, account provisioning.
+## Monitoring Features
+
+Hubstaff is designed for teams that explicitly require monitoring capabilities, including:
+- Activity levels tracking
+- Application and website usage monitoring
+- Random or scheduled screenshot capture
+- Idle time detection
+- Productivity scoring
+
+## Use Cases
+
+- Remote teams requiring accountability and transparency
+- Agencies tracking billable hours across multiple clients
+- Field service businesses with mobile workers
+- Companies needing detailed workforce analytics
+- Organizations managing distributed contractor teams
 
 ## Pricing
-No specific pricing plans were listed in the provided content. Hubstaff offers a 14-day free trial with no credit card required.
+
+Pricing starts at competitive rates per user/month with different tiers offering varying levels of monitoring and reporting features. A free trial is available to test the platform.
+
+Hubstaff is best suited for organizations that need comprehensive monitoring capabilities alongside time tracking, particularly those managing remote or distributed workforces.

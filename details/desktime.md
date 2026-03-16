@@ -1,37 +1,53 @@
-# DeskTime
+## Overview
 
-[Visit DeskTime](https://desktime.com/)
+DeskTime is an automatic time tracking and employee productivity monitoring platform that provides detailed insights into how work time is spent. It automatically tracks arrival/departure times, calculates daily productivity, and offers optional screenshot monitoring for accountability.
 
-**Category:** Automated Time Tracking
+## Key Features
 
-**Tags:** automatic-tracking, teams, screenshot, billing
+- **Automatic time tracking** - Tracks timestamps for employee arrival and departure automatically
+- **Productivity calculation** - Automatically calculates total time spent on work-related tasks and divides workday into productive and unproductive time
+- **Application and URL tracking** - Monitors which applications and websites employees use during work hours
+- **Productivity categorization** - Employees indicate which apps and URLs are productive or unproductive for their role
+- **Screenshots** - Optional screenshot capture every 5, 10, 15, or 30 minutes
+- **Project time tracking** - Monitor individual projects and tasks with activity rate tracking
+- **Customizable reports** - Share, print, or export reports to .xlsx files
+- **Team comparison** - Compare effectiveness between team members or departments over time
 
----
+## Productivity Insights
 
-## Description
+DeskTime creates detailed reports showing:
+- Productive vs. unproductive time breakdown
+- Application and website usage patterns
+- Project status and time estimates
+- Team and individual productivity trends
+- Data for accurate client billing
 
-DeskTime is an automatic time tracking tool designed for individuals and teams. It offers features to increase transparency, optimize work hours, and support hybrid work environments. DeskTime provides detailed insights into productivity, project costs, and work habits while minimizing manual input.
+## Privacy & Ethics
 
----
+DeskTime emphasizes that productivity monitoring should not be about surveillance. The platform is positioned as a productivity tool rather than a spy or surveillance system, focusing on helping teams improve efficiency.
 
-## Features
+## Use Cases
 
-- **Automatic Time Tracking:** Fully automated tracking starts when the computer is turned on and ends when it is shut down, requiring no manual input.
-- **Screenshot Capture:** Optionally takes screenshots to monitor work progress.
-- **URL & Document Title Tracking:** Tracks websites and document titles to provide detailed activity reports.
-- **Offline Tracking:** Allows users to add offline activities such as meetings or calls to ensure all work is accounted for.
-- **Project and Task Tracking:** Enables tracking of time spent on specific projects and tasks.
-- **Cost Calculation & Billing Reports:** Assigns hourly rates, estimates project costs, and generates detailed billing and productivity reports.
-- **Shift Scheduling & Absence Management:** Assign shifts, oversee absences, and manage hybrid or remote teams from a single platform.
-- **Break Reminders:** Built-in Pomodoro timer reminds users to take regular breaks to avoid burnout.
-- **Private Time:** Users can enable private time to pause tracking for personal activities.
-- **Integrations:** Connects with calendar and project management tools for streamlined workflows.
-- **Desktop and Mobile Apps:** Automated tracking on desktop; manual tracking and workday overview on mobile.
-- **Web Tracker:** Browser-based manual time tracking without software installation.
-- **Customizable Permissions:** Features and tracking can be enabled or disabled for the entire company or specific users.
+- Remote teams needing productivity accountability
+- Managers monitoring distributed workforce performance
+- Organizations tracking project time and costs
+- Companies wanting to identify productivity bottlenecks
+- Agencies billing clients based on tracked time
 
----
+## Reporting
+
+- Export data for payroll and billing
+- Compare productivity across time periods
+- Analyze team vs. individual performance
+- Track project profitability and time estimates
+- Generate client-ready time reports
 
 ## Pricing
 
-*No pricing information was found in the provided content. Please visit the [DeskTime website](https://desktime.com/) for current plans and pricing details.*
+DeskTime offers tiered pricing based on team size and required features, with different levels providing varying screenshot frequencies and reporting capabilities.
+
+## Platform Availability
+
+Available as desktop applications for Windows and macOS, as well as mobile apps for on-the-go time tracking.
+
+DeskTime is designed for organizations that want automatic time tracking combined with productivity monitoring to improve team performance while maintaining employee awareness and transparency about tracking policies.

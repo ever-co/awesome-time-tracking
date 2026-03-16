@@ -1,86 +1,89 @@
 ## Overview
 
-Focus@Will is a science-based music service that provides specially designed music channels to increase focus and productivity by leveraging neuroscience research on attention and concentration.
+Focus@Will is a music service that uses neuroscience-tested technology to alter the brain into a state of improved productivity. The platform claims to boost focus by up to 400% through scientifically designed audio that helps maintain concentration during work sessions.
 
 ## The Science
 
-Based on 20+ years of neuroscience research:
-- Music engineered to reduce distractions
-- Optimized for sustained attention (not relaxation)
-- Activates brain's focus network
-- Bypasses fight-or-flight responses to background noise
-- Tested and refined through user data
+### Brain-Shaping Sound
 
-## Features
+Focus@Will uses the brain-shaping features of sound to keep your mind from two undesirable states:
 
-- **15+ Music Channels** - Various genres and styles optimized for focus
-- **Productivity Tracker** - Track focus sessions and productivity over time
-- **Energy Level Selection** - Adjust music to your current energy state
-- **Customizable Sessions** - Set session length from 30 minutes to all day
-- **Scientific Customization** - Music adapts to your work type and personality
-- **Cross-Platform** - Web, iOS, Android, desktop apps
-- **Offline Mode** - Download channels for offline listening
-- **No Lyrics** - Instrumental music to prevent cognitive interference
-- **Productivity Analytics** - Insights into your focus patterns
+**Distraction** - External stimuli pulling attention away from work
 
-## Music Channels
+**Habituation** - The brain getting bored with surroundings (environmental habituation) or the task at hand (goal habituation)
 
-- **Classical** - Baroque and classical pieces
-- **Focus Spa** - Ambient soundscapes
-- **Up Tempo** - Energetic instrumental
-- **Alpha Chill** - Moderate tempo electronic
-- **Acoustical** - Acoustic guitar and strings
-- **Cinematic** - Film score-inspired
-- **ADHD Type 1 & 2** - Specialized for ADHD needs
-- **Uptempo** - High energy for physical tasks
+### Research Findings
+
+Initial research showed an increase of 11-12% for beta and theta frequencies at the P3 and P4 brain regions, which serve functions such as:
+- Processing language
+- Reading comprehension
+- Spatial focusing
+- Executive control
+
+### 100-Minute Focus Cycles
+
+Most people can concentrate for a maximum of about 100 continuous minutes before needing a break. The Focus@Will system is designed to:
+- Bring you to a focused flow state
+- Keep you there for optimal duration
+- Support sustained concentration
 
 ## How It Works
 
-1. Select your work type (creative, analytical, etc.)
-2. Choose energy level (low, medium, high)
-3. Pick a music channel that appeals to you
-4. Start timer for your work session
-5. Music plays continuously, optimized for focus
-6. Track your productivity over time
+### Audio Technology
 
-## Personalization
+The service uses specially curated and designed music that:
+- Maintains engagement without being distracting
+- Prevents both boredom and overstimulation
+- Adjusts to individual neurology types
+- Operates at optimal tempo and intensity
 
-Focus@Will adapts to:
-- Your personality type
-- Type of work you're doing
-- Your current energy level
-- Time of day
-- Your listening history and preferences
+### Personalization
 
-## Productivity Tracking
+Users can:
+- Select from multiple music channels/genres
+- Adjust energy levels to match work needs
+- Customize based on their neurological profile
+- Track productivity improvements over time
 
-- Track focus sessions
-- Monitor daily/weekly productivity
-- See improvements over time
-- Identify optimal focus times
-- Correlate music channels with performance
+## Key Features
 
-## Research Backing
+- **Multiple music channels** - Classical, ambient, electronic, acoustic, and more
+- **Productivity timer** - Built-in focus session tracking
+- **Neuroscience-based** - Audio specifically designed for concentration
+- **No lyrics** - Instrumental only to prevent language processing interference
+- **Customizable intensity** - Adjust energy level to match task requirements
+- **Cross-platform** - Web, iOS, Android apps
 
-- Peer-reviewed neuroscience studies
-- fMRI brain imaging studies
-- Continuous user testing and data analysis
-- Collaboration with neuroscientists
-- Published research on music and productivity
+## Science Team
+
+Focus@Will's science director uses behavior and physiology to examine time perception and the impact of audio on mood and cognition, having received post-doctoral funding from NIH at Northwestern University.
 
 ## Use Cases
 
-Ideal for:
-- Knowledge workers needing sustained focus
-- People working in noisy environments
-- Individuals with ADHD or attention challenges
-- Writers, programmers, designers doing deep work
-- Students studying for extended periods
-- Anyone distracted by background noise
+- Deep work sessions requiring sustained concentration
+- Writing and content creation
+- Programming and technical work
+- Studying and learning
+- Data analysis and complex problem-solving
+- Any cognitive work requiring extended focus
+
+## Similar Services
+
+**Brain.fm** - Competitor using similar neuroscience principles for focus music
+
+Both services leverage neuroscience research to enhance concentration through specifically designed audio.
 
 ## Pricing
 
-- **Free trial** - Test the service
-- **Monthly** - $9.95/month
-- **Yearly** - $52.50/year ($4.38/month)
-- **2-Year** - $79.50 ($3.31/month)
+Focus@Will typically offers subscription-based pricing with free trial periods to test effectiveness.
+
+## Who It's For
+
+- Knowledge workers requiring deep concentration
+- Students studying for extended periods
+- Writers and creative professionals
+- Anyone struggling with distraction in open offices
+- People who work better with background sound
+- Individuals seeking science-backed productivity tools
+
+Focus@Will represents the intersection of neuroscience and productivity, offering a scientifically-grounded approach to improving concentration through optimized audio experiences.

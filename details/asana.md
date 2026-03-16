@@ -1,48 +1,52 @@
-## Asana: Work Management Platform
+## Overview
 
-**Description:**
-Asana is a comprehensive work management platform designed to assist teams in planning, organizing, and tracking their work. It offers time tracking capabilities and integrates seamlessly with various time tracking tools to provide a holistic view of time spent on tasks.
+Asana is a leading project management and team collaboration platform that helps organizations manage tasks, projects, and workflows. While Asana offers limited native time tracking (manual entry only), it integrates seamlessly with specialized time tracking tools for comprehensive time management.
 
-**Website:** [Asana](https://asana.com/)
+## Native Time Tracking
 
-![Asana Logo](https://cdn.prod.website-files.com/64bf6aa2443faa46c887a8c0/687a29499b80d731494517a7_asana_logo.png)
+- **Manual time entry** - Basic time tracking through manual input
+- **Available on Advanced plan** - $24.99 per user/month
+- **Limited reporting** - Basic time tracking reports
 
-### Features:
-- **Project Management:**
-  - Plan, organize, and track projects efficiently.
-  - Tools for campaign management, creative production, and product launches.
-- **Workflows and Automation:**
-  - Automate repetitive tasks to save time and increase productivity.
-  - Use AI to streamline processes.
-- **Goals and Reporting:**
-  - Set, track, and report on organizational goals.
-  - Gain insights into team performance and progress.
-- **Resource Management:**
-  - Visualize team staffing and resource availability.
-  - Optimize resource allocation across projects.
-- **Admin and Security:**
-  - Robust security features for data protection.
-  - Admin tools for user management.
+## Project Management Features
 
-### Capabilities:
-- **Asana AI:**
-  - Leverage AI tools like AI Studio and Smart Assists to enhance productivity.
-- **App Integrations:**
-  - Integrate with a wide range of apps to extend functionality.
+- **Multiple views** - List, Board, Timeline, Calendar, and Gantt views
+- **Task management** - Create, assign, and track tasks with subtasks and dependencies
+- **Custom fields** - Add time estimates, priority levels, and custom metadata
+- **Team collaboration** - Comments, file attachments, and @mentions
+- **Automation** - Rules to automate repetitive workflows
+- **Portfolio management** - Track multiple projects and their status
+- **Goals tracking** - Align work with company objectives
+- **Workload view** - Visualize team capacity and prevent burnout
 
-### Plans:
-Asana offers several plans to meet different organizational needs:
-- **Personal Plan:** For individual users.
-- **Starter Plan:** For small teams.
-- **Advanced Plan:** For larger teams with complex needs.
+## Time Tracking Integrations
 
-### Industry Applications:
-- **Government, Healthcare, Retail, Financial Services, Education, Manufacturing:** Tailored solutions for various industry requirements.
+Asana integrates with leading time tracking apps that provide enhanced functionality:
 
-### Use Cases:
-- **Goal Management:** Align team activities with organizational goals.
-- **Organizational Planning:** Analyze progress and address business needs quickly.
-- **Resource Planning:** Efficiently manage resources across projects.
-- **Employee Onboarding:** Standardize processes to accelerate onboarding.
+**Everhour** - #3 rated app in Asana Marketplace (4.7/5), displays timer, estimates, and reported time next to each task
 
-Asana brings together people and technology to ensure work moves efficiently, empowering teams to achieve their strategic goals with clarity and accountability.
+**Clockify** - Free time tracking with browser extension that adds a timer button to all Asana tasks
+
+**Harvest** - Track time to Harvest directly from Asana tasks using browser extensions
+
+**TrackingTime** - Click tracking button next to task due dates to start/stop timers
+
+**Toggl Track** - One-click time tracking from within Asana tasks
+
+**Timely** - Enhanced Asana Sync Integration syncs users, projects, tags, and tasks automatically
+
+## Use Cases
+
+- Marketing teams planning campaigns and tracking deliverables
+- Product teams managing development roadmaps
+- Creative agencies coordinating client projects
+- Operations teams standardizing processes and workflows
+- Cross-functional teams collaborating on initiatives
+
+## Pricing
+
+- **Basic**: Free - for individuals and small teams
+- **Premium**: $10.99/user/month - Timeline, custom fields, and advanced features
+- **Business**: $24.99/user/month - Portfolios, workload, and advanced integrations
+
+Asana excels at project and task management, while third-party integrations provide comprehensive time tracking capabilities for teams that need both.

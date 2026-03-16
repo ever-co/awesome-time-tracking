@@ -1,147 +1,95 @@
 ## Overview
 
-Getting Things Done (GTD) is a comprehensive personal productivity methodology created by David Allen, detailed in his book 'Getting Things Done: The Art of Stress-Free Productivity,' first published in 2001.
+Getting Things Done (GTD) is a personal productivity methodology developed by David Allen and published in his 2001 book "Getting Things Done: The Art of Stress-Free Productivity." The system is based on the principle that there is an inverse relationship between things on your mind and those things getting done—by capturing all tasks externally, you free mental energy for execution.
 
-## Core Philosophy
+## Core Concept
 
-GTD is based on the principle that the mind is for having ideas, not holding them. By capturing all tasks, ideas, and commitments in a trusted external system, you free your mind to focus on processing and completing work rather than trying to remember everything.
+GTD rests on moving all items of interest, relevant information, issues, tasks, and projects out of your mind by recording them externally in a trusted system. This reduces mental clutter and allows focus on taking action rather than remembering what needs to be done.
 
 ## The Five Steps of GTD
 
 ### 1. Capture
-Collect everything that has your attention into a trusted system outside your mind:
-- Tasks and to-dos
-- Ideas and thoughts
-- Commitments and agreements
-- Things that bother you or capture your interest
+Collect everything that has your attention—tasks, ideas, commitments, projects—in external collection tools (inbox, notebook, app).
 
-**Tools**: Inbox (physical or digital), notebook, voice recorder, email
-
-### 2. Clarify
-Process what each item means and what to do about it:
-- **Is it actionable?**
-  - If NO: Trash it, incubate it for later, or file it as reference
-  - If YES: Determine the next action
-- **Will it take less than 2 minutes?**
-  - If YES: Do it immediately
-  - If NO: Delegate it or defer it to your action lists
+### 2. Clarify (Process)
+Transform collected items into clear, actionable steps. Ask: "What is it?" and "Is it actionable?"
 
 ### 3. Organize
-Put items in the right place:
+Put clarified items where they belong:
+- **Next Actions** - Tasks you can do immediately
+- **Projects** - Multi-step outcomes requiring multiple actions
+- **Waiting For** - Tasks delegated or awaiting others
+- **Someday/Maybe** - Ideas for potential future action
+- **Reference** - Information for later use
+- **Calendar** - Time-specific commitments
 
-**Action Lists**:
-- **Next Actions**: Single, specific next steps for active projects
-- **Projects**: Outcomes requiring more than one action step
-- **Waiting For**: Items delegated or dependent on others
-- **Someday/Maybe**: Things you might want to do but not now
+### 4. Reflect (Review)
+Regularly review your system to keep it current and trustworthy. The Weekly Review is considered a "critical factor for success."
 
-**Reference Materials**:
-- **Project Support**: Information related to active projects
-- **General Reference**: Non-actionable information to keep
+### 5. Engage (Do)
+Make trusted choices about what to do based on context, time available, energy, and priority.
 
-**Calendar**:
-- Time-specific actions
-- Day-specific actions
-- Day-specific information
+## The Two-Minute Rule
 
-### 4. Reflect
-Regularly review your system:
+If an action can be completed in two minutes or less, do it immediately when you process it. It takes longer to organize and review it than to simply complete it.
 
-**Daily Review**: Check calendar and next actions lists
+## Weekly Review
 
-**Weekly Review** (Critical component):
-- Process all inboxes to zero
-- Review and update action lists
-- Review calendar for past and future weeks
-- Review projects list for completion and next actions
-- Review Someday/Maybe list
-- Ensure system is complete, current, and cleared
+David Allen calls the weekly review a "critical factor for success." This regular review ensures:
+- System stays current and trusted
+- Completed tasks are acknowledged
+- Upcoming commitments are visible
+- You're doing the right things, not just any things
 
-### 5. Engage
-Choose what to do based on:
-- **Context**: Where you are, what tools you have
-- **Time Available**: How much time until next commitment
-- **Energy Available**: Mental and physical state
-- **Priority**: Relative importance
+## Key Principles
 
-## Key GTD Concepts
+- **Mind like water** - Achieve a mental state of calm readiness
+- **Context-based action** - Organize tasks by where/when they can be done
+- **Outcome thinking** - Define desired results for all projects
+- **Next action thinking** - Always identify the immediate next physical action
+- **Stress-free productivity** - Trust your system to reduce mental burden
 
-### The Two-Minute Rule
-If an action takes less than two minutes, do it immediately rather than organizing it for later. The time to organize and track it would exceed the time to complete it.
+## Tools & Implementation
 
-### Projects vs. Actions
-- **Project**: Any outcome requiring more than one action step
-- **Action**: A single, specific, physical, visible activity
+GTD can be implemented with:
+- Digital apps (Todoist, OmniFocus, Things, Notion)
+- Paper-based systems (notebooks, folders, filing cabinets)
+- Combination of analog and digital tools
+- The 2026 GTD Organizer (available as PDF)
 
-Example:
-- Project: "Plan team retreat"
-- Next Action: "Email Sarah to get preferred dates for team retreat"
+## Cultural Impact
 
-### Contexts
-Group next actions by the context in which they can be done:
-- @Computer
-- @Phone
-- @Errands
-- @Office
-- @Home
-- @Agenda (for specific people)
+In 2007, Time magazine called Getting Things Done the self-help business book of its time. "GTD" has become shorthand for an entire approach to professional and personal task management, spawning a culture of websites, organizational tools, seminars, and derivative methods.
 
-### Natural Planning Model
+## Combining with Other Methods
 
-GTD's approach to planning projects:
-1. **Purpose**: Why are we doing this?
-2. **Principles**: What are the boundaries?
-3. **Vision**: What will success look like?
-4. **Brainstorm**: Generate ideas
-5. **Organize**: Structure the ideas
-6. **Next Actions**: Determine specific next steps
+GTD works well with:
+- **Pomodoro Technique** - Use GTD to organize, Pomodoro to execute
+- **Time blocking** - Schedule next actions in your calendar
+- **Eisenhower Matrix** - Prioritize which actions to engage with first
 
-### Mind Like Water
-The goal is to achieve a state where your mind is clear and able to respond appropriately to whatever comes up, like water that returns to calm after a stone is thrown into it.
+## Who It's For
 
-## Benefits
+- Knowledge workers managing multiple projects
+- Professionals with heavy email and communication loads
+- Anyone feeling overwhelmed by commitments
+- People who need a comprehensive life management system
+- Individuals wanting stress-free productivity
 
-- **Stress Reduction**: Everything is captured, nothing is forgotten
-- **Clear Mind**: Mental RAM freed for thinking, not remembering
-- **Increased Productivity**: Know exactly what to do in any context
-- **Better Focus**: Engage fully with current task without distraction
-- **Improved Decision-Making**: All options visible for informed choices
-- **Enhanced Creativity**: Mind free to generate new ideas
+## Challenges
 
-## Comparison to Eat That Frog
+Potential difficulties:
+- Initial setup requires significant time investment
+- Maintaining the system requires discipline
+- Can feel overwhelming with very large backlogs
+- Weekly review commitment is non-negotiable
 
-While Eat That Frog is a prioritization principle focused on doing the most important thing first, GTD is a comprehensive task management system. The methods can be complementary:
-- Use GTD to organize all tasks and commitments
-- Use Eat That Frog principle to identify which GTD action is your 'frog' each day
+## Success Factors
 
-## Tools for GTD
+- Consistent capture of all commitments
+- Regular processing of inboxes
+- Weekly reviews without exception
+- Trust in the system's completeness
+- Honest assessment of next actions
 
-GTD is tool-agnostic, but common implementations include:
-- **Digital**: Todoist, OmniFocus, Things, Notion, Evernote
-- **Analog**: Paper-based systems, filing cabinets, planners
-- **Hybrid**: Combination of digital and paper
-
-The key is choosing a system you trust and will consistently use.
-
-## The Weekly Review
-
-Considered the most critical GTD practice:
-- Set aside 1-2 hours every week
-- Process all inboxes to zero
-- Review all action lists
-- Update projects list
-- Review calendar
-- Maintain system integrity
-
-Without the weekly review, the system breaks down over time.
-
-## Common Challenges
-
-- **Initial Setup**: Comprehensive capture can take time
-- **Discipline Required**: System only works if maintained
-- **Over-Organization**: Can become too complex
-- **Weekly Review**: Easy to skip but critical for success
-
-## Modern Relevance
-
-Though published in 2001, GTD remains highly relevant in the digital age where information overload and constant connectivity make a trusted system for managing commitments more important than ever.
+GTD remains one of the most influential and comprehensive personal productivity systems, valued for its thoroughness, flexibility, and proven ability to reduce stress while increasing output.
