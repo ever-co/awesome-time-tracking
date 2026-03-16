@@ -1,117 +1,147 @@
 ## Overview
 
-Getting Things Done (GTD) is a personal productivity system developed by David Allen, first published in 2001. The methodology rests on moving all items of interest out of your mind and into an external, trusted system, freeing mental bandwidth for actual work.
+Getting Things Done (GTD) is a comprehensive personal productivity methodology created by David Allen, detailed in his book 'Getting Things Done: The Art of Stress-Free Productivity,' first published in 2001.
 
-## Core Principle
+## Core Philosophy
 
-"There is an inverse relationship between things on your mind and those things getting done." — David Allen
+GTD is based on the principle that the mind is for having ideas, not holding them. By capturing all tasks, ideas, and commitments in a trusted external system, you free your mind to focus on processing and completing work rather than trying to remember everything.
 
-GTD's fundamental insight is that our minds are for having ideas, not holding them. By capturing everything externally, we reduce stress and increase productive output.
-
-## The Five Steps
+## The Five Steps of GTD
 
 ### 1. Capture
-Collect everything that has your attention into collection tools:
-- Physical inbox for paper items
-- Digital tools for emails, notes, tasks
-- Voice memos for ideas on the go
-- Capture 100% of open loops
+Collect everything that has your attention into a trusted system outside your mind:
+- Tasks and to-dos
+- Ideas and thoughts
+- Commitments and agreements
+- Things that bother you or capture your interest
 
-### 2. Clarify  
+**Tools**: Inbox (physical or digital), notebook, voice recorder, email
+
+### 2. Clarify
 Process what each item means and what to do about it:
-- Is it actionable?
-- If yes: What's the next action?
-- If no: Trash it, incubate it, or file it as reference
+- **Is it actionable?**
+  - If NO: Trash it, incubate it for later, or file it as reference
+  - If YES: Determine the next action
+- **Will it take less than 2 minutes?**
+  - If YES: Do it immediately
+  - If NO: Delegate it or defer it to your action lists
 
 ### 3. Organize
-Put items where they belong:
-- **Next Actions** - Specific next physical actions
-- **Projects** - Outcomes requiring multiple actions  
-- **Waiting For** - Items delegated to others
-- **Someday/Maybe** - Things to potentially do later
-- **Reference** - Information to keep for later
-- **Calendar** - Time-specific actions and information
+Put items in the right place:
+
+**Action Lists**:
+- **Next Actions**: Single, specific next steps for active projects
+- **Projects**: Outcomes requiring more than one action step
+- **Waiting For**: Items delegated or dependent on others
+- **Someday/Maybe**: Things you might want to do but not now
+
+**Reference Materials**:
+- **Project Support**: Information related to active projects
+- **General Reference**: Non-actionable information to keep
+
+**Calendar**:
+- Time-specific actions
+- Day-specific actions
+- Day-specific information
 
 ### 4. Reflect
-Review your system regularly:
-- **Daily** - Review calendar and next actions
-- **Weekly Review** - Update all lists, review projects, process inboxes
-- **Monthly/Quarterly** - Review goals and longer-term commitments
+Regularly review your system:
+
+**Daily Review**: Check calendar and next actions lists
+
+**Weekly Review** (Critical component):
+- Process all inboxes to zero
+- Review and update action lists
+- Review calendar for past and future weeks
+- Review projects list for completion and next actions
+- Review Someday/Maybe list
+- Ensure system is complete, current, and cleared
 
 ### 5. Engage
-Choose what to work on using four criteria:
-- **Context** - Where you are and tools available
-- **Time Available** - How much time until next commitment
-- **Energy Available** - Mental and physical state  
-- **Priority** - Which action is most important
+Choose what to do based on:
+- **Context**: Where you are, what tools you have
+- **Time Available**: How much time until next commitment
+- **Energy Available**: Mental and physical state
+- **Priority**: Relative importance
 
-## Key Concepts
+## Key GTD Concepts
 
 ### The Two-Minute Rule
-If an action takes less than two minutes, do it immediately rather than tracking it.
+If an action takes less than two minutes, do it immediately rather than organizing it for later. The time to organize and track it would exceed the time to complete it.
 
-### Next Action Thinking
-Always define the very next physical action required to move something forward. "Plan meeting" becomes "Email Sarah to propose three meeting times."
+### Projects vs. Actions
+- **Project**: Any outcome requiring more than one action step
+- **Action**: A single, specific, physical, visible activity
 
-### Project Definition
-Anything requiring more than one action step is a project. "Buy groceries" is not a project; "Plan anniversary dinner" is.
+Example:
+- Project: "Plan team retreat"
+- Next Action: "Email Sarah to get preferred dates for team retreat"
 
-### Waiting For List
-Track everything you've delegated or are waiting on from others.
+### Contexts
+Group next actions by the context in which they can be done:
+- @Computer
+- @Phone
+- @Errands
+- @Office
+- @Home
+- @Agenda (for specific people)
 
-### Someday/Maybe  
-Capture ideas you might want to pursue later without cluttering active lists.
+### Natural Planning Model
 
-## The Weekly Review
+GTD's approach to planning projects:
+1. **Purpose**: Why are we doing this?
+2. **Principles**: What are the boundaries?
+3. **Vision**: What will success look like?
+4. **Brainstorm**: Generate ideas
+5. **Organize**: Structure the ideas
+6. **Next Actions**: Determine specific next steps
 
-The critical habit that makes GTD work:
-
-1. **Get Clear** - Process all inboxes to zero
-2. **Get Current** - Review next actions, calendar, waiting for
-3. **Get Creative** - Review someday/maybe, generate new ideas
-4. **Get Perspective** - Review projects and goals
-
-Time required: 60-120 minutes weekly
+### Mind Like Water
+The goal is to achieve a state where your mind is clear and able to respond appropriately to whatever comes up, like water that returns to calm after a stone is thrown into it.
 
 ## Benefits
 
-- **Reduced Mental Stress** - Nothing on your mind means clearer thinking
-- **Increased Productivity** - Waste no energy remembering or reconsidering
-- **Better Focus** - Confidence to focus fully on current task
-- **Reliable System** - Trust that nothing falls through cracks
-- **Perspective** - Clear view of all commitments enables better decisions
+- **Stress Reduction**: Everything is captured, nothing is forgotten
+- **Clear Mind**: Mental RAM freed for thinking, not remembering
+- **Increased Productivity**: Know exactly what to do in any context
+- **Better Focus**: Engage fully with current task without distraction
+- **Improved Decision-Making**: All options visible for informed choices
+- **Enhanced Creativity**: Mind free to generate new ideas
 
-## Implementation Tools
+## Comparison to Eat That Frog
 
-GTD can be implemented with:
-- Paper-based systems (notebooks, file folders)
-- Digital tools (Todoist, Things, OmniFocus, Notion)
-- Hybrid systems combining analog and digital
+While Eat That Frog is a prioritization principle focused on doing the most important thing first, GTD is a comprehensive task management system. The methods can be complementary:
+- Use GTD to organize all tasks and commitments
+- Use Eat That Frog principle to identify which GTD action is your 'frog' each day
 
-## Common Pitfalls
+## Tools for GTD
 
-- **Incomplete Capture** - Not capturing everything undermines system trust
-- **Vague Next Actions** - "Handle project" isn't actionable; "Call client about timeline" is
-- **Skipping Weekly Review** - System becomes stale without regular maintenance
-- **Over-Organizing** - Spending more time organizing than doing
-- **Ignoring Contexts** - Not using contexts makes action lists overwhelming
+GTD is tool-agnostic, but common implementations include:
+- **Digital**: Todoist, OmniFocus, Things, Notion, Evernote
+- **Analog**: Paper-based systems, filing cabinets, planners
+- **Hybrid**: Combination of digital and paper
 
-## Time Investment
+The key is choosing a system you trust and will consistently use.
 
-- **Initial Setup** - 2-6 hours to set up system and do initial brain dump
-- **Daily** - 15-30 minutes processing and planning
-- **Weekly** - 60-120 minutes for weekly review
-- **Ongoing** - Becomes second nature with practice
+## The Weekly Review
 
-## Use Cases
+Considered the most critical GTD practice:
+- Set aside 1-2 hours every week
+- Process all inboxes to zero
+- Review all action lists
+- Update projects list
+- Review calendar
+- Maintain system integrity
 
-Ideal for:
-- Knowledge workers with multiple projects
-- Managers juggling many responsibilities  
-- People feeling overwhelmed by commitments
-- Anyone wanting systematic approach to productivity
-- Individuals with ADHD or executive function challenges
+Without the weekly review, the system breaks down over time.
 
-## Recognition
+## Common Challenges
 
-Time magazine called Getting Things Done "the self-help business book of its time" in 2007. The methodology has been adopted by millions worldwide and influenced numerous productivity tools and systems.
+- **Initial Setup**: Comprehensive capture can take time
+- **Discipline Required**: System only works if maintained
+- **Over-Organization**: Can become too complex
+- **Weekly Review**: Easy to skip but critical for success
+
+## Modern Relevance
+
+Though published in 2001, GTD remains highly relevant in the digital age where information overload and constant connectivity make a trusted system for managing commitments more important than ever.

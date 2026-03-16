@@ -1,42 +1,182 @@
 ## Overview
 
-Task Batching is a time management strategy that involves grouping similar tasks together and completing them during designated time periods, reducing the cognitive overhead of switching between different types of work.
+Task Batching is a productivity technique that involves grouping similar tasks together and completing them during dedicated time blocks, minimizing context switching and maximizing efficiency.
 
-## How It Works
+## The Context Switching Problem
 
-1. **Identify similar tasks**: Group tasks that require similar mental processes, tools, or contexts
-2. **Create batches**: Organize these tasks into logical groups
-3. **Schedule dedicated blocks**: Assign specific time periods for each batch
-4. **Complete the batch**: Work through all tasks in the batch during the designated time
-5. **Minimize interruptions**: Avoid switching to other task types during the batch period
+Every time you switch between different types of tasks, your brain incurs a cognitive cost:
+- **Attention Residue**: Part of your attention remains on the previous task
+- **Ramp-Up Time**: Takes time to fully engage with the new task
+- **Mental Fatigue**: Constant switching is exhausting
+- **Reduced Quality**: Work suffers from divided attention
 
-## Common Task Batches
+Research shows it can take 23 minutes to fully refocus after an interruption.
 
-- **Email Processing**: Check and respond to all emails during 2-3 designated times per day
-- **Content Creation**: Write all blog posts, articles, or social media content in one session
-- **Administrative Work**: Handle expense reports, filing, and paperwork together
-- **Meetings**: Schedule all meetings on specific days or time blocks
-- **Phone Calls**: Make all outbound calls in one concentrated period
-- **Social Media**: Plan, create, and schedule all social posts in one batch
-- **Code Reviews**: Review all pending pull requests in one focused session
+## Core Principle
 
-## Benefits
+By batching similar tasks together, you:
+- Maintain consistent mental context
+- Leverage momentum
+- Reduce setup and transition costs
+- Work more efficiently
 
-- **Reduces Context-Switching**: Minimizes the mental cost of transitioning between different types of work
-- **Increases Focus**: Maintains consistent mental state for related tasks
-- **Improves Efficiency**: Reduces setup time and gets into flow state faster
-- **Saves Time**: Studies show multitasking can reduce productivity by up to 40%
-- **Reduces Decision Fatigue**: Fewer decisions about what to work on next
-- **Creates Momentum**: Completing similar tasks builds rhythm and speed
+## How to Implement Task Batching
 
-## Implementation Tips
+### Step 1: Identify Task Categories
 
-- Start with one or two batches and expand gradually
-- Use time blocking to protect batch periods on your calendar
-- Turn off notifications during batch work sessions
-- Group tasks by required mental state (creative vs. analytical)
-- Consider energy levels when scheduling batches (creative work when fresh)
+Common categories:
+- **Communication**: Email, Slack, phone calls
+- **Creative Work**: Writing, designing, brainstorming
+- **Administrative**: Filing, expense reports, scheduling
+- **Meetings**: All meetings in consecutive blocks
+- **Learning**: Reading, courses, skill development
+- **Planning**: Goal setting, reviews, strategizing
 
-## Research Support
+### Step 2: Schedule Batches
 
-Research from the American Psychological Association shows that switching between tasks can cost as much as 40% of productivity time. Task batching directly addresses this by maintaining consistent context.
+Assign specific time blocks for each category:
+- **Email Batch**: 9-10am and 3-4pm
+- **Creative Batch**: 10am-12pm (peak focus time)
+- **Admin Batch**: 4-5pm (lower energy time)
+- **Meetings**: Tuesday/Thursday afternoons
+
+### Step 3: Work the Batch
+
+During the batch:
+- Focus only on tasks from that category
+- Complete as many as possible in the time block
+- Don't switch to other categories
+- Use a timer to maintain discipline
+
+### Step 4: Protect the Batches
+
+- Resist doing batched tasks outside their assigned times
+- If something comes up, add it to the appropriate batch
+- Only break batching for true emergencies
+
+## Types of Task Batches
+
+### Communication Batching
+**Instead of**: Checking email 20 times per day
+**Batch**: Check at 9am, 12pm, and 4pm only
+
+**Benefits**:
+- Inbox doesn't fragment your day
+- Respond to messages more thoughtfully
+- Reduce interruption-driven work
+
+### Meeting Batching
+**Instead of**: Meetings scattered throughout the week
+**Batch**: All meetings on Tuesday and Thursday afternoons
+
+**Benefits**:
+- Preserves full days for deep work
+- Reduces context switching
+- Easier to prepare for consecutive meetings
+
+### Creative Batching
+**Instead of**: Writing blog posts whenever you have time
+**Batch**: Wednesday mornings dedicated to all content creation
+
+**Benefits**:
+- Get into creative flow state
+- Produce higher quality work
+- More efficient than fragmented efforts
+
+### Errand Batching
+**Instead of**: Running errands as they come up
+**Batch**: Saturday morning for all errands
+
+**Benefits**:
+- Optimize routes and timing
+- Preserve weekday work time
+- Reduce decision fatigue
+
+## Advanced Batching Strategies
+
+### Day Theming
+Dedicate entire days to categories:
+- Monday: Strategic work
+- Tuesday/Wednesday: Deep work days (no meetings)
+- Thursday: Collaboration day (all meetings)
+- Friday: Learning and planning
+
+### Power Hours
+Batch small tasks into intense 60-minute sessions:
+- Set timer for 60 minutes
+- Complete as many small tasks as possible
+- Work with urgency and focus
+- Builds momentum and satisfaction
+
+### Energy-Based Batching
+Match task batches to energy levels:
+- **High Energy** (Morning): Creative and strategic work
+- **Medium Energy** (Midday): Meetings and collaboration
+- **Low Energy** (Late afternoon): Administrative tasks
+
+## Batching + Time Tracking
+
+Time tracking enhances batching:
+- **Validate Batch Sizing**: Are your batches the right length?
+- **Identify Inefficiencies**: Which batches take longer than expected?
+- **Measure Progress**: Track improvement in batch productivity
+- **Optimize Timing**: Find best times of day for each batch type
+
+## Common Mistakes
+
+### Over-Batching
+- Batches too long lead to mental fatigue
+- Solution: Cap batches at 90-120 minutes, include breaks
+
+### Rigid Batching
+- Refusing to handle urgent items outside batches
+- Solution: Allow flexibility for genuine emergencies
+
+### Wrong Category Size
+- Batches too small (not enough tasks) or too large (overwhelming)
+- Solution: Adjust category granularity based on task volume
+
+### Poor Timing
+- Scheduling creative work during low-energy periods
+- Solution: Match batch types to natural energy rhythms
+
+## Integration with Other Methods
+
+### + Pomodoro
+Use Pomodoro within batches:
+- Email Batch = 2 Pomodoros (50 minutes total)
+- Take 5-minute breaks between Pomodoros
+
+### + Time Blocking
+Batches are types of time blocks:
+- Time blocking provides the schedule structure
+- Batching provides the content strategy
+
+### + GTD
+Batch GTD contexts:
+- @Computer tasks in morning batch
+- @Errands on Saturday
+- @Calls in afternoon batch
+
+## Measuring Success
+
+Signs batching is working:
+- Less context switching throughout day
+- Faster completion of similar tasks
+- Deeper focus during batches
+- More predictable schedule
+- Reduced mental fatigue
+
+Signs it needs adjustment:
+- Batches consistently too long or short
+- Frequently breaking batch discipline
+- Some categories rarely get batched
+- Energy levels don't match batch timing
+
+## Scientific Basis
+
+**Cognitive Load Theory**: Working memory is limited; batching reduces load by maintaining single context
+
+**Attention Residue Research**: Sophie Leroy's work shows switching tasks leaves residue that impairs performance
+
+**Flow State Theory**: Batching enables deeper flow states by providing extended time in consistent context

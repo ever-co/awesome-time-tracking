@@ -1,50 +1,47 @@
-# Rippling
+## Overview
 
-[Website](https://www.rippling.com/)
+Rippling is a comprehensive workforce management platform that goes beyond traditional HR to unify employee management, IT administration, and finance operations with integrated time tracking.
 
-## Description
-Rippling is an enterprise-grade workforce management platform that automates HR, IT, and Finance workflows for organizations of all sizes. It integrates a wide range of functions including time tracking, payroll, benefits, device and access management, and spend management into a single system.
+## Time & Attendance
 
-## Features
-- **HR Management (HCM):**
-  - HRIS (Human Resource Information System) for employee data
-  - Compensation bands and management
-  - Automated HR compliance (ASO)
-  - Time & Attendance tracking
-  - Employee scheduling
-  - Benefits administration and PEO services
-  - Talent management (recruiting, onboarding, performance, surveys, learning management, headcount planning)
-- **Payroll:**
-  - US and global payroll processing
-  - Contractor payments
-  - Employer of Record services for global hiring
-- **IT Management:**
-  - Identity and access management
-  - Device management and inventory management
-  - Automation and unified controls for security
-- **Spend Management:**
-  - Expense management
-  - Corporate card controls
-  - Bill pay
-  - Global spend management
-- **Platform Capabilities:**
-  - Workflow automation studio
-  - Analytics and reporting across all modules
-  - Policy enforcement and permission controls
-  - 600+ integrations with third-party apps (e.g., Carta, Paypal, 1Password, Yubikey)
-- **Global Workforce Management:**
-  - Onboard, pay, and manage employees in 185+ countries
-  - Localized HR expertise and compliance tools
-- **Industries Supported:**
-  - Construction, financial services, healthcare, marketing, manufacturing, non-profits, professional services, restaurants, retail, technology, and more
-- **For All Company Sizes:**
-  - Startups, small businesses, mid-sized, and enterprise
+- Automated time tracking
+- Timesheet approval workflows
+- PTO management
+- Attendance policies
+- Overtime tracking
+- Integration with payroll
+
+## Unified Platform
+
+**HR Functions**:
+- Payroll processing (US and global)
+- Benefits administration
+- Onboarding and offboarding
+- Compliance management
+
+**IT Functions**:
+- Device management (laptops, phones)
+- App provisioning (Google Workspace, Slack, etc.)
+- Access control
+- Security policies
+
+**Finance Functions**:
+- Expense management
+- Corporate cards
+- Bill pay
+
+## Automation
+
+- Workflows trigger across systems
+- Example: New hire automatically gets laptop, apps, payroll setup
+- Policy enforcement automated
+
+## Target Users
+
+- Modern, tech-forward companies
+- Businesses wanting unified workforce platform
+- Companies with 5-5000+ employees
 
 ## Pricing
-Pricing information is not provided on the public website. Contact Rippling for a custom quote or to request a demo.
 
-## Tags
-enterprise, automation, payroll, workforce-analytics
-
-## Category
-team-project-time-tracking
+Per-employee monthly pricing with modular feature selection.

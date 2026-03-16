@@ -1,76 +1,80 @@
 ## Overview
 
-TCP Software delivers advanced workforce management solutions that help organizations track employee time, optimize schedules, and ensure labor law compliance through integrated hardware and software platforms.
+TCP Software provides automated time and attendance tracking combined with employee scheduling in a cloud-based platform, serving businesses from small teams to large enterprises.
 
-## Time & Attendance Features
+## Features
 
-- **Biometric Time Clocks**: Fingerprint, facial recognition, and badge readers
-- **Multi-Site Support**: Manage time tracking across multiple locations
-- **Punch Correction**: Edit and approve time punch exceptions
+### Time & Attendance
+- **Biometric Time Clocks**: Fingerprint, facial recognition, and hand geometry readers
+- **Mobile Time Clock**: GPS-enabled mobile app for field workers
+- **Web Clock**: Clock in from any web browser
+- **Badge Readers**: RFID and proximity card readers
+- **Automated Tracking**: Eliminate manual timesheets
+
+### Employee Scheduling
+- **Shift Scheduling**: Create and publish employee schedules
+- **Shift Bidding**: Allow employees to bid on open shifts
+- **Absence Management**: Track and approve time-off requests
+- **Schedule Templates**: Reusable scheduling patterns
+- **Labor Forecasting**: Predict staffing needs based on demand
+
+### Compliance & Rules
+- **Labor Law Compliance**: Built-in rules for federal and state labor laws
 - **Overtime Management**: Automatic overtime calculation and alerts
-- **Break Compliance**: Track breaks to ensure labor law adherence
-- **Mobile Time Capture**: Clock in/out from mobile devices
-- **Geofencing**: Location-based time tracking validation
-- **Offline Capability**: Continue tracking when network is unavailable
+- **Break Compliance**: Ensure mandatory breaks are taken
+- **FLSA Compliance**: Support for Fair Labor Standards Act requirements
+- **Audit Trail**: Complete record of all time and schedule changes
 
-## Scheduling Features
+### Payroll Integration
+- **Multiple Payroll Systems**: Export to ADP, Paychex, and others
+- **Automated Export**: Scheduled timesheet exports
+- **Custom Formats**: Support for various payroll formats
+- **Error Reduction**: Validated data reduces payroll mistakes
 
-- **Intelligent Scheduling**: AI-powered schedule optimization
-- **Demand-Based Forecasting**: Schedule based on predicted workload
-- **Shift Bidding**: Allow employees to bid on available shifts
-- **Labor Budget Tracking**: Monitor labor costs against budgets in real-time
-- **Certification Tracking**: Ensure scheduled employees have required skills
-- **Automated Notifications**: Alert employees of schedule changes
+### Reporting & Analytics
+- **Real-Time Dashboards**: Live view of attendance and labor costs
+- **Labor Analytics**: Detailed workforce metrics
+- **Custom Reports**: Build reports for specific needs
+- **Scheduled Reports**: Automatic report generation and distribution
+- **Predictive Analytics**: Forecast labor needs and costs
 
-## Labor Analytics
-
-- **Real-Time Dashboards**: Monitor workforce metrics live
-- **Labor Cost Analysis**: Detailed breakdowns of labor expenses
-- **Productivity Metrics**: Measure output per labor hour
-- **Compliance Reporting**: Track adherence to labor regulations
-- **Predictive Analytics**: Forecast future labor needs
-- **Custom Reports**: Build reports tailored to your KPIs
-
-## Compliance Management
-
-- **FLSA Compliance**: Automatic Fair Labor Standards Act compliance
-- **Union Rules**: Manage complex union labor agreements
-- **State/Local Laws**: Configure rules for different jurisdictions
-- **Audit Trails**: Complete history of all time and schedule changes
-- **ACA Tracking**: Affordable Care Act hour tracking
-
-## Integration Capabilities
-
-- Payroll system integration (ADP, Paychex, etc.)
-- HR management systems
-- ERP platforms
-- Access control systems
-- Point of Sale (POS) systems
-
-## Hardware Options
-
-- Wall-mounted time clocks
-- Tablet-based time capture
-- Biometric readers
-- Badge/card readers
-- Mobile devices
+### Advanced Features
+- **Job Costing**: Track time to departments, jobs, or projects
+- **Multi-Location**: Manage employees across multiple sites
+- **Employee Self-Service**: Mobile app for employees to view schedules and request time off
+- **Manager Portal**: Dashboard for supervisors
+- **API Access**: Integration with other business systems
 
 ## Industries Served
 
 - Healthcare
-- Retail
 - Manufacturing
+- Retail
 - Hospitality
-- Government
 - Education
-- Distribution centers
+- Government
+- Distribution
+
+## Benefits
+
+- Eliminates time theft through biometric verification
+- Reduces payroll processing time
+- Improves scheduling efficiency
+- Ensures compliance with labor laws
+- Provides data-driven workforce insights
+
+## Deployment Options
+
+- **Cloud-Based**: SaaS solution with no hardware to maintain
+- **On-Premise**: Available for organizations requiring on-site hosting
+- **Hybrid**: Combination of cloud and on-premise
 
 ## Pricing
 
-TCP Software offers enterprise pricing customized based on:
+Custom pricing based on:
 - Number of employees
-- Required features and modules
-- Hardware requirements
-- Implementation and training needs
+- Required features
+- Hardware needs
+- Support level
 
-Contact TCP for detailed pricing and demo.
+Contact for quote and demo.

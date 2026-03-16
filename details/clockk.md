@@ -1,18 +1,25 @@
 ## Overview
 
-Clockk is an AI-powered time tracking app that runs in the background, automatically recording all computer activity and allowing users to seamlessly transition between different projects throughout the day while maintaining a reliable record of time spent on each one.
+Clockk is an AI-powered time tracking solution built for professionals who struggle with manual time tracking and frequently forget to start timers.
 
 ## Features
 
-- **Automatic Activity Recording**: Captures time spent in all apps and websites without manual input
-- **AI-Powered Categorization**: Uses artificial intelligence to intelligently categorize work activities by project and client
-- **Privacy-Focused Design**: No screenshots, no surveillance - just accurate time data
-- **Timeline View**: Visual representation of your entire workday showing how time was allocated
-- **Multiple Project Support**: Seamlessly track time across different clients and projects
-- **Flexible Time Assignment**: Easily assign tracked time to appropriate projects after the fact
-- **Reporting**: Generate detailed reports for billing and productivity analysis
-- **Star Rewards Program**: Earn rewards for consistent timesheet completion
+- **Automatic Tracking**: Captures activity automatically in the background without requiring manual timer starts
+- **AI-Powered Categorization**: Uses artificial intelligence to intelligently categorize work into projects and clients
+- **Review & Approve**: All tracked time can be reviewed, edited, and approved before billing
+- **Application Monitoring**: Tracks which applications and websites you use during work hours
+- **Smart Time Entries**: Converts raw activity data into meaningful, billable time entries
+- **Client & Project Management**: Organize time by clients and projects
+- **Privacy Controls**: Offers privacy settings to control what gets tracked
+- **Billing Integration**: Turn approved time into invoices
+
+## Use Cases
+
+- Consultants who switch between multiple clients
+- Freelancers who forget to track time
+- Professionals who need accurate billable hours
+- Teams that need automated time capture
 
 ## Pricing
 
-Clockk costs $15 per user per month when billed annually, or $18 per user per month when billed monthly. A 14-day free trial is available with no credit card required.
+Subscription-based pricing model for professionals and teams.

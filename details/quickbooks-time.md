@@ -1,38 +1,48 @@
-# QuickBooks Time
+## Overview
 
-QuickBooks Time (formerly TSheets) is an online time tracker and timesheet application designed to help service providers track employee time and coordinate jobs efficiently.
-
-**Category:** Team Project Time Tracking
-
-**Tags:** cloud-based, timesheet, payroll, employee-monitoring
-
-**Website:** [QuickBooks Time Integrations](https://www.workyard.com/compare/quickbooks-integrations)
-
----
+QuickBooks Time (formerly TSheets) is Intuit's time tracking and scheduling software that provides the most straightforward integration with QuickBooks ecosystem for payroll and accounting workflows.
 
 ## Features
-- Online time tracking and timesheet management
-- GPS-powered time clock for accurate location-based clock-ins/outs
-- Mobile app for employee time tracking on the go
-- Geofencing to ensure employees can only clock in/out at authorized locations
-- Multiple clock-in/out methods: mobile app, supervisor mode, kiosk mode
-- Automated overtime and break calculation based on labor laws
-- Payroll-ready timesheets with compliance automation
-- Real-time job and project tracking with cost code assignment
-- Job costing: track labor costs by project or job code
-- Automatic syncing of timesheets, jobs, and customer data with QuickBooks (Online & Desktop)
-- Mileage and travel time tracking between job sites
-- Daily timecard sign-offs and smart alerts for timecard mistakes
-- Advanced reporting: payroll summaries, job cost reports, employee productivity reports
-- Scheduling tools: crew scheduling, shift reminders
-- Integrations with top construction and business apps
-- Offline capability in mobile app for remote locations
+
+### Time Tracking
+- **Multiple Entry Methods**: Time clock kiosk, mobile app, web browser, or dial-in phone system
+- **GPS Tracking**: Automatic location capture with every clock-in/out
+- **Geofencing**: Set up virtual boundaries and receive alerts when employees enter or leave job sites
+- **Photo Capture**: Optional photo verification at clock-in
+- **Offline Tracking**: Continue tracking time without internet connection
+
+### Job & Project Tracking
+- **Job Costing**: Track time and labor costs per job, project, or customer
+- **Service Items**: Assign specific service items to time entries for detailed billing
+- **Equipment Tracking**: Log equipment usage time alongside labor
+- **Project Budgets**: Monitor actual hours against budgeted hours
+
+### Scheduling
+- **Shift Scheduling**: Create and publish employee schedules
+- **Crew Scheduling**: Schedule teams for job sites
+- **PTO Management**: Request, approve, and track time off
+- **Shift Reminders**: Automatic notifications for upcoming shifts
+
+### QuickBooks Integration
+- **Seamless Data Flow**: Time data automatically syncs to QuickBooks Online or Desktop
+- **Payroll Integration**: Direct integration with QuickBooks Payroll
+- **Invoice Creation**: Turn tracked time into QuickBooks invoices
+- **Job Profitability**: See labor costs within QuickBooks job reports
+
+### Reporting & Administration
+- **Timesheet Approvals**: Manager review and approval workflows
+- **Overtime Alerts**: Automatic notifications when approaching overtime
+- **Custom Reports**: Detailed reports on hours, labor costs, and productivity
+- **Compliance Tools**: Support for various labor law requirements
+
+## Target Users
+
+- QuickBooks users seeking native time tracking integration
+- Construction and contracting businesses
+- Field service companies
+- Professional services firms
+- Any business billing time to customers
 
 ## Pricing
-- **Free Trial:** 14 days (no credit card required)
-- **Time Tracking Plan:** $6/month per user (annual) or $8/month per user (monthly) + $50 company base fee
-- **Workforce Management Plan:** $13/month per user (annual) or $16/month per user (monthly) + $50 company base fee
 
----
-
-QuickBooks Time is suitable for construction, field service, property management, and other businesses requiring accurate, compliant time tracking and seamless payroll/job cost integration with QuickBooks.
+Subscription-based pricing per user per month, with discounts for annual billing. Integrates with QuickBooks Online, QuickBooks Desktop, and QuickBooks Payroll subscriptions.

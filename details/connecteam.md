@@ -1,56 +1,40 @@
 ## Overview
 
-Connecteam is an all-in-one employee management platform designed specifically to support remote and deskless teams with precise time tracking, scheduling, and real-time communication.
+Connecteam is a comprehensive workforce management platform built specifically for businesses with deskless workforces, providing time tracking, scheduling, and team communication tools through intuitive mobile apps.
 
-## Core Features
+## Features
 
-### Time Tracking
-- GPS-enabled time clock
-- Geofencing for location verification
-- Real-time monitoring
-- Break and overtime tracking
-- Attendance management
+### Time & Attendance
+- **GPS Time Clock**: Location-verified clock-ins with GPS tracking
+- **Geofencing**: Restrict clock-ins to designated work locations
+- **Mobile Apps**: Native iOS and Android apps for field workers
+- **Kiosk Mode**: Shared device clock-in for teams without personal devices
+- **Multiple Punch Methods**: PIN, QR code, or biometric authentication
+- **Break Tracking**: Automatic paid and unpaid break management
+- **Offline Mode**: Works without internet connection, syncs when available
 
-### Scheduling
-- Shift scheduling
-- Drag-and-drop calendar
-- Availability management
-- Shift swapping
-- Schedule templates
+### Workforce Management
+- **Shift Scheduling**: Create and manage employee schedules with drag-and-drop interface
+- **Job Site Management**: Track time across multiple locations and job sites
+- **Team Communication**: Built-in chat and messaging for field teams
+- **Task Management**: Assign and track tasks for field workers
+- **Digital Forms**: Checklists, reports, and documentation on mobile devices
 
-### Communication
-- In-app messaging
-- Team updates
-- Announcements
-- Document sharing
-- Real-time notifications
-
-### Task Management
-- Task assignment
-- Progress tracking
-- Checklists
-- Job forms
-- Photo documentation
+### Reporting & Integration
+- **Payroll Integration**: Export timesheets to payroll systems
+- **Real-Time Reports**: Live attendance and productivity dashboards
+- **Overtime Tracking**: Automatic overtime calculation and alerts
+- **Customizable Reports**: Generate reports for specific needs
 
 ## Target Users
 
-- Field service teams
-- Construction crews
-- Retail workers
-- Healthcare staff
-- Hospitality teams
-- Remote workforces
-
-## Platform
-
-- iOS and Android apps
-- Web dashboard for managers
-- Time clock kiosk mode
-- Offline capabilities
+- Construction companies
+- Field service businesses
+- Retail and hospitality
+- Healthcare facilities
+- Any business with deskless or mobile workers
 
 ## Pricing
 
-Free plan available:
-- Includes time clock kiosk
-- Up to 10 users
-- Paid plans from $29/month for first 30 users
+- **Free Plan**: Available for small teams
+- **Paid Plans**: Tiered pricing based on features and number of employees

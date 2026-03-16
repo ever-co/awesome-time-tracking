@@ -1,51 +1,28 @@
 ## Overview
 
-TimeCamp is a comprehensive automatic time tracking solution that tracks time spent on applications and websites while providing project management, budgeting, invoicing, and attendance features for businesses of all sizes.
+TimeCamp is an automatic time tracking solution that integrates with accounting software and project management tools to streamline billing and invoicing workflows.
 
 ## Features
 
-- **Automatic Time Tracking** - Tracks applications, websites, and documents automatically
-- **Manual Time Entry** - Add time manually or use timers
-- **Project & Task Tracking** - Organize work by projects, tasks, and subtasks
-- **Billable Hours** - Track and manage billable vs. non-billable time
-- **Budgeting** - Set project budgets and track against actual time
-- **Invoicing** - Generate invoices from tracked time
-- **Attendance** - Track employee attendance and working hours
-- **Timesheets** - Automated timesheet generation
-- **Reporting** - Comprehensive reports and analytics
-- **Integrations** - 50+ integrations with project management and accounting tools
-- **Mobile Apps** - iOS and Android apps for on-the-go tracking
-- **Productivity Ratings** - Categorize activities as productive/unproductive
-
-## Key Integrations
-
-- **Project Management**: Asana, Trello, Jira, Basecamp, Monday.com
-- **Accounting**: QuickBooks, Xero, FreshBooks
-- **Development**: GitHub, GitLab, Bitbucket
-- **Calendar**: Google Calendar, Outlook
-- **Communication**: Slack, Microsoft Teams
-
-## Time Tracking Methods
-
-1. **Automatic Desktop Tracking** - Runs in background
-2. **Browser Extension** - Track time in web apps
-3. **Manual Timers** - Start/stop timers for tasks
-4. **Manual Entry** - Add time entries retroactively
-5. **Calendar Integration** - Import time from calendar events
+- **Automatic Time Tracking**: Tracks time spent on tasks automatically without manual timer starts
+- **Xero Integration**: Enables integration with Xero accounts to automatically turn tracked data into invoices
+- **QuickBooks Integration**: Syncs time data with QuickBooks for seamless accounting
+- **50+ Integrations**: Connects with popular project management tools including Asana, Trello, Jira, and more
+- **Billable Hours**: Calculates billable amounts based on hourly rates set for clients or projects
+- **Invoicing**: Automatically generates invoices from tracked time with hours, descriptions, and totals pre-filled
+- **Detailed Reporting**: Creates comprehensive reports showing time allocation across projects and clients
+- **Timesheet Approvals**: Workflow for reviewing and approving employee timesheets
+- **Budget Tracking**: Monitors project budgets and alerts when approaching limits
+- **Desktop & Mobile Apps**: Track time across devices with automatic synchronization
 
 ## Use Cases
 
-Perfect for:
-- Agencies tracking billable client hours
-- Freelancers managing multiple projects
-- Remote teams needing productivity insights
-- Companies requiring attendance tracking
-- Organizations needing budget vs. actual tracking
+- Freelancers who bill by the hour
+- Consultants managing multiple clients
+- Agencies tracking billable client work
+- Teams needing automated time capture
 
 ## Pricing
 
-- **Free** - Basic time tracking for unlimited users
-- **Starter** - $3.99/user/month
-- **Premium** - $6.99/user/month
-- **Ultimate** - $10.99/user/month
-- **Enterprise** - Custom pricing
+- **Free Version**: Available with basic features and Xero time tracker sync
+- **Paid Plans**: Premium features for teams and advanced integrations

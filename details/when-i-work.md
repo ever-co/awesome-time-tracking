@@ -1,54 +1,48 @@
-# When I Work
+## Overview
 
-[When I Work](https://wheniwork.com/) is a workforce management platform designed to simplify employee scheduling and time tracking for businesses with shift-based workforces.
+When I Work is an employee scheduling and time clock solution designed specifically for hourly workers and businesses with shift-based schedules.
 
-## Features
+## Scheduling Features
 
-- **Employee Scheduling**
-  - Build work schedules in minutes
-  - Auto Scheduling: Create entire schedules with one click
-  - Share and publish schedules instantly to notify the team
-  - Shift confirmation, swap, and drop notifications
-  - Labor forecasting tools to manage labor budgets
-  - Confident shift coverage with confirmation and notifications
-- **Time Tracking**
-  - Turn any device into a time clock
-  - Track attendance, breaks, and time off
-  - Enforce clock-ins to assigned shifts and locations
-  - Overtime alerts and labor reporting
-  - Schedule enforcement to limit clock-ins
-  - Payroll integration: Import timesheets for payroll processing
-  - Labor distribution and reporting for cost management
-- **Team Management**
-  - Onboard new employees
-  - Approve time off requests and review shift trades
-  - Fill open shifts quickly
-  - Team accountability with shift and team tasks
-- **Team Communication**
-  - Built-in team messaging (1:1 and group chats)
-  - Notify team members of schedule changes instantly
-  - Centralized communication without sharing personal phone numbers
-- **Employee Empowerment**
-  - Employees can manage their availability
-  - Submit time-off requests
-  - Collaborate on shift trades
-- **Mobile Accessibility**
-  - Desktop and mobile apps for both managers and employees
-  - Intuitive and easy-to-use interface
-- **Integrations**
-  - Connect with payroll, point-of-sale, business operations, and on-demand pay tools
-  - Streamline scheduling, payroll, and other workflows
-- **HR Toolkit**
-  - Checklists, templates, resources, and best practices for employee management
-- **Industries Served**
-  - Restaurant, retail, call center, healthcare, seasonal, hospitality, franchise, volunteer, salon & spa, education, and more
+- Drag-and-drop shift scheduling
+- Shift templates and rotation
+- Shift trading and swapping
+- Open shift posting
+- Schedule publishing and notifications
+- Availability management
+
+## Time & Attendance
+
+- Mobile time clock app
+- GPS verification
+- Photo verification
+- Timesheet approval
+- Overtime tracking
+- Late and absence alerts
+
+## Team Communication
+
+- Group and individual messaging
+- Shift reminders
+- Announcement broadcasting
+- In-app chat
+
+## Integrations
+
+- Payroll export to major providers
+- QuickBooks
+- ADP
+- Paychex
+- Square
+
+## Target Industries
+
+- Retail
+- Restaurants
+- Hospitality
+- Healthcare
+- Any shift-based business
 
 ## Pricing
 
-*No pricing information was provided in the available content.*
-
-## Category
-team-project-time-tracking
-
-## Tags
-scheduling, attendance, teams, workforce-analytics
+Affordable per-employee monthly pricing with free trial.

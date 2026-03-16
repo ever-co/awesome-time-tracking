@@ -1,54 +1,33 @@
 ## Overview
 
-7shifts is a restaurant scheduling, payroll, and retention tool in one app that is designed to fit the needs of restaurant and hospitality professionals worldwide. More than 1,000,000 restaurant professionals trust 7shifts to help them manage schedules, reduce labor costs, and streamline team communication.
+7shifts is employee scheduling and workforce management software built specifically for the restaurant industry, offering scheduling, time tracking, and labor management tools.
 
-## Key Features
+## Features
 
-### Scheduling
+- Drag-and-drop shift scheduling
+- Mobile time clock with GPS
+- Labor cost forecasting
+- Tip pooling and management
+- Team messaging
+- Shift trading and coverage
+- POS integration
+- Compliance tools
 
-- Simplifies employee management with labor compliance built into scheduling tools
-- Real-time sales and labor data tracking
-- Automated shift notifications
-- Drag-and-drop scheduler for easy schedule creation
+## Restaurant-Specific
 
-### Time Tracking
+- Integration with restaurant POS systems
+- Sales forecasting for scheduling
+- Tip reporting
+- Multiple location support
+- Role-based scheduling
 
-- Accurate timekeeping to track clock-ins, breaks, and overtime without error
-- Labor compliance built into time clocking & scheduling tools
-- Employees use 7Punches (mobile app) or POS integration to punch in or out
-- Monitors when employees need to take mandatory breaks
-- Tracks when employees are at risk of overtime
+## Target Users
 
-### Labor Compliance
-
-- Tracking clock-ins and clock-outs helps keep your restaurant labor compliant
-- Monitors mandatory break requirements
-- Overtime risk tracking
-- Built-in compliance features for restaurant labor laws
-
-### Team Communication
-
-- Built-in team chat functionality
-- Shift swap and availability management
-- Real-time notifications
-
-### Integrations
-
-- Integrates with Gusto for payroll processing
-- Imports hours from 7shifts time tracking into payroll systems
-- POS system integrations
-
-## Best Use Cases
-
-- Restaurants and food service businesses
-- Hospitality industry professionals
+- Restaurants of all sizes
+- Quick service restaurants
+- Full-service restaurants
 - Multi-location restaurant groups
-- Quick-service and fast-casual establishments
 
 ## Pricing
 
-7shifts offers a free Comp plan for single-location restaurants with up to 30 employees that includes basic scheduling, time clock, team chat, and hiring tools. Paid plans start at $34.99 per location per month. Time tracking requires The Works tier or higher ($76.99+).
-
-## User Base
-
-More than 1,000,000 restaurant professionals trust 7shifts globally.
+Tiered pricing based on location count and features.

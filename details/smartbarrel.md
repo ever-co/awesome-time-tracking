@@ -1,65 +1,26 @@
 ## Overview
 
-SmartBarrel offers a rugged jobsite time clock specifically built for tough construction environments. It's LTE-connected, can be solar or AC-powered, and is designed to keep working even when cellular service is unreliable.
+SmartBarrel provides construction time tracking software and jobsite hardware specifically designed for trade contractors who need verified, accurate labor tracking.
 
 ## Features
 
-### Rugged Hardware
-- Built for harsh construction site conditions
-- Weather-resistant and durable enclosure
-- Operates in extreme temperatures
-- Dust and water resistant
-- Vandal-resistant design
+- **Biometric Facial Verification**: Prevents buddy punching by requiring facial recognition for clock-ins
+- **GPS Geofencing**: Verifies workers are within designated jobsite ranges when clocking in
+- **Real-Time Timestamps**: Captures exact clock-in and clock-out times with location data
+- **Jobsite Hardware**: Physical time clock devices designed for rugged construction environments
+- **Offline Capability**: Continues tracking even without internet connectivity, syncing when connection restored
+- **Job Costing**: Breaks down labor costs by project for accurate budgeting
+- **Payroll Integration**: Exports verified time data directly to payroll systems
+- **Multi-Site Management**: Track crews across multiple construction sites simultaneously
+- **Weather-Resistant**: Hardware designed to withstand outdoor construction conditions
 
-### Power Options
-- Solar-powered option for remote sites
-- AC-powered option for sites with electricity
-- Battery backup for continuous operation
-- Low power consumption
+## Target Users
 
-### Connectivity
-- LTE cellular connection
-- Works even with poor service
-- Offline mode with local storage
-- Automatic data sync when connection available
+- Construction companies managing multi-site crews
+- Project managers needing real-time workforce visibility
+- Payroll administrators seeking to minimize manual entry errors
+- Trade contractors requiring verified labor hours
 
-### Time Clock Features
-- RFID badge or PIN-based clock-in/out
-- Photo capture at clock-in
-- Job code selection
-- Break tracking
-- Real-time sync to cloud
+## Pricing
 
-### Construction-Specific
-- Job costing capabilities
-- Multiple projects per device
-- Cost code tracking
-- Overtime calculations
-- Crew management
-
-## Platform Support
-
-- Physical time clock device for jobsites
-- Web-based admin portal
-- Mobile app for supervisors
-- Cloud-based data storage
-
-## Benefits
-
-- **Extreme Durability**: Built to withstand construction site conditions
-- **Reliable Operation**: Works even in areas with poor cellular coverage
-- **Flexible Power**: Solar option eliminates need for electrical hookup
-- **Prevents Time Theft**: Physical presence required to clock in
-- **Easy Setup**: Simple installation and configuration
-
-## Ideal For
-
-- Construction companies with remote or rural jobsites
-- Sites without reliable power or internet
-- Companies needing durable, weather-resistant equipment
-- Large construction projects with multiple crews
-- Outdoor work environments with harsh conditions
-
-## Integration
-
-Integrates with major payroll systems and construction management software for seamless workflow.
+Contact for pricing based on company size and number of jobsites.

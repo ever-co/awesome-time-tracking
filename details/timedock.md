@@ -1,31 +1,28 @@
-## TimeDock - NFC Time Tracking
+## Overview
 
-TimeDock uses a simple time tracking app that allows employees to assign badges that they can use to clock in. All your staff need to do is tab their NFC tags (or ID cards) to a team lead's phone to clock in!
+Timedock is a time clock system built specifically for seamless integration with Xero Payroll, automating the flow of employee hours directly into Xero accounting software.
 
-## Key Features
+## Features
 
-- **NFC Badge Clocking**: Employees tap their NFC tags or ID cards to clock in/out
-- **Mobile-Based**: Uses team leads' smartphones as the clock-in terminal
-- **Online Timesheets**: Automatic generation of timesheets from clock-in data
-- **Job Hours Tracking**: Track time spent on specific jobs or projects
-- **Real-time Sync**: Cloud-based storage with instant synchronization
+- **Xero Payroll Integration**: Automated timesheet sync directly into Xero with no manual data entry
+- **Kiosk Mode**: Shared device mode allowing multiple employees to clock in/out from a single tablet or computer
+- **Facial Recognition**: Biometric verification to prevent buddy punching
+- **GPS Tracking**: Location verification for mobile workers and field staff
+- **Multiple Clock-In Methods**: PIN codes, QR codes, or facial recognition
+- **Automated Timesheets**: Hours automatically flow to Xero timesheets for payroll processing
+- **Break Management**: Track paid and unpaid breaks automatically
+- **Overtime Calculation**: Automatically calculates overtime based on configured rules
+- **Mobile Apps**: iOS and Android apps for remote workers
+- **Offline Mode**: Continues functioning without internet, syncing when reconnected
+- **Reporting**: Detailed attendance and time reports
 
-## How It Works
+## Target Users
 
-1. Employees are assigned NFC tags or use existing ID cards
-2. Team leads have the TimeDock app installed on their phones
-3. Workers tap their NFC tag to the phone to clock in/out
-4. Time is automatically recorded and synced to the cloud
-5. Managers can view attendance and timesheet data in real-time
+- Businesses using Xero for payroll
+- Companies with shared workstation environments
+- Organizations with mobile or field workers
+- Teams needing biometric verification
 
-## Benefits
+## Pricing
 
-- Eliminates need for dedicated time clock hardware
-- Prevents buddy punching and time fraud
-- Simplifies payroll processing
-- Provides accurate job costing data
-- Works offline with sync when connection is restored
-
-## Platform Availability
-
-Available as mobile app for Android and iOS, with web-based management portal.
+Subscription-based pricing with plans based on number of employees.

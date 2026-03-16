@@ -1,89 +1,50 @@
-# Homebase
+## Overview
 
-[Visit Homebase](https://bestreviews.net/homebase-reviews/)
+Homebase provides free employee scheduling and time tracking specifically designed for small businesses in restaurants, retail, and service industries.
 
-**Category:** Team Project & Time Tracking  
-**Tags:** cloud-based, gps, attendance, scheduling
+## Core Features (Free)
 
----
+**Scheduling**:
+- Unlimited schedules
+- Shift templates
+- Team messaging
+- Availability tracking
 
-## Description
-Homebase is an all-in-one workforce management platform aimed at simplifying team management, time tracking, scheduling, and communication for businesses of all sizes. It supports both on-site and remote teams, offering tools for time tracking, scheduling, payroll, hiring, and compliance.
+**Time Clock**:
+- Mobile and tablet time clock
+- GPS and geofencing
+- Overtime alerts
+- Timesheet editing
 
----
+**Team Communication**:
+- Group messaging
+- Shift reminders
+- Announcements
 
-## Features
-- **Time Tracking**
-  - Manual and automatic time tracking
-  - Clock-in/out via mobile, desktop, or physical terminals
-  - GPS clock-in (location tracked at clock-in/out)
-  - Offline tracking (works without internet)
-  - PIN/password-based entry for shared devices
-  - Idle detection
-  - Break and overtime tracking
-  - Compliance with labor laws (FLSA, GDPR)
-  - Alerts for missed clock-outs or unexpected overtime
-  - Automatic syncing of hours to timesheets
-  - Time rounding and manual adjustments
-  - Labor cost estimation and budgeting tools
-  - Data encryption and security (including 2FA)
+## Premium Features
 
-- **Employee Management**
-  - User and team management with permission controls
-  - Timesheets and recurring/manual time entries
-  - Work scheduling and shift planning
-  - Time off management and PTO policy creation
-  - Automated accrual tracking
-  - Team communication tools (announcements, shift notes, custom channels)
-  - Employee attendance and milestone tracking
-  - Certification management
-  - Performance and retention tools
+- Advanced reporting
+- PTO tracking
+- Shift trading
+- Hiring and onboarding
+- HR compliance tools
+- Payroll integration
 
-- **Payroll & Compliance**
-  - Payroll add-on (automated calculations for breaks, overtime, wages)
-  - Payroll integrations (e.g., Gusto, QuickBooks)
-  - Automatic record storage for compliance
+## Why It's Free
 
-- **Hiring & Onboarding**
-  - Customizable job posts
-  - Applicant tracking
-  - Online onboarding paperwork
-  - Integration with job boards (e.g., Indeed, Craigslist)
+Basic features are free forever; revenue from premium features and payroll services.
 
-- **Reporting & Analytics**
-  - Workforce reports (scheduled vs actual hours, labor costs, clock-ins, etc.)
-  - Customizable and exportable reports (CSV)
-  - Recurring reporting
-  - Department and certification-level analytics
+## Target Users
 
-- **Integrations**
-  - 20+ integrations (project management, accounting, CRM, Zapier, POS, calendar, job boards)
-  - Examples: QuickBooks, Gusto, Square, Google Calendar
-
-- **Add-ons (at extra cost)**
-  - Payroll software
-  - Tip manager
-  - Background checks
-  - Task manager
-  - Job post boosts
-
----
+- Small businesses (5-50 employees)
+- Restaurants and cafes
+- Retail stores
+- Service businesses
+- Hourly workforce
 
 ## Pricing
-- **Free Plan:** Basic time tracking and scheduling
-- **Essentials Plan:** Starts at $20/month/location (adds more advanced features)
-- **Plus Plan:** $48/month/location (adds further tools)
-- **All-in-One Plan:** Starts at $80/month/location (full suite, including HR and compliance)
-- **Payroll Add-on:** $39/month base fee + $6 per employee/month
-- **Other Add-ons:** Priced separately
-- **Discount:** Up to 20% off with annual plans
-- **Free Trial:** 14 days
 
----
-
-## Ideal For
-- Retail, hospitality, health services, and other businesses seeking streamlined team management, time tracking, and scheduling tools.
-
----
-
-**Note:** Homebase does not provide advanced field service management features like job site overviews or route planning, but its GPS clock-in can be useful for basic location accountability.
+- Basic: Free forever
+- Essentials: $20/location/month
+- Plus: $48/location/month
+- All-in-One: $80/location/month

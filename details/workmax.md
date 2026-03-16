@@ -1,84 +1,65 @@
 ## Overview
 
-WorkMax is an easy-to-use time tracking solution collecting field data in real-time, ensuring workers are in the right place at the right time. It is a Foundation Software product designed specifically for construction contractors and workforce management.
+WorkMax is a comprehensive construction time tracking and project management platform designed specifically for contractors who need job costing, crew management, and equipment tracking capabilities.
 
 ## Features
 
-### Identity Verification & Anti-Fraud
-- Patented biometric/facial recognition
-- Face-matching technology confirms all clock-ins
-- Eliminates buddy punching
-- Cutting-edge fraud prevention
-- Ensures accurate time reporting
+### Time Tracking
+- **Mobile Time Clock**: GPS-enabled mobile app for field workers
+- **Geofencing**: Verify workers are at correct job sites
+- **Photo Verification**: Optional photo capture at clock-in
+- **Offline Mode**: Track time without internet, sync later
+- **Multiple Clock Methods**: Mobile app, web portal, or kiosk
 
-### GPS Location Tracking
-- GPS location stamps at clock-in
-- GPS stamps when changing tasks
-- GPS verification at clock-out
-- Geofencing technology
-- Maximize accuracy of time and location data
-- Ensures workers are at correct job sites
+### Job Costing
+- **Real-Time Job Costs**: See labor costs as they accumulate
+- **Budget vs. Actual**: Compare estimated vs. actual labor hours
+- **Cost Code Tracking**: Track time to specific cost codes
+- **Project Profitability**: Analyze profit margins by project
+- **Change Order Tracking**: Monitor additional work separately
 
-### Mobile Capabilities
-- Clock in/out with facial recognition on smartphones
-- Works on mobile devices
-- Functions even without Wi-Fi access
-- Field-ready solution
-- Real-time data collection
+### Crew & Equipment Management
+- **Crew Scheduling**: Assign workers to job sites and shifts
+- **Equipment Tracking**: Log equipment usage time and costs
+- **Tool Tracking**: Monitor tool location and usage
+- **Skill Tracking**: Match workers to jobs based on skills
+- **Availability Management**: View crew availability across projects
 
-### Multi-Language Support
-- Spanish capabilities
-- Reduce language barriers
-- Multi-language interface
-- Accessible for diverse workforces
+### Project Management
+- **Task Management**: Create and assign project tasks
+- **Daily Reports**: Digital daily field reports
+- **Document Management**: Store project documents and plans
+- **Photo Documentation**: Job site photos linked to projects
+- **Punch Lists**: Create and track completion items
 
-## Integration
+### Accounting Integration
+- **QuickBooks Integration**: Sync time and costs to QuickBooks
+- **Sage Integration**: Connect with Sage 100 Contractor and 300 CRE
+- **Payroll Export**: Export timesheets to payroll systems
+- **Invoice Generation**: Create invoices from tracked time
 
-Seamlessly integrates with:
-- **FOUNDATION** construction accounting software
-  - Eliminates data overlap
-  - Moves approved timecard data directly into payroll
-  - Automatic job costing integration
-- QuickBooks
-- Sage
-- Other popular construction payroll and accounting software
+### Reporting
+- **Labor Reports**: Detailed time and attendance reports
+- **Job Cost Reports**: Project profitability and cost analysis
+- **Equipment Reports**: Usage and cost tracking
+- **Custom Reports**: Build reports for specific needs
 
-## Proven Results
+## Target Industries
 
-**Case Study: Redden Concrete**
-- Saved $703,000 on labor costs in first year
-- Using only WorkMax's construction time tracking software
-- Demonstrates significant ROI potential
-
-## Who It's For
-
-- Construction contractors
 - General contractors
-- Construction companies of all sizes
-- Field service businesses
-- Companies using FOUNDATION accounting
-- Organizations combating time theft
+- Specialty trade contractors
+- Commercial construction
+- Residential construction
+- Civil construction
 
-## Key Benefits
+## Benefits
 
-- Real-time field data collection
-- Eliminate buddy punching with facial recognition
-- Accurate GPS location verification
-- Seamless payroll integration
-- Reduce labor costs significantly
-- Improve job costing accuracy
-- Mobile-first approach for field workers
-
-## Use Cases
-
-- Construction workforce management
-- Time theft prevention
-- Job costing and labor allocation
-- Payroll automation
-- Compliance documentation
-- Multi-site labor tracking
-- Contractor time verification
+- Accurate job costing for better bidding
+- Reduced payroll processing time
+- Improved project profitability
+- Better resource allocation
+- Real-time project visibility
 
 ## Pricing
 
-Contact for pricing information based on company size and requirements.
+Contact for pricing based on company size and features needed. Demo and trial available.

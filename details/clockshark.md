@@ -1,38 +1,56 @@
-# ClockShark
-
-![ClockShark Logo](https://cdn.prod.website-files.com/64bf6aa2443faa46c887a8c0/6890308c542526804cb13d39_clockshark.png)
-
-**Website:** [ClockShark](https://www.clockshark.com/)
-
 ## Overview
-ClockShark is a comprehensive time tracking application designed specifically for field teams. It caters to industries like construction, cleaning services, electrical, healthcare, painting, landscaping, and more. The tool is ideal for managing labor costs across various job sites, providing a seamless experience for both web and mobile users.
+
+ClockShark is a user-friendly time tracking app tailored specifically for construction and field service teams, offering GPS-based tracking and geofencing optimized for mobile workforce management.
 
 ## Features
 
-### Time Tracking
-- **Mobile Time Tracking:** Employees can clock in and out using their mobile devices, ensuring accurate timesheet data for payroll and job costing.
-- **Web Punch Clock:** Accessible via web browsers for easy clock-in and clock-out.
+### Mobile Time Tracking
+- **GPS Time Clock**: Automatic GPS location capture at every clock-in/out
+- **Geofencing**: Virtual job site boundaries with alerts for early/late arrivals
+- **Offline Mode**: Track time without cellular connection, auto-sync when online
+- **Photo Time Stamps**: Capture photos with time entries for job documentation
+- **Who's Working Now**: Real-time view of all active employees and their locations
 
-### Crew Management
-- **Employee Scheduling:** Schedule teams efficiently and manage their shifts.
-- **GPS Time Clock:** Track employee locations to ensure they're on-site.
-- **Geofencing:** Set boundaries to prevent clock-ins or outs outside job sites.
-- **Who's Working Now:** See which employees are currently clocked in.
-- **Time Off Management:** Handle employee leave requests and approvals.
+### Job & Project Management
+- **Job Costing**: Track labor hours and costs per job or project
+- **Task Codes**: Break down time by specific tasks within jobs
+- **Equipment Time Tracking**: Log equipment usage alongside employee hours
+- **Job Schedules**: Assign employees to specific jobs and time periods
 
-### Job Management
-- **Customer Management:** Keep all customer details in one place.
-- **Job Management:** Organize job details systematically.
-- **Job Costing:** Track costs associated with each job.
-- **Conversations:** Facilitate communication among team members.
-- **Clock Out Questions:** Ensure necessary information is captured when employees clock out.
+### Scheduling
+- **Crew Scheduling**: Schedule teams for different job sites
+- **Shift Planning**: Create and publish work schedules
+- **Schedule Notifications**: Alert employees of schedule changes
+- **PTO Requests**: Time-off request and approval system
 
-### Financial Management
-- **Integrations:** Seamless integration with various payroll services.
-- **Reports:** Generate detailed time and cost reports.
+### Reporting & Payroll
+- **Payroll Integration**: Export to QuickBooks, ADP, Paychex, and other payroll systems
+- **Certified Payroll Reports**: Generate Davis-Bacon and certified payroll reports
+- **Overtime Tracking**: Automatic overtime calculations
+- **Timesheet Approval**: Manager review and approval workflows
+- **Custom Reports**: Detailed job costing and labor reports
+
+### Field Service Features
+- **Rugged Design**: App optimized for outdoor conditions and gloved hands
+- **Multi-Language Support**: Available in multiple languages
+- **Break Reminders**: Automatic break compliance reminders
+
+## Target Industries
+
+- Construction and contractors
+- Field service companies
+- HVAC, plumbing, electrical
+- Landscaping and lawn care
+- Roofing and exterior services
+
+## Integrations
+
+- QuickBooks Online and Desktop
+- Sage 100 Contractor
+- ADP, Paychex, Gusto
+- Xero
+- Custom API integrations
 
 ## Pricing
-ClockShark offers a range of pricing plans tailored to different business needs. For detailed pricing information, please visit their [Pricing Page](https://www.clockshark.com/pricing/).
 
-## Conclusion
-ClockShark provides a robust solution for field teams needing efficient time tracking, job management, and crew coordination. Its mobile-first approach ensures employees can manage their tasks on the go, making it a valuable tool for businesses aiming to improve operational efficiency and reduce labor costs.
+Per-employee monthly pricing with 14-day free trial. No setup fees or long-term contracts.

@@ -1,25 +1,39 @@
 ## Overview
 
-Buddy Punch is time tracking and attendance software custom-built for U.S. businesses with hourly workers. It has a score of 4.8 out of 5 stars on G2 and Capterra.
+Buddy Punch is an intuitive and feature-rich time tracking app that links directly to payroll systems with detailed reports and flexible scheduling tools, designed to be budget-friendly for small to medium businesses.
 
-## Time Tracking Options
+## Features
 
-Employees can clock in/out using any internet-connected device via usernames/passwords, PIN codes, QR codes, or facial recognition.
+### Time Tracking & Attendance
+- **Multiple Clock-In Options**: Web, mobile app, kiosk mode, or physical time clocks
+- **Facial Recognition**: Prevents buddy punching with photo verification at clock-in
+- **GPS Tracking**: Verifies employee locations when clocking in/out
+- **Geofencing**: Restricts clock-ins to designated work areas
+- **PTO Management**: Track vacation, sick time, and other paid time off
 
-## Employee Accountability Features
+### Scheduling
+- **Drag-and-Drop Scheduling**: Easily create and modify employee schedules
+- **Shift Notifications**: Automatic reminders for upcoming shifts
+- **Schedule Templates**: Reuse common scheduling patterns
+- **Overtime Alerts**: Notifications when employees approach overtime thresholds
 
-- GPS tracking captures employees' locations when clocking in/out
-- Geofencing restricts clock-ins to designated boundaries
-- Photo requirements and facial recognition verify identity
+### Payroll Integration
+- **QuickBooks Integration**: Send timesheet data directly to QuickBooks Online and QuickBooks Payroll
+- **Direct Payroll Export**: Export formatted data for various payroll providers
+- **Automated Calculations**: Accurate overtime, holiday, and premium pay calculations
 
-## Automated Timesheet Management
+### Reporting
+- **Detailed Reports**: Comprehensive attendance and labor cost reports
+- **Custom Report Builder**: Create reports tailored to specific needs
+- **Real-Time Data**: Access current attendance information instantly
 
-All punch data compiled into timesheets with automatic calculation of regular hours, overtime, and pay amounts.
+## Target Users
 
-## Payroll Integrations
-
-Seamlessly send timesheet data to QuickBooks, Gusto, Paychex, SurePayroll, and more.
+- Small to medium-sized businesses
+- Companies using QuickBooks for accounting
+- Organizations needing fraud prevention
+- Teams requiring flexible scheduling
 
 ## Pricing
 
-Custom pricing based on number of employees. Free trial available.
+Affordable tiered pricing starting at budget-friendly rates, with plans based on number of employees and features needed.

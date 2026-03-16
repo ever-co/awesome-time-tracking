@@ -1,26 +1,19 @@
 ## Overview
 
-Reclaim.ai is an AI-powered scheduling assistant that automatically optimizes your calendar by finding time for tasks, habits, meetings, and breaks while protecting your focus time.
+Reclaim.ai is an AI-powered calendar assistant designed for Google Calendar and Microsoft Outlook that transforms how professionals manage their time through intelligent automation.
 
 ## Features
 
-- **AI Scheduling** - Automatically schedule tasks and habits on your calendar
-- **Smart Time Blocking** - AI-driven time blocking that adapts to changes
-- **Focus Time Protection** - Automatically defend time for deep work
-- **Habit Scheduling** - Schedule recurring habits and personal time
-- **Meeting Optimization** - Find optimal meeting times across teams
-- **Calendar Sync** - Two-way sync with Google Calendar and Outlook
-- **Slack Integration** - Update Slack status based on calendar automatically
-- **Buffer Time** - Automatically add buffer time between meetings
-- **Analytics** - Insights into how you spend your time
-
-## Use Cases
-
-Perfect for busy professionals, managers, remote workers, and anyone struggling to find time for important work amid constant meetings.
+- **Smart Task Scheduling**: Tasks automatically sync and block time for everything on your task list, by priority, before your due date, and across multiple work sessions
+- **Focus Time Protection**: Set a weekly Focus Time goal, and automatically defend flexible time in your calendar around your existing events
+- **Habit Building**: Schedule recurring personal and professional habits that flexibly adapt around your meetings
+- **Auto-Scheduling**: Finds the best time for meetings, tasks, habits, and breaks using AI-powered time blocking
+- **Team Coordination**: Creates 40% more time for teams by intelligently coordinating schedules
+- **Calendar Sync**: Works seamlessly with both Google Calendar and Microsoft Outlook
+- **Task Integration**: Integrates with project management tools to automatically schedule work
 
 ## Pricing
 
-- **Free plan** - Basic AI scheduling features
-- **Starter** - $8/month for advanced features
-- **Business** - $12/month for team features
-- **Enterprise** - Custom pricing for organizations
+- **Lite Plan**: Free tier available with core features
+- **Starter Plan**: Paid plans for advanced features and team coordination
+- Focus Time included on Lite plans (versus competitors that only offer this on paid tiers)

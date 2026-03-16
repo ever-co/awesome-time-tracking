@@ -1,29 +1,21 @@
-# Titra
+## Overview
 
-**Titra** is a self-hosted, open-source time tracking and project management tool designed for freelancers and small teams.
+titra is a modern open-source time tracking application built for freelancers and small teams who value simplicity and focus.
 
-- **Website/Source:** [Titra on GitHub](https://github.com/kromitgmbh/titra)
-- **Category:** Team Project & Time Tracking
-- **Tags:** open-source, self-hosted, project-management, reporting
+## Philosophy
+
+Designed following the Unix philosophy of 'Do One Thing And Do It Well,' titra focuses exclusively on time tracking without unnecessary complexity or feature bloat.
 
 ## Features
-- Time tracking for projects and tasks
-- Project and task management
-- Detailed reports and export options for tracked time
-- Graphical reports and visualizations
-- Fast and modern user interface
-- Quick time entry (track tasks in less than 10 seconds from login)
-- Dark mode support
-- Self-hosted deployment via Docker Compose
-- 1-click deployment on DigitalOcean Marketplace
-- Integration with external tools (e.g., Wekan)
-- Documentation and setup guides available
+
+- **Quick Time Tracking**: Start and stop timers with minimal clicks
+- **Minimal Distractions**: Clean, focused interface that doesn't overwhelm users
+- **Project Organization**: Basic project and task organization
+- **Team Support**: Built for small teams working collaboratively
+- **Modern Stack**: Built with contemporary web technologies for reliability
+- **Self-Hosted**: Deploy on your own infrastructure
+- **Lightweight**: Minimal resource requirements and fast performance
 
 ## Pricing
-- **Open-source:** Free to self-host
-- **Hosted Version:** Free tier available at [app.titra.io](https://app.titra.io)
 
-## Links
-- [GitHub Repository](https://github.com/kromitgmbh/titra)
-- [Documentation/Wiki](https://github.com/kromitgmbh/titra/wiki)
-- [Hosted Demo](https://app.titra.io/)
+Free and open-source. Available on GitHub under an open-source license.
