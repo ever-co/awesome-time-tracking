@@ -1,20 +1,29 @@
 ## Overview
 
-WorkingHours is a straightforward time tracking and invoicing application designed for freelancers and contractors who need to track billable hours across multiple clients and projects.
+WorkingHours is a cross-platform time tracker app designed for macOS and iOS users who prefer a one-time purchase model over subscriptions. Now fully supports macOS 26 with the new Liquid Glass design.
 
 ## Features
 
-- **Time Tracking**: Manual entry or live timers for tracking work sessions
-- **Client Management**: Organize projects by client with different hourly rates
-- **Invoicing**: Create professional invoices from tracked hours
-- **Multiple Currencies**: Support for multiple currencies and tax rates
-- **Earnings Overview**: Dashboard showing total earnings and billable hours
-- **Calendar Integration**: View time entries in calendar format
-- **Export**: Export time data and invoices to PDF, CSV, and Excel
-- **iCloud Sync**: Automatic sync between Mac and iOS devices
-- **Reminders**: Notifications to remember to track time
-- **Privacy**: All data stored locally or in your private iCloud
+- **Cloud Sync**: Use your own cloud storage (OneDrive, Google Drive, Dropbox, iCloud, WebDAV) for synchronization
+- **Geofencing**: Automatically start time tracking when arriving at specific locations like workplace
+- **Widget Support**: Start/pause/stop working time via widget, notification, Dock Menu, or Menu Bar
+- **Data Export**: Export as Excel sheet, CSV file, or PDF invoice
+- **Calendar Integration**: Sync with calendar applications
+- **Pomodoro Support**: Built-in Pomodoro technique timer
+- **Offline Functionality**: Track time without internet connection
+- **Privacy Focused**: Data stays on your device and your chosen cloud storage
+- **No Subscription**: One-time purchase model
+
+## Platform Support
+
+- macOS (including macOS 26)
+- iOS and iPadOS
+- Multiple platforms with separate purchases
+
+## User Experience
+
+Rated 4.7 out of 5 on the Mac App Store based on 480+ reviews. Users appreciate the simplicity, affordability, and absence of subscription requirements.
 
 ## Pricing
 
-Free version with limited features. Pro version available as one-time purchase ($4.99 iOS) or subscription ($1.99/month or $14.99/year) with unlimited clients and invoicing.
+Pro version available starting at $9.99 per platform (purchased separately for iOS and Mac). No subscription required.

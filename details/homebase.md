@@ -1,50 +1,58 @@
 ## Overview
 
-Homebase provides free employee scheduling and time tracking specifically designed for small businesses in restaurants, retail, and service industries.
+Homebase is a comprehensive workforce management platform offering time tracking, scheduling, and HR tools specifically designed for hourly teams in small businesses, with a generous free forever plan.
 
-## Core Features (Free)
+## Key Features
 
-**Scheduling**:
-- Unlimited schedules
-- Shift templates
+- **Free Time Clock**: Mobile time clock app for iOS and Android
+- **GPS Time Tracking**: Location verification for mobile workers
+- **Shift Scheduling**: Create and manage employee schedules
+- **Team Communication**: Built-in messaging and shift notifications
+- **Overtime Alerts**: Automatic notifications when approaching overtime
+- **Break Management**: Customizable break and meal period rules
+- **PTO Tracking**: Manage time off requests and accruals
+- **Hiring Tools**: Job postings and applicant tracking
+- **HR Compliance**: Helps maintain labor law compliance
+- **Payroll Integration**: Exports to popular payroll providers
+
+## Free Plan Highlights
+
+- Unlimited employees
+- Mobile time clock with GPS
+- Basic scheduling
+- Time off requests
 - Team messaging
-- Availability tracking
+- Break enforcement
 
-**Time Clock**:
-- Mobile and tablet time clock
-- GPS and geofencing
-- Overtime alerts
-- Timesheet editing
+## Paid Plans (Essentials)
 
-**Team Communication**:
-- Group messaging
-- Shift reminders
-- Announcements
-
-## Premium Features
-
-- Advanced reporting
-- PTO tracking
+$30/month for unlimited employees includes:
+- Advanced scheduling features
+- Overtime controls
+- Custom break rules
 - Shift trading
-- Hiring and onboarding
-- HR compliance tools
-- Payroll integration
+- Labor cost reports
 
-## Why It's Free
+## Target Industries
 
-Basic features are free forever; revenue from premium features and payroll services.
-
-## Target Users
-
-- Small businesses (5-50 employees)
-- Restaurants and cafes
+- Restaurants and food service
 - Retail stores
-- Service businesses
-- Hourly workforce
+- Hospitality
+- Healthcare
+- Services businesses with hourly workers
 
-## Pricing
+## Why Small Businesses Choose Homebase
 
-- Basic: Free forever
-- Essentials: $20/location/month
-- Plus: $48/location/month
-- All-in-One: $80/location/month
+- Completely free for basic features
+- No per-employee pricing on free plan
+- Easy to set up and use
+- Mobile-first design
+- Great for businesses with high employee turnover
+
+## Unique Advantages
+
+- Industry-leading free plan
+- Designed specifically for hourly workers
+- All-in-one scheduling and time tracking
+- Hiring tools included
+- Strong focus on compliance

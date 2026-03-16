@@ -1,20 +1,25 @@
 ## Overview
 
-Timely is an automatic time tracking application that uses AI to capture all work activities in the background, then intelligently suggests how to categorize time into projects and tasks, creating accurate timesheets with minimal manual effort.
+Timely is an AI-powered automatic time tracking solution designed for consultancies, agencies, and SaaS businesses that eliminates the need for manual time logging through intelligent automation.
 
 ## Features
 
-- **Automatic Tracking**: Captures all applications, websites, documents, and meetings automatically
-- **Memory**: Creates a comprehensive timeline of your entire workday
-- **AI Suggestions**: Machine learning suggests how to categorize tracked time
-- **Privacy by Default**: All data stored privately, nothing visible to managers by default
-- **Manual Override**: Easy drag-and-drop interface to adjust or refine time entries
-- **Project Budgets**: Track time against project budgets and get alerts
-- **Team Scheduling**: Plan team capacity and workload distribution
-- **Reporting**: Detailed reports on billable hours, productivity, and project profitability
-- **Integrations**: Connects with Asana, Jira, GitHub, Google Calendar, and more
-- **Mobile Apps**: iOS and Android apps for tracking time on the go
+- **Automatic Time Tracking**: Tracks everything you work on automatically without manual timer starts and stops
+- **AI Suggestions**: Suggests timesheet entries based on application usage, document editing, and meeting attendance
+- **Private Memory**: Creates a private timeline of all work activities that only the user can access
+- **Multi-Platform**: Available on desktop (Windows, Mac, Linux) and mobile (iOS, Android)
+- **Privacy First**: All tracking data remains private to the individual user
+- **Integration Support**: Connects with popular project management and productivity tools
+- **Team Analytics**: Provides insights into team productivity and project time allocation
+
+## Benefits
+
+- Eliminates timesheet admin entirely
+- Captures 100% of billable time automatically
+- Provides accurate project insights
+- Maintains employee privacy and autonomy
+- Reduces time tracking overhead
 
 ## Pricing
 
-Starter plan at $9 per user per month with basic automatic tracking. Premium at $16 per user per month adds team scheduling and advanced reporting. Unlimited plan at $22 per user per month with all features.
+Pricing starts at approximately $8-20 per user per month depending on plan and features selected.

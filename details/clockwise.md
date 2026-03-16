@@ -1,98 +1,45 @@
 ## Overview
 
-Clockwise is an AI-powered calendar assistant that automatically optimizes your schedule to create more Focus Time by intelligently moving flexible meetings to better time slots while coordinating across your team.
+Clockwise is an AI-powered calendar assistant that helps teams create more Focus Time, optimize meeting schedules, and reduce calendar conflicts through intelligent automation and coordination.
 
-## Features
+## Key Features
 
-- **Automatic Calendar Optimization** - AI moves meetings to create longer focus blocks
-- **Focus Time Protection** - Automatically defends and creates focus time blocks
-- **Smart Meeting Scheduling** - Finds best times considering everyone's calendars
-- **Flexible Meetings** - Mark meetings as flexible for AI to optimize
-- **Team Synchronization** - Coordinates across entire team's calendars
-- **Meeting Conflicts Resolution** - Suggests solutions for scheduling conflicts
-- **Calendar Analytics** - Insights into meeting load and focus time
-- **Slack Integration** - Auto-updates Slack status based on calendar
-- **Meeting Insights** - Data on meeting patterns and recommendations
-- **Autopilot** - Hands-off calendar management
+- **Automatic Focus Time**: AI identifies and protects blocks of uninterrupted time for deep work
+- **Smart Meeting Scheduling**: Finds optimal meeting times that minimize calendar fragmentation
+- **Team Calendar Coordination**: Synchronizes calendars across team members
+- **Flexible Meetings**: Automatically moves flexible meetings to optimize Focus Time
+- **Meeting Compression**: Groups meetings together to create longer focus blocks
+- **No-Meeting Days**: Helps teams establish meeting-free days
+- **Calendar Analytics**: Insights into how time is spent across meetings and focus work
+- **Slack Integration**: Syncs status and availability to Slack
+- **Holds Management**: Smart handling of calendar holds and tentative events
+- **Time Zones**: Intelligent scheduling across global teams
 
 ## How It Works
 
-1. **Connect Calendar** - Link Google Calendar or Outlook
-2. **Mark Flexible Meetings** - Indicate which meetings can be moved
-3. **Set Preferences** - Define your focus time preferences
-4. **AI Optimizes** - Clockwise automatically reorganizes calendar
-5. **Creates Focus Time** - Defragments schedule into longer productive blocks
-6. **Maintains Sync** - Continuously optimizes as new meetings added
+1. Connect your Google Calendar or Outlook Calendar
+2. Clockwise analyzes your calendar patterns and preferences
+3. AI automatically identifies opportunities to create Focus Time
+4. System moves flexible meetings to less disruptive times
+5. Team members' calendars are coordinated for optimal scheduling
+6. Users gain more uninterrupted time for focused work
 
-## Focus Time Creation
+## Benefits
 
-**How Clockwise Creates Focus Time:**
-- Identifies flexible meetings
-- Finds alternative times that work for all attendees
-- Moves meetings to cluster them together
-- Creates gaps of 2+ hours for deep work
-- Protects these blocks from new meeting requests
-- Adapts as priorities change
+- Average of 11+ hours of Focus Time created per month
+- Reduced meeting conflicts and scheduling back-and-forth
+- Better work-life balance through calendar optimization
+- Improved team coordination and collaboration
+- More productive meetings at better times
 
-**Typical Results:**
-- 11% more Focus Time on average
-- Fewer fragmented calendar days
-- Longer uninterrupted work blocks
-- Better meeting distribution
+## Target Users
 
-## Team Features
-
-- **Team Focus Time** - Coordinate focus time across team
-- **No-Meeting Days** - Protect specific days from meetings
-- **Smart 1:1s** - Automatically find best times for recurring 1:1s
-- **Meeting Efficiency** - Identify and reduce unnecessary meetings
-- **Team Analytics** - View team's meeting load and focus time
-
-## Integration Capabilities
-
-- **Google Calendar** - Full integration
-- **Outlook Calendar** - Full integration
-- **Slack** - Status updates, notifications, scheduling
-- **Zoom** - Automatic meeting links
-- **Microsoft Teams** - Meeting coordination
-
-## Smart Features
-
-### Intelligent Scheduling
-- Learns your preferences over time
-- Considers meeting importance
-- Respects working hours
-- Accounts for travel time between locations
-- Avoids back-to-back meetings when possible
-
-### Calendar Health Metrics
-- Focus Time percentage
-- Meeting load
-- Fragmentation score
-- Week-over-week trends
-- Benchmarks against similar roles
-
-## Use Cases
-
-Ideal for:
-- Executives with packed calendars
-- Teams struggling to find meeting times
-- Knowledge workers needing focus time
-- Managers coordinating many 1:1s
-- Organizations wanting meeting culture improvements
-- Remote teams across time zones
-
-## Privacy & Control
-
-- You control which meetings are flexible
-- AI suggestions require approval (or auto-apply)
-- Calendar data encrypted and secure
-- Only sees free/busy for external contacts
-- Can pause optimization anytime
+- Engineering teams
+- Product teams
+- Remote and distributed teams
+- Any team struggling with calendar fragmentation
+- Organizations wanting to protect deep work time
 
 ## Pricing
 
-- **Free** - Basic calendar optimization
-- **Teams** - $6.75/user/month for team features
-- **Business** - $11.50/user/month for advanced features
-- **Enterprise** - Custom pricing
+Free plan available with basic features. Paid plans start at approximately $6.75 per user per month for advanced team features.
