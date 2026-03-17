@@ -1,30 +1,23 @@
 ## Overview
 
-TimeSpin® is a twelve-sided die designed for simple, theme-based time tracking that operates autonomously and offline through intuitive rotational movement. Each of the 12 sides can be assigned an individual topic or task.
+TimeSpin is a precision time tracker that takes a unique approach to time tracking by offering a physical, mechanical device that operates without any software or digital apps. It provides a distraction-free way to track time across different tasks.
+
+## Key Features
+
+- **No Software Required**: Works entirely as a standalone physical device without apps or software
+- **Mechanical Operation**: Spin the dial to switch between different tasks and activities
+- **Distraction-Free**: No screens, notifications, or digital distractions
+- **Precision Tracking**: Accurately records time spent on different activities
+- **Offline Operation**: Completely offline functionality with no connectivity requirements
 
 ## How It Works
 
-As soon as TimeSpin® is rotated onto a side, the integrated system detects its orientation and automatically starts tracking time for the corresponding task. The device operates independently without requiring constant software interaction, reducing digital distractions.
+Users assign different positions on the dial to different tasks or projects. To track time, simply spin the dial to the corresponding position. The device mechanically tracks how long the dial stays in each position.
 
-## Features
+## Target Users
 
-- 12-sided physical tracking device
-- Autonomous operation
-- Offline capability
-- Automatic orientation detection
-- Cross-platform cloud synchronization
-- Data annotation and adjustment capabilities
-- Visual charts and analytics
-- No software distraction during tracking
+Ideal for professionals who want to minimize digital distractions while maintaining accurate time records, including consultants, freelancers, and knowledge workers who value focus over connectivity.
 
-## Data Management
+## Pricing
 
-When needed, tracked data can be synchronized with cross-platform cloud software where it can be annotated, adjusted, and analyzed using a variety of charts and reporting tools.
-
-## Use Cases
-
-Ideal for teams, freelancers, patent attorneys, educators, and other professionals who want an intuitive, tactile alternative to traditional software-based time tracking that minimizes digital distractions.
-
-## Philosophy
-
-TimeSpin provides a precision time tracking solution that keeps users focused on their work rather than their tracking software, offering a physical, distraction-free approach to time management.
+One-time purchase price for the physical device.

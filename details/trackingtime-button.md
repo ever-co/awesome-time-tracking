@@ -1,38 +1,32 @@
-## TrackingTime Button
+## Overview
 
-**Description**  
-TrackingTime Button is a browser extension that embeds TrackingTime’s time tracking controls directly into supported productivity tools (such as GitHub). It lets users start and stop timers from within issues and tasks, then syncs recorded time to TrackingTime for automatic timesheets and analytics.
+The TrackingTime Button is a browser extension that embeds time tracking capabilities directly into the web applications you already use, eliminating the need to switch between tools to start and stop timers.
 
-**Website**  
-<https://www.workyard.com/compare/automated-time-tracker>
+## Key Features
 
-**Brand**  
-TrackingTime
+- **60+ Integrations**: Works with Asana, Trello, Jira, GitHub, ClickUp, Monday.com, and dozens more
+- **One-Click Tracking**: Start timer without leaving current task or project
+- **Automatic Context**: Captures task details automatically from source application
+- **Universal Access**: Available for Chrome, Firefox, and Edge browsers
+- **Seamless Sync**: Time entries sync automatically with TrackingTime dashboard
 
----
+## How It Works
 
-### Features
-- **Browser extension** available for:
-  - Google Chrome
-  - Mozilla Firefox
-  - Safari
-  - Microsoft Edge
-- **In‑app time tracking controls** embedded directly inside supported productivity tools (e.g., GitHub).
-- **Task and issue–level tracking**: start and stop timers from within individual issues or tasks.
-- **Automatic syncing** of all recorded time entries to the TrackingTime platform.
-- **Automatic timesheets** generated from tracked time.
-- **Time analytics** based on synced time entries in TrackingTime.
+1. Install browser extension
+2. Browse to supported project management tool
+3. Click TrackingTime button next to any task
+4. Timer starts with task details pre-filled
+5. Continue working in your preferred tool
+6. Stop timer when task complete
 
----
+## Benefits
 
-### Platforms
-- Web browser extensions:
-  - Chrome
-  - Firefox
-  - Safari
-  - Microsoft Edge
+- Eliminates context switching between time tracker and work tools
+- Improves time tracking adoption rates
+- Reduces friction in logging hours
+- Ensures accurate task association
+- Works across multiple project management platforms
 
----
+## Pricing
 
-### Pricing
-Pricing details for TrackingTime Button are not specified in the provided content. Refer to the vendor’s website for current plans and costs.
+Free with TrackingTime account. TrackingTime offers free plan for unlimited users with basic features, and paid plans starting at $5/user/month.

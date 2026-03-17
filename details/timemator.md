@@ -1,20 +1,23 @@
 ## Overview
 
-Timemator is an intelligent automatic time tracking application for macOS that learns your work patterns and uses customizable rules to automatically categorize and track time without constant manual intervention.
+Timemator is an automatic time tracking application specifically designed for freelancers working on Mac and iPhone. The app automatically captures all activities on your Mac, making it easy to review work and assign time to projects retroactively.
 
-## Features
+## Key Features
 
-- **Automatic Time Tracking**: Monitors applications, documents, and websites automatically
-- **Smart Rules**: Create rules to automatically assign time to projects based on context
-- **Document Detection**: Tracks which documents and files you're working on
-- **Memory Feature**: Remembers previous time entries and suggests projects
-- **Manual Override**: Easily edit or adjust automatically tracked time
-- **Calendar Integration**: Integrates with macOS Calendar to track meetings
-- **Invoicing**: Generate invoices from tracked time with customizable templates
-- **Reports**: Detailed reports with filtering by project, client, or date range
-- **Export**: Export to CSV, Excel, PDF, and popular accounting software
-- **Privacy**: All data stored locally with optional encrypted cloud backup
+- **Automatic Activity Capture**: Timemator automatically captures everything you do on your Mac without manual timer management
+- **Retroactive Time Assignment**: Review captured activities and assign time to projects with just a few clicks
+- **Native Mac & iPhone Apps**: Built specifically for Apple platforms with seamless synchronization
+- **Privacy-Focused**: Data stays on your devices with optional iCloud sync
+- **Invoicing Support**: Generate invoices based on tracked time
+
+## How It Works
+
+Timemator runs in the background and automatically records all applications, websites, and documents you work with. When you're ready to create timesheets, you can review the captured data and quickly assign activities to the appropriate client projects.
+
+## Platform
+
+Available for macOS and iOS with data synchronization via iCloud.
 
 ## Pricing
 
-Free 14-day trial. Standard license: $7.99 one-time. Professional license: $49.99 one-time with team features and advanced automation.
+Subscription-based pricing model for full access to automatic tracking features.
