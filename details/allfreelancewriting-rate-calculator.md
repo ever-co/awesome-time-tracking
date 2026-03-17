@@ -1,81 +1,74 @@
 ## Overview
 
-AllFreelanceWriting's Hourly Rate Calculator is a specialized tool designed specifically for freelance writers and content creators to determine appropriate pricing. It offers both basic and advanced calculation modes tailored to the unique needs of writing professionals.
+The AllFreelanceWriting Rate Calculator is a specialized free tool designed to help freelance writers determine sustainable hourly rates. By considering desired annual income, realistic billable hours, business expenses, and tax obligations, it provides writers with accurate rate calculations for building profitable freelance careers.
 
-## Calculation Modes
+## Features
 
-### Basic Mode
-- Find minimum fees needed to reach earnings goal
-- Simple income target calculation
-- Quick hourly rate determination
+- **Income Goal Setting**: Input desired annual income
+- **Billable Hours Calculation**: Realistic estimation of actual billable time vs. total working hours
+- **Expense Tracking**: Account for business costs and overhead
+- **Tax Calculation**: Include self-employment tax and income tax estimates
+- **Rate Recommendations**: Suggested hourly, per-word, and per-project rates
+- **Profitability Analysis**: Break-even and profit margin calculations
+- **Free to Use**: No registration or payment required
 
-### Advanced Mode
-- Account for savings goals
-- Factor in living expenses
-- Calculate yearly billable hours
-- Determine comprehensive income requirements
+## Why Writers Need This
 
-## Key Features
+Many freelance writers:
+- Undercharge due to not accounting for non-billable time
+- Forget to factor in taxes and expenses
+- Base rates on hourly employment equivalents instead of freelance reality
+- Don't account for feast-or-famine income cycles
+- Struggle with rate confidence and negotiation
 
-- Writer-specific rate calculations
-- Conversion to per-word rates
-- Conversion to per-page rates
-- Project-based pricing guidance
-- Expense factoring
-- Goal-based income planning
+## How It Works
 
-## Rate Conversion Tools
+### Inputs Required
+1. Desired annual gross income
+2. Expected billable hours per week (typically 15-25 for full-time freelancers)
+3. Business expenses (software, equipment, marketing, etc.)
+4. Tax rate (federal and state combined)
+5. Vacation and sick time desired
 
-### Hourly to Per-Word
-Example: $75/hour ÷ 500 words per hour = $0.15 per word
+### Calculations Performed
+- Actual working weeks per year
+- Total billable hours annually
+- Gross revenue needed (income + taxes + expenses)
+- Minimum hourly rate required
+- Recommended rate with profit margin
 
-### Hourly to Per-Page
-Example: $75/hour × 4 hours per page = $300 per page
+## Realistic Billable Hours
 
-## Factors Considered
-
-- Desired annual income
-- Business expenses
-- Non-billable time (pitching, admin, marketing)
-- Taxes and retirement savings
-- Health insurance costs
-- Vacation and sick days
-- Writing speed and efficiency
+The calculator helps writers understand that:
+- 40-hour work week ≠ 40 billable hours
+- Administrative tasks, marketing, and proposals are non-billable
+- Typical freelancer: 15-25 billable hours per 40-hour work week
+- This 4:1 or 3:1 ratio dramatically affects required rates
 
 ## Use Cases
 
-- Setting initial freelance writing rates
-- Evaluating rate increases
-- Calculating project quotes
-- Determining per-word pricing
-- Budget planning for writing business
-- Comparing different pricing models
+- New freelancers setting initial rates
+- Experienced writers adjusting rates for sustainability
+- Freelancers transitioning to full-time
+- Writers preparing for client negotiations
+- Content creators evaluating project profitability
 
-## Pricing Models for Writers
+## Related Calculations
 
-- Hourly rates
-- Per-word rates
-- Per-page rates
-- Project-based fees
-- Retainer arrangements
+The tool also helps estimate:
+- Per-word rates from hourly rates (based on writing speed)
+- Project-based pricing from time estimates
+- Annual revenue targets
+- Break-even client load
 
-## Benefits
+## Best Practices
 
-- Writer-specific calculations
-- Prevents underpricing
-- Accounts for writing industry norms
-- Helps with pricing confidence
-- Supports various pricing models
-- Free to use
-
-## Additional Resources
-
-AllFreelanceWriting also provides:
-- Freelance writing rate guides
-- Industry benchmarks
-- Pricing strategy articles
-- Rate negotiation tips
+- Run calculations annually and adjust rates
+- Factor in skill growth and experience increases
+- Consider niche-specific rate ranges
+- Build in profit margin, not just break-even rates
+- Account for payment delays and bad debt
 
 ## Pricing
 
-Free online calculator, no signup required.
+Free to use, no registration required.

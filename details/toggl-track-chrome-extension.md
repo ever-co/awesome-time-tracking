@@ -1,53 +1,62 @@
 ## Overview
 
-Toggl Track's Chrome extension is recognized as the easiest browser extension to install, use, and integrate with existing tools, bringing time tracking directly into over 100 popular web applications.
+Toggl Track Chrome Extension brings time tracking directly into the browser, enabling users to track time without leaving their workflow. With integrations for 100+ popular web applications, it provides seamless one-click time tracking across all browser-based work.
 
-## Features
+## Key Features
 
-### Seamless Integration
-- **100+ App Integrations**: Track time directly from Asana, Basecamp, Google Docs, Trello, Jira, GitHub, and more
-- **One-Click Timers**: Start tracking with a single click from any integrated app
-- **Automatic Detection**: Extension detects project management tools and adds timer buttons
-- **No Tab Switching**: Track time without leaving your current workspace
+- **One-Click Tracking**: Start timer directly from any integrated web app
+- **100+ Integrations**: Works with Asana, Trello, GitHub, Jira, Google Docs, and more
+- **Pomodoro Timer**: Built-in Pomodoro technique support
+- **Idle Detection**: Detects when you're away and prompts for action
+- **Reminder System**: Notifications to start tracking if you forget
+- **Manual Entry**: Add time entries retroactively
+- **Project/Tag Selection**: Choose project and tags without opening main app
+- **Timeline View**: See day's tracked time
+- **Sync**: Real-time sync with Toggl Track apps
+- **Keyboard Shortcuts**: Quick actions without mouse
 
-### Time Tracking Features
-- **Pomodoro Timer**: Built-in Pomodoro functionality for focus sessions
-- **Break Notifications**: Configurable reminders for when to take breaks
-- **Idle Detection**: Detects when you're away and prompts to discard idle time
-- **Manual Entry**: Add time entries manually when needed
-- **Continue Recent**: Quickly restart recently used timers
+## Integration Examples
 
-### Productivity Tools
-- **Work Hour Reminders**: Notifications during configured work hours to track time
-- **Weekly Reports**: View time summaries directly in the extension
-- **Project Organization**: Organize time by projects, clients, and tags
-- **Billable Toggle**: Mark time entries as billable or non-billable
+### Project Management
+- **Asana**: Track time on tasks directly from task view
+- **Trello**: Start timer from card
+- **Jira**: Track issues without leaving Jira
+- **Monday.com**: Time tracking in boards
 
-### Synchronization
-- **Real-Time Sync**: All entries sync instantly across devices
-- **Cross-Platform**: Works with Toggl Track web, desktop, and mobile apps
-- **Offline Support**: Continue tracking even when disconnected
+### Development
+- **GitHub**: Track pull requests and issues
+- **GitLab**: Repository and issue tracking
+- **Bitbucket**: Code review time tracking
 
-## Supported Platforms
+### Productivity
+- **Google Docs**: Track writing/editing time
+- **Notion**: Track work in pages
+- **Google Calendar**: Track meeting time
 
-- Chrome
-- Firefox
-- Edge (Chromium-based)
-- Opera
+## Benefits
 
-## Popular Integrations
+- Zero workflow disruption
+- No separate app switching
+- Automatic project detection
+- Comprehensive coverage of web-based work
+- Lightweight and fast
+- Always accessible in browser
 
-- Asana
-- Trello
-- Jira
-- GitHub
-- Google Docs
-- Notion
-- ClickUp
-- Monday.com
-- Basecamp
-- And 90+ more
+## Use Cases
+
+- Developers tracking coding time
+- Writers tracking document work
+- Designers tracking project time
+- Project managers tracking across tools
+- Anyone working primarily in browser
+
+## Privacy
+
+- Only active when you choose to track
+- No automatic surveillance
+- You control what's tracked
+- Data synced securely
 
 ## Pricing
 
-Free with Toggl Track account (free plan available, paid plans for teams and advanced features).
+Included free with Toggl Track (free and paid plans).
