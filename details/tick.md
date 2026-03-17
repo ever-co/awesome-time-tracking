@@ -1,22 +1,27 @@
-## Tick
+## Overview
 
-**Category:** Team Project Time Tracking  
-**Website:** [https://www.tickspot.com/](https://www.tickspot.com/)
+Tick is a straightforward time tracking tool built around project budgets. It helps teams track time against project budgets and get alerted before going over budget, making it popular with agencies and professional services firms.
 
-### Description
-Tick is a straightforward time tracking software designed to help users track time against budgets and projects. Its interface is simple, making it suitable for freelancers and teams who need real-time tracking and budget management.
+## Features
 
-### Features
-- **Time Tracking**: Track time by selecting your project and task, and start the timer with a single click.
-- **Multi-Platform Access**: Enter time from iOS, Android, Apple Watch, or desktop computers.
-- **Real-Time Budget Tracking**: Each time entry updates your project and task budgets in real-time, providing immediate feedback on budget status.
-- **Basecamp Integration**: Seamless integration with Basecamp and Basecamp Classic, allowing time entry and budget management directly within Basecamp.
-- **Reporting**: Generate reports by client or timekeeper for detailed insights into project performance and for billing purposes.
-- **Budget Alerts**: Identify budget issues as they happen to help prevent overspending.
-- **Designed for Teams and Freelancers**: Useful for both individual freelancers and larger teams.
+- **Budget Tracking**: Set time budgets and track progress in real-time
+- **Budget Alerts**: Notifications when approaching or exceeding budget
+- **Simple Time Entry**: Quick and easy time tracking interface
+- **Project-Based**: Organize all time by projects and tasks
+- **Team Overview**: See team capacity and project allocation
+- **Recurring Projects**: Set up templates for recurring project budgets
+- **Reporting**: Clear reports on budget usage and time allocation
+- **Integrations**: Connects with Basecamp, QuickBooks, and more
+- **Mobile Apps**: iOS and Android time tracking
+- **Visual Budgets**: Color-coded budget indicators
+- **Task Lists**: Organize work with task-based time tracking
+- **Invoicing Integration**: Export time data for billing
 
-### Pricing
-- **Free 30-Day Trial**: Tick offers a free 30-day trial with no credit card required. (No further pricing details provided in the content.)
+## Pricing
 
-### Tags
-web-based, real-time, budgeting, teams
+- **10 Projects**: $19/month for up to 10 active projects
+- **30 Projects**: $49/month for up to 30 active projects
+- **60 Projects**: $79/month for up to 60 active projects
+- **Unlimited Projects**: $149/month for unlimited projects
+- All plans include unlimited users
+- 30-day free trial available

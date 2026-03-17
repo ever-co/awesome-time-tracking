@@ -1,51 +1,31 @@
 ## Overview
 
-FlowSavvy is an intelligent calendar application that automates the time-blocking process by automatically scheduling your tasks into your calendar, optimizing your day based on priorities and constraints.
+FlowSavvy is an intelligent calendar and task management app that automatically schedules your to-do list items into your calendar. It finds optimal time slots based on your priorities, deadlines, and existing commitments.
 
 ## Features
 
-### Auto-Scheduling
-- Automatically places tasks into your calendar
-- Considers task duration, deadlines, and priorities
-- Finds optimal time slots in your existing schedule
-- Eliminates manual time blocking effort
-
-### Dynamic Optimization
-- Adjusts schedule when plans change
-- Re-optimizes throughout the day
-- Handles conflicts automatically
-- Adapts to last-minute changes
-
-### Task Management
-- Input tasks with duration estimates
-- Set priorities and deadlines
-- Categorize tasks by project or type
-- Track task completion
-
-### Google Calendar Integration
-- Seamless sync with Google Calendar
-- Respects existing calendar events
-- Two-way synchronization
-- Works with multiple calendars
+- **Auto-Scheduling**: AI places tasks in optimal calendar slots
+- **Task Management**: Integrated to-do list with calendar
+- **Priority System**: Set task priorities for smart scheduling
+- **Deadline Tracking**: Ensure tasks are scheduled before deadlines
+- **Time Estimates**: Add duration estimates to tasks
+- **Drag-and-Drop**: Manually adjust scheduled items
+- **Recurring Tasks**: Support for repeating tasks
+- **Calendar Sync**: Integrates with Google Calendar
+- **Mobile Apps**: iOS and Android apps
+- **Real-time Updates**: Schedule adjusts as you add/remove tasks
+- **Focus Time**: Blocks for deep work
 
 ## How It Works
 
-1. Add tasks with estimated durations and deadlines
-2. FlowSavvy analyzes your existing calendar
-3. Tasks are automatically scheduled into available time slots
-4. Schedule adjusts dynamically as priorities change
-5. Complete tasks directly from your calendar
+1. Add tasks with time estimates and deadlines
+2. FlowSavvy automatically schedules them in your calendar
+3. System finds optimal times based on your preferences
+4. Schedule updates automatically as priorities change
+5. Complete tasks and check them off
 
-## Key Benefits
+## Pricing
 
-- Saves time on manual schedule planning
-- Ensures important tasks get scheduled
-- Optimizes use of available time
-- Reduces decision fatigue about when to work on what
-
-## Use Cases
-
-- Busy professionals with many competing tasks
-- Students balancing coursework and deadlines
-- Anyone who struggles with time blocking manually
-- Teams needing optimized individual schedules
+- **Free**: Basic auto-scheduling features
+- **Premium**: $3.99/month - Advanced features
+- Available on web, iOS, and Android

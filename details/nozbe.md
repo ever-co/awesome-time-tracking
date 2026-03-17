@@ -1,23 +1,25 @@
 ## Overview
 
-Nozbe was founded in 2007 by Michael Sliwinski and is designed for the Getting Things Done methodology. Over 500,000 professionals rely on Nozbe Classic to get things done.
+Nozbe is a project management and productivity app built around the Getting Things Done (GTD) methodology. It combines task management, time tracking, and team collaboration in a simple interface.
 
-## GTD Integration
+## Features
 
-Nozbe uses the GTD methodology to manage your todos. Nozbe is the best task manager based on David Allen's GTD (Getting Things Done) model of productivity. The app supports key GTD principles including:
-
-- **Inbox capture**: In Nozbe it's literally called the inbox for capturing new ideas
-- **Projects and tasks**: Projects are anything that requires more than two tasks to complete
-- **Single source of truth**: To conform to the rules of getting things done users keep a single source of things to do – that is Nozbe
-
-## Key Features
-
-Tasks can be arranged with deadlines, reminders and time tracking. Dedicated apps are available for Mac, Windows, Android, iPad and iPhone, and Nozbe apps work offline.
-
-## Platform Availability
-
-You can use this to do list app on desktop - Windows, Mac, Linux, mobile - Android, iOS, iPad and web. Nozbe has a free plan as well as a premium one.
+- **Project Management**: Organize tasks by projects
+- **GTD Implementation**: Built-in support for GTD workflow
+- **Time Tracking**: Track time spent on tasks
+- **Team Collaboration**: Share projects and delegate tasks
+- **Comments**: Discuss tasks with team members
+- **File Attachments**: Attach files to tasks
+- **Calendar Integration**: Sync with Google Calendar and iCal
+- **Templates**: Reusable project templates
+- **Priority System**: Organize by priority and context
+- **Cross-Platform**: Mac, Windows, iOS, Android, web
+- **Offline Mode**: Work without internet connection
+- **Email Integration**: Create tasks from email
 
 ## Pricing
 
-Nozbe offers both free and premium plans to accommodate different user needs.
+- **Solo**: $8/month - Individual use
+- **Duo**: $12/month - 2 users
+- **Team**: $12/user/month - Unlimited teams
+- 30-day free trial available

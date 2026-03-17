@@ -1,19 +1,29 @@
 ## Overview
 
-Session is a beautifully designed Pomodoro app for Mac and iOS with powerful distraction blocking features, specifically beneficial for users with ADHD.
+Session is an elegant Pomodoro timer and focus app for Mac that helps you maintain productive work sessions. It combines beautiful design with practical features for managing focus time and breaks.
 
 ## Features
 
-- Beautiful, Apple-centric design
-- Pomodoro timer with customizable intervals
-- Distraction blocking (websites and apps)
-- iOS companion app
-- Focus statistics and insights
-- Task integration
-- Calendar blocking
-- Ambient sounds
-- Goal tracking
+- **Customizable Timers**: Adjust work and break durations
+- **Menu Bar Integration**: Quick access from menu bar
+- **Notifications**: Break and session end alerts
+- **Statistics**: Track daily and weekly productivity
+- **Goals**: Set daily focus time targets
+- **Do Not Disturb**: Auto-enable during sessions
+- **Spotify Integration**: Auto-play focus music
+- **Keyboard Shortcuts**: Control without mouse
+- **Dark Mode**: Beautiful dark interface
+- **Minimal Design**: Clean, distraction-free
+
+## Session Types
+
+- Pomodoro (25/5 minutes)
+- Short Break (5 minutes)
+- Long Break (15 minutes)
+- Custom durations
 
 ## Pricing
 
-Subscription-based pricing with free trial available. Offers both monthly and annual plans.
+- Free basic version
+- $4.99/month or $29.99/year for Pro features
+- macOS only

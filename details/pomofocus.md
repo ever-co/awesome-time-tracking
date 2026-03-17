@@ -1,17 +1,23 @@
 ## Overview
 
-Pomofocus is a customizable pomodoro timer that works on desktop and mobile browsers, helping users improve their focus and productivity through the Pomodoro Technique.
+Pomofocus is a free, browser-based Pomodoro timer with task management and customization features. It provides a clean, distraction-free interface for managing focus sessions without requiring installation or registration.
 
 ## Features
 
-- Customizable pomodoro, short break, and long break durations
-- Visual reports showing focus time per day, week, and month
-- Project tracking to organize pomodoro sessions
-- Task list integration
-- Sound notifications and alarms
-- Dark mode support
-- No account required
+- **Customizable Timers**: Adjust pomodoro, short break, and long break durations
+- **Task List**: Create and track tasks
+- **Pomodoro Tracking**: Count pomodoros per task
+- **Progress Stats**: View daily and weekly statistics
+- **Custom Intervals**: Set your own work/break lengths
+- **Audio Notifications**: Customizable alarm sounds
+- **Dark Mode**: Eye-friendly dark theme
+- **No Login Required**: Use immediately without signup
+- **Keyboard Shortcuts**: Control with keyboard
+- **Desktop Notifications**: Browser notifications for breaks
 
 ## Pricing
 
-Completely free to use with no account registration required.
+- Completely free
+- No ads
+- No registration required
+- Works in any browser

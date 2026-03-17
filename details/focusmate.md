@@ -1,47 +1,56 @@
 ## Overview
 
-Focusmate is a virtual coworking platform that pairs you with another person for 50-minute focus sessions via video, using accountability and body doubling to enhance productivity and combat procrastination.
-
-## Features
-
-- **Scheduled Sessions** - Book 50-minute focus sessions in advance
-- **Partner Matching** - Automatically paired with an accountability partner
-- **Video Connection** - Brief check-in at start, work silently together, check-out at end
-- **Flexible Scheduling** - Sessions available 24/7 across global time zones
-- **Recurring Sessions** - Schedule regular daily or weekly sessions
-- **Session History** - Track your focus sessions and completion rate
-- **Community** - Join a global community of focused workers
-- **Accountability** - Social commitment increases follow-through
+Focusmate is a virtual coworking service that pairs you with other professionals for 50-minute focus sessions via video call. The concept leverages social accountability and structured time to help people stay focused and productive.
 
 ## How It Works
 
-1. **Book a Session** - Schedule 50-minute focus session at preferred time
-2. **Get Matched** - Automatically paired with another Focusmate member
-3. **Start Session** - Join video call, briefly state your goal (30 seconds)
-4. **Work Together** - Work silently on your own tasks for 50 minutes
-5. **Check Out** - Briefly share progress at end of session
+1. **Book a Session**: Schedule 50-minute focus sessions
+2. **Get Matched**: Paired with another Focusmate user
+3. **Video Call**: Brief hello and share what you'll work on (1 min)
+4. **Work Together**: Work silently on your own tasks while on video (48 min)
+5. **Quick Debrief**: Share accomplishments and say goodbye (1 min)
+6. **Repeat**: Book more sessions throughout your day
 
-## The Science
+## Features
 
-Focusmate leverages:
-- **Body Doubling** - Presence of another person increases focus
-- **Social Accountability** - Commitment to another person drives completion
-- **Implementation Intentions** - Stating goals increases likelihood of action
+- **Scheduled Sessions**: Book sessions in advance
+- **Random Pairing**: Work with different partners
+- **Video Presence**: Mutual accountability through visibility
+- **50-Minute Format**: Optimal focus duration
+- **Flexible Scheduling**: Sessions available 24/7
+- **Community**: Global network of focused professionals
+- **Session Streaks**: Track consistency
+- **Private Workspace**: No chat during session
+- **Optional Regulars**: Request same partner
 
 ## Benefits
 
-- Overcome procrastination on difficult tasks
-- Maintain focus for extended periods
-- Combat isolation of remote work
-- Build consistent work habits  
-- Increase task completion rates
+- **Accountability**: Harder to procrastinate with partner
+- **Structure**: Fixed start and end times
+- **Motivation**: Social presence increases focus
+- **Consistency**: Regular sessions build habits
+- **Community**: Connect with productive people
+- **Flexibility**: Work on any task
+- **Effectiveness**: 95% of users report increased productivity
+
+## Session Structure
+
+**Minutes 0-1**: Greetings and intention setting
+**Minutes 1-49**: Silent focused work
+**Minutes 49-50**: Farewell and acknowledgment
 
 ## Use Cases
 
-Ideal for remote workers, freelancers, students, people with ADHD, and anyone who struggles with self-directed work or procrastination.
+- Writing and creative work
+- Studying and exam preparation
+- Admin and paperwork
+- Coding and development
+- Difficult tasks prone to procrastination
+- Morning routines
+- Exercise sessions
 
 ## Pricing
 
-- **Free plan** - 3 sessions per week
-- **Plus** - $5/month for unlimited sessions
-- **Pro** - $9/month for unlimited sessions plus recurring bookings
+- **Free**: 3 sessions per week
+- **Premium**: $5/month - Unlimited sessions
+- **Turbo**: $9/month - Priority booking and features

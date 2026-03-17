@@ -1,24 +1,20 @@
-# Hourglass
+## Overview
 
-[Hourglass](https://hourglass-app.com/) is a web-based time and expense tracking solution designed for managing employee, client, and project hours, with a particular focus on congregations of Jehovah's Witnesses.
+Hourglass is a minimalist countdown timer app for macOS that lives in the menu bar. It provides quick, simple timers for Pomodoro sessions, breaks, or any time-boxed work without complex features or distractions.
 
 ## Features
-- **Organization:** Manage publishers, field service groups, emergency contacts, meeting attendance, and territories.
-- **Scheduling:** Intuitive scheduling for cleaning, field service, public witnessing, midweek and weekend meetings, audio/video, attendants, and language groups.
-- **Reporting:** Access monthly and yearly totals, congregation statistics, pioneer progress, averages, and detailed service reports.
-- **Assignments:** Assign meeting parts, public witnessing shifts, attendants, and more. Assignees receive instant notifications and can accept or decline assignments.
-- **Ministry Tracking:** Publishers can electronically submit reports from their mobile phones. Automated reminders can be sent for report submissions.
-- **Task Management:** Manage various congregation-related tasks and assignments.
-- **Automated Reminders:** Send notifications for assignments and report submissions.
 
-## Category
-- Web-based Time Tracking
-
-## Tags
-- web-based
-- expense-tracking
-- reporting
-- task-management
+- **Menu Bar Timer**: Always visible countdown
+- **Quick Presets**: Common timer durations
+- **Custom Timers**: Set any duration
+- **Notifications**: Alert when timer completes
+- **Keyboard Shortcuts**: Start timers without mouse
+- **Multiple Timers**: Run several simultaneously
+- **Minimal Interface**: No unnecessary features
+- **Lightweight**: Low system resource usage
 
 ## Pricing
-*No pricing information provided.*
+
+- Free and open source
+- macOS only
+- Available on GitHub

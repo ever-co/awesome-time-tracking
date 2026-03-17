@@ -1,59 +1,42 @@
 ## Overview
 
-Forest is a unique productivity app that uses gamification to help users stay focused and manage their time. Users plant a virtual tree that grows during focus sessions and dies if they leave the app.
+Forest is a unique productivity app that helps you stay focused by gamifying the experience. When you want to focus, you plant a virtual tree that grows while you work. If you leave the app to use your phone, the tree dies. The app partners with Trees for the Future to plant real trees based on virtual coins earned.
+
+## Features
+
+- **Virtual Tree Growing**: Plant a tree when starting focused work
+- **Focus Sessions**: Trees grow during 25-minute to 120-minute sessions
+- **Phone Blocking**: Leaving the app kills your tree
+- **Forest Growth**: Build a forest of successfully completed sessions
+- **Real Tree Planting**: Spend virtual coins to plant real trees
+- **Statistics**: Track daily and long-term focus patterns
+- **Tags**: Categorize focus sessions by project or activity
+- **Whitelist**: Allow specific apps during focus time
+- **Team Mode**: Collaborate with friends on group focus sessions
+- **Customization**: Unlock different tree species
+- **Timeline**: Visual history of focus sessions
+- **Rewards**: Earn coins for successful focus sessions
 
 ## How It Works
 
-**Focus Sessions:**
-1. Set a focus time (25-120 minutes)
-2. Plant a virtual seed
-3. The tree grows while you stay focused
-4. Leaving the app kills the tree
-5. Completing sessions adds trees to your forest
+1. Set a focus duration (25-120 minutes)
+2. Plant a virtual tree
+3. Put phone down and focus on work
+4. Tree grows if you don't use phone
+5. Tree dies if you exit the app
+6. Earn coins for successful sessions
+7. Spend coins to plant real trees
 
-**Gamification Elements:**
-- Collect different tree species
-- Grow a virtual forest
-- Earn coins for successful sessions
-- Unlock new trees and features
-- Daily/weekly statistics
-- Achievement badges
+## Environmental Impact
 
-## Unique Features
-
-**Real Tree Planting:**
-- Partner with Trees for the Future
-- Convert virtual coins to real trees
-- Environmental impact tracking
-- Over 1.5 million trees planted
-
-**Productivity Tracking:**
-- Time statistics
-- Focus trends
-- Tag-based organization
-- Project tracking
-- Team challenges
-
-## Additional Capabilities
-
-- Allowlist for essential apps
-- Deep Work mode (strict blocking)
-- Chrome extension
-- Team forests for groups
-- Cross-device synchronization
-- Custom soundscapes
-
-## Target Users
-
-- Students
-- Remote workers
-- Anyone struggling with phone addiction
-- Teams wanting shared focus goals
-- Environmentally conscious users
+- Partnership with Trees for the Future
+- Over 1.5 million real trees planted
+- Players in 180+ countries
+- Direct contribution to reforestation
 
 ## Pricing
 
-- iOS: $1.99 one-time purchase
-- Android: Free with in-app purchases
-- Chrome extension: Free with optional pro features
-- Pro features: $1.99/month or $9.99/year
+- **iOS**: $3.99 one-time purchase
+- **Android**: Free with in-app purchases
+- **Chrome Extension**: Free
+- In-app purchases for additional tree species and features

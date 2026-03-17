@@ -1,24 +1,24 @@
-# HourStack
+## Overview
 
-**Category:** Team Project Time Tracking  
-**Website:** [https://hourstack.com/](https://hourstack.com/)
-
-## Description
-HourStack is a visual time tracking and workload planning application that integrates with popular project management tools. It helps users plan and track time across multiple projects, making it useful for managing work allocations and efficiency.
+HourStack is a unique time tracking tool that combines calendar-based planning with actual time tracking. It allows you to plan your day visually using time blocks and then compare planned versus actual time spent.
 
 ## Features
-- Visual time tracking interface
-- Workload planning for individuals and teams
-- Integration with popular project management tools
-- Ability to plan and track time across multiple projects
-- Resource management capabilities
-- Visualization of time allocations and usage
+
+- **Calendar-Based Planning**: Drag-and-drop time blocks onto your calendar
+- **Time Tracking**: One-click timer to track actual time spent
+- **Planned vs Actual**: Visual comparison of estimated vs actual time
+- **Project Management**: Organize work by projects, tasks, and clients
+- **Team Calendars**: See team capacity and availability
+- **Integrations**: Syncs with Google Calendar, Asana, Trello, and more
+- **Time Reports**: Detailed reports on time allocation and productivity
+- **Recurring Tasks**: Set up repeating time blocks
+- **Drag-and-Drop**: Easy rescheduling with visual interface
+- **Mobile Apps**: iOS and Android apps for mobile tracking
+- **Billable Hours**: Track billable and non-billable time
+- **Notifications**: Reminders for planned tasks
 
 ## Pricing
-No pricing information available in the provided content.
 
-## Additional Notes
-- HourStack has joined ClickUp, and its team is now working on scheduling and time tracking features within the ClickUp platform.
-
-## Tags
-integration, planning, visualization, resource-management
+- **Personal**: $9/month - Individual time management
+- **Team**: $12/user/month - Team collaboration features
+- 14-day free trial available

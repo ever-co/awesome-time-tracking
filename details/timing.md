@@ -1,25 +1,34 @@
 ## Overview
 
-Timing is an automatic time tracking app designed exclusively for Mac that tracks everything you do on your computer without requiring manual timers or start/stop buttons.
+Timing is a fully automatic time tracking app exclusively for macOS that tracks which apps and websites you use, for how long, and when. It creates accurate timesheets without any manual start/stop timers.
 
 ## Features
 
-- **Automatic Tracking** - Automatically records which apps and documents you use
-- **No Manual Timers** - Never forget to start or stop a timer again
-- **Productivity Insights** - Analyze your productivity patterns and time allocation
-- **Timeline View** - Visual timeline showing your entire day's activities
-- **Project Categorization** - Automatically or manually categorize activities into projects
-- **Offline Support** - Works completely offline with no cloud dependency
-- **Privacy-Focused** - All data stored locally on your Mac
-- **Reporting** - Export detailed reports for billing and analysis
-- **Mac Native** - Built specifically for macOS with native performance
+- **Automatic Tracking**: Records all Mac activity automatically
+- **Timeline View**: Visual timeline of your entire day
+- **Smart Suggestions**: AI suggests how to categorize your time
+- **Project Tracking**: Organize time by projects and tasks
+- **Productivity Analysis**: Identify time usage patterns
+- **Offline Support**: Works without internet connection
+- **Privacy First**: All data stored locally on your Mac
+- **Calendar Integration**: Sync with macOS Calendar
+- **Reporting**: Detailed time reports and summaries
+- **Export**: Export to CSV, PDF, and invoicing tools
+- **No Screenshots**: Privacy-friendly tracking
+- **Keyboard Shortcuts**: Quick time entry and navigation
 
-## Use Cases
+## How It Works
 
-Perfect for Mac-using freelancers, consultants, developers, and professionals who bill by the hour and want automatic time tracking.
+1. Timing runs in the background on your Mac
+2. Automatically records apps, documents, and websites
+3. You review the timeline and assign time to projects
+4. AI learns from your assignments and suggests categorization
+5. Generate reports and export for billing
 
 ## Pricing
 
-- **14-day free trial**
-- **Subscription** - $10/month or $79/year
-- **One-time purchase** - Available for long-term users
+- **Monthly**: $10/month per Mac
+- **Yearly**: $79/year per Mac
+- **Lifetime**: $199 one-time per Mac
+- 14-day free trial
+- macOS only

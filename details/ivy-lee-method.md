@@ -1,58 +1,145 @@
 ## Overview
 
-The Ivy Lee Method is a simple yet powerful productivity technique developed by efficiency consultant Ivy Lee in 1918 for Charles M. Schwab, president of Bethlehem Steel Corporation.
-
-## Historical Context
-
-In 1918, Charles Schwab asked Ivy Lee to help increase his team's efficiency. Lee's solution was so effective that Schwab paid him the equivalent of $400,000 in today's money after using it for three months.
+The Ivy Lee Method is a 100+ year old productivity system that remains remarkably effective. Created by productivity consultant Ivy Lee in 1918 for Charles M. Schwab, president of Bethlehem Steel, it's a simple daily planning ritual focusing on your six most important tasks.
 
 ## The Method
 
-The Ivy Lee Method consists of six simple steps performed daily:
+**Every Evening:**
+1. Write down the six most important tasks for tomorrow
+2. Prioritize those six items in order of importance
+3. Stop - don't add more than six
 
-### Daily Routine
+**Every Morning:**
+1. Work on the first task until it's complete
+2. Move to the second task
+3. Continue down the list in order
+4. Move any unfinished items to tomorrow's list
+5. Repeat the process
 
-1. **End of Day**: At the end of each work day, write down the six most important tasks to accomplish tomorrow
-2. **Prioritize**: Order these six items by their true importance
-3. **Next Morning**: When you arrive tomorrow, concentrate only on the first task
-4. **Single-Tasking**: Work until the first task is finished before moving to the second task
-5. **Continue**: Approach the rest of your list in the same fashion
-6. **Unfinished Items**: At the end of the day, move any unfinished items to a new list of six tasks for the following day
-7. **Repeat**: Repeat this process every working day
+## Core Principles
 
-## Key Principles
+**Simplicity**
+- Only six tasks per day
+- No complex systems or tools needed
+- Just paper and pen
 
-### Limitation
-By forcing yourself to pick only six tasks, you must think deeply about your priorities and what truly matters.
+**Prioritization**
+- Force ranking of tasks
+- Most important task gets done first
+- No option to avoid hard tasks
 
-### Simplicity
-No complex systems, apps, or workflows needed—just pen, paper, and commitment.
+**Single-Tasking**
+- One task at a time
+- Complete before moving to next
+- No multitasking
 
-### Single-Tasking
-Focus on one task at a time until completion, eliminating the productivity drain of multitasking.
+**Daily Reset**
+- Fresh start each day
+- Unfinished tasks get reprioritized
+- Prevents task accumulation
 
-### Consistency
-Daily repetition builds habits and creates sustained productivity improvements.
+## Why Six Tasks?
+
+- **Manageable**: Achievable in a typical workday
+- **Focused**: Forces prioritization
+- **Realistic**: Prevents over-commitment
+- **Flexible**: Room for unexpected tasks
+- **Motivating**: Completable list builds momentum
+
+## Historical Context
+
+Ivy Lee charged Charles Schwab $25,000 (equivalent to ~$400,000 today) for this advice in 1918. Schwab later called it the most profitable advice he'd ever received.
 
 ## Benefits
 
-- **Eliminates Decision Fatigue**: You decide what to work on the night before, so you start each day with clarity
-- **Forces Prioritization**: Limited to six tasks, you must identify what truly matters
-- **Prevents Overwhelm**: Six tasks is manageable, not paralyzing
-- **Creates Momentum**: Completing tasks in order builds satisfaction and drive
-- **Reduces Context Switching**: Single-tasking improves focus and quality
-- **Builds Discipline**: Simple system is easy to follow consistently
+- **Eliminates Decision Fatigue**: Decisions made the night before
+- **Ensures Important Work**: Top priorities get done
+- **Prevents Overwhelm**: Only six items to focus on
+- **Builds Momentum**: Completing tasks creates energy
+- **Reduces Stress**: Clear plan for the day
+- **Improves Focus**: Single-tasking enforced
+- **Sustainable**: Simple enough to maintain long-term
 
-## Modern Applications
+## Implementation Tips
 
-- Foundation for time blocking methodologies
-- Inspiration for daily planning apps and systems
-- Core principle in many productivity frameworks
-- Adapted for digital task management tools
+**Evening Planning (5-10 minutes)**
+- Review what you accomplished today
+- Consider tomorrow's priorities
+- Write down six tasks only
+- Sequence them by importance
+- Prepare any needed materials
 
-## Why It Works
+**Morning Execution**
+- Review your list first thing
+- Start immediately on task #1
+- Resist urge to check email first
+- Work until task is complete
+- Take brief break between tasks
+- Check off completed items
 
-- **Clarity**: Knowing exactly what to work on eliminates procrastination
-- **Progress**: Finishing tasks creates positive momentum
-- **Focus**: Single-tasking produces better quality work
-- **Realistic**: Six tasks is achievable, building confidence through consistency
+**Handling Interruptions**
+- Note urgent items but return to current task
+- Add critical items to tomorrow's list
+- Don't abandon the sequence for minor issues
+- Protect time for top priority tasks
+
+## Common Variations
+
+**Modified Number**
+- Some use 3-5 tasks (more focused)
+- Others use 7-10 tasks (more capacity)
+- Find what works for your role
+
+**Time Blocking**
+- Assign time estimates to each task
+- Schedule tasks in calendar
+- Combine Ivy Lee with time blocking
+
+**Categories**
+- Separate lists for work and personal
+- Different lists for different roles
+- Themed days with aligned tasks
+
+## Integration with Other Methods
+
+**GTD (Getting Things Done)**
+- Use GTD for capture and organization
+- Use Ivy Lee for daily execution
+
+**Eisenhower Matrix**
+- Choose six tasks from "Important" quadrants
+- Ensures focus on high-value work
+
+**Eat the Frog**
+- First task on Ivy Lee list is your "frog"
+- Tackle hardest task first
+
+## Common Challenges
+
+**Too Many Important Tasks**
+- Recognition that you can't do everything
+- Forces real prioritization
+- Leftover tasks go to tomorrow or get delegated
+
+**Unfinished Tasks**
+- Normal and expected
+- Reprioritize for next day
+- May indicate overestimation
+
+**External Demands**
+- Build in flexibility
+- Protect time for top tasks
+- Batch interruptions when possible
+
+**Perfectionism**
+- Done is better than perfect
+- Move to next task even if not 100%
+- Can always revisit if needed
+
+## Why It Still Works After 100+ Years
+
+- **Universal Principles**: Human nature hasn't changed
+- **Simplicity**: Easy to understand and implement
+- **Flexibility**: Adapts to any role or industry
+- **No Tools Required**: Works with any system
+- **Proven Results**: Century of successful application

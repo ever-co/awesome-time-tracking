@@ -1,98 +1,212 @@
 ## Overview
 
-Attention Residue is a concept identified by Sophie Leroy (University of Washington) describing how our attention remains partially focused on a previous task even after we've moved to a new one.
+Attention Residue is a cognitive effect where your mind continues thinking about a previous task even after you've switched to a new task. This residue reduces your cognitive capacity for the current task and impairs performance.
 
-## The Research
+## The Science
 
-In her paper "Why Is It So Hard to Do My Work?", Sophie Leroy demonstrates that performance remains impaired after a task switch because part of your attention stays stuck on the previous task.
+Research by Sophie Leroy found that when you switch tasks, your attention doesn't immediately follow. Part of your attention remains stuck on the previous task, creating "residue" that persists.
 
-**Key Finding:** The more engaging or important the interrupted task, the greater the "residue" left behind.
+**Key Findings:**
+- People experience worse performance on Task B after switching from incomplete Task A
+- The residue is stronger when Task A is left unfinished
+- High task intensity increases attention residue
+- Complex tasks create more residue than simple ones
 
-## How It Works
+## Why It Happens
 
-### When You Switch Tasks:
+**Incomplete Task Effect (Zeigarnik Effect)**
+- Unfinished tasks occupy mental space
+- Brain keeps working on unsolved problems
+- Creates cognitive load even when not actively working
 
-1. **Task A** requires full attention
-2. **Switch** to Task B
-3. **Residue:** Part of attention still on Task A
-4. **Reduced capacity** for Task B
-5. **Gradual transition** to full focus on B (takes time)
+**Task Switching Cost**
+- Mental context from previous task lingers
+- Brain needs time to fully load new context
+- Transition period has reduced capacity
 
-## Impact on Performance
+**Cognitive Inertia**
+- Thinking patterns from previous task persist
+- Mental models don't instantly change
+- Previous frameworks influence new work
 
-- Reduced cognitive capacity for new task
-- Increased errors
-- Slower completion time
-- Lower quality work
-- Mental fatigue
+## Impact on Productivity
 
-## Factors That Increase Residue
+**Performance Degradation**
+- Reduced focus on current task
+- Lower quality output
+- Slower work speed
+- More errors and mistakes
 
-### Task Characteristics:
+**Mental Fatigue**
+- Increased cognitive load
+- Faster energy depletion
+- Reduced endurance
+- Earlier fatigue onset
 
-- **Unfinished tasks** leave more residue
-- **Important tasks** create stronger residue
-- **Engaging tasks** are harder to let go
-- **Complex tasks** require more mental resources
+**Stress and Frustration**
+- Feeling scattered
+- Sense of incomplete work
+- Anxiety about pending tasks
+- Reduced satisfaction
 
-### Individual Factors:
+## Common Scenarios
 
-- Stress levels
-- Cognitive load
-- Interest in task
-- Time pressure
+**Meeting to Deep Work**
+- Difficult meeting leaves mental residue
+- Can't fully focus on subsequent deep work
+- Still thinking about meeting issues
 
-## Reducing Attention Residue
+**Email to Focus Task**
+- Checking email before important work
+- Inbox issues remain on mind
+- Reduced capacity for complex thinking
 
-### Strategy 1: Complete Tasks
+**Multiple Project Switching**
+- Jumping between different projects
+- Each retains some attention
+- None get full mental capacity
 
-Finish tasks before switching when possible.
+## Strategies to Reduce Attention Residue
 
-### Strategy 2: Reach Natural Stopping Points
+**1. Complete Tasks Before Switching**
 
-Get to a logical breakpoint before switching.
+Reach natural stopping points:
+- Finish sections, not mid-thought
+- Complete logical units
+- Tie up loose ends
+- Achieve mini-milestones
 
-### Strategy 3: Create Closure Rituals
+**2. Task Closure Techniques**
 
-Briefly document where you stopped and what's next.
+**Brain Dump**
+- Write down everything about current task
+- Note where you left off
+- List next steps
+- Capture any concerns
 
-### Strategy 4: Use Transition Time
+**Parking Lot**
+- Document unfinished elements
+- Schedule when to return
+- Acknowledge what remains
+- Give yourself permission to leave it
 
-Take a short break between tasks to clear residue.
+**Next Action Definition**
+- Identify specific next step
+- Makes returning easier
+- Provides closure feeling
+- Reduces mental looping
 
-### Strategy 5: Practice Mental Clearance
+**3. Transition Rituals**
 
-Consciously "close" the previous task mentally.
+**Physical Movement**
+- Walk between tasks
+- Change locations
+- Stand and stretch
+- Reset body posture
 
-### Strategy 6: Externalize State
+**Mental Reset**
+- 5-minute meditation
+- Deep breathing
+- Close eyes briefly
+- Clear mind intentionally
 
-Write down current task state before switching.
+**Environmental Change**
+- Different workspace for different tasks
+- Change music/sounds
+- Adjust lighting
+- Physical context switch
 
-## Time to Clear Residue
+**4. Minimize Task Switching**
 
-Research suggests it can take **15-25 minutes** to fully clear attention residue and achieve full focus on a new task.
+**Time Blocking**
+- Dedicate uninterrupted blocks to single tasks
+- Batch similar tasks together
+- Reduce number of daily switches
+- Protect deep work time
 
-## Measuring Impact
+**Single-Tasking**
+- Complete one task before starting another
+- Resist urge to multitask
+- Close unrelated applications
+- Turn off notifications
 
-- Performance on new task after switching
-- Time to reach full productivity
-- Error rates after task switches
-- Self-reported focus quality
+**Strategic Scheduling**
+- Group related tasks
+- Schedule meetings consecutively
+- Batch communication time
+- Minimize context shifts
+
+**5. Leverage Attention Residue Strategically**
+
+**Use Residue Productively**
+- Let subconscious work on complex problems
+- Take breaks after setting up hard problems
+- Return later with fresh perspective
+- Background processing can help
+
+**Deliberate Incomplete Tasks**
+- Hemingway technique: Stop mid-sentence
+- Makes restart easier
+- Maintains momentum
+- Reduces startup friction
+
+## Practical Applications
+
+**Daily Schedule Design**
+- Similar tasks consecutively
+- Meetings bunched together
+- Deep work in protected blocks
+- Communication time separated from creation time
+
+**Workspace Organization**
+- Separate spaces for different work types
+- Clear desk between tasks
+- Close irrelevant applications
+- Visual environment changes
+
+**Meeting Management**
+- End meetings with clear outcomes
+- Document action items immediately
+- Don't schedule deep work right after difficult meetings
+- Buffer time between meetings
+
+**Email and Communication**
+- Batch process rather than continuous checking
+- Complete email sessions fully
+- Don't check email before important work
+- Clear inbox mindfully
+
+## Signs of High Attention Residue
+
+- Difficulty focusing on new task
+- Mind wandering back to previous work
+- Feeling mentally fragmented
+- Reduced performance despite effort
+- Sense of being scattered
+- Many open loops mentally
 
 ## Best Practices
 
-- Minimize task switching
-- Create task boundaries
-- Use transition rituals
-- Document task state
-- Take deliberate breaks between tasks
-- Complete tasks when possible
-- Batch similar tasks
+**Plan Transitions**
+- Schedule transition time
+- Don't pack calendar completely
+- Allow mental reset periods
+- Respect switching costs
 
-## Related Concepts
+**Create Closure**
+- Finish thought or section
+- Write quick transition notes
+- Acknowledge what's complete
+- Set clear stopping points
 
-- Context Switching Costs
-- Task Switching Penalty
-- Zeigarnik Effect (unfinished tasks stay in mind)
-- Deep Work
-- Monotasking
+**Protect Focus**
+- Minimize unnecessary switches
+- Batch similar work
+- Guard deep work time
+- Single-task whenever possible
+
+**Be Intentional**
+- Notice when residue is present
+- Take deliberate reset actions
+- Don't force focus when residue is high
+- Allow time for transitions

@@ -1,62 +1,26 @@
 ## Overview
 
-Timesheets.com provides cloud-based employee timesheet software that combines time tracking with scheduling and expense management. It offers a compliance-friendly solution for remote work environments with real-time activity monitoring and extensive payroll integrations.
+Timesheets.com is a comprehensive time and expense tracking solution designed for businesses that need robust reporting, approval workflows, and project cost tracking. It's particularly popular in professional services and consulting firms.
 
-## Core Features
+## Features
 
-### Time Tracking
-- Web-based time entry
-- Mobile time tracking
-- Automated timesheet generation
-- Clock in/out functionality
-- Project and task-level tracking
+- **Time Tracking**: Multiple time entry methods (timer, manual, weekly)
+- **Expense Tracking**: Track and categorize business expenses
+- **Project Costing**: Real-time project cost tracking
+- **Approval Workflows**: Multi-level timesheet approvals
+- **Billing Integration**: Export to QuickBooks and other accounting software
+- **Resource Management**: Track resource allocation and capacity
+- **Custom Fields**: Flexible data capture for specific needs
+- **Reporting**: 100+ pre-built reports and custom report builder
+- **Mobile Apps**: iOS and Android time and expense tracking
+- **Offline Mode**: Track time without internet connection
+- **Integrations**: Connects with popular accounting and project management tools
+- **Security**: SOC 2 Type II certified
 
-### Expense Tracking
-- Receipt capture and upload
-- Mileage tracking
-- Per diem management
-- Reimbursement workflows
-- Expense categories and coding
+## Pricing
 
-### Scheduling
-- Employee shift scheduling
-- Schedule templates
-- Availability management
-- Shift swapping
-- Schedule notifications
-
-## Remote Work Optimization
-
-- Real-time activity feed for clock-ins, edits, and approvals
-- In-browser flexibility
-- Mobile accessibility
-- Cloud-based access from anywhere
-- Compliance-friendly tracking
-
-## Payroll Integration
-
-### CSV Downloads & Payroll Reports
-Compatible with major payroll providers:
-- Gusto
-- Paychex
-- ADP
-- QuickBooks
-- Custom export formats
-
-### Automated Data Flow
-- Direct payroll exports
-- Formatted for payroll processing
-- Eliminate manual data entry
-- Reduce payroll errors
-
-## Benefits
-
-- Simplified time and expense management
-- Improved payroll accuracy
-- Better schedule coordination
-- Enhanced compliance tracking
-- Real-time workforce visibility
-
-## Target Users
-
-Small to medium businesses with remote or distributed teams, companies needing integrated time and expense tracking, and organizations requiring payroll system compatibility with flexible deployment options.
+- **Standard**: $6/user/month - Basic time tracking
+- **Pro**: $10/user/month - Advanced features
+- **Premium**: $15/user/month - Full feature set
+- **Enterprise**: Custom pricing - Large organizations
+- 30-day free trial available

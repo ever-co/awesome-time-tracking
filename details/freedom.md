@@ -1,19 +1,44 @@
 ## Overview
 
-Freedom is the app and website blocker that syncs across Mac, Windows, iOS, Android, and Chrome. The app is trusted by over 3 million individuals and teams to help them focus and block distractions.
+Freedom is a powerful distraction blocking app that works across Mac, Windows, iOS, Android, and Chrome. It allows you to block websites, apps, or the entire internet across all your devices simultaneously, helping you maintain focus and productivity.
 
-## Key Features
+## Features
 
-- **Cross-Device Syncing**: Freedom is the only app that can sync blocking sessions across all your devices, so one session applies everywhere – phone, computer, browser
-- **Custom Blocklists**: Select apps and websites from preset lists, or create an unlimited number of custom blocklists to target your biggest distractions
-- **Scheduling**: Use Advance and Recurring schedules to pre-commit to focus, with Freedom starting automatically on your schedule
-- **Locked Mode**: Prevents you from quitting a session early, designed for moments when you want real commitment like deep work, studying, or winding down at night
-- **Desktop App Blocking**: On Mac and Windows, Freedom can block desktop applications in addition to websites
+- **Cross-Device Syncing**: Block across all devices at once
+- **Website Blocking**: Block specific sites or categories
+- **App Blocking**: Block distracting desktop and mobile apps
+- **Internet Blocking**: Option to block entire internet
+- **Scheduled Sessions**: Pre-schedule recurring block sessions
+- **Locked Mode**: Prevent yourself from ending sessions early
+- **Custom Blocklists**: Create multiple blocklists for different contexts
+- **Scheduling**: Recurring daily/weekly blocking schedules
+- **Focus Sounds**: Optional ambient sounds and music
+- **Statistics**: Track time spent in focused work
+- **Team Features**: Accountability groups and shared sessions
 
-## Reported Benefits
+## Use Cases
 
-Freedom users report gaining an average of 2.5 hours of productive time every day. Research indicates 22% higher hourly earnings when the Freedom app was used.
+- Writing and creative work
+- Studying and research
+- Deep work sessions
+- Digital detox
+- Evening phone-free time
+- Exam preparation
+- Focus sprints
+
+## Blocklists
+
+- Social media
+- News sites
+- Entertainment
+- Games
+- Shopping
+- Custom lists
 
 ## Pricing
 
-Subscription-based pricing with various plans available.
+- **Monthly**: $8.99/month
+- **Yearly**: $39/year
+- **Forever**: $199 one-time
+- 7-day free trial
+- Works on Mac, Windows, iOS, Android, Chrome

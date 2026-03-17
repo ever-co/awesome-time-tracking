@@ -1,98 +1,67 @@
 ## Overview
 
-Structured Procrastination is a productivity technique that accepts the procrastinator's nature and channels it productively by maintaining a task list structured to take advantage of the desire to avoid the top item.
+Structured Procrastination is a counterintuitive time management strategy developed by philosopher John Perry. Rather than fighting procrastination, it harnesses it by maintaining a list of tasks with varying importance, allowing you to feel productive while avoiding the top task.
 
-## The Core Insight
+## Core Concept
 
-**Procrastinators Aren't Lazy:**
-Procrastinators rarely do absolutely nothing. They do useful tasks—just not the most important one. Structured procrastination exploits this tendency.
-
-**The Paradox:**
-Procrastinators can be motivated to do difficult, timely, and important tasks—as long as these tasks are a way of not doing something even more important.
+Procrastinators rarely do absolutely nothing. They do marginally useful things like gardening or sharpening pencils. The key is to structure the list of tasks so that you're always doing something useful while procrastinating on something more important.
 
 ## How It Works
 
-**Create a Strategic Task List:**
-
-**Top of List:**
-- Place a seemingly crucial task
-- Something with a deadline
-- But secretly not that important
-- Or with flexible actual urgency
-
-**Middle of List:**
-- Place actually important tasks
-- These become "procrastination tasks"
-- You'll do them to avoid the top item
-- Productive procrastination
-
-**Bottom of List:**
-- Easy, quick wins
-- Maintenance tasks
-- Things you'd do anyway
-
-## The Strategy
-
-**1. Accept Your Nature:**
-Stop fighting procrastination. You're a procrastinator. Work with it, not against it.
-
-**2. Structure the List:**
-Order tasks to exploit procrastination impulse. Put a decoy at top.
-
-**3. Let Procrastination Work:**
-While avoiding top task, accomplish everything else. Net result: productivity.
-
-**4. Reorder When Needed:**
-When you actually complete the top task, rearrange list with new decoy.
+1. **Create a Task List**: Maintain a list of tasks ordered by importance
+2. **Top Task**: Place a seemingly urgent but not truly critical task at the top
+3. **Real Work Below**: List actually important tasks below the top item
+4. **Procrastinate Down**: Avoid the top task by working on important tasks below it
+5. **Feel Productive**: Accomplish meaningful work while "procrastinating"
 
 ## Key Principles
 
-**The Top Task:**
-- Should seem important and urgent
-- But actually have flexibility
-- Serves as motivation to do other tasks
-- Gets done "eventually" when deadline is real
+- **Accept Your Nature**: Embrace that you're a procrastinator
+- **Strategic Avoidance**: Use task avoidance to your advantage
+- **Urgency vs Importance**: Separate truly urgent from seemingly urgent
+- **Self-Deception**: The top task should feel important but have flexible deadlines
+- **Productive Procrastination**: Channel procrastination into useful work
 
-**Self-Deception:**
-You need to semi-believe the top task is crucial, but with enough awareness to structure the list.
+## Requirements for Success
 
-**Fake Deadlines:**
-Many deadlines aren't as rigid as they seem. Missing them by a day rarely matters.
+This method works best for people who:
+- Are chronic procrastinators
+- Feel guilty doing nothing
+- Can identify tasks with flexible deadlines
+- Are willing to engage in mild self-deception
+- Have multiple projects to work on
 
-**Task Characteristics:**
-The best top task appears important but:
-- Has a flexible deadline
-- Others can wait a bit
-- Won't cause real harm if delayed
-- Seems harder than it is
+## Example
+
+**Task List:**
+1. Write book chapter (seems urgent, actually has flexible deadline)
+2. Review student papers (genuinely important, real deadline)
+3. Prepare lecture slides (genuinely important, needed soon)
+4. Respond to colleague emails (useful, should be done)
+5. Organize office files (nice to do eventually)
+
+While avoiding task #1, you productively complete tasks #2-4.
 
 ## Benefits
 
-- Works with your psychology, not against it
-- Accomplishes many important tasks
-- Reduces guilt about procrastination
-- Maintains productivity
-- More sustainable than forcing discipline
-- Often get more done than non-procrastinators
+- Works with your natural tendencies instead of against them
+- Reduces guilt and stress about procrastination
+- Results in meaningful work getting done
+- Maintains motivation through task variety
+- Prevents total avoidance and shutdown
 
-## Potential Pitfalls
+## Limitations
 
-- Requires some self-awareness
-- Need real consequences eventually
-- Can't procrastinate on truly urgent matters
-- Requires honest assessment of priorities
-- May rationalize too much
+- Requires multiple active projects
+- Doesn't work for single, unavoidable deadlines
+- Needs self-awareness to execute effectively
+- Top task may eventually become truly urgent
+- Not suitable for all personality types
 
-## Implementation Tips
+## Relationship to Other Methods
 
-- Keep a clear task list
-- Review and reorder regularly
-- Identify flexible vs. rigid deadlines
-- Be honest about true importance
-- Allow yourself to procrastinate
-- Track what you accomplish while procrastinating
-- Adjust strategy as you learn patterns
-
-## Philosophy
-
-"All procrastinators put off things they have to do. Structured procrastination is the art of making this bad trait work for you. The key is to choose the right decoy tasks."
+Combines elements of:
+- Priority management (ABCDE method)
+- Task switching for motivation
+- Productive procrastination
+- Self-management psychology

@@ -1,75 +1,26 @@
 ## Overview
 
-Timeneye is a time tracking and productivity platform designed for teams to collaborate seamlessly while managing projects and monitoring performance. It provides real-time visibility into task progress, team activities, and project profitability, enabling better resource allocation and collaboration.
+Timeneye is a time tracking and project management tool that emphasizes visual representation of time data. It combines calendar-based time entry with powerful analytics and team management features.
 
-## Key Features
+## Features
 
-### Real-Time Project Oversight
-Timeneye provides a real-time overview of:
-- Task progress and completion status
-- Team performance metrics
-- Project profitability margins
-- Resource allocation and utilization
+- **Calendar Integration**: Native sync with Google Calendar and Outlook
+- **Visual Time Entry**: Drag and drop time tracking on calendar
+- **Project Tracking**: Organize time by projects and phases
+- **Team Management**: Track team time and capacity
+- **Suggestions**: AI-powered time entry suggestions
+- **Budgets**: Set and track project budgets
+- **Reporting**: Comprehensive time reports and analytics
+- **Invoicing**: Generate invoices from tracked time
+- **Integrations**: 50+ integrations including Jira, Asana, Slack
+- **Mobile Apps**: iOS and Android time tracking
+- **Automatic Tracking**: Desktop app with automatic time capture
+- **Approval Workflows**: Timesheet approval process
 
-### Team Collaboration
-Teams can:
-- Collaborate seamlessly on projects
-- Assign tasks and projects
-- Monitor progress collectively
-- Share visibility into team activities
+## Pricing
 
-### Resource Management
-Full visibility into team activities allows for:
-- Better resource allocation decisions
-- Improved workload balancing
-- Capacity planning
-- Bottleneck identification
-
-## Time Tracking Capabilities
-
-- Manual time entry
-- Timer-based tracking
-- Project and task association
-- Billable vs. non-billable time
-- Calendar integration
-- Mobile time tracking
-
-## Reporting & Analytics
-
-- Project profitability analysis
-- Team performance reports
-- Time allocation by project/client
-- Budget tracking and forecasting
-- Utilization reports
-- Export capabilities for further analysis
-
-## Integrations
-
-Timeneye integrates with popular productivity and project management tools to streamline workflows and reduce manual data entry.
-
-## Use Cases
-
-- Agencies tracking multiple client projects
-- Professional services firms monitoring profitability
-- Teams needing real-time project visibility
-- Organizations requiring resource optimization
-- Businesses wanting to improve collaboration
-
-## Benefits
-
-- Real-time visibility into project status
-- Improved team collaboration
-- Better resource allocation decisions
-- Profitability insights
-- Simplified time tracking workflow
-- Enhanced project management
-
-## Who It's For
-
-- Project-based teams
-- Creative and marketing agencies
-- Professional services firms
-- Distributed teams needing visibility
-- Organizations focused on profitability
-
-Timeneye combines time tracking with team collaboration and profitability analysis, making it particularly valuable for project-based businesses that need both operational oversight and financial insights.
+- **Free**: 1 user with basic features
+- **Startup**: €6/user/month - Small teams
+- **Business**: €9/user/month - Advanced features
+- **Enterprise**: Custom pricing - Large organizations
+- 14-day free trial for paid plans

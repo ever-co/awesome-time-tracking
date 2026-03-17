@@ -1,32 +1,58 @@
 ## Overview
 
-Sunsama is a daily planning and time tracking tool designed to help users create realistic, achievable daily plans through calendar integration, task management, and guided planning rituals.
+Sunsama is a daily planning tool that helps you create realistic, achievable daily plans by pulling tasks from all your tools into one place. It combines timeboxing, calendar integration, and mindful planning rituals to help you focus on what matters.
 
 ## Features
 
-- **Daily Planning Ritual** - Guided start-of-day planning process
-- **Timeboxing** - Drag tasks onto calendar to timebox your day  
-- **Time Tracking** - Track actual time spent on tasks
-- **Calendar Integration** - Unified view with Google Calendar and Outlook
-- **Task Import** - Pull tasks from Asana, Trello, Jira, GitHub, and more
-- **Focus Mode** - Distraction-free mode for current task
-- **Daily Shutdown** - End-of-day reflection and planning for tomorrow
-- **Weekly Planning** - Review and plan your week
-- **Mobile Apps** - Full iOS and Android apps
-- **Analytics** - Insights into planned vs. actual time
+- **Daily Planning Ritual**: Guided daily planning process
+- **Multi-Tool Integration**: Pull tasks from Asana, Trello, Jira, GitHub, etc.
+- **Timeboxing**: Estimate and schedule time for tasks
+- **Calendar Integration**: Two-way sync with Google Calendar and Outlook
+- **Actual Time Tracking**: Track how long tasks actually take
+- **Weekly Planning**: Review and plan your week
+- **Daily Shutdown**: Guided end-of-day reflection
+- **Focus Mode**: Highlight current task
+- **Mobile App**: iOS and Android for on-the-go planning
+- **Keyboard Shortcuts**: Efficient navigation
+- **Analytics**: Insights on time allocation and planning accuracy
 
 ## Daily Workflow
 
-1. **Morning Planning** - Review calendar, add tasks, timebox your day
-2. **Work** - Track time on tasks with built-in timer
-3. **Evening Shutdown** - Review what was accomplished, plan tomorrow
+**Morning Planning (10 min)**
+1. Review calendar and upcoming meetings
+2. Import tasks from connected tools
+3. Add new tasks for the day
+4. Timeblock tasks into calendar
+5. Set realistic daily goals
 
-## Use Cases
+**Throughout Day**
+1. Work through timeblocked schedule
+2. Track actual time spent
+3. Adjust plan as needed
+4. Stay focused on current task
 
-Perfect for knowledge workers, managers, and professionals who want to combine calendar management with daily task planning and time tracking.
+**Evening Shutdown (5 min)**
+1. Reflect on accomplishments
+2. Move incomplete tasks
+3. Note learnings
+4. Close out the day mindfully
+
+## Integrations
+
+- Asana
+- Trello
+- Jira
+- GitHub
+- Gmail
+- Slack
+- Notion
+- ClickUp
+- Linear
+- And more
 
 ## Pricing
 
-- **14-day free trial**
-- **Monthly** - $20/month
-- **Annual** - $16/month (billed annually)
+- **Monthly**: $20/month
+- **Yearly**: $16/month (billed annually)
+- 14-day free trial
+- Desktop, web, iOS, and Android

@@ -1,79 +1,24 @@
 ## Overview
 
-Toggl Plan (formerly Teamweek) is a visual project planning tool that helps teams plan projects, schedule resources, and manage workloads with an intuitive drag-and-drop timeline interface.
+Toggl Plan (formerly Teamweek) is a visual project planning and team scheduling tool from the makers of Toggl Track. It provides an intuitive timeline view for planning projects and managing team capacity.
 
-## Key Features
+## Features
 
-**Visual Planning:**
-- Color-coded timeline view
-- Drag-and-drop scheduling
-- Gantt-style project views
-- Roadmap visualization
-- Milestone tracking
-- Task dependencies
-
-**Team Management:**
-- Resource capacity planning
-- Team availability overview
-- Workload balancing
-- Vacation and time-off tracking
-- Team member assignments
-- Skills and roles
-
-**Project Organization:**
-- Multiple project views
-- Project templates
-- Task lists
-- Milestones and deadlines
-- Color-coding and tags
-- Custom fields
-
-## Integration with Toggl Track
-
-- Connect projects with time tracking
-- See planned vs. actual time
-- Integrated workflows
-- Unified reporting
-- Budget vs. time analysis
-
-## Collaboration
-
-- Team sharing and permissions
-- Comments and discussions
-- File attachments
-- Client access portals
-- Notifications and updates
-- Real-time collaboration
-
-## Views and Reporting
-
-- Timeline view
-- Team view
-- Calendar view
-- List view
-- Workload distribution
-- Capacity reports
-
-## Integrations
-
-- Toggl Track
-- Slack
-- Google Calendar
-- Jira
-- GitHub
-- Zapier
-
-## Target Users
-
-- Project managers
-- Creative teams
-- Marketing agencies
-- Software development teams
-- Remote teams
+- **Visual Timeline**: Drag-and-drop project planning
+- **Team Scheduling**: See who's working on what and when
+- **Resource Management**: Track team capacity and availability
+- **Milestones**: Set and track project milestones
+- **Task Management**: Create and assign tasks to team members
+- **Time Estimates**: Add time estimates to tasks
+- **Color Coding**: Visual organization with custom colors
+- **Team Availability**: Track time off and holidays
+- **Integrations**: Connects with Toggl Track for time tracking
+- **Templates**: Reusable project templates
+- **Client Access**: Share roadmaps with clients
+- **Multiple Views**: Timeline, board, and list views
 
 ## Pricing
 
-Team: $8/user/month
-Business: $13.35/user/month
-14-day free trial
-Annual billing available
+- **Team**: $8/user/month - Full features for teams
+- **Business**: $13.35/user/month - Advanced features and support
+- 14-day free trial available

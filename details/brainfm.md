@@ -1,34 +1,31 @@
 ## Overview
 
-Brain.fm is a focus music platform that uses AI-generated music based on neural entrainment research to enhance concentration, creativity, and relaxation. The service has published research backing its approach to productivity enhancement.
+Brain.fm creates AI-generated music specifically designed to affect your brain and help you focus, relax, or sleep better. Unlike regular music, Brain.fm's audio is engineered using neuroscience research to influence brain activity patterns.
 
 ## Features
 
-- **AI-Generated Music**: Unique audio engineered specifically for focus, not repurposed from existing music catalogs
-- **Neural Entrainment**: Based on neuroscience research about how sound affects brain activity
-- **Multiple Modes**: Focus, Relaxation, Sleep, and Meditation modes
-- **Customizable Sessions**: Adjust session length and intensity
-- **Background Listening**: Designed to work in the background while you focus on tasks
-- **Cross-Platform**: Available on web, iOS, Android, and desktop
-- **Offline Mode**: Download sessions for offline listening
-- **Scientific Backing**: Multiple published studies supporting effectiveness
+- **Focus Music**: Enhance concentration for 2-4 hour sessions
+- **Relax Mode**: Reduce stress and anxiety
+- **Sleep Mode**: Fall asleep faster and sleep deeper
+- **AI Generation**: Unique, non-repeating tracks
+- **Session Timer**: Built-in work session timer
+- **Offline Mode**: Download sessions for offline use
+- **Multiple Genres**: Various musical styles
+- **Intensity Levels**: Adjust stimulation level
+- **Cross-Platform**: Web, iOS, Android, desktop
+- **Scientific Backing**: Research-validated approach
 
 ## How It Works
 
-Brain.fm's AI composes music with specific acoustic features that influence brainwave patterns, helping listeners achieve desired mental states more quickly and maintain them longer than with regular music or silence.
-
-## Use Cases
-
-- Deep work sessions requiring sustained concentration
-- Creative work and ideation
-- Study and learning
-- Meditation and mindfulness practice
-- Sleep improvement
-
-## Comparison to Alternatives
-
-Many users prefer Brain.fm for deep focus work over alternatives like Focus@Will, citing more consistent effectiveness and stronger scientific foundation.
+Based on auditory neuroscience research:
+- Rhythmic patterns influence brainwave activity
+- Neural phase locking synchronizes brain activity
+- Reduced distractibility through acoustic modulation
+- Engineered to avoid habitual listening patterns
 
 ## Pricing
 
-$6.99 per month or discounted annual plans available.
+- **Monthly**: $6.99/month
+- **Yearly**: $49.99/year
+- Free trial available
+- 100% money-back guarantee

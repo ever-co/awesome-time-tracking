@@ -1,58 +1,22 @@
 ## Overview
 
-Chronos Time Tracker is a privacy-focused time tracking application that emphasizes simplicity and local data storage, ensuring complete control over your time tracking data.
+Chronos Time Tracker is a comprehensive time tracking solution for Jira that helps software development teams track time spent on issues, projects, and sprints. It's designed specifically for Agile teams using Atlassian tools.
 
-## Key Features
+## Features
 
-**Privacy-First Design:**
-- All data stored locally
-- No cloud requirements
-- No account creation needed
-- Complete data ownership
-- Offline functionality
-- Optional data export
-
-**Time Tracking:**
-- Start/stop timers
-- Manual time entry
-- Project and task organization
-- Tags for categorization
-- Notes and descriptions
-- Calendar view
-
-**Reporting:**
-- Time summaries
-- Project reports
-- Tag-based analysis
-- Date range filtering
-- Export to CSV
-- Visual charts
-
-## Interface
-
-- Clean, minimalist design
-- Keyboard shortcuts
-- Quick timer access
-- Intuitive navigation
-- Customizable views
-
-## Benefits
-
-- No privacy concerns
-- Works without internet
-- Fast and lightweight
-- No subscription required
-- Complete data control
-- No vendor lock-in
-
-## Ideal For
-
-- Privacy-conscious users
-- Offline work environments
-- Simple time tracking needs
-- Users avoiding cloud services
-- Personal productivity tracking
+- **Jira Integration**: Native integration with Jira
+- **Issue Time Tracking**: Track time on Jira issues
+- **Timesheets**: Weekly and monthly timesheet views
+- **Reporting**: Detailed time reports and analytics
+- **Tempo Compatibility**: Works alongside Tempo Timesheets
+- **Worklog Management**: Advanced worklog features
+- **Team Analytics**: Team productivity insights
+- **Billing**: Client billing and invoicing features
+- **Mobile Support**: Track time on mobile devices
+- **API Access**: Integration capabilities
 
 ## Pricing
 
-One-time purchase or free open-source versions available depending on platform.
+- Pricing based on Jira Cloud/Server tier
+- Free trial available
+- Cloud and Data Center versions

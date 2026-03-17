@@ -1,51 +1,41 @@
 ## Overview
 
-Morgen is an all-in-one time management platform that brings together calendars, tasks, and scheduling into a single unified interface. It emphasizes deep work time blocking and efficient time organization.
+Morgen is a unified calendar and task management application that brings together multiple calendars, task lists, and scheduling tools in one interface. It emphasizes time blocking and provides powerful scheduling capabilities.
 
 ## Features
 
-- Unified view of multiple calendars (Google, Outlook, Apple, etc.)
-- Integrated task management with calendar time blocking
-- Meeting scheduling and booking pages
-- Deep work time blocking tools
-- Focus time protection
-- Time zone management for global teams
-- Keyboard shortcuts for power users
-- Meeting templates and automation
-- Calendar analytics and insights
-- Cross-platform support (Windows, Mac, Linux, iOS, Android)
+- **Unified Calendar**: View all calendars in one place
+- **Time Blocking**: Schedule tasks directly on calendar
+- **Task Integration**: Connect Todoist, Asana, Trello, Notion, etc.
+- **Scheduling Links**: Share availability like Calendly
+- **Team Scheduling**: Find time across team members
+- **Custom Views**: Day, week, month, agenda views
+- **Time Zone Support**: Multiple time zones simultaneously
+- **Keyboard Shortcuts**: Fast navigation and actions
+- **Templates**: Reusable event templates
+- **Analytics**: Time allocation insights
+- **Cross-Platform**: Windows, Mac, Linux, iOS, Android
 
-## Integration Capabilities
+## Supported Calendars
 
 - Google Calendar
-- Microsoft Outlook/Office 365
-- Apple Calendar
+- Microsoft Outlook
+- iCloud
+- CalDAV
+- Exchange
+
+## Supported Task Managers
+
 - Todoist
+- Asana
 - Notion
+- Trello
 - Linear
-- GitHub
-- And many more productivity tools
-
-## Deep Work Features
-
-- Automatic scheduling of focus time blocks
-- Protection of deep work sessions from meetings
-- Analytics on focused work time
-- Distraction-free calendar views
-- Custom work hours and availability settings
-
-## Scheduling Tools
-
-- Customizable booking pages
-- Team scheduling and round-robin assignment
-- Buffer time between meetings
-- Location and video conferencing integration
-- Automatic time zone detection
+- GitHub Issues
 
 ## Pricing
 
-- Free tier with core features
-- Pro plan with advanced features and integrations
-- Team plans with collaboration features
-
-Contact Morgen for current pricing details.
+- **Basic**: Free - Core features
+- **Pro**: $9/month - Advanced features
+- **Team**: Custom - Team collaboration
+- Available on all platforms

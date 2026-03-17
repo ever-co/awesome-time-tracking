@@ -1,23 +1,29 @@
-## What is StayFocusd?
+## Overview
 
-StayFocusd, by Sensor Tower, is a productivity extension for Google Chrome that helps you stay focused on work by restricting the amount of time you can spend on time-wasting websites.
+StayFocusd is a productivity Chrome extension that helps you stay focused on work by restricting the amount of time you can spend on time-wasting websites. Once your allotted time has been used up, the sites you've blocked are inaccessible for the rest of the day.
 
-## Key Features
+## Features
 
-StayFocusd allows you to customize the days and hours during which it will restrict your access to distracting websites. The extension offers several powerful features:
+- **Time Restrictions**: Set maximum time allowed on specific sites per day
+- **The Nuclear Option**: Block all websites except work sites for set period
+- **Block Whole Sites**: Block entire domains
+- **Block Specific Content**: Block specific pages, subdomains, or paths
+- **Active Days/Hours**: Set when blocking is active
+- **Challenge Mode**: Difficult to disable once activated
+- **Require Challenge**: Complete typing challenge to change settings
+- **Custom Block Page**: Motivational messages when blocked
+- **Import/Export**: Share settings across devices
+- **Statistics**: Track blocked attempts and time saved
 
-- **Configurable blocking**: You can restrict access to entire domains, specific subdomains, pages, or even in-page content like videos and images.
+## The Nuclear Option
 
-- **Nuclear Option**: This unique feature lets you block sites for set hours with no cancel option, ensuring unwavering focus during critical work periods.
+- Block all sites except whitelist for up to 8 hours
+- Cannot be disabled once activated
+- Ideal for exam prep or important deadlines
+- Forces extreme focus
 
-- **YouTube blocking**: StayFocusd can block all distracting components on YouTube, including shorts, comments, and recommended videos.
+## Pricing
 
-- **Require Challenge**: To change any settings, you must complete a challenging task, which reduces the temptation to alter settings.
-
-- **Privacy protection**: StayFocusd does not collect personal data from the web pages you visit.
-
-- **Cross-device sync**: You can connect Android devices and other browsers to view website and mobile app usage and limits in one place.
-
-## Availability
-
-StayFocusd is available on the Chrome Web Store and can also be installed on Microsoft Edge. It has a 4.5 star rating and is widely used by productivity-focused users looking to minimize distractions online.
+- Free Chrome extension
+- No premium version
+- Open source
