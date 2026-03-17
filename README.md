@@ -10,7 +10,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [Practices (362)](#practices)
 - [Time Management Methodology (36)](#time-management-methodology)
-- [Time Tracking Software (36)](#time-tracking-software)
+- [Time Tracking Software (37)](#time-tracking-software)
 - [attendance-payroll-management (6)](#attendance-payroll-management)
 - [Automated Time Tracking (31)](#automated-time-tracking)
 - [Automatic Time Tracking (10)](#automatic-time-tracking)
@@ -70,7 +70,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [practices (2)](#practices-1)
 - [Productivity & Process Documentation (3)](#productivity--process-documentation)
 - [Productivity Software (5)](#productivity-software)
-- [Productivity Tool (14)](#productivity-tool)
+- [Productivity Tool (17)](#productivity-tool)
 - [productivity-tools (1)](#productivity-tools-1)
 - [Project Management (26)](#project-management)
 - [Project Time Tracking (3)](#project-time-tracking)
@@ -534,6 +534,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Timeneye](https://www.timeneye.com/) - Time tracking and productivity tool for teams that provides real-time overview of task progress, team performance, and project profitability margins with seamless collaboration features. ([Read more](/details/timeneye.md)) `Team Collaboration` `Project Profitability` `Real Time`
 - [Tyme](https://www.tyme-app.com) - Time tracking application available across all Apple platforms with over 20 Shortcuts app actions for macOS and iOS, offering seamless integration throughout the Apple ecosystem. ([Read more](/details/tyme.md)) `Ios` `Mac` `Integrations`
 - [Vimcal EA](https://www.vimcal.com/ea) - First calendar application specifically built for Executive Assistants, featuring advanced scheduling capabilities, multi-executive calendar management, time zone coordination, and EA-specific workflows for managing complex schedules across multiple stakeholders. ([Read more](/details/vimcal-ea.md)) `Calendar` `Executive Assistant` `Scheduling`
+- [Wordly](https://apps.apple.com/us/app/wordly-effortless-word-and-time-tracking-for-writers/id656126347) - Time tracking and word count productivity app designed specifically for writers, tracking writing sessions with detailed statistics including words per hour, daily/weekly/monthly progress, and visual graphs showing writing trends over time. ([Read more](/details/wordly.md)) `Writers` `Word Count` `Productivity`
 - [WorkMax TIME](https://workmax.com/solutions/workmax-time/) - Cloud-based construction time tracking software featuring patented facial recognition technology to prevent buddy punching and time theft. Provides GPS verification, mobile clock-in/out, and seamless integration with construction accounting and payroll systems. ([Read more](/details/workmax-time.md)) `Facial Recognition` `Construction` `Mobile Workforce`
 
 ## attendance-payroll-management
@@ -1623,16 +1624,19 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Body Prime Time Finder](http://bodyprime.temple.fi/) - A web-based tool that helps users track energy, motivation, and focus throughout the day, displaying results with simple graphs to identify optimal productivity windows. ([Read more](/details/body-prime-time-finder.md)) `Web Based` `Energy Management` `Free`
 - [Break Timer](https://breaktimer.app) - Simple browser extension and desktop application that reminds users to take regular breaks following various break methodologies including 20-20-20 rule for eye health and Pomodoro-style intervals. ([Read more](/details/break-timer.md)) `Breaks` `Health` `Browser Extension`
 - [Day Designer Planner](https://daydesigner.com/) - A strategic planning system featuring time blocking layouts, daily priorities, and goal-setting frameworks designed to help users find balance, focus, and productivity through intentional day design. ([Read more](/details/day-designer-planner.md)) `Time Blocking` `Planning` `Paper Based`
+- [Ellie AI Email Assistant](https://tryellie.com/) - AI-powered email assistant that learns your writing style to draft personalized email replies, helping professionals save time and reduce inbox anxiety by handling repetitive email responses while maintaining your authentic voice. ([Read more](/details/ellie-ai-email-assistant.md)) `Ai Powered` `Email` `Automation`
 - [Energy Level Tracker](https://energyleveltracker.app/) - Dedicated web application for tracking hourly energy levels to identify biological prime time and optimize task scheduling based on personal energy patterns, helping users align work with natural productivity rhythms. ([Read more](/details/energy-level-tracker.md)) `Energy Management` `Productivity Analytics` `Self Tracking`
 - [Flocus](https://flocus.com) - Aesthetic productivity dashboard combining pomodoro timer with task management and productivity insights, offering daily, weekly, and monthly statistics to track work patterns. ([Read more](/details/flocus.md)) `Pomodoro` `Productivity Analytics` `Aesthetic`
 - [Focus Keeper](https://focuskeeper.co) - Pomodoro timer application that helps maintain productivity and track habits with timer history, enabling users to continuously improve their workflow and focus sessions. ([Read more](/details/focus-keeper.md)) `Pomodoro` `Habit Tracking` `Focus`
 - [Focus To-Do](https://www.focustodo.cn) - Pomodoro timer combined with task management system that tracks time spent at work, helping users manage both their tasks and time in one integrated application with cross-platform support. ([Read more](/details/focus-to-do.md)) `Pomodoro` `Task Management` `Time Tracking`
 - [Focus@Will](https://www.focusatwill.com/) - Personalized focus music platform designed to help users complete tasks even under stress and pressure. Features customizable background images, downloadable tracks, and productivity tracking to maintain concentration during challenging work. ([Read more](/details/focuswill.md)) `Focus` `Music` `Concentration`
 - [Forest](https://www.forestapp.cc) - Gamified focus and time management app that helps users stay focused by growing virtual trees during work sessions, combining productivity with environmental awareness through tree-planting partnerships. ([Read more](/details/forest.md)) `Gamification` `Focus` `Mobile`
+- [Haystack](https://www.usehaystack.io/) - Developer productivity platform that provides real-time engineering analytics and metrics, helping teams track DORA metrics, cycle time, and throughput while avoiding micromanagement through team-focused insights rather than individual tracking. ([Read more](/details/haystack.md)) `Software Development` `Analytics` `Teams`
 - [Manganum](https://manganum.app/) - A browser extension that integrates multiple Google services (Gmail, Calendar, Drive, Keep, Tasks) and other productivity tools like ChatGPT into a convenient sidebar for streamlined workflow and improved time management. ([Read more](/details/manganum.md)) `Browser Extension` `Integration` `Google Workspace`
 - [Pomofocus](https://pomofocus.io) - Web-based Pomodoro timer that provides visual reports showing focus time spent each day, week, and month, with project tracking capabilities for organizing work sessions. ([Read more](/details/pomofocus.md)) `Pomodoro` `Web Based` `Focus`
 - [Session](https://www.stayinsession.com) - Beautifully designed, Apple-centric Pomodoro app with distraction blocking features, ideal for boosting focus and managing ADHD with iOS app support for cross-device productivity. ([Read more](/details/session.md)) `Pomodoro` `Focus` `Ios`
 - [SideDock](https://chromewebstore.google.com/detail/sidedock/mccflbjodnddlboijodfhbgicnnpfffb) - A Chrome browser extension that adds a sleek sidebar panel with built-in productivity tools including a task manager, Pomodoro timer, website blocker, and AI assistant access. Designed to keep productivity tools accessible without leaving your current tab. ([Read more](/details/sidedock.md)) `Browser Extension` `Task Management` `Pomodoro`
+- [SkedPal](https://www.skedpal.com/) - AI-powered calendar that turns your to-do list into a dynamic schedule, automatically scheduling tasks based on priority, deadlines, and available work hours while dynamically rescheduling when plans change. ([Read more](/details/skedpal.md)) `Ai Powered` `Time Blocking` `Automatic`
 
 ## productivity-tools
 
