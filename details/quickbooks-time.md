@@ -1,68 +1,55 @@
 ## Overview
 
-QuickBooks Time (formerly TSheets) is a comprehensive time tracking solution designed for mobile workforces and field teams. It combines GPS location tracking, geofencing, and automated timesheets with seamless QuickBooks payroll integration to streamline the entire time-to-pay process.
+QuickBooks Time (formerly TSheets) is a comprehensive time tracking and employee scheduling solution that integrates directly with QuickBooks accounting software. The platform is designed for businesses that need time tracking data to flow seamlessly into payroll, invoicing, and job costing workflows.
 
-## Key Features
+## Core Features
 
-- **GPS time tracking** - Logs employee location when clocking in and updates throughout the day
-- **Geofencing** - Automatic clock-in/out reminders when entering or leaving job sites
-- **Mobile time clock** - Track time from smartphones with the QuickBooks Workforce app
-- **AI-powered tracking** - Intelligent automation for time and job tracking
-- **Real-time updates** - Location and time data updates continuously during shifts
-- **Project and job tracking** - Assign time to specific clients, projects, or job codes
-- **Photo capture** - Employees can attach photos at clock-in for job verification
-- **Scheduling** - Create and share employee schedules
-- **Time off management** - Request and approve PTO within the app
+- **Mobile Time Tracking** - Clock in/out from smartphones with iOS and Android apps
+- **GPS Tracking** - Location verification for field teams and mobile workers
+- **Geofencing** - Set virtual boundaries where employees can clock in
+- **Employee Scheduling** - Create and manage team schedules with drag-and-drop interface
+- **QuickBooks Integration** - Time data syncs directly to QuickBooks for billing and payroll
+- **Job Costing** - Track labor costs by customer, project, or service item
+- **Crew Time Tracking** - Clock in entire crews with one action
+- **Time Off Management** - PTO requests and approval workflows
 
-## Payroll Integration
+## QuickBooks Ecosystem Benefits
 
-- **QuickBooks sync** - Automatic synchronization with QuickBooks Online Payroll
-- **Save time on payroll** - Up to 2 hours saved on every payroll run
-- **Reduce costs** - Up to 4% reduction in payroll costs through accurate tracking
-- **50+ integrations** - Connect with other accounting and payroll applications
-- **Included with QB Payroll** - Bundled with QuickBooks Online Payroll Premium and Elite
+**Seamless Payroll** - Time data automatically flows to QuickBooks Payroll, eliminating manual entry and reducing errors.
 
-## Privacy & Tracking
+**Automated Invoicing** - Convert tracked billable hours directly into QuickBooks invoices with labor costs already calculated.
 
-- **On-clock only** - QuickBooks Time ONLY records locations while employees are clocked in
-- **No off-hours tracking** - Never tracks employee or contractor location when off the clock
-- **Transparent** - Employees know when tracking is active
+**Job Profitability** - Combine time tracking with QuickBooks financial data to analyze true project profitability.
 
-## Geofencing Features
+**Single Source of Truth** - Time, billing, and financial data all live in the connected QuickBooks ecosystem.
 
-- Set virtual boundaries around job sites
-- Automatic reminders to clock in/out
-- Prevent time theft and buddy punching
-- Verify employees are at correct locations
+## Industry Applications
 
-## Reporting
+**Construction** - Track time by job site, phase, and cost code with GPS verification
 
-- Detailed time reports by employee, project, or client
-- Labor cost analysis
-- Overtime tracking and alerts
-- Productivity insights
-- Exportable data for accounting
+**Professional Services** - Bill clients accurately with detailed time records by project and task
 
-## Use Cases
+**Field Services** - Monitor mobile workforce with GPS tracking and geofenced clock-ins
 
-- Construction crews working at multiple job sites
-- Field service technicians visiting customer locations
-- Landscaping and maintenance teams
-- Delivery drivers and mobile sales teams
-- Any business with employees working outside the office
+**Legal Firms** - Track billable hours by client matter with attorney time tracking features
 
-## Platform Availability
+**Healthcare** - Manage shift schedules and track time for HIPAA-compliant payroll
 
-- **Mobile apps** - iOS and Android (QuickBooks Workforce app)
-- **Web dashboard** - Browser-based management and reporting
-- **Kiosk mode** - Shared device for team clock-in/out
+## Mobile & Field Worker Features
+
+- **Kiosk Mode** - Shared device clock-in for locations without individual devices
+- **Offline Mode** - Track time even without internet connection
+- **Photo Capture** - Optional selfie verification at clock-in
+- **Mileage Tracking** - Automatic mileage logs for reimbursement or billing
 
 ## Pricing
 
-Pricing varies based on features and number of users. Included with QuickBooks Online Payroll Premium and Elite subscriptions, or available as standalone service.
+QuickBooks Time pricing starts at $8/user/month (plus $20 base fee), with discounts for QuickBooks Online customers. The platform offers a free trial for new users.
 
-## Former Name
+## Best For
 
-Formerly known as TSheets before acquisition by Intuit and rebranding as QuickBooks Time.
-
-QuickBooks Time is ideal for businesses with mobile workforces that need GPS verification, geofencing capabilities, and tight integration with payroll processing.
+- QuickBooks users needing integrated time tracking
+- Businesses with mobile or field workforces
+- Companies requiring GPS and geofencing
+- Organizations prioritizing payroll and billing accuracy
+- Teams needing job costing tied to accounting

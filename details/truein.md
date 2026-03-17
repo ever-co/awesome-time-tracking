@@ -1,78 +1,34 @@
 ## Overview
 
-TrueIN is a cloud-based time and attendance solution designed for businesses with field employees, remote teams, and multiple work locations. It uses geofencing and GPS technology to ensure accurate time tracking.
+TrueIn is an advanced time and attendance tracking platform that combines biometric facial recognition with GPS-based geofencing technology. This dual-verification approach ensures that employees can only clock in from approved locations while preventing buddy punching and time theft.
 
 ## Key Features
 
-- GPS-based geofencing time clock
-- Face recognition for identity verification
-- Mobile app for iOS and Android
-- Real-time attendance tracking
-- Location-based clock restrictions
-- Shift scheduling
-- Leave and overtime management
-- Timesheet approvals
-- Integration with payroll systems
+- **Facial Recognition** - AI-powered face recognition verifies employee identity at clock-in
+- **GPS Geofencing** - Restricts clock-ins to predetermined work locations
+- **Mobile Time Clock** - Employees use their smartphones to punch in/out
+- **Selfie Attendance** - Captures photo verification with each clock-in event
+- **Automated Timesheets** - Generates accurate timesheets automatically from clock data
+- **Real-Time Tracking** - Managers can see who's working now and from where
+- **Overtime Alerts** - Automatic notifications when employees approach overtime thresholds
+- **Leave Management** - Integrated time-off requests and approval workflows
 
-## Geofencing Capabilities
+## Security & Fraud Prevention
 
-- Create virtual boundaries around job sites
-- Automatic clock-in/out when entering/leaving geofence
-- Restrict clock-ins to specific locations
-- Multiple geofence support for different sites
-- Configurable radius for each location
-- GPS tracking during work hours
+TrueIn's dual biometric and location verification prevents common time theft issues:
+- Buddy punching (someone else clocking in for you)
+- Off-site clock-ins from unauthorized locations
+- Fake attendance records
+- Manual timesheet manipulation
 
-## Attendance Management
+## Ideal For
 
-- Real-time attendance dashboard
-- Automated attendance calculations
-- Late arrival and early departure tracking
-- Break time monitoring
-- Shift adherence reporting
-- Absence and leave tracking
-
-## Identity Verification
-
-- Facial recognition technology
-- Photo capture on clock-in/out
-- Prevents buddy punching
-- Secure authentication
-
-## Reporting & Analytics
-
-- Real-time attendance reports
-- Location-based reports
-- Productivity analytics
-- Overtime calculations
-- Custom report generation
-- Export to Excel and PDF
-
-## Integrations
-
-- Payroll software integration
-- HRMS systems
-- Accounting software
-- API for custom integrations
-
-## Use Cases
-
-- Construction companies
-- Field service businesses
-- Healthcare and home care services
-- Security and facility management
-- Delivery and logistics
-- Retail chains with multiple locations
-
-## Benefits
-
-- Eliminates time theft and buddy punching
-- Reduces payroll errors
-- Automates attendance tracking
-- Improves workforce accountability
-- Provides location verification
-- Streamlines timesheet management
+- Field service companies with mobile workforces
+- Construction companies with multiple job sites
+- Retail and hospitality with distributed locations
+- Healthcare facilities requiring strict attendance compliance
+- Any organization needing verified on-site attendance
 
 ## Pricing
 
-Custom pricing based on number of users and features required. Free trial available.
+TrueIn offers flexible pricing based on team size, with plans designed for businesses from small teams to large enterprises requiring advanced features and integrations.
