@@ -1,183 +1,110 @@
 ## Overview
 
-Meeting Cost Calculators are free online tools that help businesses quantify the financial impact of meetings by calculating the true cost based on attendee salaries and time invested. These calculators make visible the often-hidden expense of employee time spent in meetings, encouraging more thoughtful meeting practices.
+Meeting Cost Calculator is a practice and tool category that computes the aggregate financial cost of meetings by multiplying attendee salaries by meeting duration, making the true expense visible to promote better meeting hygiene.
 
 ## How It Works
 
-### Basic Calculation
-1. **Enter Number of Attendees**: How many people in the meeting
-2. **Input Salary Information**: Average or individual annual salaries
-3. **Specify Meeting Duration**: Length of meeting in hours/minutes
-4. **Calculate**: Tool converts salaries to hourly rates and multiplies by time
+**Basic Formula**: (Sum of hourly rates) × (Meeting duration in hours)
 
-### Formula
-**Meeting Cost = (Sum of Hourly Rates × Meeting Duration) × 2**
+**Components**:
+- Number of attendees
+- Average or actual hourly rates
+- Meeting duration (scheduled + overrun)
+- Preparation time
+- Follow-up time
 
-The multiplication by 2 accounts for lost productivity—time spent in meetings is time not spent on other productive work.
+## Example Calculation
 
-## Eye-Opening Statistics
+Meeting: 8 people, 1 hour, average $50/hour
+Cost: 8 × $50 × 1 = $400
 
-### Financial Impact
-- Bain & Company found a single weekly meeting of mid-level managers cost one organization **$15 million per year**
-- **$37 billion** wasted annually on unnecessary meetings across US businesses
-- Larger companies waste up to **$100 million** on unnecessary meetings per year
-- Meeting time costs an average of **$29,000 per employee per year**
+If the meeting runs 15 minutes over:
+8 × $50 × 1.25 = $500 (25% cost increase)
 
-### Time Investment
-- Employees spend **more than one-third** of professional hours in meetings
-- Team members average **18 hours per week** in meetings
-- CEOs spend **17 hours per week** in meetings
-- Senior executives: **23 hours per week**
-- Middle managers: **11 hours per week**
+## Tools and Implementations
 
-### Productivity Concerns
-- Only **56% of meetings** are considered productive by senior/middle managers
-- **71% of senior managers** feel meetings are unproductive
-- Executives estimate **45% of meetings are pointless**
-- **31 hours per month** wasted per employee in unproductive meetings
+**Browser Extensions**: Display running cost during online meetings
 
-## Available Calculator Tools
+**Meeting Room Displays**: Show accumulated cost in real-time
 
-### Harvard Business Review Calculator
-- Simple interface for quick cost estimation
-- Published by HBR to raise awareness
-- Free and widely referenced
+**Calendar Integrations**: Automatically calculate meeting costs
 
-### Fellow Meeting Cost Calculator
-- Input participants, salaries, duration, and frequency
-- Shows weekly and annual meeting costs
-- Helps justify meeting reduction initiatives
+**Manual Calculators**: Harvard Business Review and other simple web tools
 
-### Flowtrace Meeting Cost Calculator
-- Translates meeting time into financial data
-- Shows monthly and annual organizational spend
-- Enterprise-level insights
+## Benefits
 
-### MeetingKing Calculator
-- Calculates real meeting expenses
-- Helps identify meetings to eliminate
-- Promotes productivity improvements
+**Increased Awareness**: Makes abstract "time cost" concrete
 
-### General Features
-- Easy input of participant numbers and salaries
-- Instant cost calculations
-- Breakdowns by weekly, monthly, annual costs
-- Shareable results for stakeholder communication
-- No registration or payment required
+**Improved Meeting Hygiene**:
+- Stricter attendance lists
+- Shorter meetings
+- Better preparation
+- More focused agendas
 
-## Use Cases
+**ROI Evaluation**: Compare meeting cost to value generated
 
-### For Executives
-- Evaluate ROI of recurring meetings
-- Justify meeting reduction initiatives
-- Demonstrate cost savings from meeting optimization
-- Support culture change toward fewer, better meetings
+**Culture Change**: Promotes questioning whether meetings are necessary
 
-### For Managers
-- Before scheduling meetings, calculate if cost is justified
-- Share costs with team to encourage meeting efficiency
-- Compare meeting cost to expected value/outcomes
-- Decide whether email or async communication would suffice
+## Best Practices
 
-### For HR/Operations
-- Quantify organization-wide meeting costs
-- Build business case for meeting policies
-- Track improvement in meeting efficiency
-- Calculate ROI of meeting optimization training
+**Pre-Meeting**:
+- Calculate estimated cost before scheduling
+- Ensure expected value exceeds cost
+- Invite only essential attendees
+- Set and communicate time limits
 
-## Insights Provided
+**During Meeting**:
+- Display running cost (if appropriate)
+- Start and end on time
+- Stay on agenda
+- Make decisions efficiently
 
-### Direct Costs
-- Salary cost of time spent in meeting
-- Hourly rate equivalents for attendees
-- Cumulative cost across all participants
+**Post-Meeting**:
+- Compare actual vs. estimated cost
+- Evaluate value generated vs. cost
+- Identify which meetings provided ROI
+- Cancel recurring meetings with poor ROI
 
-### Opportunity Costs
-- Productivity lost during meeting time (2x multiplier)
-- Tasks not completed due to meeting attendance
-- Context switching costs before/after meetings
+## Typical Costs
 
-### Cumulative Analysis
-- Weekly cost of recurring meetings
-- Monthly department meeting expenses
-- Annual organization-wide meeting costs
-- Cost per meeting outcome or decision
+**1-hour meeting, 5 people, mid-level**: $250-500
 
-## Best Practices After Calculation
+**1-hour meeting, 10 executives**: $2,000-5,000
 
-### Meeting Reduction Strategies
-1. **Eliminate Unnecessary Meetings**: Cut meetings with cost > value
-2. **Reduce Attendees**: Invite only essential participants
-3. **Shorten Duration**: Default to 25 or 50 minutes instead of 30/60
-4. **Reduce Frequency**: Change weekly to bi-weekly if appropriate
-5. **Async Alternatives**: Use email, chat, or collaborative docs
+**Daily standup, 8 people, 15 minutes**: $50-100
 
-### Meeting Optimization
-- Share meeting cost at start to focus participants
-- Set clear agendas to use time efficiently
-- Start/end on time to respect cost boundaries
-- Track ROI: did meeting value exceed cost?
-- Regular audits of recurring meetings
+**All-hands, 100 people, 1 hour**: $5,000-15,000
 
-### Cultural Change
-- Make meeting costs visible and discussed
-- Celebrate meeting-free time blocks
-- Reward teams that reduce meeting burden
-- Default to async; meet only when necessary
-- Track and publicize cost savings
+## Decision Framework
 
-## Example Calculations
+Meeting justified if:
+- Expected value > Cost
+- Synchronous interaction necessary
+- Decisions require real-time dialogue
+- Relationship-building has strategic value
 
-### Small Team Meeting
-- **5 attendees** at average $75K salary ($36/hour)
-- **1-hour meeting** = 5 × $36 = $180
-- **Lost productivity** (×2) = $360 total cost
-- **Weekly occurrence**: $360 × 52 = **$18,720/year**
+## Hidden Costs Not Captured
 
-### Executive Meeting
-- **10 executives** at average $200K salary ($96/hour)
-- **2-hour meeting** = 10 × $96 × 2 = $1,920
-- **Lost productivity** (×2) = **$3,840** total cost
-- **Monthly occurrence**: $3,840 × 12 = **$46,080/year**
+- Context switching penalty
+- Preparation time
+- Recovery time after meeting
+- Opportunity cost (what else could be done)
+- Energy depletion
 
-### All-Hands Meeting
-- **100 employees** at average $60K salary ($29/hour)
-- **30-minute meeting** = 100 × $29 × 0.5 = $1,450
-- **Lost productivity** (×2) = **$2,900** total cost
-- **Monthly occurrence**: $2,900 × 12 = **$34,800/year**
+## Organizational Impact
 
-## Impact on Decision-Making
+Companies implementing meeting cost awareness report:
+- 20-30% reduction in meeting time
+- Smaller, more focused attendee lists
+- Better preparation and follow-through
+- Increased use of async communication
 
-### Questions to Ask
-- Does the expected value of this meeting exceed its cost?
-- Can this be accomplished asynchronously?
-- Are all attendees truly necessary?
-- Could the meeting be shorter?
-- Is this recurring meeting still needed?
+## Potential Backlash
 
-### Benefits of Awareness
-- **Intentionality**: Meetings scheduled more thoughtfully
-- **Efficiency**: Meetings run better when cost is visible
-- **Accountability**: Organizers justify meeting necessity
-- **Culture Shift**: Organization values focused work time
-- **Cost Savings**: Fewer, shorter, smaller meetings save money
+Some find the practice:
+- Overly transactional
+- Damaging to relationship-building
+- Creating pressure that reduces thinking quality
+- Missing intangible benefits
 
-## Limitations
-
-- Doesn't capture all costs (scheduling time, context switching)
-- Difficult to quantify value of collaboration and alignment
-- Assumes all time not in meetings is productive
-- Salary-based calculation doesn't reflect all costs (benefits, overhead)
-- Some meetings genuinely worth the cost (strategic planning, team building)
-
-## Platform
-
-Multiple free online calculators available:
-- Web-based tools accessible from any browser
-- No installation or registration required
-- Instant calculations
-- Shareable results
-
-## Pricing
-
-All meeting cost calculators mentioned are completely free to use.
+Balance transparency with recognizing not all value is immediately quantifiable.
