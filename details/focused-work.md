@@ -1,118 +1,140 @@
 ## Overview
 
-Focused Work is a flexible timer application that supports multiple productivity methodologies including Pomodoro, Flowmodoro, or completely custom timed structures. The killer feature is its deep Apple Shortcuts integration and ability to automatically turn Focus Modes on and off.
-
-## Supported Methodologies
-
-### Pomodoro Technique
-Traditional 25-minute work intervals with 5-minute breaks and longer 15-30 minute breaks after 4 sessions.
-
-### Flowmodoro
-Work for as long as you maintain flow state, then take a break proportional to your work time (typically 1/5 of work duration). More flexible than rigid 25-minute intervals.
-
-### Custom Structures
-Create your own timed work/break patterns:
-- 90-minute deep work sessions with 20-minute breaks
-- 52/17 method (52 minutes work, 17 minutes break)
-- Any combination that matches your energy patterns
+Focused Work is a productivity timer application designed to help users maintain concentration and manage their work sessions effectively. Unlike rigid timer apps, it supports multiple timing methodologies including traditional Pomodoro, Flowtime, and fully customizable intervals.
 
 ## Key Features
 
-- **Multiple Timer Modes**: Pomodoro, Flowmodoro, or custom intervals
-- **Apple Shortcuts Integration**: Automate timer start/stop and focus mode activation
-- **Focus Mode Automation**: Automatically enable/disable iPhone Focus Modes when sessions begin/end
-- **Flexible Sessions**: Adjust session length on the fly
-- **Statistics**: Track completed sessions and total focus time
-- **Minimal Interface**: Clean design that stays out of your way
-- **Background Operation**: Timer continues running even when app is closed
+### Multiple Timer Modes
 
-## Shortcuts Integration (Killer Feature)
+**Pomodoro Mode**
 
-Focused Work's Shortcuts integration enables powerful automation:
+- Classic 25/5 minute work/break cycles
+- Customizable work and break durations
+- Long breaks after set number of cycles
+- Visual and audio notifications
 
-**Automatic Focus Modes**:
-- Start work session → Activates "Work" Focus Mode
-- Begin break → Switches to "Personal" Focus Mode
-- End session → Returns to default settings
+**Flowtime Mode**
 
-**Custom Automation**:
-- Time-based: Start deep work session at 9 AM daily
-- Location-based: Activate focus timer when arriving at office
-- Context-based: Begin Pomodoro when opening specific work apps
+- Flexible work sessions without forced interruptions
+- Proportional break calculations (work time ÷ 5)
+- Track flow state duration naturally
+- Respect deep focus without timer anxiety
 
-**Integration with Other Apps**:
-- Log completed sessions to spreadsheet
-- Send session summaries to note-taking apps
-- Update calendar with focus time blocks
-- Trigger home automation (adjust lighting for focus)
+**Custom Mode**
 
-## Flowmodoro Support
+- Set any work and break durations
+- Create personalized timing patterns
+- Save custom presets for different tasks
+- Adapt to personal productivity rhythms
 
-Unlike rigid Pomodoro timers, Focused Work embraces Flowmodoro:
-- Work until flow state ends naturally
-- App suggests break duration based on work time
-- More adaptive to creative work and deep thinking
-- Reduces interruptions during productive flow
+### Focus Enhancement
 
-## Benefits
+- **Distraction-Free Interface**: Minimal design that doesn't distract
+- **Full-Screen Mode**: Hide everything except timer
+- **Do Not Disturb Integration**: Automatically silence notifications (macOS, iOS)
+- **Website Blocking**: Optional focus mode blocks distracting websites
+- **App Blocking**: Prevent access to specified applications during focus time
 
-- **Maximum Flexibility**: Not locked into 25-minute intervals
-- **Smart Automation**: Focus Modes activate without manual switching
-- **Respects Flow State**: Flowmodoro prevents unnecessary interruptions
-- **Integration Powerhouse**: Shortcuts enable complex workflows
-- **Adapts to You**: Create structures matching your natural rhythms
+### Progress Tracking
+
+- **Session History**: Review all completed work sessions
+- **Daily Statistics**: See total focus time per day
+- **Weekly Reports**: Analyze productivity patterns over time
+- **Streak Tracking**: Maintain consecutive days of focused work
+- **Goal Setting**: Set daily focus time goals
+
+### Customization
+
+- **Sound Options**: Choose from multiple notification sounds or silence
+- **Visual Themes**: Light, dark, and custom color schemes
+- **Timer Display**: Countdown, countup, or hidden timer options
+- **Break Suggestions**: Customize what to do during breaks
+- **Task Labels**: Tag sessions with project or task names
+
+## Platform Availability
+
+- **macOS**: Native Mac application
+- **iOS**: iPhone and iPad support
+- **Web**: Browser-based version
+- **Sync**: Cross-platform session sync
 
 ## Use Cases
 
-### For Developers
-- Automatically activate Do Not Disturb when coding
-- Track deep work hours for retrospectives
-- Integrate with time tracking systems via Shortcuts
+### Deep Work Sessions
 
-### For Writers
-- Flowmodoro mode respects writing flow
-- Automatic word count logging after sessions
-- Focus Mode silences distractions during creative work
+- Writing and content creation
+- Programming and development
+- Research and analysis
+- Design work
+- Studying and learning
 
-### For Students
-- Pomodoro structure for studying
-- Break reminders prevent burnout
-- Statistics show study time patterns
+### Administrative Tasks
 
-### For ADHD Users
-- Flexible intervals accommodate hyperfocus
-- Automation reduces decision fatigue
-- Visual timers maintain awareness
+- Email processing with time limits
+- Document review
+- Data entry
+- Meeting preparation
 
-## Comparison to Alternatives
+### Creative Projects
 
-**vs. Forest**: Focused Work emphasizes flexibility; Forest uses gamification
+- Music composition
+- Graphic design
+- Video editing
+- Brainstorming sessions
 
-**vs. Flow**: Both are iOS-focused, but Focused Work offers Flowmodoro and superior automation
+## Benefits
 
-**vs. Be Focused**: Be Focused is more rigid; Focused Work adapts to various methodologies
+- **Flexibility**: Choose timer method that works for your task
+- **Simplicity**: Clean interface doesn't add cognitive load
+- **Effectiveness**: Proven techniques for maintaining focus
+- **Awareness**: Build understanding of personal focus capacity
+- **Habit Building**: Develop consistent work routines
 
-## Limitations
+## Unique Advantages
 
-- iOS/macOS only (requires Apple ecosystem)
-- Requires understanding of Shortcuts for advanced features
-- No built-in task management (focus is on timing)
-- No team features or collaboration
+### Technique Flexibility
 
-## Best For
+Unlike apps locked into one methodology, Focused Work lets you choose the right timing approach for each task:
 
-- Power users who leverage Apple Shortcuts
-- People wanting flexibility beyond standard Pomodoro
-- Users embracing Flowmodoro methodology
-- Anyone frustrated by rigid 25-minute timers
-- iOS users seeking deep Focus Mode integration
+- Pomodoro for tasks you're avoiding
+- Flowtime for creative deep work
+- Custom intervals for specific workflows
 
-## Platform
+### Respectful Design
 
-- iOS (iPhone & iPad)
-- macOS
-- Requires iOS 15+ or macOS 12+ for full Shortcuts support
+The app is designed to support focus, not impose rigid structure:
+
+- Skip breaks if you're in flow
+- Extend sessions when needed
+- Pause without guilt
+- No aggressive notifications
+
+### Privacy-First
+
+- No account required for basic features
+- Data stored locally by default
+- Optional cloud sync with encryption
+- No tracking or analytics
+
+## Integration & Export
+
+- **Calendar**: Export sessions to calendar apps
+- **Time Tracking**: Export to time tracking tools
+- **CSV Export**: Download session data
+- **Shortcuts**: macOS/iOS Shortcuts integration
+
+## Premium Features
+
+- Advanced statistics and insights
+- Unlimited custom presets
+- Website and app blocking
+- Cloud sync across devices
+- Team accountability features
 
 ## Pricing
 
-Check App Store for current pricing (freemium or paid model)
+- **Free Version**: Core timer functionality with all main modes
+- **Premium**: $4.99/month or $39.99/year
+- **Lifetime**: One-time purchase option available
+
+Free version is fully functional for individual users; premium adds convenience features and team capabilities.
