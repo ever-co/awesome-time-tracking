@@ -1,57 +1,53 @@
 ## Overview
 
-Time blocking is a time management method of scheduling your day into pre-planned blocks for each specific task or group of tasks you need to get done. It is based on a single-tasking mindset, promoting devoting one's full attention to a task for a specified duration of time.
+Time blocking is a time management method that involves dividing your day into blocks of time, with each block dedicated to accomplishing a specific task or group of tasks.
 
 ## How It Works
 
-Time blocking involves:
-- Scheduling specific time periods for individual tasks or task groups
-- Assigning each block to a particular activity
-- Following the schedule throughout the day
-- Eliminating multitasking and context-switching
-- Building in breaks and recovery time
+1. **Plan Your Day**: At the start (or end of previous day), divide your working hours into blocks
+2. **Assign Tasks**: Assign specific tasks or types of work to each block
+3. **Estimate Time**: Be realistic about how long tasks take
+4. **Honor Blocks**: Treat time blocks as appointments with yourself
+5. **Adjust as Needed**: Reschedule blocks when interruptions occur
 
-## Productivity Impact
+## Types of Time Blocks
 
-Time blocking has been proven to boost productivity up to 80%. Research shows:
-- **+29%** weekly deliverables
-- **-37%** self-generated interruptions
-- **-24%** catch-up time
+**Focus Blocks**: Deep work requiring concentration
+**Admin Blocks**: Email, calls, scheduling
+**Meeting Blocks**: Back-to-back meetings
+**Break Blocks**: Rest and recovery
+**Buffer Blocks**: Handle overflow and unexpected items
 
-Cal Newport estimated that "a 40-hour time-blocked work week produces the same amount of output as a 60+ hour work week pursued without structure."
+## Key Principles
 
-## Key Benefits
+- Block every minute of your day
+- Group similar tasks together
+- Include breaks and buffer time
+- Be specific about what each block is for
+- Revise blocks when plans change
+- Protect focus blocks fiercely
 
-**Reduces Stress and Burnout:**
-- Schedule breaks intentionally
-- Prevent overcommitting
-- Manage stress levels
-- Clear work boundaries
+## Benefits
 
-**Improves Focus:**
-- Promotes single-tasking
-- More effective than multitasking
-- Reduces context-switching penalties (up to 40% efficiency loss)
-- Enhances deep work capabilities
+- Deliberate with your time
+- Reduced distraction and multitasking
+- Better estimation of task duration
+- Visible commitment to priorities
+- Increased accountability
+- Reduced decision fatigue
 
-**Better Work-Life Balance:**
-- Intentionally schedule work and personal time
-- Include breaks and end-of-day cut-offs
-- Create clearer boundaries between professional and personal life
+## Tools for Time Blocking
 
-## Implementation Tips
+- Google Calendar (color-code blocks)
+- Time-Block Planner (paper)
+- Motion (AI-powered)
+- Sunsama (daily planning)
+- Morgen (calendar aggregation)
 
-1. Start with your most important tasks
-2. Block similar tasks together
-3. Include buffer time between blocks
-4. Schedule breaks and recovery periods
-5. Use digital calendar tools for automation
-6. Be flexible and adjust as needed
+## Common Mistakes
 
-## Modern Tools (2026)
-
-AI-powered tools now automate time blocking and integrate with digital calendars, making the process more flexible and manageable in dynamic work environments.
-
-## Current Adoption
-
-82% of people aren't using any time management techniques. Time blocking's effectiveness is rooted in psychological principles that enhance focus and productivity.
+- Being too optimistic about time
+- No buffer for interruptions
+- Abandoning system when plans change
+- Blocking time without specific purpose
+- Not leaving time for breaks

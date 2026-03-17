@@ -1,31 +1,55 @@
 ## Overview
 
-Smartsheet is a versatile work management platform that combines spreadsheet-like functionality with powerful collaboration, automation, and time tracking features for teams and enterprises.
+Smartsheet is an enterprise-grade work management platform that combines the familiarity of spreadsheets with powerful project management and time tracking capabilities.
 
 ## Time Tracking Features
 
-- **Integrated Time Sheets**: Track time directly within project sheets
-- **Mobile Time Tracking**: Capture hours on-the-go with mobile apps
-- **Resource Management**: Allocate and track resource time across projects
-- **Automated Reminders**: Set up notifications for timesheet submissions
-- **Custom Forms**: Create time entry forms tailored to your workflow
-- **Real-Time Reporting**: Generate instant reports on time allocation and utilization
-- **Approval Workflows**: Automated approval processes for submitted time
-- **Budget Tracking**: Compare actual time against estimated budgets
-- **Integration**: Connect with thousands of apps via API and pre-built connectors
+- Mobile time tracking apps
+- Project-level time tracking
+- Resource management
+- Time-based reporting
+- Integration with timesheets
+- Budget vs. actual tracking
+- Automated time calculations
 
-## Additional Capabilities
+## Key Capabilities
 
-- Project and portfolio management
-- Gantt charts and calendar views
-- Automated workflows and alerts
-- Dashboard and reporting
-- File attachments and proofing
+**Work Management:**
+- Grid, Gantt, card, and calendar views
+- Automated workflows
+- Forms and data collection
+- Real-time collaboration
+- File attachments
+
+**Project Management:**
+- Project planning and tracking
+- Resource allocation
+- Dependencies and critical path
+- Portfolio management
+- Risk management
+
+**Reporting:**
+- Dashboards and charts
+- Real-time reports
+- Cross-sheet formulas
+- Executive summaries
+
+## Integrations
+
+- Microsoft Teams, Slack
+- Google Workspace, Microsoft 365
+- Salesforce, Jira
+- Adobe Creative Cloud
+- 100+ other integrations
+
+## Target Users
+
+- Enterprise organizations
+- Project managers
+- Marketing and creative teams
+- Operations teams
+- IT departments
 
 ## Pricing
 
-Smartsheet offers several pricing tiers:
-- Free plan for individual users (limited features)
-- Pro: $9/user/month (annual billing)
-- Business: $32/user/month (annual billing)
-- Enterprise: Custom pricing with advanced features and support
+Starts at $7/user/month for Pro plan. Free trial available. Enterprise pricing available for large organizations.

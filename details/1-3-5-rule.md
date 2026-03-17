@@ -1,30 +1,48 @@
 ## Overview
 
-The 1-3-5 rule is a productivity technique that involves completing one major task, three medium tasks, and five minor tasks each day. The method emphasizes prioritization and focus by allocating one large, three medium, and five small tasks to tackle within a day.
+The 1-3-5 Rule is a daily task prioritization method that creates a realistic structure for your workday by limiting yourself to nine tasks: one big task, three medium tasks, and five small tasks.
 
-## How It Works
+## The Structure
 
-Start each morning by setting clear intentions and visualizing your 1 big, 3 medium, and 5 small tasks completed:
+**1 Big Task**
+- Your most important or challenging task
+- Requires significant time and focus
+- High impact on goals
+- Complete first when possible
 
-1. **One Big Task**: Identify your single most important task — the one that will have the biggest impact once completed
-2. **Three Medium Tasks**: Choose three secondary tasks that move you toward your goals
-3. **Five Small Tasks**: Select five quick, minor tasks that need to be completed
+**3 Medium Tasks**
+- Important but less intensive
+- Moderate time commitment
+- Meaningful progress on projects
+- Complete after big task
 
-## Key Benefits
+**5 Small Tasks**
+- Quick, easy to complete
+- Can be done in 15-30 minutes
+- Maintenance and admin work
+- Fill gaps in schedule
 
-- **Prevents Overwhelm**: Focusing on a limited number of well-defined tasks leads to greater productivity and a sense of accomplishment
-- **Works With Brain Capacity**: By limiting daily tasks to nine, it works within your brain's natural capacity to process information
-- **Improves Focus**: Helps you stay focused on tasks and be more productive
-- **Work-Life Balance**: Creates a realistic daily workload that supports better work-life balance
+## Benefits
 
-## Integration with Other Techniques
+- Prevents overcommitment
+- Creates realistic daily goals
+- Ensures focus on important work
+- Provides structure and clarity
+- Reduces decision fatigue
+- Builds sense of accomplishment
 
-The 1-3-5 Rule is highly compatible with other productivity strategies:
+## Implementation Tips
 
-- **Pomodoro Technique**: Use 25-minute focused work intervals for each task
-- **Eisenhower Matrix**: Categorize your 1-3-5 tasks by urgency and importance
-- **Eat the Frog**: Tackle your one big task first thing in the morning
+- Plan your 1-3-5 the night before
+- Start with the big task when energy is highest
+- Be honest about task size classification
+- Adjust ratios based on task complexity
+- Celebrate completing all nine tasks
+- Carry incomplete tasks to next day mindfully
 
-## Why It's Effective
+## Variations
 
-This method creates structure without being overwhelming. Nine tasks per day is realistic and achievable, providing a sense of accomplishment while ensuring you focus on what truly matters. It prevents the common productivity pitfall of creating impossibly long to-do lists that lead to stress and failure.
+- Adjust numbers based on your work type
+- Some use 1-2-3 for more focus
+- Others use 2-4-6 for more capacity
+- Adapt to your energy and schedule

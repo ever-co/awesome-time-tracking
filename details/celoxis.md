@@ -1,21 +1,66 @@
 ## Overview
 
-Celoxis is a powerful, all-in-one project management solution designed for enterprises that need robust time tracking, resource management, portfolio oversight, and financial controls across multiple projects and teams.
+Celoxis is a comprehensive project management and collaboration software with powerful time tracking capabilities, designed for teams and enterprises managing multiple complex projects.
 
-## Features
+## Time Tracking Features
 
-- **Time Tracking**: Comprehensive timesheet management with approval workflows
-- **Resource Management**: Skills-based resource allocation and capacity planning
-- **Portfolio Management**: Manage multiple projects with portfolio-level dashboards
-- **Gantt Charts**: Advanced Gantt charts with critical path analysis
-- **Financial Tracking**: Budget management, cost tracking, and profitability analysis
-- **Custom Fields**: Unlimited custom fields for projects, tasks, and timesheets
-- **Automation**: Workflow automation with triggers and notifications
-- **Risk Management**: Track and mitigate project risks
-- **Document Management**: Centralized document repository with version control
-- **Advanced Reporting**: Customizable reports and executive dashboards
-- **Mobile Apps**: iOS and Android apps for field teams
+**Flexible Time Entry:**
+- Timesheet entry (daily, weekly, monthly views)
+- Timer-based tracking
+- Mobile time tracking
+- Bulk time entry
+- Time estimates vs. actuals
+- Approvals and workflows
+
+**Time Analysis:**
+- Time utilization reports
+- Resource allocation
+- Project profitability
+- Earned value analysis
+- Time variance tracking
+- Billing and invoicing
+
+## Project Management
+
+**Planning:**
+- Interactive Gantt charts
+- Project templates
+- Task dependencies
+- Critical path analysis
+- Resource leveling
+- Baseline comparisons
+
+**Portfolio Management:**
+- Multi-project views
+- Resource capacity planning
+- Portfolio analytics
+- What-if scenarios
+- Risk management
+
+**Collaboration:**
+- Discussion threads
+- Document management
+- Email integration
+- Status updates
+- Notifications
+
+## Reporting & Analytics
+
+- 50+ pre-built reports
+- Custom report builder
+- Real-time dashboards
+- Resource heatmaps
+- Financial reports
+- Executive summaries
+
+## Deployment Options
+
+- Cloud (SaaS)
+- On-premise
+- Private cloud
 
 ## Pricing
 
-Cloud version starts at $25 per user per month with all features. On-premise version available with perpetual licensing starting around $450 per user (one-time). Both include unlimited projects and storage.
+Cloud: $25/user/month
+On-premise: One-time license fee
+Free trial: 30 days

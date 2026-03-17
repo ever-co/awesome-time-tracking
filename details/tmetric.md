@@ -1,36 +1,53 @@
-# TMetric
+## Overview
 
-[TMetric](https://tmetric.com/) is a cloud-based time tracking tool designed to help individuals and teams manage work hours, tasks, and projects, as well as streamline billing, invoicing, and payroll processes. It integrates with over 50 popular services and is suitable for various industries and team sizes.
+TMetric is an automatic time tracking software that quietly runs in the background, capturing every app switch and idle period to create a flawless timeline of your work activities.
 
-## Features
-- **Time Tracking:** Track work hours online with desktop, mobile, and browser extension apps.
-- **Task Management:** Create, assign, and monitor tasks; manage task progress and deadlines.
-- **Project Tracking:** Organize work by projects, track project hours, and measure progress.
-- **Team Management:** Organize staff into teams, manage members, and visualize team performance with dashboards.
-- **Timesheets:** Automate and manage team timesheets for accurate record-keeping.
-- **Attendance Tracking:** Monitor employee attendance.
-- **PTO (Paid Time Off) Tracking:** Manage and track vacation requests and time off.
-- **Overtime Tracking:** Automate calculation and management of overtime.
-- **Employee Monitoring:** Monitor activity levels, app and website usage.
-- **Reporting:** Generate detailed, customizable reports on time usage, productivity, and project status.
-- **Billing & Invoicing:** Generate invoices from logged hours; automate billing for clients and employees.
-- **Payroll:** Automate payroll processing, integrate with payroll systems, ensure timely and accurate payments.
-- **Scheduling:** Plan and optimize employee shifts and schedules.
-- **Integrations:** Connect with over 50 popular project management, productivity, and accounting tools.
-- **Multi-language Support:** Available in English, German, Spanish, and Portuguese.
-- **Industry Use Cases:** Suitable for software developers, marketing agencies, designers, consultants, lawyers, accountants, contractors, non-profits, freelancers, and small teams.
+## Automatic Tracking
 
-## Platforms
-- **Web app**
-- **Desktop app** (Windows, Mac)
-- **Mobile app** (iOS, Android)
-- **Browser extensions**
+- Passive background tracking
+- App and website monitoring
+- Idle time detection
+- Automatic timeline construction
+- Smart categorization
+- Manual override available
 
-## Tags
-cloud-based, reporting, invoicing, integration
+## Key Features
 
-## Category
-team-project-time-tracking
+**Time Management:**
+- Start/stop timers
+- Manual time entry
+- Time estimates
+- Billable vs. non-billable
+- Project and task tracking
+- Calendar integration
+
+**Team Features:**
+- Team dashboards
+- Activity monitoring
+- Productivity reports
+- Time approval workflows
+- Rate management
+- Capacity planning
+
+**Integrations:**
+- Jira, Trello, Asana
+- GitHub, GitLab, Bitbucket
+- Basecamp, Wrike
+- Slack, Microsoft Teams
+- 50+ integrations
+
+## Reporting
+
+- Time reports
+- Productivity analytics
+- Billable hours reports
+- Client reports
+- Project profitability
+- Custom reports
 
 ## Pricing
-*No specific pricing information was included in the provided content. For details, visit the [TMetric pricing page](https://tmetric.com/).*
+
+Free plan: Basic features, unlimited users
+Professional: $5/user/month
+Business: $7/user/month
+15-day free trial on paid plans

@@ -1,38 +1,56 @@
 ## Overview
 
-The Daily Highlight is a productivity method conceived by Jake Knapp and John Zeratsky in their book "Make Time", where you choose one specific task, goal, or activity to make the focal point of your day.
+The Daily Highlight is the cornerstone of the Make Time methodology by Jake Knapp and John Zeratsky. Each day, you proactively choose one activity that will be the highlight of your day.
 
-## Core Concept
+## Three Ways to Choose Your Highlight
 
-The Highlight is described as "a single activity to prioritize and protect in your calendar," allowing you to prioritize time on things important to you rather than going through your day reactively to other people's needs and priorities.
+**Urgency**: What's most pressing today?
+**Satisfaction**: What will bring the most satisfaction?
+**Joy**: What will bring the most joy?
 
-## Duration Guidelines
+## Characteristics of a Good Highlight
 
-A rule of thumb is your daily highlight should take 60-90 minutes to complete—long enough to meaningfully affect your life and get into a flow state, yet short enough to fit into your schedule.
+- Takes 60-90 minutes
+- Single, specific activity
+- Something you want to accomplish
+- Not just urgent, but also important
+- Makes the day feel successful
 
-## Three Criteria for Choosing Your Highlight
+## The Make Time Framework
 
-The creators use three different criteria to choose their Highlight:
-
-- **Urgency**: What needs to get done today
-- **Satisfaction**: What will bring you the most satisfaction
-- **Joy**: What you want to do (not just what you have to do)
-
-## Implementation
-
-1. Each morning (or night before), identify your one highlight
-2. Block dedicated time in your calendar for it
-3. Protect that time from interruptions and distractions
-4. Complete your highlight before addressing less important tasks
+**1. Highlight**: Choose your priority
+**2. Laser**: Create focus by beating distraction
+**3. Energize**: Take care of your body and mind
+**4. Reflect**: Adjust and improve your system
 
 ## Benefits
 
-- Acts like a compass, guiding you through distractions and urgent but less important tasks
-- Provides end-of-day satisfaction knowing you accomplished what mattered most
-- Prevents the trap where everything feels important
-- Maintains intentional focus throughout your day
-- Reduces reactive time management
+- Ensures important work gets done
+- Provides daily direction and focus
+- Creates sense of accomplishment
+- Prevents busy but unproductive days
+- Reduces stress and overwhelm
+- Makes time for what matters
 
-## Philosophy
+## Implementation
 
-Choosing a Highlight makes focusing on your priorities the default, so you can spend time and energy on what matters, not on reacting to the distractions and demands of modern life.
+**Choose Your Highlight:**
+- Write it down the night before
+- Make it specific and concrete
+- Schedule protected time for it
+- Do it when energy is highest
+
+**Protect Your Highlight:**
+- Block calendar time
+- Minimize distractions
+- Say no to competing demands
+- Complete it before other tasks
+
+## Daily Highlight Examples
+
+- Write 500 words on blog post
+- Complete project proposal
+- Have quality time with family
+- Exercise for 30 minutes
+- Learn new skill for one hour
+- Make progress on passion project

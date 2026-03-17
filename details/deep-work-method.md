@@ -1,30 +1,41 @@
 ## Overview
 
-Deep Work is a productivity methodology developed by Cal Newport that emphasizes the importance of focused, uninterrupted work sessions on cognitively demanding tasks to maximize productivity and create valuable output.
+Deep Work is a productivity philosophy and methodology developed by Cal Newport that emphasizes the importance of focused, uninterrupted work sessions for producing high-quality output in an increasingly distracted world.
 
-## Core Principles
+## Core Concepts
 
-**Deep Work Defined**: Professional activities performed in a state of distraction-free concentration that push cognitive capabilities to their limit, creating new value and improving skills.
+**Deep Work Definition:**
+Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit, creating new value and improving your skill.
 
-**Shallow Work**: Non-cognitively demanding, logistical-style tasks often performed while distracted that tend not to create much new value and are easy to replicate.
+**Shallow Work:**
+Non-cognitively demanding, logistical-style tasks often performed while distracted, which tend to not create much new value and are easy to replicate.
 
-## Implementation Strategies
+## Key Principles
 
-### Four Deep Work Philosophies
+- Work deeply: Schedule uninterrupted blocks of time
+- Embrace boredom: Train your mind to resist distraction
+- Quit social media: Minimize digital distractions
+- Drain the shallows: Minimize shallow work
 
-1. **Monastic**: Eliminate or radically minimize shallow obligations
-2. **Bimodal**: Divide time into deep and shallow periods (minimum 1 day chunks)
-3. **Rhythmic**: Establish a daily deep work habit at the same time each day
-4. **Journalistic**: Fit deep work wherever you can into your schedule
+## Deep Work Strategies
 
-### Key Practices
-
-- **Time Blocking**: Schedule every minute of your workday in advance
-- **Shutdown Ritual**: Complete shutdown of work thoughts at end of workday
-- **Embrace Boredom**: Train ability to resist distraction through scheduled breaks from focus
-- **Quit Social Media**: Apply cost-benefit analysis to optional network tools
-- **Drain the Shallows**: Minimize shallow work in your schedule
+**Monastic:** Eliminate or radically minimize shallow obligations
+**Bimodal:** Dedicate clearly defined stretches to deep pursuits
+**Rhythmic:** Create a regular habit/routine for deep work
+**Journalistic:** Fit deep work wherever you can in your schedule
 
 ## Benefits
 
-Deep work enables high-quality output, faster learning, increased career capital, and greater satisfaction with work by eliminating constant context-switching and shallow distractions.
+- Higher quality work output
+- Faster skill development
+- Greater sense of fulfillment
+- Competitive advantage in knowledge economy
+- Reduced mental fatigue from task switching
+
+## Implementation
+
+- Schedule deep work blocks in advance
+- Create rituals and routines
+- Eliminate distractions (phone, email, internet)
+- Track deep work hours
+- Build up capacity gradually
