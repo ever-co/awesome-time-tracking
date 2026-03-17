@@ -1,23 +1,72 @@
 ## Overview
 
-Time chunking is a productivity technique that involves breaking down the day into larger chunks of time, dedicated to specific tasks or activities, rather than attempting to multitask or switch between tasks frequently. It is designed for personal time management in which a period of time—typically a day or week—is divided into smaller segments or blocks for specific tasks or to-dos.
+Time chunking involves scheduling your workday into 30-minute segments, spending 25 minutes working on a specific task or batch of tasks, followed by a 5-minute break. This method provides structure while maintaining focus and preventing burnout.
 
-## How It Works
+## Core Structure
 
-The technique involves dividing the day into larger chunks, typically ranging from 1 to 3 hours, during which specific tasks or activities are focused on without interruption. Work is often divided into 30-minute chunks of time, which is manageable for most people.
+### Basic Pattern
+- **25 minutes**: Focused work on specific task
+- **5 minutes**: Short break
+- **Repeat 4 times**: Four 30-minute chunks
+- **15 minutes**: Longer break after four cycles
 
-## Key Benefits
+### Daily Framework
+The biggest benefit of time chunking is improved focus on specific tasks through structured time allocation.
 
-- **Improved Focus**: Helps improve concentration on specific tasks by eliminating distractions
-- **Massive Productivity Gains**: Productivity expert Cal Newport states: "A 40-hour time-blocked work week, I estimate, produces the same amount of output as a 60+ hour work week pursued without structure"
-- **Reduced Cognitive Load**: Minimizes the mental effort associated with switching between tasks
-- **Deep Focus State**: Enables individuals to achieve a state of deep focus, enhancing productivity and quality of work
-- **Reduced Context-Switching**: Research shows that constantly shifting between tasks can cost as much as 40% of your productive time
+## Comparison to Pomodoro
 
-## Why It's Effective
+Time chunking is similar to the Pomodoro Technique but emphasizes:
+- Chunking entire days into these segments
+- Batching similar tasks within chunks
+- Comprehensive daily planning
+- Integration with calendar blocking
 
-Chunking is effective mostly because multitasking isn't. By grouping similar tasks together and dedicating focused time blocks to them, you reduce the cognitive overhead of task-switching and create conditions for deep, concentrated work.
+## Benefits
 
-## Who Uses It
+### Productivity Enhancement
+Productivity expert Cal Newport advocates that "A 40-hour time-chunked work week produces the same amount of output as a 60+ hour work week pursued without structure."
 
-Students, corporate managers, small business owners, and stay-at-home parents employ it to get more done, stay motivated, and carve out more free time.
+### Improved Focus
+- Dedicated attention to one task
+- Clear boundaries prevent distraction
+- Structured approach reduces decision fatigue
+- Regular breaks maintain mental freshness
+
+### Better Time Awareness
+- Realistic view of available time
+- Prevents overcommitment
+- Improves task estimation
+- Creates accountability
+
+## Implementation
+
+### Planning Process
+1. List all tasks for the day
+2. Estimate chunks needed per task
+3. Assign tasks to specific 30-minute chunks
+4. Schedule chunks on calendar
+5. Include buffer chunks for overflow
+6. Protect chunks as commitments
+
+### During Chunks
+- Set timer for 25 minutes
+- Eliminate all distractions
+- Focus solely on assigned task
+- When timer ends, stop immediately
+- Take 5-minute break
+- Move to next chunk
+
+### Break Guidelines
+- Step away from workspace
+- Physical movement recommended
+- Avoid screens if possible
+- Stay present, don't start new tasks
+- Return promptly after 5 minutes
+
+## Use Cases
+
+- Knowledge workers needing structure
+- Remote workers managing their own time
+- Students studying multiple subjects
+- Anyone struggling with time estimation
+- Teams coordinating synchronized work blocks

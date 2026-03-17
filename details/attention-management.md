@@ -1,32 +1,49 @@
 ## Overview
 
-Attention Management is a productivity framework that recognizes attention, not time, as the primary constraint on knowledge work. It focuses on protecting and directing your attention to what matters most, rather than simply filling time with tasks.
+Attention management is the ability to consciously direct your attention in any given moment, to be more proactive than reactive, and to maintain control over where your focus goes. Unlike time management, which focuses on scheduling, attention management recognizes that focus and cognitive capacity are the true limited resources.
 
 ## Core Principles
 
-- Attention is more valuable than time
-- Protect focus periods from interruptions
-- Design your environment to support deep work
-- Batch similar tasks to reduce context switching
-- Use technology intentionally, not reactively
-- Distinguish between urgent and important
-- Create boundaries around focused work time
+### Attention vs. Time
+In 2026, true productivity focuses on managing attention and energy, not just time. You can have time without attention (unproductive hours) but valuable work requires both.
 
-## Key Practices
+### Proactive vs. Reactive
+- **Reactive**: Responding to whatever demands attention loudest
+- **Proactive**: Consciously choosing where to direct focus
+- **Goal**: Shift from reactive to proactive attention allocation
 
-- **Environmental Design**: Remove distractions from your workspace
-- **Time Blocking**: Schedule uninterrupted focus periods
-- **Notification Management**: Disable non-essential alerts
-- **Single-Tasking**: Focus on one task at a time
-- **Attention Recovery**: Take breaks to restore focus capacity
-- **Digital Minimalism**: Reduce app and tab overload
-- **Clear Boundaries**: Communicate availability to others
+## Key Strategies
+
+### Notification Management
+- Audit all notification sources
+- Turn off nonessential notifications
+- Schedule specific times to check communications
+- Use Do Not Disturb modes strategically
+
+### Environmental Control
+- Physical indicators (signs, lights) showing focus status
+- Closed doors or headphones
+- Clean, organized workspace
+- Removal of visual distractions
+
+### Cognitive Training
+- Mindfulness and meditation practice
+- Notice when mind wanders
+- Gently return to intended focus
+- Build attention "muscles" over time
 
 ## Benefits
 
-- Higher quality work output
-- Faster task completion
-- Reduced mental fatigue
-- Better decision-making
-- Increased creativity and problem-solving
-- Greater sense of control and accomplishment
+- Increased quality of work
+- Reduced stress from constant interruptions
+- Greater sense of control
+- Improved focus capacity
+- Better work-life boundaries
+
+## Use Cases
+
+- Knowledge workers in distracting environments
+- Remote workers managing home distractions
+- Anyone struggling with digital overwhelm
+- Teams wanting to create focus culture
+- Leaders protecting strategic thinking time
