@@ -10,7 +10,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [Practices (362)](#practices)
 - [Time Management Methodology (33)](#time-management-methodology)
-- [Time Tracking Software (34)](#time-tracking-software)
+- [Time Tracking Software (36)](#time-tracking-software)
 - [attendance-payroll-management (6)](#attendance-payroll-management)
 - [Automated Time Tracking (31)](#automated-time-tracking)
 - [Automatic Time Tracking (10)](#automatic-time-tracking)
@@ -58,7 +58,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [HR & Payroll Integration (10)](#hr--payroll-integration)
 - [Legal Time Tracking (2)](#legal-time-tracking)
 - [Meeting & Team Time Tracking (26)](#meeting--team-time-tracking)
-- [Mobile Time Tracking (25)](#mobile-time-tracking-1)
+- [Mobile Time Tracking (26)](#mobile-time-tracking-1)
 - [Mobile Workforce Management (1)](#mobile-workforce-management)
 - [Open Sources (8)](#open-sources)
 - [open-sources (7)](#open-sources-1)
@@ -511,6 +511,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Jibble](https://www.jibble.io) - Free time and attendance tracking software with facial recognition, GPS tracking, and comprehensive reporting features, designed for teams of all sizes with unlimited users on free plan. ([Read more](/details/jibble.md)) `Free` `Facial Recognition` `Gps Tracking`
 - [Law Ruler](https://www.lawruler.com/) - Legal CRM, marketing automation, and client intake software designed for volume litigation practices including mass tort, personal injury, social security disability, immigration, and criminal defense. Law Ruler manages the entire lifecycle from intake to settlement with integrated time tracking and billing options. ([Read more](/details/law-ruler.md)) `Crm` `Legal` `Billing`
 - [Momenteo](https://www.momenteo.com/) - Free invoicing and time tracking software designed for freelancers and small businesses in Canada, France, and the United States. Momenteo features a calendar-centric approach to managing clients, time, invoices, and expenses with multilingual support. ([Read more](/details/momenteo.md)) `Freelancers` `Invoicing` `Free`
+- [MyIntervals](https://www.myintervals.com/) - Time tracking and project management software that automates invoicing and reporting while providing business intelligence insights. Launched in 2006 and used by over 70,000 companies worldwide for managing billable hours and project profitability. ([Read more](/details/myintervals.md)) `Invoicing` `Project Management` `Reporting`
 - [Nautilus Roam Research Extension](https://github.com/tombarys/roam-depot-nautilus) - Roam Research extension for stress-free task planning and time tracking that visually represents tasks and calendar events in daily pages, recognizes task duration variabilities, and provides time-blocking capabilities within the Roam ecosystem. ([Read more](/details/nautilus-roam-research-extension.md)) `Roam Research` `Browser Extension` `Task Management`
 - [Notion Time Tracking Extensions](https://www.notion.so) - Third-party time tracking tools and integrations that add time tracking capabilities to Notion workspace, enabling time management within Notion's all-in-one workspace environment. ([Read more](/details/notion-time-tracking-extensions.md)) `Integration` `Notion` `Extensions`
 - [Ora](https://ora.pm/) - Project management and time tracking platform with effortless timesheet features allowing teams to input, review, and report task hours with just a few clicks per week. Meets requirements of both freelancers and agencies. ([Read more](/details/ora.md)) `Project Management` `Timesheets` `Freelancers`
@@ -530,6 +531,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Timeneye](https://www.timeneye.com/) - Time tracking and productivity tool for teams that provides real-time overview of task progress, team performance, and project profitability margins with seamless collaboration features. ([Read more](/details/timeneye.md)) `Team Collaboration` `Project Profitability` `Real Time`
 - [Tyme](https://www.tyme-app.com) - Time tracking application available across all Apple platforms with over 20 Shortcuts app actions for macOS and iOS, offering seamless integration throughout the Apple ecosystem. ([Read more](/details/tyme.md)) `Ios` `Mac` `Integrations`
 - [Vimcal EA](https://www.vimcal.com/ea) - First calendar application specifically built for Executive Assistants, featuring advanced scheduling capabilities, multi-executive calendar management, time zone coordination, and EA-specific workflows for managing complex schedules across multiple stakeholders. ([Read more](/details/vimcal-ea.md)) `Calendar` `Executive Assistant` `Scheduling`
+- [WorkMax TIME](https://workmax.com/solutions/workmax-time/) - Cloud-based construction time tracking software featuring patented facial recognition technology to prevent buddy punching and time theft. Provides GPS verification, mobile clock-in/out, and seamless integration with construction accounting and payroll systems. ([Read more](/details/workmax-time.md)) `Facial Recognition` `Construction` `Mobile Workforce`
 
 ## attendance-payroll-management
 
@@ -1435,6 +1437,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Mobile Time Tracking
 
 - [Align App](https://align.day/) - Ultimate iOS time blocking planner and visual schedule maker that turns daily task lists into beautiful, resizable time blocks with smart overlap prevention and iCloud sync. ([Read more](/details/align-app.md)) `Ios` `Time Blocking` `visual` `icloud`
+- [Atto](https://attotime.com/) - Mobile-first GPS time tracking app designed for field-based teams with real-time location tracking, geofencing, and automated clock-ins. Trusted by 15,000+ companies in construction, home services, and field operations for managing hourly employees on the move. ([Read more](/details/atto.md)) `Gps Tracking` `Field Service` `Mobile`
 - [Boomr](https://www.boomr.com/) - Mobile time tracking and time card app designed for employee productivity and workforce management with GPS tracking, payroll integration, and project monitoring capabilities for businesses managing mobile workforces. ([Read more](/details/boomr.md)) `Mobile` `Gps Tracking` `payroll-integration`
 - [Brain Focus Productivity Timer](https://play.google.com/store/apps/details?id=com.AT.PomodoroTimer.timer) - Android time-management app based on Pomodoro and 52/17 techniques with customizable session durations, task tracking, colorful themes, and focus-enhancing white noise. ([Read more](/details/brain-focus-productivity-timer.md)) `android` `Pomodoro` `mobile-app` `Productivity`
 - [ClockShark](https://www.clockshark.com/) - GPS time clock app designed for field service and construction teams that tracks employee locations every 10-15 minutes while clocked in, with scheduling and job costing features. ([Read more](/details/clockshark.md)) `Gps` `Field Service` `Construction`
