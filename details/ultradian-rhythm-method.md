@@ -1,195 +1,107 @@
 ## Overview
 
-The Ultradian Rhythm Method is a productivity approach based on natural biological cycles that occur multiple times within a 24-hour period. These rhythms typically last between 90 to 120 minutes and represent alternating periods of high performance and recovery.
+The Ultradian Rhythm Method structures work around natural 90-120 minute cycles of peak alertness, alternating focused work periods with strategic recovery breaks to maintain high performance throughout the day.
 
-## Scientific Basis
+## The Science
 
-### What Are Ultradian Rhythms?
-
-Ultradian rhythms are biological cycles that repeat numerous times throughout a 24-hour period. Within about 90 minutes, you reach the apex of your productivity—an "ultradian performance peak"—after which your body enters an "ultradian trough," an energetic low point.
+### Ultradian Rhythms
+- Biological cycles repeating every 90-120 minutes
+- Alternating periods of high and low alertness
+- Affect energy, focus, and cognitive capacity
+- Independent of circadian (daily) rhythms
 
 ### Research Findings
-
-- Professionals working in rhythm-based blocks report 50% less mental fatigue
-- Complex tasks completed during peaks show greater accuracy
-- Top-tier violinists practice no more than 4.5 hours a day in 90-minute bursts
-- Elite performers naturally align practice with ultradian rhythms
-
-## The 90-Minute Work Cycle
-
-### Performance Peaks
-
-During each 90-120 minute cycle, you experience:
-- Heightened alertness and focus
-- Enhanced cognitive performance
-- Increased creativity
-- Better problem-solving ability
-
-### Recovery Troughs
-
-After each peak, your body naturally needs:
-- Rest and recovery
-- Reduced cognitive demands
-- Physical movement
-- Mental disengagement
+- Peak performance lasts approximately 90 minutes
+- Followed by 20-minute recovery period need
+- Ignoring recovery leads to diminishing returns
+- Respecting rhythms improves productivity and health
 
 ## Implementation
 
-### Basic Framework
+### Basic Cycle
+1. Work intensely for 90 minutes
+2. Take 20-minute break
+3. Repeat 3-4 times per day
+4. Listen to body signals
 
-1. **Work in 90-Minute Blocks**: Align deep work sessions with natural 90-120 minute cycles
-2. **Take 15-20 Minute Breaks**: Honor recovery periods between cycles
-3. **Limit Daily Sessions**: Most people can sustain 2-3 high-quality cycles per day
-4. **Listen to Your Body**: Notice natural energy dips and peaks
+### Work Period (90 minutes)
+- Single focus task or project
+- Eliminate distractions
+- Use full concentration
+- Notice when energy dips
 
-### Optimal Daily Structure
+### Break Period (20 minutes)
+- True mental rest (not checking email)
+- Physical movement
+- Nature exposure if possible
+- Hydration and light snacks
 
-- **Morning Cycle**: First 90-minute block for most important work
-- **Mid-Morning Recovery**: 15-20 minute break
-- **Late Morning Cycle**: Second 90-minute block
-- **Lunch Break**: Extended recovery period
-- **Afternoon Cycle**: Third 90-minute block (if energy permits)
-- **Afternoon Recovery**: Final break
-- **Evening**: Light tasks, no deep work
+## Customization
+
+### Individual Variation
+- Some people: 90-minute cycles
+- Others: 120-minute cycles
+- Track your patterns
+- Adjust accordingly
+
+### Daily Limits
+- Maximum 4-5 cycles per day
+- Quality over quantity
+- Diminishing returns after 4 cycles
+- Save some energy for tomorrow
 
 ## Benefits
 
-### Performance Enhancement
-- Work at peak cognitive capacity during cycles
-- Produce higher quality output
-- Solve complex problems more effectively
-- Experience creative breakthroughs
+- Sustained high performance
+- Reduced burnout
+- Better work quality
+- Improved health markers
+- More consistent energy
+- Natural productivity rhythm
 
-### Health and Wellbeing
-- Reduce mental fatigue by 50%
-- Prevent burnout through natural recovery
-- Maintain sustainable productivity
-- Improve work-life balance
+## Comparison to Other Methods
 
-### Time Management
-- Clear structure for planning work
-- Realistic expectations for daily output
-- Better project time estimates
-- Natural boundaries for task completion
+### vs. Pomodoro (25/5)
+- Longer work periods
+- Deeper focus possible
+- Aligns with biology not arbitrary time
+- Fewer but longer breaks
 
-## Integration with Other Techniques
+### vs. Continuous Work
+- Prevents burnout
+- Maintains quality throughout day
+- Works with body not against it
+- Sustainable long-term
 
-### With Pomodoro Technique
-- Use 90-minute blocks containing multiple 25-minute Pomodoros
-- Larger break after full cycle completion
+## Signals You're in Recovery Phase
 
-### With Deep Work
-- 90-minute cycles are ideal Deep Work sessions
-- Natural limit prevents overextension
-
-### With Time Blocking
-- Block calendar in 90-minute increments
-- Include recovery periods in schedule
-
-### With Biological Prime Time
-- Schedule most demanding work during your peak ultradian cycles
-- Align cycles with your natural chronotype
+- Difficulty concentrating
+- Physical restlessness
+- Increased errors
+- Desire to check phone
+- Hunger or thirst
+- Mental fatigue
 
 ## Best Practices
 
-### Preparation
-- Get adequate sleep (7-9 hours)
-- Stay hydrated throughout the day
-- Eat balanced meals at regular intervals
-- Exercise regularly to support energy cycles
+### Honor the Break
+- Don't skip breaks to "be productive"
+- Breaks enable next work period
+- Recovery is part of productivity
+- Invest in quality breaks
 
-### During Work Cycles
-- Eliminate all distractions
-- Focus on single tasks (monotasking)
-- Avoid meetings during peak cycles
-- Track time to recognize rhythm patterns
+### Track Your Rhythms
+- Note energy levels throughout day
+- Identify personal cycle length
+- Adjust timing accordingly
+- Respect individual variation
 
-### During Recovery Periods
-- Step away from your workspace
-- Move your body physically
-- Avoid screens if possible
-- Practice mindfulness or meditation
-- Get fresh air and natural light
+### Environment
+- Create break-friendly workspace
+- Access to outdoor space ideal
+- Options for movement
+- Comfortable rest areas
 
-## Common Mistakes
+## Pricing
 
-### Pushing Through Troughs
-Trying to maintain focus during natural low points:
-- Results in poor quality work
-- Causes unnecessary fatigue
-- Disrupts subsequent cycles
-
-**Solution**: Honor recovery periods, do light tasks during troughs
-
-### Too Many Cycles
-Attempting more than 3-4 deep cycles per day:
-- Leads to diminishing returns
-- Causes burnout
-- Reduces overall productivity
-
-**Solution**: Limit to 2-3 quality cycles, accept realistic limits
-
-### Ignoring Individual Variation
-Cycles vary between 90-120 minutes per person:
-- Some people have shorter cycles
-- Others sustain focus longer
-- Patterns change with age and health
-
-**Solution**: Track your personal patterns, adjust accordingly
-
-## Finding Your Rhythm
-
-### Tracking Method
-
-1. **Monitor Energy**: Track energy levels hourly for 1-2 weeks
-2. **Note Patterns**: Identify when peaks and troughs occur
-3. **Measure Duration**: Time how long focus naturally lasts
-4. **Adjust Schedule**: Align work blocks with discovered patterns
-
-### Signs of a Peak
-- Feeling alert and energized
-- Easy to start and maintain focus
-- Ideas flow naturally
-- Time passes quickly
-
-### Signs of a Trough
-- Difficulty concentrating
-- Yawning or fatigue
-- Checking phone/email frequently
-- Restlessness or distraction
-
-## Application Scenarios
-
-### Knowledge Work
-- Writing and editing
-- Programming and development
-- Strategic planning
-- Complex analysis
-
-### Creative Work
-- Design projects
-- Content creation
-- Problem-solving
-- Innovation sessions
-
-### Learning
-- Studying new material
-- Skill practice
-- Research
-- Deep reading
-
-## Relationship to Circadian Rhythms
-
-Ultradian rhythms nest within circadian rhythms:
-- Circadian: 24-hour sleep-wake cycle
-- Ultradian: 90-120 minute performance cycles within waking hours
-- Both should be considered for optimal productivity
-
-## Use Cases
-
-- Software developers and programmers
-- Writers and content creators
-- Researchers and analysts
-- Students and learners
-- Creatives and designers
-- Anyone performing cognitively demanding work
+Free methodology based on biological science
