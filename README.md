@@ -8,8 +8,8 @@ This directory was built and is maintained using the [Ever Works](https://ever.w
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
 ## 📑 Table of Contents
 
-- [Practices (339)](#practices)
-- [Time Management Methodology (101)](#time-management-methodology)
+- [Practices (338)](#practices)
+- [Time Management Methodology (102)](#time-management-methodology)
 - [Time Management Practice (138)](#time-management-practice)
 - [Productivity Tool (76)](#productivity-tool)
 - [Time Tracking Software (111)](#time-tracking-software)
@@ -83,9 +83,9 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Management Concept (4)](#time-management-concept)
 - [Time Management Policy (1)](#time-management-policy)
 - [Time Management Principle (1)](#time-management-principle)
-- [Time Management Research (2)](#time-management-research)
+- [Time Management Research (3)](#time-management-research)
 - [Time Management Technique (8)](#time-management-technique)
-- [Time Management Tool (3)](#time-management-tool)
+- [Time Management Tool (4)](#time-management-tool)
 - [Time Tracking Apis & Integrations (3)](#time-tracking-apis--integrations)
 - [Time Tracking APIs & Integrations (20)](#time-tracking-apis--integrations-1)
 - [Time Tracking Cli Tools (1)](#time-tracking-cli-tools)
@@ -361,7 +361,6 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [RICE Framework](https://www.productschool.com/blog/product-fundamentals/ultimate-guide-product-prioritization) - A prioritization framework developed by Intercom that considers four factors—Reach, Impact, Confidence, and Effort—to calculate a score for comparing and prioritizing initiatives. ([Read more](/details/rice-framework.md)) `Prioritization` `product-management` `framework`
 - [RICE Score Framework](https://www.productplan.com/glossary/rice-scoring-model/) - A prioritization framework developed by Intercom's product team that helps determine which features and initiatives to pursue by scoring them according to Reach, Impact, Confidence, and Effort. The formula (Reach × Impact × Confidence) / Effort measures total impact per time worked. ([Read more](/details/rice-score-framework.md)) `Prioritization` `product-management` `Decision Making`
 - [RICE Scoring Framework](https://www.productschool.com/blog/product-fundamentals/ultimate-guide-product-prioritization) - Quantitative prioritization method that scores tasks and projects based on Reach, Impact, Confidence, and Effort to make data-driven decisions about time allocation. ([Read more](/details/rice-scoring-framework.md)) `Prioritization` `Data Driven` `methodology`
-- [RPM Method (Rapid Planning Method)](https://www.tonyrobbins.com/rpm-system) - Tony Robbins' proprietary system for time management and life planning that focuses on Results, Purpose, and Massive Action Planning rather than traditional to-do lists. RPM helps clarify what you truly want, tap into the drive to make it happen, and create a results-focused roadmap. ([Read more](/details/rpm-method-rapid-planning-method.md)) `Goal Setting` `Planning` `productivity-method`
 - [Salami Slice Method](https://weekplan.net/academy/glossary/salami-method/) - Task management strategy for addressing complex or large tasks by dividing them into smaller, manageable slices. Working on one segment at a time makes daunting tasks feel approachable and less overwhelming, building momentum through systematic progress. ([Read more](/details/salami-slice-method.md)) `task-breakdown` `Procrastination` `Incremental Progress`
 - [Schedule Variance Analysis](https://monday.com/blog/project-management/schedule-variance/) - Project management practice of measuring the difference between planned and actual project progress, calculating whether work is ahead or behind schedule using earned value metrics. ([Read more](/details/schedule-variance-analysis.md)) `Project Management` `Metrics` `Analysis`
 - [Scheduled Blocking Technique](https://website-blocker.extfy.com/en/automate-your-focus-with-scheduled-blocking.html) - A time management method that uses automated website and app blocking on a schedule to create distraction-free periods, allowing users to predetermine focus times and automatically enforce them without relying on willpower. ([Read more](/details/scheduled-blocking-technique.md)) `website-blocking` `Automation` `Focus`
@@ -517,6 +516,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Pomodoro Timer Variations](https://toggl.com/blog/best-work-timers) - Beyond the classic 25/5 Pomodoro pattern, numerous variations exist including 52/17, 50/10, and 90-minute cycles, each optimized for different work types, attention spans, and energy management strategies. ([Read more](/details/pomodoro-timer-variations.md)) `Pomodoro` `Focus` `Flexibility`
 - [Quarterly Planning Cycles](https://www.atlassian.com/blog/productivity/time-management-strategies) - Time management framework using 90-day planning periods (quarters) for goal setting and project execution. Balances long-term vision with short-term action, popular in both business and personal productivity contexts. ([Read more](/details/quarterly-planning-cycles.md)) `Planning` `Goal Setting` `Strategic`
 - [Reverse Pomodoro Technique](https://customodoro.vercel.app/reverse) - Adapted productivity method that starts with rest periods and gradually builds work momentum, designed for individuals with executive dysfunction, ADHD, or anxiety who find traditional Pomodoro overwhelming. ([Read more](/details/reverse-pomodoro-technique.md)) `Accessibility` `Adhd` `Gentle Productivity`
+- [RPM Method (Rapid Planning Method)](https://www.tonyrobbins.com/rpm-system) - Tony Robbins' revolutionary life management system that focuses on results, purpose, and massive action planning rather than traditional time management, helping individuals create fulfilling lives while achieving their goals. ([Read more](/details/rpm-method-rapid-planning-method.md)) `Goal Setting` `Purpose Driven` `Strategic Planning`
 - [Sequential Task Processing](https://friday.app/p/multi-single-tasking) - Monotasking methodology emphasizing completion of one task fully before starting another, minimizing context switching costs and attention residue by maintaining sustained focus on single objectives until logical completion points. ([Read more](/details/sequential-task-processing.md)) `Monotasking` `Focus` `Productivity`
 - [Single-Tasking Methodology](https://www.psychologytoday.com/us/blog/brain-wise/201209/the-true-cost-multi-tasking) - Productivity approach emphasizing exclusive focus on one task at a time, opposite of multitasking. Neuroscience research shows single-tasking produces 40% better results than task-switching while reducing stress and cognitive load. Core principle: the brain doesn't truly multitask, it rapidly switches, incurring performance penalties. ([Read more](/details/single-tasking-methodology.md)) `Focus` `Neuroscience` `Productivity` `Mono Tasking`
 - [Soft Boxing for ADHD](https://super-productivity.com/guides/time-boxing-method/) - Flexible time management approach designed for neurodivergent individuals, particularly those with ADHD. Creates structure that bends without breaking, avoiding the rigidity that can feel suffocating. ([Read more](/details/soft-boxing-for-adhd.md)) `Adhd` `Neurodivergent` `Flexibility` `Gentle Productivity`
@@ -2084,6 +2084,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [Ideal Work Duration Research](https://www.insightful.io/blog/90-minute-focus-session) - Scientific findings on optimal work session lengths for maximum productivity. Converging research indicates 90-minute cycles align with ultradian rhythms for sustained focus, while studies show diminishing returns beyond this natural biological boundary. Foundation for modern time blocking practices. ([Read more](/details/ideal-work-duration-research.md)) `Research` `Neuroscience` `Productivity` `Scientific`
 - [Temporal Affective Pattern](https://www.danpink.com/books/when/) - The scientifically observed daily pattern where energy and mood rise in the morning, dip in the afternoon trough, and recover in the evening, informing optimal task scheduling strategies. ([Read more](/details/temporal-affective-pattern.md)) `Science` `Energy Management` `Circadian Rhythms`
+- [When: The Scientific Secrets of Perfect Timing](https://www.danpink.com/books/when) - Daniel Pink's research-based book on chronobiology and timing that explores how chronotypes, daily energy patterns, and circadian rhythms impact productivity, demonstrating that when you do something can be as important as what you do. ([Read more](/details/when-the-scientific-secrets-of-perfect-timing.md)) `Chronotype` `Energy Management` `Science`
 
 ## Time Management Technique
 
@@ -2098,6 +2099,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Time Management Tool
 
+- [Coursicle](https://www.coursicle.com) - Academic planning and schedule management app for college students that automatically syncs assignments from learning management systems, provides course availability notifications, and helps plan class schedules with over 1,100 supported universities. ([Read more](/details/coursicle.md)) `Students` `Academic` `Scheduling`
 - [Personal Kanban for Time Management](https://www.personalkanban.com/) - Adaptation of kanban workflow visualization for individual time management. Uses three columns (To Do, Doing, Done) with WIP limits to prevent overcommitment, visualize work progress, and maintain sustainable flow. Emphasizes pulling new work only when capacity exists. ([Read more](/details/personal-kanban-for-time-management.md)) `Kanban` `Visual` `Workflow` `Wip Limits`
 - [The Weekly](https://www.thelifecoachschool.com/theweekly) - Brooke Castillo's 2026 program providing weekly structure and accountability for transformative productivity and life planning through private podcast coaching and community support. ([Read more](/details/the-weekly.md)) `Coaching` `Accountability` `Weekly Planning`
 - [Timeboxing 2.0](https://www.sunsama.com/features/timeboxing) - Advanced calendar-integrated time blocking feature in Sunsama that automatically schedules prioritized tasks based on availability, combining intentional planning with intelligent automation. ([Read more](/details/timeboxing-20.md)) `Time Blocking` `Automation` `Calendar`
