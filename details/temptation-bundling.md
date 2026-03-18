@@ -1,69 +1,25 @@
-## The Concept
+## Overview
 
-Link an action you want to do with an action you need to do. Only allow yourself the want when doing the need.
-
-## Format
-
-"I will only [THING I WANT] while doing [THING I SHOULD DO]."
+Temptation Bundling links enjoyable activities with tasks you procrastinate on.
 
 ## Examples
 
-- Only listen to favorite podcast while exercising
-- Only watch favorite show while folding laundry
-- Only go to favorite coffee shop when working on difficult project
-- Only eat at nice restaurant when meeting networking contact
-- Only take bath while reviewing work documents
+- Only watch favorite show while exercising
+- Listen to podcasts only during commute/chores
+- Save special coffee for working on hard tasks
+- Watch videos only while doing email
 
-## Why It Works
+## Research
 
-- Provides immediate gratification for delayed-reward activities
-- Reduces perceived difficulty of unpleasant tasks
-- Creates positive associations with should-do activities
-- Leverages existing desires for productive behavior
+Katy Milkman's studies show 50% increase in gym attendance when audiobooks only allowed during workouts.
 
-## Applications
+## Implementation
 
-### Exercise
+1. List tasks you avoid
+2. List guilty pleasures
+3. Bundle them together
+4. Only allow pleasure during task
 
-Only watch specific shows during gym time.
+## Pricing
 
-### Administrative Work
-
-Work on boring tasks at favorite cafe.
-
-### Networking
-
-Attend events at interesting venues.
-
-### Household Chores
-
-Listen to engaging audiobooks while cleaning.
-
-### Professional Development
-
-Study new skills in enjoyable environments.
-
-## Creating Effective Bundles
-
-1. List activities you avoid
-2. List activities you enjoy
-3. Find compatible pairings
-4. Test combinations
-5. Strictly enforce the bundle
-
-## Key Principle
-
-Must maintain discipline—only get the want by doing the need.
-
-## Limitations
-
-- Some tasks require too much focus for bundling
-- Can reduce enjoyment of pleasure activity
-- Requires self-discipline to enforce
-
-## Related Concepts
-
-- Habit stacking
-- Implementation intentions
-- Reward systems
-- Gamification
+Free behavioral technique.
