@@ -1,116 +1,146 @@
 ## Overview
 
-ClockShark is a GPS-enabled time tracking application specifically designed for field service businesses, construction companies, and mobile workforces. The app tracks employee locations throughout the workday and provides scheduling, job costing, and payroll integration features.
+ClockShark is a comprehensive field service and construction time tracking solution trusted by more than 9,500 companies and over 100,000 field service and construction professionals worldwide. The platform is specifically designed for teams that work outside of traditional office environments.
 
-## Key GPS Features
-
-### Location Tracking
-- Tracks GPS location every 10-15 minutes while employees are clocked in
-- Creates a breadcrumb trail of where employees have been during their shift
-- Provides map view showing team member locations in real-time
-
-### Privacy Protection
-**IMPORTANT**: The GPS tracking ONLY tracks locations when workers are clocked in and will NEVER track workers after they're off the clock.
-
-This ensures:
-- Respect for employee privacy during off-hours
-- Compliance with privacy regulations
-- Clear boundaries between work and personal time
-
-### Geofencing
-- Set virtual boundaries around job sites
-- Automatic notifications when entering/leaving sites
-- Verify employees are at correct locations
-- Prevent unauthorized site access
-
-## Core Features
+## Key Features
 
 ### Time Tracking
-- Mobile GPS time clock
-- Clock in/out from smartphones
-- Job and task code assignment
-- Break tracking
-- Overtime calculation
+- **Mobile Time Clock**: Clock in/out from any mobile device
+- **GPS Tracking**: Automatic location verification for every clock-in
+- **Offline Mode**: Continue tracking even without internet connection
+- **Photo Time Stamps**: Optional photo capture at clock-in for verification
+- **Geofencing**: Set virtual boundaries around job sites
 
-### Scheduling
-- Create and share employee schedules
-- Assign crews to job sites
-- Schedule notifications and reminders
-- Drag-and-drop schedule management
+### Workforce Management
+- **Crew Scheduling**: Create and assign schedules to field teams
+- **Dispatching**: Send workers to jobs with all necessary details
+- **Job Costing**: Track labor costs against specific projects
+- **Equipment Tracking**: Monitor equipment usage and location
+- **PTO Management**: Handle time-off requests and tracking
 
-### Job Costing
-- Track labor costs by job
-- Monitor project budgets in real-time
-- Compare estimated vs. actual labor
-- Profitability analysis by project
+### Reporting & Integration
+- **Real-time Reports**: See who's working where in real-time
+- **Payroll Integration**: Export to QuickBooks, ADP, Paychex, and more
+- **Custom Reports**: Generate detailed labor and job cost reports
+- **Photo Documentation**: Workers can attach photos to time entries
+- **Daily Field Reports**: Comprehensive job site documentation
 
-### Payroll Integration
-- Export timesheets to payroll systems
-- Integration with QuickBooks and other platforms
-- Automated overtime calculations
-- Accurate hour reporting
+## Target Industries
 
-## Use Cases
-
-- **Construction companies** - Track crews across multiple job sites
-- **Field service businesses** - Monitor technicians visiting customer locations
-- **Landscaping teams** - Verify presence at client properties
-- **HVAC and plumbing** - Route optimization and job costing
-- **Any mobile workforce** - Teams working outside the office
+- Construction
+- Electrical and plumbing
+- HVAC services
+- Landscaping and lawn care
+- Roofing
+- Concrete and masonry
+- General contractors
+- Property maintenance
+- Field service businesses
 
 ## Benefits
 
-### For Employers
-- Verify employees are at assigned job sites
-- Reduce time theft and buddy punching
-- Accurate job costing and profitability tracking
-- Simplified payroll processing
+### For Business Owners
+- Eliminate paper timesheets and manual data entry
+- Reduce time theft with GPS verification
+- Accurate job costing for better bidding
 - Real-time visibility into field operations
+- Streamlined payroll processing
 
-### For Employees
-- Easy clock-in/out from mobile device
-- Clear expectation of when tracking occurs
-- Privacy protection during off-hours
-- Accurate pay based on actual hours
+### For Field Workers
+- Simple mobile app that's easy to use
+- Clock in/out from job sites
+- View schedules and assignments
+- Submit time-off requests
+- Add job notes and photos
+
+### For Project Managers
+- See which crew is on which job in real-time
+- Compare estimated vs. actual labor hours
+- Identify jobs running over budget
+- Dispatch workers efficiently
+- Monitor project progress
 
 ## Mobile Platform
 
-- iOS mobile app
-- Android mobile app
-- Web-based dashboard for management
-- Offline mode capability
+ClockShark offers dedicated mobile apps for:
+- iOS (iPhone and iPad)
+- Android phones and tablets
+- Mobile web browser access
 
-## Reporting
+## Integration Ecosystem
 
-- Timesheet reports
-- Job costing reports
-- GPS location history
-- Employee activity summaries
-- Budget vs. actual comparisons
-
-## Compliance & Privacy
-
-ClockShark emphasizes:
-- Tracking only during work hours
-- Transparent communication with employees
-- Clear privacy policies
-- Compliance with labor laws
-
-## Integration Partners
-
-- QuickBooks (Desktop and Online)
-- Sage
-- ADP
+Integrates with popular business tools:
+- QuickBooks Online and Desktop
+- ADP Workforce Now
 - Paychex
-- And other payroll/accounting platforms
+- Gusto
+- Zapier (for custom integrations)
+- Various other accounting and payroll systems
 
-## Who It's For
+## Unique Advantages
 
-- Construction companies with field crews
-- Field service businesses (HVAC, plumbing, electrical)
-- Landscaping and maintenance services
-- Any business with mobile employees
-- Companies needing job costing with time tracking
-- Organizations wanting GPS verification without invasive surveillance
+1. **Built for Field Work**: Designed specifically for non-desk workers
+2. **GPS Accuracy**: Verifies worker location automatically
+3. **Offline Capability**: Works in areas with poor cell coverage
+4. **Job Costing Focus**: Strong emphasis on project profitability tracking
+5. **Industry Expertise**: Deep understanding of construction workflows
 
-ClockShark balances the business need for location verification with employee privacy rights by restricting GPS tracking strictly to work hours, making it a responsible solution for managing mobile workforces.
+## Customer Success Metrics
+
+Companies using ClockShark typically report:
+- Reduced payroll processing time by 75%
+- Eliminated buddy punching and time theft
+- Improved job cost accuracy
+- Better project profitability through accurate tracking
+- Significant reduction in administrative overhead
+
+## Pricing
+
+ClockShark offers tiered pricing plans:
+- **Standard Plan**: Basic time tracking and GPS
+- **Pro Plan**: Adds scheduling, dispatching, and advanced features
+- **Enterprise**: Custom solutions for large organizations
+
+Pricing is per user per month. Free trial available.
+
+## Support & Training
+
+- Live customer support via phone and email
+- Comprehensive knowledge base
+- Video tutorials
+- Onboarding assistance
+- Regular webinars
+
+## Why Companies Choose ClockShark
+
+1. Specifically designed for construction and field services (not adapted from office software)
+2. Strong GPS and location features for mobile workers
+3. Seamless integration with construction accounting software
+4. Offline functionality for remote job sites
+5. Excellent customer support with industry knowledge
+6. Easy adoption by field crews with minimal training
+
+## Comparison to Other Solutions
+
+**vs. General Time Tracking**: Purpose-built for field work with GPS, offline mode, and job costing
+
+**vs. Other Field Service Software**: Laser-focused on time tracking and scheduling rather than trying to do everything
+
+**vs. Paper Timesheets**: Eliminates manual entry, reduces errors, provides real-time data
+
+## Getting Started
+
+1. Sign up for free trial
+2. Add employees and job sites
+3. Set up geofences if needed
+4. Install mobile app on worker devices
+5. Configure payroll export settings
+6. Start tracking time
+
+## Best For
+
+- Construction companies with mobile crews
+- Field service businesses needing GPS verification
+- Companies tracking time against multiple job sites
+- Organizations requiring accurate job costing
+- Businesses transitioning from paper timesheets

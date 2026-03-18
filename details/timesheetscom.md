@@ -1,74 +1,49 @@
 ## Overview
 
-Timesheets.com is a cloud-based timesheet and time tracking platform designed for businesses managing employee hours, project time allocation, and payroll processing. It combines mobile time clock capabilities with comprehensive workforce management features.
+Timesheets.com is a cloud-based employee time tracking software that provides an online time, expense, and HR system specifically designed for small businesses. The platform offers straightforward time management capabilities without the complexity of larger enterprise systems.
 
 ## Key Features
 
-- **Mobile Time Clock**: Smartphone-based clock in/out
-- **GPS Tracking**: Location verification for remote workers
-- **Project Time Allocation**: Track time by project and task
-- **Expense Tracking**: Log job-related expenses
-- **PTO Management**: Vacation and sick leave tracking
-- **Approval Workflows**: Manager review and approval
-- **Payroll Integration**: Export to major payroll systems
-- **Scheduling**: Create and manage employee schedules
-- **Overtime Calculation**: Automatic overtime tracking
-- **Reporting**: Detailed time and cost reports
-- **Geofencing**: Restrict clock-ins to specific locations
-- **Photo Verification**: Selfie at clock-in for verification
+- **Online Timesheets**: Web-based time entry and approval workflows
+- **Expense Tracking**: Record and manage employee expenses alongside time
+- **HR Integration**: Basic HR functionality integrated with time tracking
+- **Mobile Access**: Track time and expenses from any device
+- **Approval Workflows**: Manager review and timesheet approval processes
+- **QuickBooks Integration**: Connect with QuickBooks Online for seamless data transfer
+- **Reporting**: Generate time and expense reports for payroll and billing
 
-## Workforce Management
+## Target Market
 
-- Employee scheduling and shift management
-- Time off requests and approvals
-- Compliance with labor laws
-- Break time tracking
-- Department and role management
-- Custom fields and categories
+Timesheets.com serves small to mid-sized businesses with 111 customers in the Workforce Management segment. The platform holds a 0.09% market share in the Workforce Management category, positioning it as a niche solution for smaller organizations.
 
-## Integrations
+## Comparison with Competitors
 
-- QuickBooks (Online and Desktop)
-- ADP
-- Paychex
-- Gusto
-- CSV exports
+Compared to Deputy (which has 4,247 customers and 3.38% market share), Timesheets.com is a smaller player focused on simplicity for small businesses rather than extensive feature sets for larger organizations.
 
-## Mobile Features
+## Competition Categories
 
-- iOS and Android apps
-- Offline clock-in (syncs when online)
-- GPS location capture
-- Photo capture
-- Project and task selection
-- Real-time sync
-
-## Reporting
-
-- Timesheets by employee, project, or date
-- Labor cost analysis
-- Project profitability
-- Overtime reports
-- Custom report builder
-- Scheduled report delivery
-
-## Use Cases
-
-- Construction companies with field workers
-- Professional services firms tracking billable hours
-- Businesses with remote workforce
-- Organizations needing GPS verification
-- Companies requiring payroll integration
+Timesheets.com competes in:
+- Absence Leave Management
+- Time Clock Attendance
+- Workforce Management
+- Accounting
+- Accounts Receivable
 
 ## Benefits
 
-- Reduces time theft and buddy punching
-- Streamlines payroll processing
-- Provides project cost visibility
-- Ensures labor law compliance
-- Mobile flexibility for field workers
-- Real-time workforce visibility
+- Simple, straightforward interface ideal for small teams
+- Integrated expense tracking reduces multiple system needs
+- Cloud-based access enables remote workforce management
+- Direct integration with popular accounting software
+
+## Ideal For
+
+- Small businesses with under 50 employees
+- Companies seeking basic time and expense tracking
+- Organizations preferring simplicity over extensive features
+- Teams requiring QuickBooks integration
+- Businesses with straightforward time tracking needs
 
 ## Pricing
 
-Starts around $8-10 per user/month. Volume discounts available. Free trial offered.
+Contact Timesheets.com for current pricing information.

@@ -1,38 +1,26 @@
 ## Overview
 
-The Flowtime Technique was created by Zoe Read-Bivens as a flexible alternative to the Pomodoro Technique. Rather than forcing work into rigid 25-minute intervals, Flowtime allows practitioners to work in natural, uninterrupted intervals until focus naturally fades.
+Zoe Read-Bivens, a teacher and productivity expert, invented the Flowtime Technique in 2016 to address limitations of the Pomodoro Technique. Her method allows for natural, uninterrupted work intervals rather than forced 25-minute sessions.
 
-## Core Concept
+## Key Innovation
 
-Zoe Read-Bivens created the Flowtime Technique after experiencing frustration with Pomodoro's rigid structure. She found that 25-minute work segments often interrupted her flow state and harmed productivity rather than enhancing it.
+Instead of rigid 25-minute timers, Flowtime:
+- Works until concentration naturally wanes
+- Takes proportional breaks based on work duration
+- Respects flow state rather than interrupting it
+- Counts up instead of down
 
-## How It Works
+## Break Formula
 
-1. **Start Working**: Begin a task and start counting up (not down) on a timer
-2. **Work Until Natural Break**: Continue working until you naturally feel the need for a break
-3. **Proportional Breaks**: Stop the timer and take a break proportional to work time:
-   - After 25 minutes of work: 5-minute break
-   - After 50 minutes of work: 8-minute break
-   - After 90+ minutes of work: 10-minute break
-4. **Record and Repeat**: Log your work session and start again
+Divide focused work duration by 5:
+- 25 min work = 5 min break
+- 50 min work = 10 min break
+- 90+ min work = 15-20 min break
 
-## Key Differences from Pomodoro
+## Why She Created It
 
-- **Flexible Intervals**: No forced 25-minute work blocks
-- **Count Up, Not Down**: Timer counts up instead of counting down
-- **Natural Flow**: Respects natural focus states and deep work periods
-- **Proportional Breaks**: Break length scales with work duration
+Read-Bivens found Pomodoro's rigid timers disruptive when in flow state, especially problematic for creative and deep work requiring extended concentration periods.
 
-## Best For
+## Pricing
 
-- Developers and programmers working on complex problems
-- Creative professionals (writers, designers, artists)
-- Tasks requiring deep thought or sustained concentration
-- People who find Pomodoro intervals too interrupting
-
-## Benefits
-
-- Preserves flow state during creative or complex work
-- Reduces forced interruptions when ideas are flowing
-- Better suited for unpredictable or creative tasks
-- Leads to higher-quality results for deep work
+Free methodology — no cost to implement Zoe Read-Bivens' method.

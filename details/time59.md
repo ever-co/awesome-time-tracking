@@ -1,35 +1,25 @@
 ## Overview
 
-Time59 is online legal billing software designed specifically for solo lawyers and small law firms. The platform offers straightforward time tracking, expense management, and client billing in an easy-to-use cloud-based interface.
+Time59 is online legal billing software tailored for solo lawyers and small law firms. The platform provides essential time tracking, billing, and trust accounting features in a streamlined interface that's easy to learn and use.
 
 ## Key Features
 
-- **Simple Time Tracking**: Quick time entry with timer or manual input
-- **Expense Management**: Track billable and non-billable expenses
-- **Client Invoicing**: Generate professional legal invoices
-- **Payment Tracking**: Monitor outstanding invoices and payments
-- **Trust Accounting**: Basic trust account management
-- **Client Portal**: Allow clients to view invoices and make payments online
-- **Reporting**: Basic billing and revenue reports
+- **Time Tracking**: Quick time entry with timers or manual entry
+- **Invoicing**: Professional client invoices from tracked time
+- **Expense Tracking**: Record billable and non-billable expenses
+- **Trust Accounting**: Manage IOLTA accounts and client trust funds
+- **Matter Management**: Organize cases and clients
+- **Reporting**: Financial and productivity reports
+- **Mobile Access**: Track time from mobile devices
 
-## Advantages for Solo Practitioners
+## Target Audience
 
-- Minimal learning curve
-- Affordable pricing for individual lawyers
-- No complex features that solo practitioners don't need
-- Cloud-based access from anywhere
-- No installation required
-
-## Compliance
-
-- Supports legal billing increments (6-minute/0.1 hour)
-- Trust accounting features for bar compliance
-- Secure data storage and backup
-
-## Mobile Access
-
-Web-based platform accessible from mobile browsers for on-the-go time entry.
+Solo practitioners and small law firms (1-10 attorneys) seeking affordable, straightforward billing software.
 
 ## Pricing
 
-Designed to be budget-friendly for solo practitioners with monthly subscription pricing. Contact vendor for current rates.
+Competitively priced for solo and small firm budgets. Visit website for current pricing.
+
+## Pricing
+
+Contact Time59 for pricing information.
