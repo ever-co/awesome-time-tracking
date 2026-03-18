@@ -1,50 +1,30 @@
-## Must-Should-Want Method
+## Overview
 
-The Must, Should, Want Method is a prioritization framework designed to help individuals and teams effectively sort tasks and responsibilities based on their level of urgency and importance.
+The Must, Should, Want Method is a prioritization framework designed to help individuals and teams effectively sort tasks and responsibilities based on their level of urgency and importance. Created by blogger Jay Shirley in 2014, this method comes with a simple goal—make days more productive and enjoyable.
 
-**Origin and Purpose:**
-Created by blogger Jay Shirley in 2014, this method comes with a simple goal – make days more productive and enjoyable.
+## How It Works
 
-**The Three Categories:**
+The method involves categorizing tasks into three categories:
 
-1. **Must** - "Must" focuses on essential tasks that create the most impact.
+### Must
+"Must" focuses on essential tasks that create the most impact. These are the non-negotiable activities that need to be completed for the day to be considered successful.
 
-2. **Should** - "Should" revolves around tasks that help you build towards achieving long-term goals.
+### Should
+"Should" revolves around tasks that help you build towards achieving long-term goals. These are important but not immediately urgent, supporting your future success and development.
 
-3. **Want** - Tasks with the "want" label are all about enjoying the day and taking time off from our work goals.
+### Want
+Tasks with the "want" label are all about enjoying the day and taking time off from work goals. These activities contribute to work-life balance and personal well-being.
 
-**Key Benefits:**
-- The main idea behind the Must-Should-Want method is to establish a productive day and still allow you to enjoy the things that help you flourish.
-- Reduces overwhelm by categorizing tasks based on urgency and importance.
-- Ensures that personal interests are not neglected in the pursuit of productivity.
+## Benefits
 
-## Implementation Guide
+- **Improved Efficiency**: By providing a clear framework for prioritization, this method helps individuals focus on what truly matters, thereby improving efficiency and productivity
+- **Reduced Burnout**: With clearly set priorities for each day, you will feel less overwhelmed, which reduces the risk of much-dreaded burnout
+- **Better Balance**: The inclusion of "Want" tasks ensures that personal enjoyment and self-care are integrated into daily planning
 
-### Step 1: Categorize Your Tasks
+## Relationship to MoSCoW
 
-Review your task list and assign each item to one of the three categories:
-- **Must**: Critical tasks with immediate deadlines or high impact
-- **Should**: Important tasks that contribute to long-term goals
-- **Want**: Activities that bring joy and personal satisfaction
+The Must/Should/Want workflow is a modification of the MoSCoW productivity method (Must have, Should have, Could have, Won't have), suggesting the two are related approaches to task prioritization.
 
-### Step 2: Balance Your Day
+## Pricing
 
-Aim to complete:
-- All "Must" tasks
-- At least some "Should" tasks
-- At least one "Want" task for wellbeing
-
-### Step 3: Review and Adjust
-
-At the end of each day, reflect on your balance across the three categories and adjust tomorrow's plan accordingly.
-
-## Comparison to MoSCoW Method
-
-The Must-Should-Want method is similar to the MoSCoW method (Must have, Should have, Could have, Won't have), but the Must-Should-Want method is more focused on personal productivity and work-life balance, while MoSCoW is primarily used in project management and software development contexts.
-
-## Best For
-
-- Individuals seeking work-life balance
-- People who tend to over-prioritize work tasks
-- Those who need permission to include enjoyable activities
-- Anyone looking for a simple, three-tier prioritization system
+This is a free methodology that can be implemented using any task management tool or even paper-based systems.
