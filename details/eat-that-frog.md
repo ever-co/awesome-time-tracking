@@ -1,57 +1,33 @@
 ## Overview
 
-Eat That Frog is a time management methodology developed by Brian Tracy, based on a Mark Twain quote: "If it's your job to eat a frog, it's best to do it first thing in the morning." The "frog" represents your most challenging and important task.
+Eat That Frog! by Brian Tracy helps readers overcome procrastination and increase productivity with 21 actionable strategies based on over 30 years of time management research.
 
-## Core Principles
+## Core Concept
 
-- **Identify Your Frog**: Determine your most important and challenging task
-- **Do It First**: Complete this task before anything else in your day
-- **One Frog at a Time**: Focus on one major task rather than multitasking
-- **No Procrastination**: Start immediately without overthinking
-- **Morning Focus**: Tackle difficult work when energy is highest
+The title refers to Mark Twain's advice: "If the first thing you do each morning is eat a live frog, you can go through the day knowing the worst is behind you." Your "frog" is your biggest, most important task.
 
-## The 21 Methods
+## Key Strategies
 
-Brian Tracy's book outlines 21 techniques for eating your frog:
+- **Eat That Frog First**: Tackle your most important task first thing
+- **Plan Every Day**: Start with a written plan
+- **Apply the 80/20 Rule**: Focus on the 20% of tasks producing 80% of results
+- **ABCDE Method**: Prioritize tasks by importance
+- **Focus on Key Result Areas**: Identify what matters most
+- **Law of Forced Efficiency**: Work with greater focus when time is limited
+- **Prepare Thoroughly**: Proper planning prevents poor performance
 
-1. Set the table (clarity on goals)
-2. Plan every day in advance
-3. Apply the 80/20 Rule to everything
-4. Consider the consequences of tasks
-5. Practice creative procrastination
-6. Use the ABCDE method
-7. Focus on key result areas
-8. Apply the Law of Three
-9. Prepare thoroughly before you begin
-10. Take it one oil barrel at a time
-11. Upgrade your key skills
-12. Identify your key constraints
-13. Put the pressure on yourself
-14. Maximize your personal powers
-15. Motivate yourself into action
-16. Practice creative procrastination
-17. Do the most difficult task first
-18. Slice and dice the task
-19. Create large chunks of time
-20. Develop a sense of urgency
-21. Single handle every task
+## Time Management Impact
 
-## Benefits
+Provides practical, immediately applicable techniques that have helped millions improve productivity and reduce procrastination.
 
-- Overcomes procrastination on important tasks
-- Builds momentum early in the day
-- Reduces anxiety about difficult work
-- Ensures high-priority work gets completed
-- Improves focus and concentration
-- Creates sense of accomplishment
-- Prevents day from derailing
+## Recognition
 
-## Implementation Tips
+Consistently appears on Amazon bestseller lists and recommended among top time management books of 2026.
 
-- Identify your frog the night before
-- Schedule it for first thing in the morning
-- Eliminate distractions before starting
-- Don't check email or messages first
-- Break large frogs into smaller pieces
-- Celebrate completion of your frog
-- Make it a daily habit
+## Format
+
+Available in multiple formats.
+
+## Author
+
+Brian Tracy - renowned speaker and author of over 80 books on success and achievement.
