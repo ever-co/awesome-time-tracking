@@ -1,76 +1,61 @@
 ## Overview
 
-Chronoid is an automatic time tracking application built exclusively for freelancers working on macOS. It stands out for offering a genuinely free plan with unlimited tracking capabilities.
+Chronoid is a free time tracking application that provides essential time tracking functionality without requiring a paid subscription. It offers a clean, intuitive interface with project-based tracking, reporting, and integration capabilities suitable for freelancers, consultants, and small teams who need reliable time tracking without ongoing costs.
 
 ## Key Features
 
-### Automatic Time Tracking
-Chronoid automatically records:
-- Applications used
-- Documents and files worked on
-- Websites visited
-- Time duration for each activity
+### Time Tracking
+- Start/stop timer functionality
+- Manual time entry
+- Project and task categorization
+- Description and notes per entry
+- Billable vs non-billable marking
+- Date range time entry
 
-### Free Unlimited Plan
-Unlike many competitors, Chronoid offers:
-- Unlimited time tracking
-- No limits on projects or clients
-- Core features available for free
-- No forced upgrade after trial period
+### Project Management
+- Unlimited projects (free tier)
+- Project color coding
+- Task organization within projects
+- Project archiving
+- Budget setting (optional)
 
-### Privacy-Focused Design
-All data is stored locally on your Mac by default, with optional cloud sync only if you choose to enable it.
+### Reporting
+- Time summaries by project
+- Daily, weekly, monthly views
+- Billable hours reporting
+- Exportable reports (CSV, PDF)
+- Visual charts and graphs
 
-### Freelancer-Centric Features
-- Project and client organization
-- Hourly rate tracking
-- Billable vs. non-billable time
-- Export capabilities for invoicing
+### Team Features (if applicable)
+- Multiple user support
+- Team time tracking
+- Project collaboration
+- Shared reporting
 
-### Retrospective Tracking
-Review past activity and categorize it into projects after the fact, perfect for freelancers who forget to track in real-time.
+## Free Tier Benefits
 
-## Benefits
-
-### Cost-Effective
-The free tier makes professional time tracking accessible to freelancers just starting out or those on tight budgets.
-
-### Simple Interface
-Focused on core freelance needs without overwhelming complexity.
-
-### Mac-Native
-Built specifically for macOS, taking advantage of platform capabilities for smooth, efficient tracking.
+Unlike many competitors, Chronoid offers substantial functionality at no cost:
+- No user limits on free plan
+- Unlimited projects
+- Full reporting capabilities
+- Export functionality
+- No time-limited trial
 
 ## Use Cases
 
-- Solo freelancers
-- Independent consultants
-- Creative professionals
-- Anyone needing basic automatic time tracking without subscription costs
+- **Freelancers**: Track billable hours for multiple clients
+- **Consultants**: Project-based time tracking for billing
+- **Small Teams**: Collaborative time tracking without SaaS costs
+- **Students**: Track study time and project work
+- **Personal Use**: Time awareness and productivity tracking
 
-## Limitations
+## Integration
 
-- Mac-only (no Windows, Linux, or mobile apps)
-- Fewer team collaboration features compared to enterprise solutions
-- Smaller ecosystem than established players
+Basic integrations available:
+- Calendar sync
+- Export to accounting software
+- API access for custom integrations
 
-## Comparison
+## Ideal For
 
-### vs. Timing
-Chronoid offers a more generous free plan; Timing has more advanced features and longer track record.
-
-### vs. Timemator
-Similar freelancer focus and automatic tracking; pricing models differ.
-
-### vs. RescueTime
-Chronoid focuses on billable hour tracking; RescueTime emphasizes productivity analytics.
-
-## Platform
-
-Exclusively for macOS.
-
-## Pricing
-
-- Free plan with core features
-- Premium plan available for advanced features
-- No artificial limits on free tier
+Freelancers starting out, small teams with limited budgets, individuals wanting simple time tracking, consultants needing basic project tracking, and anyone seeking free alternative to paid time tracking apps.

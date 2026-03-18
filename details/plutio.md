@@ -1,77 +1,79 @@
 ## Overview
 
-Plutio is recognized as the best comprehensive time tracking software for freelancers at $19/month, combining time tracking with full business management capabilities in a single platform.
+Plutio is a comprehensive business management platform designed specifically for freelancers, consultants, and small agencies. It combines time tracking with project management, CRM, proposals, contracts, and invoicing into one integrated system, eliminating the need for multiple subscriptions.
 
 ## Time Tracking Features
 
-- **Built-In Timer**: Start/stop timer for active work
-- **Manual Entry**: Add time entries retrospectively
-- **Project Association**: Link time to projects and tasks
-- **Billable Rates**: Set different rates for different work types
-- **Time Reports**: Detailed reports on time allocation
+- **Manual & Automatic Tracking**: Choose between timer-based or manual time entry
+- **Project-Based Tracking**: Allocate time to specific projects and tasks
+- **Billable vs Non-Billable**: Separate billable hours from internal work
+- **Hourly Rate Management**: Set different rates per project or client
+- **Team Time Tracking**: Monitor time across team members
+- **Time Reports**: Detailed breakdowns by project, client, or date range
+- **Timer Integration**: Desktop and mobile timers for on-the-go tracking
 
-## Integrated Business Management
+## Integrated Business Features
+
+### Proposals & Quotes
+- Create professional proposals with templates
+- Interactive pricing tables
+- E-signature collection
+- Conversion tracking
+
+### Contracts
+- Digital contract creation and management
+- Template library
+- E-signature workflows
+- Version control
+
+### Invoicing
+- Automatic invoice generation from tracked time
+- Recurring invoices
+- Multiple currencies
+- Payment gateway integration (Stripe, PayPal)
+- Automatic payment reminders
 
 ### Project Management
-- **Task Management**: Create and organize tasks with deadlines
-- **Kanban Boards**: Visual project tracking
-- **File Sharing**: Share files with clients
-- **Project Templates**: Reuse common project structures
+- Task boards (Kanban style)
+- Gantt charts for timeline visualization
+- File sharing and storage
+- Client collaboration portals
+- Milestone tracking
 
-### Invoicing & Billing
-- **Invoice Generation**: Turn tracked time into branded invoices
-- **Recurring Invoices**: Set up automatic recurring billing
-- **Payment Processing**: Accept online payments
-- **Expense Tracking**: Track and bill expenses
-- **Multi-Currency**: Support for multiple currencies
+### CRM
+- Contact management
+- Deal pipeline
+- Activity tracking
+- Email integration
+- Lead scoring
 
-### Proposals & Contracts
-- **Proposal Builder**: Create professional proposals
-- **Digital Signatures**: Get contracts signed electronically
-- **Templates**: Reusable proposal templates
-- **Acceptance Tracking**: Monitor proposal status
+## Benefits for Freelancers
 
-### CRM & Client Management
-- **Client Portal**: Branded portal for client collaboration
-- **Contact Management**: Organize client information
-- **Communication**: Centralized client messaging
-- **Client Files**: Store client documents
+- **Single Platform**: Replace 5-10 different tools
+- **Cost Savings**: One subscription instead of multiple
+- **Data Integration**: Seamless flow from time tracking to invoicing
+- **Professional Image**: Branded client portal and documents
+- **Time Savings**: Reduced administrative overhead
 
-### Scheduling
-- **Meeting Scheduler**: Client booking system
-- **Calendar Integration**: Sync with Google Calendar
-- **Availability Management**: Set working hours
+## Client Portal
 
-## Advantages Over Standalone Time Trackers
-
-Plutio provides better value than stacking separate subscriptions for:
-- Time tracking (e.g., Toggl at $10-20/user/month)
-- Project management
-- Invoicing
-- Proposals
-- CRM
-
-## Key Differentiator
-
-Unlike standalone time trackers like Toggl ($10-20/user/month) and Clockify (free-$12/user/month) that log hours accurately but disconnect from invoicing, Plutio integrates the entire freelance business workflow.
-
-## Target Users
-
-- Solo freelancers
-- Consultants
-- Creative professionals
-- Service providers
-- Small agencies
+Clients get branded portal access to:
+- View project progress
+- Approve time entries
+- Review and sign proposals
+- Make payments
+- Access shared files
+- Communicate with team
 
 ## Pricing
 
-**$19/month** for comprehensive platform including:
-- Unlimited projects
-- Unlimited clients
-- Time tracking
-- Invoicing
-- Proposals
-- CRM
-- All features included
+Subscription-based pricing with tiers:
+- **Solo**: For individual freelancers
+- **Studio**: For small teams and agencies
+- **Agency**: For larger teams with advanced needs
 
-Free trial available to test the platform.
+Free trial available. Pricing significantly lower than paying for multiple separate tools.
+
+## Ideal For
+
+Freelancers managing multiple clients, consultants needing proposal-to-payment workflow, small creative agencies, solopreneurs wanting professional business tools, and anyone seeking to consolidate multiple business apps.

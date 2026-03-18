@@ -1,69 +1,41 @@
 ## Overview
 
-BuildBite is construction-focused time tracking and project management software that helps contractors track labor costs, manage crews, and monitor project progress. It provides tools specifically designed for the unique needs of construction and contracting businesses.
+BuildBite is a mobile-first time tracking solution designed specifically for construction companies that prioritizes simplicity and ease of use. It focuses on making time tracking so easy that field workers actually use it consistently, with one-tap clock-in and minimal data entry required.
 
-## Features
+## Core Features
 
-- Time tracking for crews
-- Job costing and budget tracking
-- Project scheduling
-- Daily reports from field
-- Photo documentation
-- Equipment tracking
-- Material management
-- Client billing
-- Mobile app for field use
-- Integration with accounting software
+### Simple Time Tracking
+- One-tap clock-in/out
+- Minimal required fields
+- Offline functionality
+- GPS location capture
+- Job selection from list
+- Cost code tracking (optional)
 
-## Time Tracking
+### Field-Friendly Design
+- Large buttons for gloved hands
+- Works in bright sunlight
+- Minimal battery drain
+- Fast load times
+- Intuitive interface
 
-- Crew clock in/out
-- Project and task allocation
-- Equipment hours tracking
-- Overtime calculation
-- Labor cost analysis
-- Timesheet approval
-- Payroll integration
+### Management Features
+- Real-time crew location
+- Who's working where right now
+- Automated timesheet generation
+- Job cost reporting
+- Payroll export
 
-## Construction-Specific Tools
+### Compliance
+- Break tracking
+- Overtime alerts
+- Davis-Bacon certified payroll
+- Audit trails
 
-- Job costing by phase
-- Budget vs. actual tracking
-- Change order management
-- Subcontractor coordination
-- Material takeoffs
-- Progress photos
-- Safety incident reporting
-- Weather condition logging
+## Philosophy
 
-## Project Management
+BuildBite's design philosophy is that the best time tracking app is the one workers will actually use. By removing complexity and friction, it achieves high adoption rates among field crews who traditionally resist time tracking systems.
 
-- Gantt charts and scheduling
-- Task dependencies
-- Milestone tracking
-- Resource allocation
-- Document management
-- RFI tracking
-- Punch lists
+## Ideal For
 
-## Use Cases
-
-- General contractors
-- Specialty trade contractors
-- Commercial construction
-- Residential builders
-- Renovation companies
-- Civil construction
-
-## Benefits
-
-- Accurate job costing
-- Improved profitability
-- Real-time project visibility
-- Reduced paperwork
-- Better client communication
-- Streamlined processes
-
-## Pricing
-
-Contact BuildBite for pricing information tailored to company size and project volume.
+Construction companies struggling with time tracking adoption, small to mid-sized contractors, field crews who resist complex software, and companies prioritizing ease of use over advanced features.

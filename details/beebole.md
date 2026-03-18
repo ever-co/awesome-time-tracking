@@ -1,28 +1,52 @@
-# Beebole
+## Overview
 
-**Website:** [https://beebole.com/](https://beebole.com/)
+BeeBole is a flexible time tracking and project management platform designed for teams that need accurate time data with efficient approval processes. The software emphasizes ease of use combined with powerful automation features to reduce the administrative burden of timesheet management.
 
-**Category:** Team Project Time Tracking
+## Automated Approval Features
 
-**Description:**
-Beebole is a flexible project time tracking and reporting application designed for businesses to monitor billable hours, productivity, and project profitability. It supports detailed tracking, reporting, and integrations to help teams manage time, costs, and financial performance across projects.
+- **Smart Routing**: Automatically route timesheets to appropriate approvers based on project, department, or team
+- **Approval Rules**: Configure automatic approval for entries meeting specific criteria
+- **Manager Dashboard**: Centralized view of all pending timesheets requiring approval
+- **Bulk Approval**: Approve multiple timesheets simultaneously for efficiency
+- **Email Notifications**: Automatic alerts for pending approvals and submission deadlines
+- **Approval History**: Complete audit trail of who approved what and when
+- **Rejection Workflow**: Return timesheets with specific comments for correction
 
-## Features
-- **Project Time Tracking:** Track time daily, weekly, or monthly using a one-click timer or manual entry. Supports unlimited clients, projects, and tasks. Organize with teams, roles, and permissions. Available on desktop and mobile.
-- **Powerful Reporting:** Generate real-time reports on time, billing, budgets, profitability, and variance. Build KPI dashboards, save/share/export reports, and integrate data with Excel or Google Sheets.
-- **Flexible Costs & Billing:** Set costs and billing rates by client, project, or team member. Supports hourly rates, fixed fees, and non-billable tasks. Budget by rates, costs, or hours for accurate invoicing and payroll.
-- **Timesheet Approvals:** Approve or reject time entries, lock hours, send email reminders, and manage an approval queue for accurate time data.
-- **Time Off Tracking:** Request, approve, and manage PTO (vacation, sick leave, etc.). Create custom absence types and allowances, review balances, and handle approvals with notifications.
-- **Integrations & Automations:** Connect with tools via Zapier, Pipedream, API, Google Workspace, and Excel. Provides a free API for custom solutions.
-- **Additional Features:**
-  - Mobile app
-  - Data encryption
-  - User permissions
-  - Data imports
-  - Overtime tracking
-  - Single-sign-on (SSO)
-  - GDPR compliance
-  - Available in 11 languages
+## Time Tracking Capabilities
+
+- **Project & Task Tracking**: Organize time entries by projects, sub-projects, and tasks
+- **Multiple Time Entry Methods**: Daily, weekly, or calendar view options
+- **Mobile Time Entry**: iOS and Android apps for on-the-go tracking
+- **Overtime Tracking**: Automatic calculation and flagging of overtime hours
+- **PTO Management**: Track vacation, sick leave, and other time off
+- **Timesheets Locking**: Prevent changes to approved periods
+
+## Reporting & Analytics
+
+- Project profitability analysis
+- Resource utilization reports
+- Billable vs non-billable hours breakdown
+- Employee productivity metrics
+- Budget vs actual time comparisons
+- Custom report builder with export capabilities
+
+## Integration
+
+Connects with popular project management, accounting, and payroll platforms including:
+- QuickBooks
+- Xero
+- Salesforce
+- Jira
+- Zapier for custom integrations
+
+## Benefits
+
+- Reduce timesheet approval time by up to 75%
+- Eliminate manual timesheet collection and follow-up
+- Ensure accurate project costing and billing
+- Improve compliance with labor tracking requirements
+- Provide transparency into team capacity and workload
 
 ## Pricing
-No specific pricing details are provided in the available content.
+
+Flexible pricing based on number of users with free trial available.

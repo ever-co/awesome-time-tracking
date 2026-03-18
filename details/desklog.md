@@ -1,52 +1,59 @@
 ## Overview
 
-Desklog is a workforce intelligence time tracker that automatically records how employees spend time across tasks and projects without manual input. By capturing productive, non-productive and offline activity in real time, Desklog converts everyday work activity into actionable insights that power accurate timesheets.
+Desklog is an automatic time tracking application designed for freelancers and teams who want accurate time tracking without the overhead of manual timers. It runs in the background, automatically capturing work hours and organizing them by projects, applications, and websites, then generates timesheets with minimal user intervention.
 
-## Key Features
+## Automatic Tracking Features
 
-### Automatic Time Tracking
+- **Background Monitoring**: Tracks active applications and websites
+- **Idle Detection**: Automatically pauses during inactivity
+- **Smart Categorization**: Groups activity by project and task
+- **Timeline View**: Visual representation of your workday
+- **Offline Capability**: Tracks time without internet connection
+- **Privacy Options**: Control what gets tracked and shared
 
-- Automated time tracking software runs in the background through desktop or mobile apps
-- Records work hours, activities, and app/website usage without manual input
-- Automatically tracks work hours, focus time, and productive hours
-- Automatically generates timesheets with recorded work hours, attendance, and leaves
+## Key Benefits
 
-### Project & Task Management
+### For Freelancers
+- No forgetting to start/stop timers
+- Capture all billable time automatically
+- Accurate records for client invoicing
+- Detailed activity logs for transparency
+- Reduced administrative overhead
 
-- Combines automated work-hour tracking with task-level productivity analytics
-- Project time tracking with dashboards to measure efficiency
-- Identifies bottlenecks without micromanaging
-- Includes a Kanban board for visual workflow tracking
-- Drag and drop tasks between stages
-- Quickly spot delays or bottlenecks
+### For Teams
+- Automatic time capture for all team members
+- Project time allocation without manual entry
+- Productivity insights and patterns
+- Timesheet generation for payroll
+- Activity-based reporting
 
-### Productivity Analytics
+## Features
 
-- Tracks productive, non-productive, and offline activities
-- Provides task-level productivity analytics
-- Measures efficiency with comprehensive dashboards
-- Converts work activity into actionable insights
+### Time Tracking
+- Automatic application and website tracking
+- Manual time entry when needed
+- Project and task assignment
+- Billable vs non-billable categorization
+- Timer functionality as alternative
 
-### Team & Remote Work Support
+### Reporting
+- Daily, weekly, monthly timesheets
+- Project time breakdowns
+- Activity summaries
+- Productivity analytics
+- Export to various formats
 
-- Suitable for hybrid and remote teams
-- Mobile and desktop app availability
-- Real-time activity monitoring
-- Attendance and leave tracking
+### Team Management
+- Employee monitoring (optional)
+- Attendance tracking
+- Screenshot capture (configurable)
+- Activity levels
+- Team productivity dashboards
 
-## Recent Updates (2026)
+## Pricing
 
-Desklog continues to be actively developed and marketed as a comprehensive workforce intelligence and automatic time tracking solution in 2026, with features competing with tools like DeskTime, Time Doctor, and Hubstaff for fully automatic time tracking.
+Affordable subscription-based pricing with free trial available. Positioned as cost-effective solution for freelancers and small teams.
 
-## Best Use Cases
+## Ideal For
 
-- Remote and hybrid teams needing automatic tracking
-- Companies wanting productivity analytics without micromanaging
-- Project-based organizations requiring task-level insights
-- Businesses needing automated timesheet generation
-
-## Platform Availability
-
-- Desktop applications (Windows, Mac, Linux)
-- Mobile apps (iOS, Android)
-- Web-based dashboard
+Freelancers billing by the hour, remote teams needing accurate tracking, individuals who forget manual timers, agencies tracking project profitability, and anyone seeking automatic time capture with minimal effort.

@@ -1,43 +1,147 @@
 ## Overview
 
-Freedom is a comprehensive distraction-blocking application that works across all your devices simultaneously. It helps users maintain focus by blocking websites, apps, and even the entire internet during scheduled work sessions.
+Freedom is a comprehensive distraction blocking application that blocks distracting websites and applications across all your devices simultaneously. It's designed to help users protect focus time, eliminate procrastination, and maintain concentration by removing digital temptations during work sessions.
 
-## Features
+## Core Features
 
-- **Multi-Device Blocking**: Block across Mac, Windows, iOS, Android simultaneously
-- **Website Blocking**: Block specific sites or entire categories
-- **App Blocking**: Prevent access to distracting desktop and mobile apps
-- **Scheduled Sessions**: Plan blocking sessions in advance
-- **Recurring Blocks**: Set up daily/weekly blocking schedules
-- **Locked Mode**: Make sessions unbreakable once started
-- **Ambient Sounds**: Built-in focus music and nature sounds
-- **Sync Across Devices**: Single block list applies everywhere
-- **Block Lists**: Pre-made lists (social media, news, shopping) or custom
-- **Statistics**: Track time freed from distractions
-- **Allowlist Mode**: Block everything except specific sites
-- **Pause Blocking**: Temporary pause for emergencies
+### Website Blocking
+- Block specific websites
+- Block entire categories (social media, news, etc.)
+- Custom blocklists
+- Whitelist mode (block everything except specific sites)
+- Scheduled blocks
 
-## Block Types
+### App Blocking (Desktop)
+- Block distracting applications
+- Custom app lists
+- System-level blocking
+- Difficult to bypass
 
-- **Website Block**: Specific URLs or domains
-- **App Block**: Native and web applications
-- **Nuclear Option**: Block entire internet
-- **Custom Schedules**: Different blocks for different times
-- **Category Blocking**: Social media, news, entertainment, shopping
+### Cross-Device Sync
+- Block across all devices simultaneously
+- Mac, Windows, iOS, Android
+- Chrome and other browsers
+- Unified blocking session
+
+### Locked Mode
+- Can't disable blocks once started
+- Requires device restart to bypass (Mac/Windows)
+- Forces commitment
+- Prevents weak-willed unblocking
+
+## Scheduling & Automation
+
+### Recurring Sessions
+- Daily deep work blocks
+- Weekly schedules
+- Specific times and days
+- Automatic blocking
+
+### Session Types
+- **Focus Sessions**: Block distractions
+- **Scheduled Sessions**: Recurring blocks
+- **Locked Sessions**: Can't disable early
+- **Quick Sessions**: Start immediately
+
+## Blocklist Management
+
+### Pre-Made Lists
+- Social media
+- News sites
+- Entertainment
+- Shopping
+- Adult content
+
+### Custom Lists
+- Create personal blocklists
+- Combine multiple lists
+- Share with others
+- Import/export lists
 
 ## Use Cases
 
-- Deep work sessions without digital interruptions
-- Study time without social media temptation
-- Writing and creative work requiring full focus
-- Reducing compulsive website checking
-- Digital wellness and screen time management
-- Better sleep by blocking devices before bed
+### Deep Work
+- Block distractions during focus time
+- 90-minute deep work sessions
+- Morning creative work
+- Writing and research
+
+### Study Sessions
+- Block social media during study
+- Exam preparation
+- Reading and learning
+- Assignment completion
+
+### Digital Wellness
+- Reduce social media addiction
+- Evening digital detox
+- Weekend breaks
+- Mindful phone use
+
+### Productivity
+- Start workday distraction-free
+- Pomodoro session support
+- Meeting-free focus blocks
+- Deadline crunches
+
+## Features
+
+### Statistics & Insights
+- Sessions completed
+- Time blocked
+- Most blocked sites
+- Productivity trends
+
+### Ambient Sounds
+- Built-in focus sounds
+- White noise
+- Nature sounds
+- Productivity music
+
+### Multiple Modes
+- Focus mode (specific blocks)
+- Nuclear option (block entire internet)
+- Scheduled recurring
+- Custom combinations
+
+## Benefits
+
+### Forced Focus
+- Remove temptation
+- Prevent impulsive browsing
+- Commit to focus time
+- Build focus muscle
+
+### Productivity Gains
+- More deep work hours
+- Higher quality output
+- Faster task completion
+- Reduced context switching
+
+### Digital Wellness
+- Break social media habits
+- Reduce screen time
+- Improve sleep (evening blocks)
+- Better work-life balance
 
 ## Pricing
 
-- **Monthly**: $8.99/month
-- **Yearly**: $39/year (save 64%)
-- **Forever**: $199 one-time (lifetime access)
+Subscription-based with annual and lifetime options. Free trial available. Significant discount for students.
 
-All plans include unlimited devices and sessions.
+## Comparison to Alternatives
+
+### vs Cold Turkey
+- Freedom: Cross-device, cloud-based
+- Cold Turkey: Windows only, more hardcore
+
+### vs SelfControl
+- Freedom: All platforms, scheduled, reversible
+- SelfControl: Mac only, free, irreversible until timer ends
+
+### vs Browser Extensions
+- Freedom: System-level, harder to bypass
+- Extensions: Easy to disable, browser-only
+
+## Ideal For
+
+Knowledge workers needing focus protection, students fighting social media addiction, writers and creatives, anyone struggling with digital distractions, people serious about deep work, and individuals wanting cross-device blocking.

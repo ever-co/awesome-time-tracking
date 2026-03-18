@@ -1,59 +1,41 @@
 ## Overview
 
-Arrivy is a comprehensive field service management platform that combines time tracking, GPS location services, job scheduling, and customer communication tools. It's designed for businesses with mobile workforces requiring real-time visibility and coordination.
+Arrivy is a field service management platform that combines job scheduling, GPS tracking, time tracking, and customer communication for businesses with mobile workforces. It's particularly strong in construction, home services, delivery, and other industries where workers spend most of their time in the field rather than at a desk.
 
-## Features
+## Time Tracking Features
 
-- Real-time GPS crew tracking
-- Job scheduling and dispatch
-- Time tracking with geofencing
-- Customer notifications and updates
-- Mobile app for field workers
-- Photo and document capture
-- Digital forms and checklists
+- **Automatic Time Capture**: Time logged based on job arrival/departure
+- **GPS-Based Tracking**: Location verification for clock-in/out
+- **Job-Specific Time**: Time automatically associated with customer jobs
+- **Route Tracking**: GPS breadcrumbs throughout the day
+- **Mobile Clock-In**: Workers use mobile app to start/end time
+- **Offline Capability**: Track time without internet connection
+- **Timesheet Generation**: Automated timesheet creation from job data
+- **Integration with Payroll**: Export time data for payroll processing
+
+## Field Service Management
+
+### Job Scheduling
+- Visual dispatch board
+- Drag-and-drop scheduling
 - Route optimization
+- Crew assignment
+- Equipment tracking
+
+### Customer Communication
+- Automated arrival notifications
+- Real-time ETA updates
+- SMS and email updates
 - Customer feedback collection
-- Integration with business systems
+- Two-way messaging
 
-## Time Tracking
-
-- Automatic clock in/out with geofencing
-- GPS-verified time entries
-- Job-based time allocation
-- Break tracking
-- Overtime calculation
-- Timesheet generation
-- Payroll export capabilities
-
-## Field Service Features
-
-- Live tracking of crew locations
-- ETA predictions for customers
-- Automated customer notifications
+### Workflow Automation
 - Job status updates
-- Before/after photo documentation
-- Service completion confirmation
-- Customer signature capture
+- Photo documentation requirements
+- Electronic signatures
+- Form completion
+- Automated invoicing triggers
 
-## Use Cases
+## Ideal For
 
-- HVAC and plumbing services
-- Electrical contractors
-- Appliance repair
-- Cleaning services
-- Installation teams
-- Home healthcare
-- Any mobile service business
-
-## Benefits
-
-- Improved customer communication
-- Reduced administrative overhead
-- Better crew accountability
-- Accurate job costing
-- Enhanced customer satisfaction
-- Streamlined operations
-
-## Pricing
-
-Contact Arrivy for pricing based on team size and features required.
+Construction companies, HVAC and plumbing services, delivery businesses, home services companies, and any organization with field-based workers requiring GPS-verified time tracking.

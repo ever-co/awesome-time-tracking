@@ -1,42 +1,26 @@
 ## Overview
 
-Lumber is the industry's leading all-in-one construction workforce management platform that streamlines payroll, time tracking, safety, compliance, field productivity, rewards, and recognition. The platform transforms payroll, hiring, benefits admin and timekeeping for construction teams with AI at its core.
+Lumber is a construction-focused time tracking and workforce management platform built to handle the unique challenges of field-based teams. The software combines accurate time tracking with job costing, crew messaging, and compliance features specifically designed for construction workflows.
 
 ## Features
 
-### Time Tracking
-- Mobile app-based clock in/out with geofencing capabilities
-- Automatic notifications when employees enter predefined virtual boundaries
-- Offline functionality allowing employees to clock in/out without internet
-- Automatic data syncing once connectivity is restored
-- Real-time visibility into crew locations and hours worked
+- **Offline Mode**: Continue tracking time and location even without cell service, with automatic sync when connectivity returns
+- **Real-Time Job Costing**: Track labor costs as they happen with immediate visibility into project budgets
+- **AI-Powered Photo Verification**: Use facial recognition and liveness detection to prevent buddy punching
+- **Geo-Fencing**: Automatic clock-in/out based on arrival at job sites
+- **Two-Way Crew Messaging**: Direct communication between office staff and field crews
+- **Foreman Mode**: Allow crew leaders to manage team time entries on-site
+- **Multi-Lingual Support**: Interface available in multiple languages for diverse crews
+- **Meal Break Compliance**: Automatic enforcement of required break periods
 
-### AI-Powered Automation
-- HR AI Agent for workforce management
-- Payroll AI Agent that automates wage calculations and compliance
-- Safety AI Agent ensuring OSHA compliance and tracking worker fatigue
-- Autonomous AI agents that interact with real-time digital representations of construction sites
+## Benefits for Construction
 
-### Workforce Management
-- Automated hiring and onboarding
-- Job scheduling and dispatch
-- Job costing and budget tracking
-- Benefits administration
-- Safety and compliance management
-- Rewards and recognition programs
+- Eliminates paper timesheets and reduces administrative overhead
+- Provides accurate job costing for better project bidding
+- Prevents time theft with GPS and photo verification
+- Ensures compliance with labor regulations
+- Works reliably in areas with poor connectivity
 
-### Integrations
-- Seamless integration with Acumatica
-- Payroll system integrations
-- Construction project management tools
+## Integration
 
-## Pricing
-
-Pricing information is available upon request through their sales team.
-
-## Recent Recognition
-
-- Series A funding of $15.5 million led by Foundation Capital (March 2025)
-- Named Acumatica's Alliance Partner of the Year (January 2026)
-- Honored with Presidents Club award for highest customer acquisition (2025)
-- Revenue reached $43.4M in 2025
+Connects with popular construction management and accounting platforms for seamless payroll processing and project tracking.

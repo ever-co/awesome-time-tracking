@@ -1,67 +1,130 @@
 ## Overview
 
-Scoro is an end-to-end work management software for professional and creative services, providing detailed time tracking alongside project management, CRM, billing, and financial reporting.
+Scoro is a comprehensive business management solution built specifically for professional and creative services firms. It combines time tracking, project management, CRM, quoting, billing, and reporting in one platform, eliminating the need for multiple disconnected tools and providing complete business visibility from lead to payment.
 
 ## Time Tracking Features
 
-**Detailed Tracking:**
-- Manual and timer-based time entry
-- Billable vs. non-billable time
-- Task-level time tracking
-- Calendar integration
-- Mobile time tracking
-- Bulk time entry
-- Time approval workflows
+- **Multiple Entry Methods**: Timer, manual entry, calendar integration
+- **Real-Time Tracking**: Start/stop timer with project and task assignment
+- **Calendar Time Blocking**: Schedule and track time in integrated calendar
+- **Mobile Time Tracking**: iOS and Android apps for remote work
+- **Bulk Time Entry**: Import or enter multiple entries at once
+- **Time Estimates**: Compare planned vs actual time
+- **Approval Workflows**: Multi-level timesheet approvals
 
-**Time Analysis:**
-- Real-time profitability tracking
-- Time utilization reports
-- Budget vs. actual comparisons
-- Team capacity planning
-- Productivity analytics
+## Comprehensive Business Management
 
-## Complete Business Platform
+### CRM & Sales
+- **Lead & Opportunity Tracking**: Complete sales pipeline
+- **Contact Management**: Centralized client database
+- **Quote Generation**: Professional proposals from templates
+- **Sales Forecasting**: Revenue predictions
+- **Email Integration**: Sync with Gmail, Outlook
 
-**Project Management:**
-- Task and milestone tracking
-- Gantt charts
-- Resource planning
-- Budget management
-- Project templates
+### Project Management
+- **Gantt Charts**: Visual project timelines
+- **Task Management**: Assignment and tracking
+- **Project Templates**: Reusable project structures
+- **Resource Planning**: Capacity and allocation
+- **Budget Tracking**: Compare estimates to actuals
+- **Project Profitability**: Real-time P&L per project
 
-**Financial Management:**
-- Invoicing and billing
-- Expense tracking
-- Purchase orders
-- Financial reporting
-- Profit and loss tracking
+### Financial Management
+- **Invoicing**: Automatic invoice generation from time and expenses
+- **Purchase Orders**: Vendor management
+- **Expense Tracking**: Receipts and reimbursements
+- **Financial Reports**: P&L, cash flow, budget vs actual
+- **Multi-Currency**: International business support
+- **Payment Processing**: Integration with Stripe, PayPal
 
-**CRM:**
-- Contact management
-- Sales pipeline
-- Quote generation
-- Lead tracking
+### Reporting & Analytics
+- **Real-Time Dashboards**: Executive KPI visibility
+- **Utilization Reports**: Team and individual billable percentages
+- **Profitability Analysis**: By project, client, service line
+- **Capacity Planning**: Resource availability forecasts
+- **Custom Reports**: Build any metric needed
+- **Forecasting**: Future revenue and capacity predictions
 
-**Reporting:**
-- Real-time dashboards
-- Custom reports
-- KPI tracking
-- Financial reports
-- Resource utilization
+## Integrated Workflow
 
-## Target Market
+The power of Scoro is seamless flow between functions:
+1. **Lead Capture**: CRM captures new opportunity
+2. **Quote**: Generate proposal with time estimates
+3. **Project Setup**: Convert won quote to project automatically
+4. **Time Tracking**: Team tracks time to project tasks
+5. **Expense Capture**: Add expenses to project
+6. **Invoicing**: Auto-generate invoice from time + expenses
+7. **Payment**: Track payment status
+8. **Analysis**: Review project profitability
 
-Ideal for:
-- Marketing and advertising agencies
-- Consulting firms
-- IT service providers
-- Architecture and engineering firms
-- Professional services companies
+All data flows automatically—no re-entry or manual transfer.
+
+## Benefits for Professional Services
+
+### For Service Delivery
+- Complete project visibility
+- Real-time budget tracking
+- Resource optimization
+- Risk identification
+- Quality control
+
+### For Billing
+- Accurate time capture
+- Faster invoicing cycles
+- Reduced billing errors
+- Automated reminders
+- Multiple billing models (hourly, fixed, retainer)
+
+### For Business Management
+- Single source of truth
+- Real-time financial position
+- Data-driven decisions
+- Forecasting accuracy
+- Reduced tool complexity
+
+## Industry Applications
+
+### Management Consulting
+- Client engagement tracking
+- Consultant utilization
+- Knowledge management
+- Proposal automation
+
+### IT Services
+- Project time tracking
+- Change request management
+- Support ticket time
+- Multi-client resource allocation
+
+### Creative Agencies
+- Campaign management
+- Creative time tracking
+- Retainer management
+- Client billing
+
+### Marketing Agencies
+- Campaign profitability
+- Media buying tracking
+- Retainer burn rates
+- Multi-channel projects
+
+### Architecture & Engineering
+- Phase-based time tracking
+- Revision tracking
+- Regulatory compliance
+- Multi-discipline projects
 
 ## Pricing
 
-Essential: $26/user/month
-Standard: $37/user/month
-Pro: $63/user/month
-Ultimate: Custom pricing
-Annual billing available. 14-day free trial.
+Subscription-based pricing with tiers:
+- **Essential**: Core features for small teams
+- **Standard**: Full platform for growing businesses
+- **Pro**: Advanced features for larger organizations
+- **Ultimate**: Enterprise capabilities
+
+Per-user per-month pricing with annual discounts.
+14-day free trial available.
+
+## Ideal For
+
+Professional services firms (10-200 employees), creative and marketing agencies, IT services companies, consulting firms, architecture and engineering firms, and businesses wanting to replace 5-10 separate tools with one platform.

@@ -1,43 +1,134 @@
 ## Overview
 
-OmniFocus is a sophisticated task management application designed specifically for macOS and iOS users who follow the Getting Things Done (GTD) methodology. It's the gold standard for power users who need advanced features, automation, and deep organizational capabilities.
+OmniFocus is a sophisticated task management application for Apple platforms that implements the Getting Things Done (GTD) methodology in depth. Known for its power and flexibility, it's designed for professionals managing complex projects and workflows who need advanced features like perspectives, contexts, review cycles, and intricate filtering.
 
-## Features
+## Core GTD Implementation
 
-- **GTD-Based Structure**: Inbox, projects, contexts, and review systems
-- **Perspectives**: Custom filtered views of tasks based on multiple criteria
-- **Forecast View**: Integrated calendar showing deadlines and scheduled items
-- **Review Mode**: Systematic project and area review workflow
-- **Defer Dates**: Hide tasks until they're actionable
-- **Sequential vs. Parallel**: Control task availability in projects
-- **Automation**: AppleScript, Shortcuts integration, URL schemes
-- **Tags (Contexts)**: Flexible tagging system for task organization
-- **Repeating Tasks**: Sophisticated recurring task logic
-- **Sync**: Seamless sync across Mac, iPhone, iPad, Apple Watch
-- **Attachments**: Add files, images, and notes to tasks
-- **Location Reminders**: Get notified based on GPS location
-- **Focus Mode**: Temporarily hide low-priority items
-- **Custom Perspectives**: Build complex filters and save as views
+### Inbox
+- Quick capture from anywhere
+- Process regularly
+- Clarify and organize
+- Batch processing
 
-## GTD Implementation
+### Projects & Single Actions
+- Sequential projects (steps in order)
+- Parallel projects (steps independent)
+- Single action lists
+- Project templates
+- On Hold status
 
-OmniFocus excels at implementing David Allen's GTD methodology:
-- **Capture**: Quick entry inbox for capturing all inputs
-- **Clarify**: Process inbox items into actionable tasks
-- **Organize**: File into projects, assign tags/contexts
-- **Reflect**: Built-in review system for weekly reviews
-- **Engage**: Perspectives show what to work on in different contexts
+### Contexts
+- Where/when/with tasks can be done
+- @Computer, @Home, @Calls, @Errands
+- Nested contexts
+- Context-based views
+
+### Perspectives
+- Custom views of tasks
+- Saved filters and groupings
+- Quick access to workflows
+- Pro feature, highly powerful
+
+### Review
+- Scheduled review cycles
+- Project-level review dates
+- Review mode for batch processing
+- Next review tracking
 
 ## Advanced Features
 
-- **Automation**: Extensive automation via shortcuts and scripts
-- **Custom Perspectives**: Create filtered views with complex logic
-- **Project Templates**: Save project structures for reuse
-- **Batch Editing**: Modify multiple tasks simultaneously
-- **Data Backup**: Automatic local backups of all data
+### Start Dates & Defer
+- Hide tasks until ready
+- Future planning
+- Reduce current overwhelm
+- Sequential dependencies
+
+### Estimated Duration
+- Time needed per task
+- Planning capacity
+- Finding quick wins
+- Realistic scheduling
+
+### Forecast View
+- Calendar integration
+- Deadlines visualization
+- Today's schedule
+- Week ahead planning
+
+### Flagging
+- Mark important tasks
+- Quick filter to flagged
+- Temporary priority
+- Review attention items
+
+### Tags (OmniFocus 3)
+- Multiple tags per task
+- Replaces/extends contexts
+- More flexible categorization
+- Tag combinations
+
+## Power User Features
+
+### Custom Perspectives (Pro)
+- Build complex filters
+- Save for quick access
+- Share with team
+- Automate workflows
+
+### Automation
+- URL schemes
+- Shortcuts integration
+- AppleScript support (Mac)
+- Task templates
+
+### Repeating Tasks
+- Complex recurrence patterns
+- Due vs defer-based
+- Skip occurrences
+- Template-based repeats
+
+## Sync & Platforms
+
+### Omni Sync Server
+- Free sync service
+- End-to-end encryption
+- Real-time sync
+- Conflict resolution
+
+### Alternative Sync
+- WebDAV support
+- Local network sync
+- Third-party servers
+
+### Platforms
+- macOS (desktop)
+- iPhone
+- iPad
+- Apple Watch
+- Web (read-only)
 
 ## Pricing
 
-- **Standard**: $49.99 (Mac) or $39.99 (iOS) one-time purchase
-- **Pro**: $99.99 (Mac) or $74.99 (iOS) one-time, or $9.99/month subscription
-- **Web**: Included with Pro subscription
+Two options:
+- **Subscription**: All platforms, all updates
+- **One-Time Purchase**: Single platform, major version
+
+Pro features (Perspectives) available in both.
+
+## Learning Curve
+
+### Complexity
+- Steep learning curve
+- Many features to master
+- Requires GTD understanding
+- Investment in setup
+
+### Power
+- Handles any workflow
+- Scales to complex needs
+- Professional-grade
+- Worth the learning
+
+## Ideal For
+
+GTD purists, professionals with complex workflows, Apple ecosystem power users, people managing 100+ active tasks, individuals wanting total control, and those willing to invest time in setup for long-term power.
