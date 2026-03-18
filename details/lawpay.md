@@ -1,38 +1,119 @@
 ## Overview
 
-LawPay is the leading payment solution for legal professionals, offering secure payment processing designed to meet attorney trust accounting requirements while integrating with time tracking and practice management systems.
+LawPay is one of the oldest bar-compliant payment processors and billing software platforms built specifically for law firms, endorsed by more than 130 bar associations across the United States.
 
-## Features
+## Key Features
 
-- ABA and state bar association approved payment processing
-- Trust accounting compliance built-in
-- Integration with 70+ legal software platforms
-- Credit card and eCheck processing
-- Online payment portal for clients
-- Automated payment reminders
-- Recurring payment setup
-- Mobile payment acceptance
-- Detailed reporting and reconciliation
-- Same-day ACH deposits available
+### Bar Compliance
 
-## Compliance
+- Designed to meet ethical billing requirements
+- Automatic separation of earned fees and trust payments
+- IOLTA (Interest on Lawyers' Trust Accounts) compliance
+- Adherence to ABA Model Rules
+- State bar association endorsements
 
-- Recommended or approved by all 50 state bar associations
-- Endorsed by over 60 local and specialty bars
-- ABA Advantage program member
-- Maintains separation between earned fees and client funds
-- PCI Level 1 compliant
+### Trust Accounting
 
-## Integrations
+- Secure trust account management
+- Automatic allocation to proper accounts
+- Separation of operating and trust funds
+- Detailed audit trails
+- Three-way trust reconciliation support
 
+### Payment Processing
+
+- Credit card and ACH payments
+- Secure online payment portal for clients
+- Mobile payment options
+- Recurring billing capabilities
+- Payment plans and installments
+
+## Integration Capabilities
+
+### Legal Practice Management Software
+
+LawPay integrates with leading legal software including:
 - Clio
 - MyCase
 - PracticePanther
 - Bill4Time
 - TimeSolv
-- Smokeball
-- And 65+ other legal platforms
+- Tabs3
+- And many others
+
+### Billing Workflow
+
+Integration enables:
+- Direct invoice payment from billing software
+- Automatic payment recording
+- Real-time trust account updates
+- Streamlined reconciliation
+- Reduced manual data entry
+
+## Time Tracking Integration
+
+### Billing Connection
+
+- Connects tracked time to invoicing
+- Ensures billable hours are properly charged
+- Facilitates quick payment collection
+- Reduces revenue leakage
+- Supports various billing arrangements
+
+### Client Portal
+
+Clients can:
+- View invoices online
+- Make secure payments 24/7
+- Set up payment plans
+- Review payment history
+- Receive automatic receipts
+
+## Compliance Features
+
+### Ethical Requirements
+
+- Proper handling of trust vs operating funds
+- Client notification requirements
+- Fee agreement compliance
+- Retainer management
+- Conflict check support through proper accounting
+
+### Reporting
+
+- Trust account reports
+- Payment history
+- Transaction details
+- Reconciliation reports
+- Audit-ready documentation
+
+## Benefits for Law Firms
+
+### Faster Payments
+
+- Online payment convenience increases collection speed
+- Multiple payment options improve client satisfaction
+- Automated billing reduces delays
+- Payment plans make fees more accessible
+
+### Risk Reduction
+
+- Bar-compliant processing prevents ethics violations
+- Automatic trust account separation
+- Detailed audit trails
+- Secure payment handling
+
+### Time Savings
+
+- Automated payment recording
+- Reduced manual reconciliation
+- Integration with practice management
+- Streamlined client communication
+
+## Target Users
+
+Solo practitioners, small to mid-sized law firms, legal departments, and any legal professional needing bar-compliant payment processing with trust accounting capabilities.
 
 ## Pricing
 
-Custom pricing based on transaction volume and features. Contact LawPay for details.
+Transaction-based pricing model with rates varying based on payment type (credit card vs ACH) and processing volume. Contact LawPay for current pricing details.
