@@ -1,27 +1,28 @@
-# TrackingTime
+## Overview
 
-[TrackingTime](https://trackingtime.co/) is a web-based time tracking solution designed for teams to efficiently track work hours, manage projects, and generate detailed reports. It offers a range of features to streamline team productivity and facilitate transparent work logs.
+TrackingTime is a modern time tracking platform that offers unlimited free users, making it accessible for teams of any size. The software combines time tracking with visual timelines, task management, and comprehensive reporting.
 
 ## Features
-- **Automatic Time Tracking**: Record work time automatically for individuals and teams.
-- **Flexible Time Tracker**: Supports tracking by project, task, client, or user, accommodating different work styles (remote, in-office, part-time, full-time).
-- **Project Management**: Visualize project progress, allocate resources, and prioritize tasks.
-- **Online Timesheets**: Digital timesheet management to comply with internal processes and reduce paperwork.
-- **Attendance Tracking**: Monitor team member attendance and presence.
-- **Time Cards**: Collect, access, and store accurate employee clock-in/out data to meet legal requirements.
-- **Invoicing & Time Reporting**: Generate professional, customizable time reports for billing clients or internal purposes.
-- **Live and Scheduled Shared Reports**: Share reports online via private/public links, automate report delivery, and schedule regular sharing with clients and colleagues.
-- **Report Customization**: Filter and group time data by project, task, user, or client; export reports or convert them into invoices.
-- **Integrations**: Connect with popular tools and apps to track time without switching between platforms.
-- **Performance Insights**: Analyze team work data to optimize resource allocation and productivity.
-- **Mobile Support**: Track time and manage tasks on mobile devices.
-- **Security**: Ensures data protection and privacy.
 
-## Category
-team-project-time-tracking
-
-## Tags
-reporting, integration, teams, web-based
+- **Unlimited Free Users**: No restrictions on team size for free plan
+- **Visual Timeline**: See how time is distributed across projects and tasks
+- **One-Click Tracking**: Start/stop timers with single click
+- **Manual Time Entry**: Add time retroactively
+- **Project Management**: Organize work by projects, clients, and tasks
+- **Team Collaboration**: Assign tasks, share projects, comment on work
+- **Calendar Integration**: Sync with Google Calendar and Outlook
+- **Time Estimates**: Set expected durations and compare to actuals
+- **Budget Tracking**: Monitor project budgets and time remaining
+- **Billable Hours**: Mark time as billable or non-billable
+- **Invoicing**: Generate invoices from tracked time
+- **Reports**: Time reports, project profitability, team productivity
+- **Integrations**: Connect with 1000+ tools via Zapier, native integrations with Asana, Trello, Jira
+- **Mobile Apps**: iOS and Android apps for mobile tracking
+- **Browser Extension**: Chrome extension for tracking from any website
 
 ## Pricing
-*No pricing information was provided in the available content.*
+
+- **Free**: Unlimited users, unlimited projects, basic features
+- **Pro**: $5 per user/month - Advanced features, billing, integrations
+- **Business**: $10 per user/month - Team management, custom reports
+- **Enterprise**: Custom pricing - White-label, API access, priority support

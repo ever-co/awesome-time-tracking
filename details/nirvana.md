@@ -1,33 +1,35 @@
 ## Overview
 
-Nirvana is a task management application built specifically around David Allen's Getting Things Done (GTD) methodology. It provides all the components needed for a complete GTD implementation including inbox, next actions, projects, contexts, and areas of focus.
+Nirvana is a task management application built specifically around the Getting Things Done (GTD) methodology. It provides a clean, focused interface for implementing David Allen's complete GTD system.
 
 ## Features
 
-- **Inbox**: Capture all incoming tasks and ideas
-- **Next Actions**: Organize actionable tasks
-- **Projects**: Multi-step outcomes
-- **Contexts**: Filter by location, tool, or situation
-- **Areas of Focus**: Higher-level responsibilities
-- **Someday/Maybe**: Future possibilities
+- **GTD Structure**: Projects, actions, contexts, areas, reference
+- **Inbox Processing**: Dedicated inbox workflow
+- **Next Actions**: Focus on immediately actionable items
 - **Waiting For**: Track delegated items
+- **Someday/Maybe**: Future possibilities list
+- **Contexts**: Organize by location, energy, tools
+- **Areas of Responsibility**: Life areas and roles
+- **Projects**: Multi-step outcomes with next actions
 - **Reference**: Store non-actionable information
-- **Tags**: Flexible categorization
-- **Quick Entry**: Rapid task capture
-- **Cross-Platform**: Web, iOS, Android, desktop
-- **Keyboard Shortcuts**: Efficient navigation
-- **Recurring Tasks**: Automated repetition
+- **Tags**: Additional categorization
+- **Checklists**: Subtasks within actions
+- **Scheduled & Deadlines**: Time-based organization
+- **Focus Mode**: Today's actions only
+- **Quick Entry**: Fast capture from anywhere
+- **Search**: Find anything quickly
+- **Cross-Platform**: Web, Mac, Windows, iOS, Android
 
-## GTD Workflow Support
+## GTD Implementation
 
-1. **Capture**: Quick inbox entry
-2. **Clarify**: Process inbox items
-3. **Organize**: Assign to appropriate lists
-4. **Reflect**: Weekly review features
-5. **Engage**: Context-based views
+**Capture**: Quick add with keyboard shortcut
+**Clarify**: Inbox processing workflow
+**Organize**: File into projects, contexts, areas
+**Reflect**: Review modes for different lists
+**Engage**: Context and focus views
 
 ## Pricing
 
-- **Free**: Basic GTD features
-- **Pro**: $5/month or $50/year - Advanced features
-- All platforms included
+- **Free**: Core GTD features, 100 actions limit
+- **Pro**: $5/month or $48/year - Unlimited actions, all features

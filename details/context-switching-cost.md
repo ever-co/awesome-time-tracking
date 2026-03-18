@@ -1,155 +1,161 @@
 ## Overview
 
-Context Switching Cost refers to the time, energy, and productivity lost when shifting attention between different tasks, projects, or types of work. Research shows that frequent task switching can reduce productivity by up to 40%.
+Context Switching Cost refers to the time and cognitive resources lost when switching from one task or project to another. Research shows these switches significantly reduce productivity, yet most knowledge workers switch contexts dozens of times per day.
 
-## The Science
+## The Research
 
-**Attention Residue**
-- When you switch tasks, part of your attention remains on the previous task
-- Takes 15-25 minutes to fully regain focus
-- Incomplete tasks cause stronger residue
-
-**Cognitive Load**
-- Each task has associated context (goals, constraints, details)
-- Switching requires unloading one context and loading another
-- Mental overhead accumulates with frequent switches
-
-**Time Loss**
-- Average 23 minutes to refocus after interruption
-- Multiple switches per hour compound the problem
-- Can lose 2+ hours daily to switching costs
+**Key findings:**
+- **9.5 minutes average** to recover focus after switching apps
+- **23 minutes** to regain deep focus after major interruption  
+- **40% productivity loss** from multitasking
+- **82 task switches per day** for average knowledge worker
+- **Study by Qatalog & Cornell**: Context switching is top productivity killer
 
 ## Types of Context Switches
 
-**Task Switching**
-- Moving between unrelated tasks
-- Example: Writing → Email → Phone call → Writing
+### High-Cost Switches
+- **Domain switches**: Programming → design → marketing
+- **Deep-to-shallow**: Focused work → email → back to focused work
+- **Mode switches**: Creative thinking → analytical thinking
+- **Tool switches**: Different apps, platforms, interfaces
 
-**Project Switching**
-- Changing between different projects
-- Requires loading different goals and constraints
+### Lower-Cost Switches
+- **Within-project**: Related tasks in same domain
+- **Sequential**: Planned transitions with preparation
+- **Shallow-to-shallow**: Email → Slack → meetings
 
-**Mental Mode Switching**
-- Shifting between creative and analytical work
-- Moving from deep work to communication
-- Changing from strategic to tactical thinking
+## Why Context Switching Is Costly
 
-**Tool Switching**
-- Changing applications or platforms
-- Learning/remembering different interfaces
-- Managing multiple browser tabs and windows
+### 1. Attention Residue
+- Previous task still occupies working memory
+- Takes time to fully disengage
+- Reduces capacity for new task
 
-## Measured Costs
+### 2. Mental Model Reload
+- Must rebuild context for new task
+- Retrieve project-specific knowledge
+- Remember where you left off
+- Recall relevant information
 
-**Time Costs**
-- 15-25 minutes to regain full focus
-- 40% productivity reduction from frequent switching
-- 2-4 hours lost per day to context switching
+### 3. Tool Switching
+- Navigate to new application
+- Remember keyboard shortcuts
+- Adapt to different interface
+- Load necessary files/data
 
-**Quality Costs**
-- Increased errors from divided attention
-- Shallow rather than deep work
-- Incomplete task closure
+### 4. Working Memory Limits
+- Brain can only hold limited information
+- Switching flushes working memory
+- Must reload context from long-term memory
+- Takes cognitive energy
 
-**Mental Costs**
-- Increased stress and cognitive fatigue
-- Decision fatigue from constant reprioritization
-- Reduced creative thinking capacity
+## Calculating the Cost
 
-## Strategies to Minimize Context Switching
+**Example day:**
+- 8 hours available
+- 30 context switches
+- 10 minutes recovery per switch
+- Total cost: 5 hours lost
+- Actual productive time: 3 hours
 
-**Time Blocking**
-- Dedicate uninterrupted blocks to single projects
-- Schedule context switches rather than allowing random interruptions
-- Group similar tasks together
+**Real productivity:**
+- Feels like 8 hours of work
+- Actually achieving 3 hours of output
+- 62.5% productivity loss from switching
 
-**Batch Processing**
-- Handle all similar tasks in one session
-- Example: All emails at once, not scattered throughout day
+## Minimization Strategies
 
-**Single-Tasking**
-- Focus on one task to completion before switching
-- Close unrelated tabs and applications
-- Use website/app blockers during focus time
+### 1. Time Blocking
+- Block 90+ minute chunks for single projects
+- Batch similar tasks together
+- Minimize total number of switches per day
 
-**Communication Boundaries**
-- Set specific times for checking messages
-- Use "do not disturb" during deep work
-- Batch communication tasks
+### 2. Task Batching
+- Group similar activities (all calls, all emails, all admin)
+- Complete entire batch before switching
+- Reduces cross-domain switches
 
-**Project Theming**
-- Dedicate days to specific projects
-- Minimize daily project switching
-- Complete all project tasks in dedicated blocks
+### 3. Notification Management
+- Turn off all non-essential notifications
+- Batch check email/messages at scheduled times
+- Use "Do Not Disturb" during focus work
 
-**Physical Cues**
-- Change location for different work types
-- Use specific music for specific tasks
-- Visual workspace organization by project
+### 4. Single-Tasking
+- One window/app visible at a time
+- Close email while doing deep work
+- Hide browser tabs unrelated to current task
+- Use focus apps to enforce single-tasking
 
-## Reducing Unavoidable Switches
+### 5. Transition Rituals
+- 5-minute boundary between tasks
+- Write "next steps" before switching away
+- Physical reset (walk, stretch) between major switches
+- Clear desk between projects
 
-**When Switching is Necessary:**
+### 6. Day Theming
+- Different days for different work types
+- Monday: Client work
+- Tuesday: Internal projects  
+- Wednesday: Meetings
+- Reduces daily cross-domain switches
 
-**Create Transition Rituals**
-- 5-minute brain dump of current task state
-- Physical movement or break
-- Review notes for incoming task
+### 7. Calendar Design
+- Cluster meetings together
+- Leave 90+ minute gaps between meetings
+- Add buffer time between different task types
+- Block focus time proactively
 
-**Use External Memory**
-- Write down where you left off
-- Document next steps before switching
-- Use task management system as external brain
+## Measurement
 
-**Close Previous Context**
-- Finish thought or section before switching
-- Create stopping point
-- Quick wins provide closure
+**Track your switches:**
+- Count task switches per day
+- Note switch types (high vs. low cost)
+- Measure blocks of uninterrupted time
+- Track time to regain focus
 
-**Plan Switches**
-- Schedule switches in advance
-- Allow transition time
-- Prepare for upcoming context
+**Tools:**
+- RescueTime tracks application switches
+- Calendar analysis shows meeting fragmentation
+- Time tracking apps reveal context patterns
 
-## Measuring Your Context Switching
+## Organizational Solutions
 
-**Track Switches**
-- Count daily context switches
-- Note what triggers switches
-- Measure time to regain focus
+### No-Meeting Days
+- Entire days free of meetings
+- Organization-wide or team-specific
+- Protect maker time
 
-**Analyze Patterns**
-- Which switches are necessary?
-- Which are self-imposed?
-- What triggers could be eliminated?
+### Core Collaboration Hours
+- Limit meetings to specific windows
+- Protect rest of day for focused work
+- Reduce calendar fragmentation
 
-**Calculate Cost**
-- Estimate time lost per switch
-- Multiply by daily switches
-- Calculate weekly/monthly productivity loss
+### Async-First Culture
+- Default to written communication
+- Reduce synchronous interruptions
+- Enable continuous focus blocks
 
-## Tools to Reduce Context Switching
+### Project Rotation
+- Work on single project for entire day/week
+- Reduce jumping between projects
+- Go deep before switching
 
-- Time tracking apps (reveal switching patterns)
-- Website blockers (prevent distraction switches)
-- Focus apps (enforce single-tasking)
-- Task management systems (reduce decision switching)
-- Calendar blocking (schedule switches)
-- Do not disturb modes (prevent interruptions)
+## The Goal
 
-## Organizational Impact
+Aim for:
+- **Maximum 5-10 switches per day**
+- **At least 2-3 blocks of 90+ minutes** for deep work
+- **Batch all similar tasks** together
+- **Protect morning hours** for highest-value work
+- **Accept some switches are unavoidable** but minimize deliberately
 
-**Individual Level**
-- Personal productivity loss
-- Increased stress
-- Lower quality output
+## Common Myths
 
-**Team Level**
-- Communication overhead
-- Meeting interruptions
-- Collaboration friction
+**Myth**: "I'm good at multitasking"
+**Reality**: Nobody is - research shows everyone suffers from switching costs
 
-**Company Level**
-- Reduced innovation
-- Slower project completion
-- Employee burnout
+**Myth**: "Quick check of email doesn't hurt"
+**Reality**: Even brief switches incur 10+ minute recovery time
+
+**Myth**: "Busy calendar means productive"
+**Reality**: Fragmented calendar often means minimal deep work accomplished

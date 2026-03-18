@@ -1,26 +1,28 @@
 ## Overview
 
-Timeneye is a time tracking and project management tool that emphasizes visual representation of time data. It combines calendar-based time entry with powerful analytics and team management features.
+Timeneye is a time tracking platform that emphasizes visual representation of time through calendar integration and timeline views. The software combines automatic tracking capabilities with manual time entry and project budgeting features.
 
 ## Features
 
-- **Calendar Integration**: Native sync with Google Calendar and Outlook
-- **Visual Time Entry**: Drag and drop time tracking on calendar
-- **Project Tracking**: Organize time by projects and phases
-- **Team Management**: Track team time and capacity
-- **Suggestions**: AI-powered time entry suggestions
-- **Budgets**: Set and track project budgets
-- **Reporting**: Comprehensive time reports and analytics
-- **Invoicing**: Generate invoices from tracked time
-- **Integrations**: 50+ integrations including Jira, Asana, Slack
-- **Mobile Apps**: iOS and Android time tracking
-- **Automatic Tracking**: Desktop app with automatic time capture
-- **Approval Workflows**: Timesheet approval process
+- **Calendar View**: See tracked time overlaid on your calendar
+- **Visual Timeline**: Graphic representation of how time is distributed
+- **Automatic Tracking**: Desktop app captures application and website usage
+- **Manual Time Entry**: Add time retroactively or use start/stop timers
+- **Project Budgeting**: Set time and cost budgets, monitor progress
+- **Team Management**: Track team time across projects and clients
+- **Billable Hours**: Mark time as billable or non-billable
+- **Time Estimates**: Compare actual time to estimates
+- **Calendar Integration**: Sync with Google Calendar, Outlook, Apple Calendar
+- **Suggestions**: AI-powered suggestions based on calendar events
+- **Reports**: Detailed time reports, project profitability, utilization
+- **Integrations**: Asana, Trello, Jira, Slack, and more
+- **Browser Extension**: Track time directly from project management tools
+- **Mobile Apps**: iOS and Android for mobile time tracking
+- **Export Options**: Export data to Excel, CSV, PDF
 
 ## Pricing
 
-- **Free**: 1 user with basic features
-- **Startup**: €6/user/month - Small teams
-- **Business**: €9/user/month - Advanced features
-- **Enterprise**: Custom pricing - Large organizations
-- 14-day free trial for paid plans
+- **Free**: 1 user, unlimited projects, basic features
+- **Starter**: €6 per user/month - Team features, integrations
+- **Premium**: €9 per user/month - Advanced reporting, budgets
+- **Enterprise**: Custom pricing - White-label, API, dedicated support

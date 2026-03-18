@@ -1,71 +1,40 @@
 ## Overview
 
-Cold Turkey Blocker is known for its strict enforcement of website and app blocking. Once a blocking session starts, it cannot be turned off until the timer expires - even if you restart your computer or uninstall the application.
+Cold Turkey Blocker is a robust distraction-blocking application for Windows and Mac that emphasizes strict enforcement. Unlike other blockers, Cold Turkey makes it extremely difficult to bypass blocks, making it ideal for users who need serious accountability.
 
-## Key Features
+## Features
 
-### Unbreakable Blocking
-The signature feature is that blocks cannot be circumvented:
-- Restarting the computer won't end the block
-- Uninstalling the app won't end the block
-- Changing system time won't end the block
-- The only way out is to wait for the timer to expire
+- **Website Blocking**: Block specific sites or use wildcard patterns
+- **App Blocking**: Prevent access to applications and games
+- **Scheduled Blocks**: Plan blocking sessions in advance
+- **Frozen Turkey**: Unbreakable locks with no emergency exit
+- **Statistics**: Detailed usage tracking and blocking reports
+- **Exceptions**: Allow specific pages on blocked sites
+- **Break Scheduling**: Force regular breaks from computer
+- **Whitelist Mode**: Allow only specific sites/apps
+- **Text Blocking**: Block sites containing specific words
+- **Redirect Blocking**: Prevent bypassing via search results
+- **Nuclear Option**: Block entire internet
+- **Locked Mode**: No way to disable until timer expires
 
-### Scheduled Blocks
-Create recurring schedules for when blocking should automatically activate, supporting consistent productivity habits.
+## Advanced Features (Pro)
 
-### Multiple Blocklists
-Create different blocklists for different purposes (work, study, writing) and activate them as needed.
+- **Password Protection**: Require password to change settings
+- **Random Passwords**: Generate random password for unbreakable blocks
+- **Device Restrictions**: Block at specific times on specific days
+- **Continuous Blocks**: Multi-day or continuous blocking periods
+- **Import/Export**: Share block lists
+- **Stricter Enforcement**: Additional anti-bypass measures
 
-### Application Blocking
-Block not just websites but also desktop applications that might be distracting.
+## Enforcement Philosophy
 
-### Allowlist Mode
-In addition to blacklisting distractions, can whitelist only approved sites/apps, blocking everything else.
-
-## Use Cases
-
-### Exam Preparation
-Students use it to block all distractions during study sessions, ensuring focused preparation time.
-
-### Deep Work
-Knowledge workers block distractions for extended deep work sessions on important projects.
-
-### Digital Detox
-People seeking to reduce screen time or break social media habits.
-
-### Writing Projects
-Authors and content creators block everything except writing tools to maintain flow.
-
-## Pros and Cons
-
-### Advantages
-- Absolutely reliable blocking
-- Builds discipline through commitment
-- Supports long-term habit formation
-- Cross-platform (Windows and Mac)
-
-### Cautions
-- Strict nature requires careful planning
-- No emergency override (plan accordingly)
-- Requires strong initial commitment
-- Not suitable for those needing flexibility
-
-## Comparison to Alternatives
-
-### vs. Freedom
-Cold Turkey is stricter and harder to bypass, while Freedom offers more flexibility.
-
-### vs. SelfControl (Mac)
-Similar philosophy of unbreakable blocks, but Cold Turkey is cross-platform.
-
-### vs. Browser Extensions
-Much more robust - can't be disabled like browser extensions.
-
-## Platform Availability
-
-Available for both Windows and macOS.
+Cold Turkey is designed for users who:
+- Need serious accountability, not gentle reminders
+- Want no backdoors or bypass options
+- Struggle with self-control around digital distractions
+- Require unbreakable focus sessions
 
 ## Pricing
 
-Offers a free version with basic features and a paid Pro version with advanced scheduling and blocking capabilities.
+- **Free**: Basic blocking features for Windows and Mac
+- **Pro**: $39 one-time purchase - Advanced features, lifetime updates

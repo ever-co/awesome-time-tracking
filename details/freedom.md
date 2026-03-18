@@ -1,44 +1,43 @@
 ## Overview
 
-Freedom is a powerful distraction blocking app that works across Mac, Windows, iOS, Android, and Chrome. It allows you to block websites, apps, or the entire internet across all your devices simultaneously, helping you maintain focus and productivity.
+Freedom is a comprehensive distraction-blocking application that works across all your devices simultaneously. It helps users maintain focus by blocking websites, apps, and even the entire internet during scheduled work sessions.
 
 ## Features
 
-- **Cross-Device Syncing**: Block across all devices at once
-- **Website Blocking**: Block specific sites or categories
-- **App Blocking**: Block distracting desktop and mobile apps
-- **Internet Blocking**: Option to block entire internet
-- **Scheduled Sessions**: Pre-schedule recurring block sessions
-- **Locked Mode**: Prevent yourself from ending sessions early
-- **Custom Blocklists**: Create multiple blocklists for different contexts
-- **Scheduling**: Recurring daily/weekly blocking schedules
-- **Focus Sounds**: Optional ambient sounds and music
-- **Statistics**: Track time spent in focused work
-- **Team Features**: Accountability groups and shared sessions
+- **Multi-Device Blocking**: Block across Mac, Windows, iOS, Android simultaneously
+- **Website Blocking**: Block specific sites or entire categories
+- **App Blocking**: Prevent access to distracting desktop and mobile apps
+- **Scheduled Sessions**: Plan blocking sessions in advance
+- **Recurring Blocks**: Set up daily/weekly blocking schedules
+- **Locked Mode**: Make sessions unbreakable once started
+- **Ambient Sounds**: Built-in focus music and nature sounds
+- **Sync Across Devices**: Single block list applies everywhere
+- **Block Lists**: Pre-made lists (social media, news, shopping) or custom
+- **Statistics**: Track time freed from distractions
+- **Allowlist Mode**: Block everything except specific sites
+- **Pause Blocking**: Temporary pause for emergencies
+
+## Block Types
+
+- **Website Block**: Specific URLs or domains
+- **App Block**: Native and web applications
+- **Nuclear Option**: Block entire internet
+- **Custom Schedules**: Different blocks for different times
+- **Category Blocking**: Social media, news, entertainment, shopping
 
 ## Use Cases
 
-- Writing and creative work
-- Studying and research
-- Deep work sessions
-- Digital detox
-- Evening phone-free time
-- Exam preparation
-- Focus sprints
-
-## Blocklists
-
-- Social media
-- News sites
-- Entertainment
-- Games
-- Shopping
-- Custom lists
+- Deep work sessions without digital interruptions
+- Study time without social media temptation
+- Writing and creative work requiring full focus
+- Reducing compulsive website checking
+- Digital wellness and screen time management
+- Better sleep by blocking devices before bed
 
 ## Pricing
 
 - **Monthly**: $8.99/month
-- **Yearly**: $39/year
-- **Forever**: $199 one-time
-- 7-day free trial
-- Works on Mac, Windows, iOS, Android, Chrome
+- **Yearly**: $39/year (save 64%)
+- **Forever**: $199 one-time (lifetime access)
+
+All plans include unlimited devices and sessions.

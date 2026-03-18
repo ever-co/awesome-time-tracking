@@ -1,24 +1,42 @@
 ## Overview
 
-Memtime is a fully automatic time tracking tool that records all your computer activities in a private timeline. It's designed for consultants, lawyers, and other professionals who bill by the hour but don't want to constantly start and stop timers.
+Memtime is an automatic time tracking application that prioritizes user privacy by storing all data locally on your computer. Unlike cloud-based trackers, Memtime captures your activities without sending any information to external servers, making it ideal for privacy-conscious users and organizations.
 
 ## Features
 
-- **Automatic Activity Capture**: Records all programs, documents, emails, and websites
-- **Memory Timeline**: Visual timeline of your entire workday
-- **Offline Tracking**: Works without internet connection
-- **Privacy First**: All data stored locally on your computer
-- **Manual Categorization**: Review and assign activities to projects after the fact
-- **Project Time Tracking**: Organize time by projects and clients
-- **Calendar Integration**: Syncs with Outlook and Google Calendar
-- **Billable Hours**: Track billable and non-billable time
-- **Reporting**: Export time data for billing and analysis
-- **No Screenshots**: Never takes screenshots or keystroke logs
-- **Integrations**: Exports to popular project management tools
+- **100% Automatic**: Tracks all computer activities in the background
+- **Complete Privacy**: All data stored locally, never leaves your device
+- **Memory Timeline**: Visual timeline showing all activities
+- **Project Assignment**: Allocate captured time to projects and tasks
+- **No Screenshots**: Pure activity tracking without invasive monitoring
+- **Offline First**: Works without internet connection
+- **Activity Recall**: Remember what you worked on with detailed activity logs
+- **Calendar Integration**: Sync with calendars to pre-fill timesheets
+- **Timesheet Generation**: Create timesheets from captured activities
+- **Budget Tracking**: Monitor project time budgets
+- **Export**: Export timesheets to various formats
+- **Integrations**: Connect with project management and billing tools
+- **Multi-Computer**: Track across multiple devices (data stays local)
+
+## Privacy Features
+
+- No cloud storage requirement
+- No screenshots or screen recording
+- No remote access or monitoring
+- GDPR compliant
+- Data ownership remains with user
+- Optional sharing only
+
+## Use Cases
+
+- Consultants tracking billable hours
+- Lawyers needing detailed time records
+- Freelancers reconstructing past work
+- Privacy-conscious professionals
+- Organizations with data security requirements
 
 ## Pricing
 
-- **Pro**: €9/user/month - Full features for individuals
-- **Team**: €12/user/month - Team features and centralized billing
-- 14-day free trial available
-- All data stored locally for privacy
+- **Free Trial**: 14 days full access
+- **Pro**: €9 per user/month - Full features
+- **Enterprise**: Custom pricing - Team features, priority support

@@ -1,26 +1,30 @@
-# Grindstone
+## Overview
 
-**Grindstone** is a freeware desktop time tracking application for Microsoft Windows, developed by Epiforge Software. It enables users to create, organize, and track time spent on tasks, making it suitable for individual and team productivity management.
+Grindstone is a free desktop time tracking application for Windows that combines traditional time tracking with gamification elements. It uses achievements, profiles, and visual task management to make time tracking more engaging.
 
 ## Features
-- Task List window for managing and organizing tasks
-- Desktop gadget-like stopwatch for starting, stopping, and controlling timers
-- AFK (away-from-keyboard) detection to pause tracking when inactive
-- Timesheet generation and reporting capabilities
-- Invoicing features
-- Custom fields for tasks and time entries
-- Synchronization of time tracking data for multiple users via the optional paid "Task Force" service
-- Portable version available (can be run without installation)
-- Data export functionality
-- Available in English
+
+- **Free**: Completely free with no premium tiers
+- **Task Organization**: Hierarchical task breakdown
+- **Time Tracking**: Start/stop timers for tasks
+- **Interruption Handling**: Pause and resume with one click
+- **Profiles**: Different configurations for different work types
+- **Achievements**: Unlock achievements for productivity milestones
+- **Estimates**: Compare actual time to estimates
+- **Idle Detection**: Automatically detect when you're away
+- **Notes**: Add context to time entries
+- **Reports**: Detailed time reports with charts
+- **Export**: CSV export for payroll/billing
+- **Offline**: Works completely offline
+- **No Account Required**: All data stored locally
+
+## Gamification Elements
+
+- Achievements for consistency, focus, and productivity
+- Visual progress indicators
+- Statistics and personal records
+- Motivational feedback
 
 ## Pricing
-- The main Grindstone application is **freeware** (free to use)
-- Synchronization for multiple users is available via a paid service called "Task Force"
 
-## Links
-- [Official Website](http://epiforge.com/Grindstone/)
-- [Wikipedia Article](https://en.wikipedia.org/wiki/Grindstone_(time-tracking_software))
-
-## Tags
-windows, stopwatch, timesheet, invoicing, portable
+Completely free for all features.

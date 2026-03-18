@@ -1,53 +1,40 @@
 ## Overview
 
-Beeminder is a unique goal tracking service that uses commitment contracts and financial penalties to keep you accountable. You pledge money that you'll lose if you go off track from your goals, leveraging loss aversion psychology.
-
-## How It Works
-
-1. **Set a Goal**: Define what you want to achieve
-2. **Create Yellow Brick Road**: Set your target rate of progress
-3. **Track Data**: Manually or via integrations
-4. **Stay on Track**: Keep above the yellow brick road
-5. **Derail or Succeed**: Get charged if you fail, celebrate if you succeed
+Beeminder is a unique goal-tracking platform that combines data tracking with financial commitment contracts. Users pledge money that they'll lose if they go off track from their goals, leveraging loss aversion psychology to maintain consistency.
 
 ## Features
 
-- **Commitment Contracts**: Financial stakes for goal adherence
-- **Flexible Goals**: Any quantifiable metric
-- **Integrations**: 100+ service integrations for automatic tracking
-- **Yellow Brick Road**: Visual progress path
-- **Safety Buffer**: Emergency day gives you a break
-- **Data Entry**: Manual or automatic tracking
-- **Custom Pledges**: Set your own stakes ($0-$1000+)
-- **Escalating Pledges**: Penalties increase with repeated derailments
-- **API**: Extensive API for custom integrations
+- **Commitment Contracts**: Pledge money you'll lose if you fail to meet goals
+- **Yellow Brick Road**: Visual representation of your goal trajectory
+- **Automatic Data Import**: Integrates with 100+ apps and services
+- **Flexible Goal Types**: Do more, do less, custom targets
+- **Smart Scheduling**: Automatic adjustment of daily requirements
+- **Derailment Protection**: Grace periods and emergency stops
+- **Data Aggregation**: Combine multiple data sources for one goal
+- **Custom Integrations**: API access for tracking anything
+- **Mobile Apps**: iOS and Android for on-the-go tracking
+- **Accountability**: Email and SMS reminders when goals are at risk
+- **Community**: Forums and user groups for support
 
-## Goal Types
+## How It Works
 
-- Time tracking (Toggl, RescueTime)
-- Exercise (Fitbit, Strava, Apple Health)
-- Weight loss (various scales)
-- Meditation (Headspace, Calm)
-- Writing (Draft, Pocket)
-- Reading (Goodreads, Kindle)
-- Coding (GitHub commits)
-- Custom metrics
+1. **Set a Goal**: Define what you want to track (e.g., work 20 hours/week)
+2. **Commit Money**: Choose how much you'll pledge (starts at $0, increases with derailments)
+3. **Track Progress**: Manual entry or automatic data import
+4. **Stay on Track**: Keep within your "yellow brick road" or pay the pledge
+5. **Ratchet Up**: Optionally make goals more challenging over time
 
-## Psychology
+## Use Cases for Time Management
 
-**Loss Aversion**
-- Fear of losing money is powerful motivator
-- Stronger than equivalent gain
-- Creates immediate accountability
-
-**Commitment Device**
-- Pre-commit to goals publicly
-- Raise costs of quitting
-- External accountability
+- Track focused work hours per day/week
+- Maintain consistent pomodoro sessions
+- Limit time on distracting websites
+- Meet project deadline milestones
+- Consistent work on side projects
+- Maintain work-life balance metrics
 
 ## Pricing
 
-- **Core Service**: Free with optional pledge amounts
-- **Bee Plus**: $8/month - Premium features
-- **Infinibee**: $16/month - Unlimited active goals
-- Derailment charges go to Beeminder (your pledged amount)
+- **Free**: Core features, $0-$5 pledge amounts
+- **Bee Plus**: $4/month or $48/year - Higher pledge caps, more features
+- **Bee Lite**: $2/month - Support development, fewer pledge limits

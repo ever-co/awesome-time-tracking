@@ -1,24 +1,32 @@
 ## Overview
 
-Toggl Plan (formerly Teamweek) is a visual project planning and team scheduling tool from the makers of Toggl Track. It provides an intuitive timeline view for planning projects and managing team capacity.
+Toggl Plan (formerly Teamweek) is a visual project planning and team scheduling tool from Toggl. Unlike Toggl Track which focuses on time tracking, Toggl Plan emphasizes planning, timelines, and resource allocation with a visual drag-and-drop interface.
 
 ## Features
 
-- **Visual Timeline**: Drag-and-drop project planning
+- **Visual Timeline**: Drag-and-drop Gantt-style planning
 - **Team Scheduling**: See who's working on what and when
-- **Resource Management**: Track team capacity and availability
-- **Milestones**: Set and track project milestones
-- **Task Management**: Create and assign tasks to team members
-- **Time Estimates**: Add time estimates to tasks
-- **Color Coding**: Visual organization with custom colors
-- **Team Availability**: Track time off and holidays
-- **Integrations**: Connects with Toggl Track for time tracking
-- **Templates**: Reusable project templates
-- **Client Access**: Share roadmaps with clients
-- **Multiple Views**: Timeline, board, and list views
+- **Resource Management**: Balance workload across team
+- **Milestones**: Track project deadlines and key dates
+- **Color Coding**: Visual project and task differentiation
+- **Team Calendar**: Shared team availability and schedules
+- **Time Estimates**: Plan with duration estimates
+- **Collaboration**: Comments, file attachments, task discussions
+- **Multiple Views**: Timeline, list, and board views
+- **Capacity Planning**: Avoid overallocation
+- **Integrations**: Connects with Toggl Track, Slack, Google Calendar
+- **Mobile Apps**: iOS and Android
+
+## Use Cases
+
+- Project planning and visualization
+- Team capacity management
+- Resource allocation
+- Timeline communication
+- Workload balancing
 
 ## Pricing
 
-- **Team**: $8/user/month - Full features for teams
-- **Business**: $13.35/user/month - Advanced features and support
-- 14-day free trial available
+- **Free**: Up to 5 team members
+- **Team**: $8 per user/month - Unlimited teams and projects
+- **Business**: $13.35 per user/month - Advanced features

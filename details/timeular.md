@@ -1,27 +1,41 @@
-# Timeular
+## Overview
 
-**Category:** Cross-platform Time Tracking  
-**Website:** [https://timeular.com/](https://timeular.com/)
-
-## Description
-Timeular is a physical device and software solution designed for effortless, smart, and secure time and leave tracking for individuals and teams. It provides tools to easily track work hours, manage leave, and gain productivity insights across platforms.
+Timeular combines a physical 8-sided tracking dice ("The Tracker") with time tracking software to make time tracking as simple as flipping a physical object. Each face of the dice represents a different activity - just flip it to the relevant face to start tracking.
 
 ## Features
-- **Automatic Time Tracking:** Tracks apps and documents automatically, with privacy controls and calendar integration.
-- **Physical Tracker Device:** Optional physical device allows users to start/stop tracking by flipping the device.
-- **Quicktrack:** Global keyboard shortcut for instant start/stop of time tracking and note-taking from any application.
-- **Timesheet Generation:** Creates automatic timesheets for accurate reporting.
-- **Leave and PTO Management:** Tracks all types of leave and presents them in a unified view.
-- **Overtime Tracking:** Monitors work hours and overtime for compliance and workload management.
-- **Productivity Insights:** Provides actionable insights to optimize workflows and identify bottlenecks.
-- **Shared Dashboards:** Centralized dashboards for teams to monitor progress and ensure accurate records.
-- **Billing Integration:** Accurately logs billable hours for invoicing and revenue tracking.
-- **Customizable Workflows:** Tailors time tracking features to unique business needs.
-- **Integrations:** Syncs data with over 3,000 tools for streamlined workflows.
-- **Cross-Platform Availability:** Desktop and mobile apps ensure tracking on any device.
+
+### The Physical Tracker
+- **8-Sided Dice**: Each face represents one activity/project
+- **Bluetooth Connected**: Syncs wirelessly with computer and phone
+- **LED Lights**: Visual feedback showing tracking status
+- **Customizable Stickers**: Label each face with your activities
+- **Battery Powered**: USB rechargeable, weeks of battery life
+- **Desk Presence**: Always visible reminder to track time
+
+### Software Features
+- **Automatic Tracking**: Time starts when you flip the Tracker
+- **Manual Entry**: Add time retroactively via app
+- **Activity Reports**: Detailed analytics of time distribution
+- **Shared Activities**: Team members can track same activities
+- **Billable Hours**: Mark activities as billable
+- **Calendar Integration**: Sync with Google Calendar, Outlook
+- **Goals**: Set time goals for activities
+- **Tags**: Additional categorization beyond the 8 faces
+- **Notes**: Add context to time entries
+- **Export**: PDF, Excel, CSV reports
+- **Integrations**: Connect with project management tools
+
+## Benefits of Physical Tracking
+
+- **Zero Friction**: Physical action easier than opening app
+- **Visual Reminder**: Dice on desk prompts tracking
+- **Tactile Satisfaction**: Physical flip provides completion feeling
+- **No Screen Time**: Track without needing device
+- **Always Accessible**: No need to unlock phone or computer
 
 ## Pricing
-No pricing information is provided in the available content.
 
-## Tags
-Device, Cross-platform, Leave-tracking, Teams
+- **Hardware**: €59 (one-time) for the Tracker device
+- **Software Free**: Basic app features included
+- **Pro**: €6.30 per user/month - Advanced features, team collaboration
+- **Team**: €9 per user/month - Team dashboards, admin controls

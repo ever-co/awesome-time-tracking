@@ -1,31 +1,43 @@
 ## Overview
 
-Rize is an intelligent time tracker that uses AI to automatically categorize your computer activity, track focus sessions, and provide personalized productivity coaching. It learns your work patterns and gives actionable insights to help you improve.
+Rize is an AI-powered automatic time tracking application that goes beyond passive tracking to actively improve your focus and productivity. The software analyzes your work patterns and provides real-time feedback, break suggestions, and focus scores to help you work more effectively.
 
 ## Features
 
-- **Automatic Time Tracking**: Tracks all computer activity
-- **AI Categorization**: Automatically categorizes work by project and type
-- **Focus Time Tracking**: Identifies and measures deep work sessions
-- **Break Reminders**: Smart break suggestions based on your work patterns
-- **Meeting Analytics**: Analyzes meeting time and patterns
-- **Productivity Score**: Daily productivity metrics
-- **Focus Music Integration**: Built-in focus music
-- **Goals and Targets**: Set focus time and productivity goals
-- **Weekly Reports**: Comprehensive productivity summaries
-- **Privacy First**: All data stays local on your computer
-- **Cross-Platform**: Mac and Windows
+- **Automatic Tracking**: Silently tracks all applications and activities
+- **AI Focus Sessions**: Detects when you're in flow and protects that time
+- **Real-Time Feedback**: Live notifications about focus quality
+- **Smart Break Suggestions**: Recommends breaks based on work intensity
+- **Focus Score**: Daily metric showing focus quality (0-100)
+- **Category Classification**: AI categorizes activities as productive, neutral, or distracting
+- **Focus Music**: Integrated playlists designed for concentration
+- **Break Reminders**: Intelligent reminders based on your patterns
+- **Meeting Analysis**: Automatically detects and categorizes meetings
+- **Daily Summary**: Email recap of your productivity patterns
+- **Focus Trends**: Track improvement over time
+- **Goal Setting**: Set daily focus goals
+- **Break Timer**: Pomodoro-style break enforcement
+- **Privacy Controls**: Choose what to track, local storage option
 
 ## AI Capabilities
 
-- Learns your work patterns over time
-- Suggests optimal work/break schedules
-- Identifies productivity blockers
-- Personalizes recommendations
-- Predicts focus time availability
+- **Pattern Recognition**: Learns your work habits
+- **Context Detection**: Understands different types of work
+- **Personalized Insights**: Tailored recommendations based on your data
+- **Focus Protection**: Blocks distractions during deep work
+- **Optimal Break Timing**: Suggests breaks at natural transition points
+
+## Metrics Tracked
+
+- **Focus Score**: Overall productivity quality
+- **Deep Work Time**: Sustained focus sessions
+- **Meeting Time**: Time in meetings
+- **Break Frequency**: How often you rest
+- **Context Switches**: Task switching patterns
+- **Peak Hours**: When you work best
 
 ## Pricing
 
-- **Free Trial**: 14 days
-- **Pro**: $9.99/month - Full features and insights
-- Mac and Windows support
+- **Free Trial**: 7 days full access
+- **Individual**: $16/month - All features, unlimited tracking
+- **Teams**: Custom pricing - Team dashboards, admin controls
