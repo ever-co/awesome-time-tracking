@@ -11,9 +11,9 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Practices (355)](#practices)
 - [Time Management Methodology (79)](#time-management-methodology)
 - [Time Management Practice (110)](#time-management-practice)
-- [Productivity Tool (60)](#productivity-tool)
+- [Productivity Tool (61)](#productivity-tool)
 - [Time Management Philosophy (23)](#time-management-philosophy)
-- [Time Tracking Software (94)](#time-tracking-software)
+- [Time Tracking Software (95)](#time-tracking-software)
 - [Automatic Time Tracking (21)](#automatic-time-tracking)
 - [attendance-payroll-management (6)](#attendance-payroll-management)
 - [Automated Time Tracking (28)](#automated-time-tracking)
@@ -710,6 +710,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Blocking Apps 2026](https://thedigitalprojectmanager.com/tools/best-time-blocking-app/) - Specialized calendar and scheduling applications designed specifically for time blocking methodology. Feature visual time block creation, drag-and-drop scheduling, task integration, and analytics for optimizing daily schedules. ([Read more](/details/time-blocking-apps-2026.md)) `Time Blocking` `Calendar` `Scheduling`
 - [Timeboxing Software](https://timeblockplanner.com) - Category of apps and tools designed specifically for timeboxing methodology. Calendar-based planning tools that help allocate fixed time blocks to tasks and activities. ([Read more](/details/timeboxing-software.md)) `Timeboxing` `Planning` `Calendar`
 - [TimeTune](https://play.google.com/store/apps/details?id=com.gmail.jmartindev.timetune) - A comprehensive schedule planner and time blocking app for Android that helps users create structured daily routines, increase productivity, and accomplish more through visual time management and habit tracking. ([Read more](/details/timetune.md)) `Mobile` `Android` `Scheduling` `Time Blocking` `Routines`
+- [Tomato 2](https://tomato2.app/) - A delightful Pomodoro timer app for macOS that lives in your menu bar. Features silent mode, website blocking, customizable focus and break durations, and beautiful light/dark mode support. ([Read more](/details/tomato-2.md)) `Pomodoro` `Mac` `Focus`
 - [Tomato Timer](https://tomato-timer.com) - Simple, free web-based Pomodoro timer. No installation required, just visit the website and start a 25-minute focus session with automatic breaks. ([Read more](/details/tomato-timer.md)) `Pomodoro` `Simple` `Free`
 
 ## Time Management Philosophy
@@ -830,6 +831,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [TrackingTime for Graphic Designers](https://trackingtime.co/industry/time-tracking-for-graphic-designers) - TrackingTime offers specialized time tracking software for graphic designers, providing tools to track creative work, manage design projects, and bill clients accurately for design services. ([Read more](/details/trackingtime-for-graphic-designers.md)) `Designers` `Creative Work` `Freelancers`
 - [Tyme](https://www.tyme-app.com) - Time tracking application available across all Apple platforms with over 20 Shortcuts app actions for macOS and iOS, offering seamless integration throughout the Apple ecosystem. ([Read more](/details/tyme.md)) `Ios` `Mac` `Integrations`
 - [Vimcal EA](https://www.vimcal.com/ea) - First calendar application specifically built for Executive Assistants, featuring advanced scheduling capabilities, multi-executive calendar management, time zone coordination, and EA-specific workflows for managing complex schedules across multiple stakeholders. ([Read more](/details/vimcal-ea.md)) `Calendar` `Executive Assistant` `Scheduling`
+- [Vitamin-R 4](https://www.publicspace.net/Vitamin-R/index.html) - Advanced time boxing productivity app for macOS that structures your workday around highly focused time slices of 15-25 minutes followed by guilt-free breaks. Includes noise machine, distraction blocking, and deep task management integration. ([Read more](/details/vitamin-r-4.md)) `Time Boxing` `Mac` `Pomodoro`
 - [WakaTime Developer Tracking](https://wakatime.com/) - Automatic time tracking plugin for developers that integrates directly into code editors (VS Code, IntelliJ, PyCharm, Vim, etc.). Tracks coding time by project, language, and file with privacy-focused local data processing. ([Read more](/details/wakatime-developer-tracking.md)) `Developers` `Automatic` `Open Source`
 - [WebWork Timesheet Approval](https://www.webwork-tracker.com/features/employee-timesheet-approval-management) - WebWork Timesheet Approval Software streamlines the timesheet approval process with automated routing, multi-level approvals, and audit trails, making payroll processing easier and more accurate for managers and HR teams. ([Read more](/details/webwork-timesheet-approval.md)) `Timesheets` `Approval` `Workflow`
 - [Wordly](https://apps.apple.com/us/app/wordly-effortless-word-and-time-tracking-for-writers/id656126347) - Time tracking and word count productivity app designed specifically for writers, tracking writing sessions with detailed statistics including words per hour, daily/weekly/monthly progress, and visual graphs showing writing trends over time. ([Read more](/details/wordly.md)) `Writers` `Word Count` `Productivity`
