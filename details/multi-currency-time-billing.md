@@ -1,52 +1,29 @@
 ## Overview
 
-Multi-currency time billing enables businesses to track time and bill international clients in their local currencies while maintaining accurate financial records and managing exchange rate fluctuations.
+Multi-currency time billing enables professional services firms to track time in one currency while billing clients in their preferred currency. The system handles currency conversion, exchange rate fluctuations, and maintains accurate financial records across multiple currencies.
 
-## Key Challenges
+## Key Features
 
-### Exchange Rate Management
-- Rates fluctuate daily
-- When to lock in rates (invoice date vs. payment date)
-- Gains/losses on currency conversion
-- Historical rate tracking
+- Automatic currency conversion at current exchange rates
+- Support for 100+ global currencies
+- Client-specific currency preferences
+- Historical exchange rate tracking
+- Multi-currency financial reporting
+- Currency symbol and format localization
 
-### Compliance
-- Local invoicing requirements
-- Tax regulations vary by country
-- VAT/GST considerations
-- Payment method restrictions
+## Benefits
 
-## Best Practices
+- Simplifies international billing
+- Reduces manual conversion errors
+- Provides professional client experience
+- Ensures accurate financial records
+- Handles exchange rate fluctuations
+- Supports global business expansion
 
-### Rate Strategy
-- Lock rate at invoice generation
-- Update rates daily automatically
-- Manual override when needed
-- Clear rate disclosure on invoices
+## Common Use Cases
 
-### Invoicing
-- Bill in client's preferred currency
-- Show equivalent in home currency
-- Include exchange rate used
-- Comply with local formats
-
-### Financial Tracking
-- Track both currencies
-- Reconcile forex gains/losses
-- Report in home currency
-- Maintain currency-specific accounts
-
-## Tools Supporting Multi-Currency
-
-- FreshBooks
-- Xero
-- Zoho Books
-- QuickBooks Online (Advanced)
-- Harvest (via integrations)
-
-Features needed:
-- Multi-currency support
-- Automatic rate updates
-- Currency-specific pricing
-- Localized invoicing
-- Financial reporting in multiple currencies
+- International consulting firms
+- Remote teams serving global clients
+- Digital agencies with worldwide clientele
+- Legal firms with cross-border practice
+- Freelancers working with international companies

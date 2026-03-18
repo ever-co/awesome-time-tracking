@@ -1,21 +1,31 @@
 ## Overview
 
-Policies for how fractional time increments are handled in billing and payroll. Common approaches include 6-minute (0.1 hour), 15-minute, or exact time tracking.
+Time rounding rules determine how actual clock-in/out times are rounded to standard billing or payroll increments. While rounding is legal and common, rules must be applied consistently and neutrally to comply with federal and state labor laws.
 
-## Key Benefits
+## Common Rounding Increments
 
-- Enhanced time management and awareness
-- Improved accuracy in time tracking
-- Better resource allocation
-- Increased productivity and efficiency
+### 15-Minute Rounding
+Most common for hourly employees - rounds to nearest quarter hour
 
-## Implementation
+### 6-Minute Rounding (0.1 hour)
+Standard for professional services - rounds to nearest tenth of hour
 
-This practice can be integrated into existing workflows through systematic application and appropriate tooling.
+### 5-Minute Rounding
+Balance between precision and simplicity
 
-## Use Cases
+### 1-Minute Rounding
+Most precise, increasingly common - no rounding, tracks exact minutes
 
-- Professional services firms
-- Agencies tracking billable hours
-- Teams managing project budgets
-- Organizations optimizing workforce efficiency
+## Legal Compliance
+
+### Federal FLSA Rules
+- Rounding is permitted
+- Must be neutral over time
+- Cannot systematically underpay
+- Must use consistent method
+
+### California Rules (2026)
+- Neutral rounding required
+- If precise time can be recorded, use it
+- Rounding carries litigation risk
+- Trend toward exact time payment
