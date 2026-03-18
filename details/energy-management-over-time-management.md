@@ -1,205 +1,123 @@
 ## Overview
 
-Energy Management Over Time Management is a productivity philosophy that shifts focus from managing hours to managing physical, mental, and emotional energy. The core insight: time is fixed, but energy is renewable and variable.
+Energy Management Over Time Management is a productivity philosophy shift from the traditional focus on time optimization to managing your energy, attention, and cognitive capacity. The core insight: productivity isn't about overriding your natural patterns—it's about understanding and optimizing them.
+
+## Why Time Management Isn't Enough
+
+Traditional time management assumes:
+- All hours are created equal
+- More hours = more productivity
+- Discipline can override biological limitations
+
+Reality shows:
+- Cognitive capacity varies throughout the day
+- Quality of attention matters more than quantity of time
+- Sustainable performance requires energy renewal
+- Working against natural rhythms decreases output
+
+## The Four Energy Dimensions
+
+### 1. Physical Energy
+- **Foundation**: Sleep, nutrition, exercise, movement breaks
+- **Management**: Regular meals, hydration, standing/walking intervals
+- **Peak Window**: 2 hours after waking for most people
+
+### 2. Emotional Energy
+- **Foundation**: Positive relationships, meaningful work, stress management
+- **Management**: Boundary setting, emotional regulation, celebration of wins
+- **Depletion Signs**: Irritability, cynicism, emotional exhaustion
+
+### 3. Mental Energy
+- **Foundation**: Focus time, learning, challenge, variety
+- **Management**: Deep work blocks, context switching minimization, strategic breaks
+- **Peak Capacity**: 4-6 hours of deep cognitive work per day
+
+### 4. Spiritual Energy
+- **Foundation**: Purpose, values alignment, meaning
+- **Management**: Reflection time, goal alignment, contribution focus
+- **Renewal**: Regular review of priorities and purpose
 
 ## Core Principles
 
-### Time is Fixed, Energy is Variable
-- Everyone has 24 hours
-- But energy levels fluctuate dramatically
-- High-energy hour ≠ low-energy hour in output
-- Better to work 4 high-energy hours than 8 low-energy hours
+### 1. Match Tasks to Energy States
+- **High Energy**: Complex problem-solving, strategic decisions, creative work
+- **Medium Energy**: Collaboration, communication, routine analytical work
+- **Low Energy**: Administrative tasks, organization, light planning
 
-### Four Types of Energy
+### 2. Protect and Renew Energy
+- Schedule recovery as intentionally as you schedule work
+- Take breaks before you feel depleted, not after
+- Build in transition time between different types of work
 
-**Physical Energy:**
-- Foundation for all other energy
-- Affected by: sleep, nutrition, exercise, hydration
-- Managed through: regular breaks, movement, proper fuel
+### 3. Optimize for Quality, Not Quantity
+- 4 hours of deep work in a high-energy state > 8 hours in a depleted state
+- One hour of focused energy > three hours of divided attention
 
-**Mental Energy:**
-- Cognitive capacity and focus
-- Affected by: task switching, decisions, complexity
-- Managed through: deep work blocks, single-tasking, rest
+### 4. Create Energy Rituals
+- Morning routines that boost physical and mental energy
+- Midday practices that renew focus
+- Evening routines that facilitate recovery
 
-**Emotional Energy:**
-- Mood, motivation, resilience
-- Affected by: relationships, stress, meaning
-- Managed through: positive interactions, boundaries, purpose
+## Implementation Framework
 
-**Spiritual Energy:**
-- Sense of purpose and meaning
-- Affected by: alignment with values, contribution
-- Managed through: meaningful work, reflection, service
+### Week 1-2: Awareness
+- Track energy levels every 2 hours (scale of 1-10)
+- Note what activities increase or decrease energy
+- Identify your natural peak and trough periods
 
-## Practical Applications
+### Week 3-4: Alignment
+- Reschedule tasks to match energy patterns when possible
+- Protect your highest-energy windows for most important work
+- Build in energy renewal practices
 
-### Match Task to Energy
+### Ongoing: Optimization
+- Experiment with different energy management techniques
+- Adjust schedule based on energy data
+- Monitor for sustainable performance, not just output
 
-**High Energy:**
-- Strategic thinking
-- Creative work
-- Complex problem-solving
-- Important decisions
-- Deep work
+## Energy Renewal Practices
 
-**Medium Energy:**
-- Meetings
-- Collaboration
-- Routine tasks
-- Communication
-- Planning
+**Micro-Breaks (2-5 minutes every 90 minutes)**
+- Walk away from screen
+- Stretch or movement
+- Deep breathing
+- Look at distant objects (eye rest)
 
-**Low Energy:**
-- Email
-- Filing
-- Administrative tasks
-- Reading
-- Easy checklists
+**Recovery Breaks (15-20 minutes every 2-3 hours)**
+- Walk outdoors
+- Social connection
+- Light meal or snack
+- Complete environment change
 
-### Energy Renewal Practices
-
-**Physical:**
-- Sleep 7-9 hours
-- Exercise regularly
-- Eat nutritious meals
-- Stay hydrated
-- Take movement breaks
-
-**Mental:**
-- Single-task
-- Take cognitive breaks
-- Limit decisions
-- Practice mindfulness
-- Disconnect from devices
-
-**Emotional:**
-- Connect with others
-- Set boundaries
-- Express gratitude
-- Pursue hobbies
-- Limit negative inputs
-
-**Spiritual:**
-- Align work with values
-- Contribute to others
-- Reflect on purpose
-- Practice meditation
-- Connect to something larger
-
-## Energy Tracking
-
-### Daily Energy Log
-- Track energy levels hourly (1-10 scale)
-- Note what affects energy (food, sleep, activities)
-- Identify personal energy patterns
-- Discover optimal work windows
-
-### Indicators
-**High Energy:**
-- Clear thinking
-- Motivation
-- Focus
-- Creativity
-- Positive mood
-
-**Low Energy:**
-- Foggy thinking
-- Procrastination
-- Distraction
-- Irritability
-- Fatigue
-
-## Schedule Design
-
-### Protect Peak Energy
-- Identify your 2-4 hour peak window
-- Reserve for most important work
-- Guard fiercely from meetings
-- Eliminate interruptions
-
-### Energy-Based Calendar
-- Morning peak: Deep creative work
-- Mid-morning: Meetings, collaboration
-- Afternoon dip: Admin, easy tasks
-- Second wind: Less critical project work
-- Evening: Recovery, family, rest
-
-## Common Energy Drains
-
-**Physical:**
-- Poor sleep
-- Sedentary lifestyle
-- Poor nutrition
-- Dehydration
-- Insufficient breaks
-
-**Mental:**
-- Constant multitasking
-- Too many decisions
-- No mental breaks
-- Information overload
-- Cognitive strain
-
-**Emotional:**
-- Toxic relationships
-- No boundaries
-- Lack of recognition
-- Conflict avoidance
-- Suppressed emotions
-
-**Spiritual:**
-- Meaningless work
-- Value conflicts
-- No sense of contribution
-- Lack of purpose
-- Disconnection from self
-
-## Organizational Implementation
-
-### Energy-Aware Policies
-- No meetings before 10am or after 4pm
-- Meeting-free focus blocks
-- Flexible work hours
-- Encourage breaks and movement
-- Results over hours worked
-
-### Culture Changes
-- Value output over face time
-- Respect energy boundaries
-- Encourage energy management practices
-- Model healthy behaviors
-- Support work-life integration
+**Deep Recovery (Weekly)**
+- Full day off from work
+- Different types of activities
+- Social and family time
+- Physical activity and nature
 
 ## Measuring Success
 
-**Not:**
-- Hours worked
-- Time at desk
-- Calendar fullness
+Traditional metrics vs. Energy Management metrics:
 
-**Instead:**
-- Quality of output
-- Sustainable pace
-- Energy levels
-- Well-being indicators
-- Long-term productivity
+**Old**: Hours worked, tasks completed, calendar filled  
+**New**: Quality of output, energy at day's end, sustainable pace, mental clarity
 
-## Benefits
+## Integration with Time Tracking
 
-- More sustainable productivity
-- Higher quality work
-- Better health
-- Reduced burnout
-- Improved creativity
-- Greater life satisfaction
+Energy management enhances time tracking:
+- Tag entries with energy level (high/medium/low)
+- Identify which activities drain or energize you
+- Optimize schedule based on energy data, not just time data
+- Track energy patterns alongside time patterns
 
-## Key Insight
+## Common Pitfalls
 
-**Traditional time management:**
-"How can I fit more into my hours?"
+- Pushing through low energy instead of taking breaks
+- Scheduling important work during natural energy troughs
+- Ignoring physical needs (sleep, food, movement)
+- Using stimulants (caffeine, stress) to override natural rhythms
+- Measuring success by hours worked instead of energy sustained
 
-**Energy management:**
-"How can I bring more energy to my hours?"
+## The 2026 Shift
 
-The shift from quantity to quality transforms both work and life.
+In 2026, the biggest shift in productivity thinking is toward Energy Management rather than just time management. Students and professionals are now taught to recognize their circadian rhythms, chronotypes, and ultradian cycles—ensuring that deep work happens when their brain is most alert and recovery happens before depletion.

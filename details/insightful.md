@@ -1,68 +1,28 @@
 ## Overview
 
-Insightful (formerly Workpuls) is a workforce analytics platform that combines time tracking with productivity monitoring and operational intelligence, designed for remote and hybrid teams.
+Insightful is a comprehensive workforce analytics platform that combines automatic time tracking with detailed productivity monitoring. Designed for modern remote and hybrid workforces, it provides managers with visibility into employee activities while maintaining a balance with privacy concerns.
 
-## Time Tracking
+## Features
 
-- Automatic time tracking
-- Manual time entry
-- Project and task time allocation
-- Attendance monitoring
-- Real-time tracking
-- Historical data analysis
-
-## Productivity Monitoring
-
-**Activity Tracking:**
-- Application usage monitoring
-- Website tracking
-- Active vs. idle time
-- Productivity categorization
-- Screenshots (configurable)
-- Real-time activity view
-
-**AI-Powered Insights:**
-- Productivity trends
-- Focus time analysis
-- Workload distribution
-- Efficiency recommendations
-- Burnout risk detection
-
-## Workforce Analytics
-
-- Team performance metrics
-- Utilization rates
-- Time allocation reports
-- Productivity benchmarks
-- Capacity planning
-- Resource optimization
-
-## Compliance & Privacy
-
-- GDPR compliant
-- Configurable monitoring levels
-- Employee transparency options
-- Data security standards
-- Role-based access control
+- **Automatic Time Tracking**: Capture time spent across all applications and websites without manual input
+- **Productivity Monitoring**: Categorize activities as productive, unproductive, or neutral based on customizable rules
+- **Screenshots**: Optional screenshot capture at configurable intervals for accountability
+- **Activity Levels**: Track keyboard and mouse activity to measure engagement
+- **Project and Task Time**: Allocate tracked time to specific projects, clients, or tasks
+- **Real-Time Dashboard**: Monitor team activity and productivity in real-time
+- **Attendance Tracking**: Track employee sign-in/sign-out times and breaks
+- **Detailed Reports**: Generate comprehensive reports on productivity trends, time allocation, and attendance
+- **Stealth Mode**: Optional invisible monitoring for specific use cases
+- **Integrations**: Connect with project management tools and payroll systems
 
 ## Use Cases
 
-- Remote team management
-- Hybrid workforce coordination
-- Project time tracking
-- Productivity optimization
-- Resource planning
-- Compliance monitoring
-
-## Integrations
-
-- Project management tools
-- HR systems
-- Payroll software
-- Calendar applications
+- Remote team management and accountability
+- Productivity benchmarking and improvement
+- Project time allocation and profitability analysis
+- Compliance and attendance tracking
+- Identifying workflow inefficiencies
 
 ## Pricing
 
-Starts at $6.40/user/month
-Multiple plans based on features
-Free trial available
+Insightful offers tiered pricing based on features and team size. Plans typically start around $6.40 per user per month for basic time tracking, with advanced monitoring and analytics features available in higher tiers ranging from $12 to $18+ per user per month.

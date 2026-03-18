@@ -1,47 +1,36 @@
 ## Overview
 
-Eat the Frog is a productivity method based on a Mark Twain quote: "If it's your job to eat a frog, it's best to do it first thing in the morning." The technique involves identifying and completing your most challenging or important task at the start of each day.
+The "Eat the Frog" method is a time management and productivity technique that encourages you to identify your biggest, most challenging task each day—your "frog"—and complete it early in your workday before anything else. The term was coined by Brian Tracy in his 2001 book "Eat That Frog: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time."
 
-## Core Principle
+## Origin
 
-Your "frog" is your biggest, most important task—the one you're most likely to procrastinate on but will have the greatest positive impact if completed. Tackle it first thing when your energy and willpower are highest.
+The phrase originates from a quote often attributed to Mark Twain: "If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."
 
-## Implementation Steps
+## How It Works
 
-### 1. Identify Your Frog
+1. **Identify Your Frog**: At the end of each workday, identify the most important, challenging, or unpleasant task for tomorrow
+2. **Do It First**: Start your day by working on this task before checking email, attending meetings, or handling other work
+3. **Complete It**: Focus exclusively on the frog until it's done—no multitasking or switching to easier tasks
+4. **Repeat Daily**: Make this a consistent morning habit
 
-- Review all tasks and identify the most important or difficult one
-- Choose the task with the highest impact on goals
-- If multiple tasks seem equally important, choose the hardest
-- If you have two frogs, eat the ugliest one first
+## Why It Works
 
-### 2. Prepare the Night Before
+You're most likely to have more energy and motivation in the mornings—about two hours after we wake up, we are at peak energy, focus, and motivation. Taking an "Eat the Frog" approach can lessen anxiety around cumbersome tasks and help you keep tabs on your top priorities without wondering late at night how you'll get it all done.
 
-- Decide tomorrow's frog before ending workday
-- Gather any materials or information needed
-- Clear workspace and eliminate distractions
-- Set clear success criteria for the task
+## Choosing the Right Frog
 
-### 3. Eat Your Frog First
+Frog tasks generally take longer than average tasks—try to target tasks that take longer than one hour but no more than three hours, as anything longer should be broken down into smaller tasks. The frog should have the biggest positive impact on your goals if completed.
 
-- Start working on your frog immediately upon beginning work
-- Don't check email or engage in other tasks first
-- Work without interruption until frog is complete
-- Resist the temptation to do easier tasks first
+## Combining with Other Techniques
 
-### 4. Build the Habit
+The Eat the Frog method works well with:
+- **Timeboxing**: Set a fixed period (like a 75-minute timebox) to work on your frog
+- **Deep Work**: Schedule your frog during your natural focus time
+- **Time Blocking**: Reserve an early morning block specifically for frog tasks
 
-- Make frog-eating a daily ritual
-- Track completion to build accountability
-- Celebrate the win to reinforce behavior
+## Common Challenges
 
-## Benefits
-
-- **Momentum**: Completing the hardest task creates positive momentum for the day
-- **Peak Energy**: Tackles difficult work when mental resources are fresh
-- **Reduced Stress**: Eliminates the anxiety of dreading a difficult task all day
-- **Progress**: Ensures daily progress on most important objectives
-
-## Variations
-
-Some practitioners combine this with Pomodoro Technique, using focused 25-minute sessions to consume their frog in manageable chunks.
+- Choosing the wrong "frog" (tasks that aren't truly priorities)
+- Breaking the morning frog habit when emergencies arise
+- Selecting frogs that are too large (should be broken into smaller tasks)
+- Getting distracted before completing the frog

@@ -1,56 +1,21 @@
 ## Overview
 
-Jibble is a free time tracking and attendance app that offers advanced features like facial recognition and GPS tracking without charging per user, making it accessible for teams of any size.
+Jibble is a completely free time and attendance tracking solution that allows unlimited users without subscription fees. It provides enterprise-grade features including facial recognition, GPS tracking, and scheduling tools, making it accessible for businesses of all sizes.
 
-## Key Features
+## Features
 
-**Time Tracking:**
-- Web, mobile, and kiosk time clock
-- Facial recognition for clock in/out
-- GPS location tracking
-- Offline time tracking
-- Project and task time tracking
-- Multiple timesheets
-
-**Attendance Management:**
-- Automatic attendance calculations
-- Leave management
-- Break tracking
-- Overtime calculations
-- Schedule management
-
-**Reporting:**
-- Detailed timesheets
-- Activity reports
-- Location tracking reports
-- Export to payroll
-- Custom reports
-
-**Team Features:**
-- Unlimited members on free plan
-- Team activity dashboard
-- Multiple locations/departments
-- Geofencing
-- Notifications and alerts
-
-## Unique Advantages
-
-- Completely free for unlimited users
-- No feature limitations on free plan
-- Facial recognition included
-- GPS tracking included
-- Generous free offering
+- **Facial Recognition Clock-In**: Use biometric facial recognition for secure and accurate employee clock-ins
+- **GPS and Geofencing**: Track employee locations and set geofences to ensure clock-ins happen at designated sites
+- **Unlimited Users**: Add unlimited team members without additional costs
+- **Timesheet Management**: Automatically generate accurate timesheets from clock-in data
+- **Shift Scheduling**: Create and manage employee schedules with availability tracking
+- **Activity Tracking**: Monitor time spent on specific tasks, projects, and clients
+- **Leave Management**: Track vacation requests, sick days, and other leave types
+- **Payroll Exports**: Export timesheet data to popular payroll systems
+- **Mobile Apps**: iOS and Android apps for on-the-go time tracking
+- **Integrations**: Connect with tools like Notion, Slack, and payroll software
+- **Multi-Platform**: Available on web, mobile, tablet, and kiosk modes
 
 ## Pricing
 
-**Free Forever Plan:**
-- Unlimited users
-- All core features
-- Facial recognition
-- GPS tracking
-- Mobile apps
-
-**Premium Plans:**
-- Advanced integrations
-- Priority support
-- Custom branding
+Jibble offers a generous free-forever plan that includes unlimited users, projects, and clients without subscription fees. Premium features are available for businesses requiring advanced reporting, integrations, or custom branding, with paid plans starting around $2.49 per user per month.
