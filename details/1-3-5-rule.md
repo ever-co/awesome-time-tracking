@@ -1,48 +1,23 @@
 ## Overview
 
-The 1-3-5 Rule is a daily task prioritization method that creates a realistic structure for your workday by limiting yourself to nine tasks: one big task, three medium tasks, and five small tasks.
+The 1-3-5 Rule is a productivity system developed by Alex Cavoulacos, founder and president of The Muse. The method provides a realistic framework for daily task accomplishment by limiting your to-do list to nine carefully prioritized items.
 
-## The Structure
+## How It Works
 
-**1 Big Task**
-- Your most important or challenging task
-- Requires significant time and focus
-- High impact on goals
-- Complete first when possible
+The system is straightforward: each day, you can reasonably accomplish:
+- **1 Big Thing**: Your most important, high-impact task
+- **3 Medium Things**: Important tasks that aren't as time-consuming or critical
+- **5 Small Things**: Quick tasks that can be completed to maintain momentum
 
-**3 Medium Tasks**
-- Important but less intensive
-- Moderate time commitment
-- Meaningful progress on projects
-- Complete after big task
+## Key Benefits
 
-**5 Small Tasks**
-- Quick, easy to complete
-- Can be done in 15-30 minutes
-- Maintenance and admin work
-- Fill gaps in schedule
+- **Realistic prioritization**: Forces you to accept capacity limits rather than create endless to-do lists
+- **Improved completion rates**: Focusing on fewer, prioritized items increases actual task completion
+- **Flexibility**: The system can be adjusted based on your schedule (fewer items if you have many meetings, blank slots for unexpected tasks)
+- **Reduced overwhelm**: By limiting daily tasks to nine items, you avoid the stress of impossible to-do lists
 
-## Benefits
+## Implementation
 
-- Prevents overcommitment
-- Creates realistic daily goals
-- Ensures focus on important work
-- Provides structure and clarity
-- Reduces decision fatigue
-- Builds sense of accomplishment
+Before starting work each day, create your 1-3-5 list by identifying your single most important task, followed by three secondary important tasks, and finally five quick, easy wins. This pre-planning ensures your most critical work receives attention first.
 
-## Implementation Tips
-
-- Plan your 1-3-5 the night before
-- Start with the big task when energy is highest
-- Be honest about task size classification
-- Adjust ratios based on task complexity
-- Celebrate completing all nine tasks
-- Carry incomplete tasks to next day mindfully
-
-## Variations
-
-- Adjust numbers based on your work type
-- Some use 1-2-3 for more focus
-- Others use 2-4-6 for more capacity
-- Adapt to your energy and schedule
+The Muse offers downloadable templates to help users implement this system effectively throughout their workweek.

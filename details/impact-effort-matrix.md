@@ -1,120 +1,98 @@
 ## Overview
 
-The Impact-Effort Matrix (also called Value-Effort Matrix or Priority Matrix) is a visual prioritization tool that helps teams decide which tasks or projects to tackle first. It plots items on two dimensions: the potential impact or value they deliver, and the effort required to complete them.
+The Impact-Effort Matrix (also called Action Priority Matrix) is a prioritization tool that helps determine which tasks deserve attention based on their potential impact versus the effort required to complete them.
 
 ## The Four Quadrants
 
-### Quadrant 1: Quick Wins (High Impact, Low Effort)
-- **Priority**: Do first
-- High value with minimal investment
+### Quick Wins (High Impact, Low Effort)
+**Priority**: Do First
+- High value with minimal resource investment
+- Low-hanging fruit
 - Ideal for building momentum
-- Boost team morale with visible progress
-- Examples: Simple bug fixes with major user impact, easy automation wins
+- Should be tackled immediately
 
-### Quadrant 2: Major Projects (High Impact, High Effort)
-- **Priority**: Plan and schedule
-- Significant value but resource-intensive
-- Require careful planning and commitment
-- Long-term strategic initiatives
-- Examples: Platform migrations, major feature launches
+**Examples**: Fixing obvious bugs, sending important emails, making key phone calls, quick process improvements
 
-### Quadrant 3: Fill-Ins (Low Impact, Low Effort)
-- **Priority**: Do when time allows
-- Easy to complete but limited value
-- Good for filling gaps between larger tasks
-- Can be delegated to junior team members
-- Examples: Minor UI tweaks, documentation updates
+### Major Projects (High Impact, High Effort)
+**Priority**: Schedule & Plan
+- Strategic initiatives
+- Require significant resources
+- Need careful planning
+- Long-term value creators
 
-### Quadrant 4: Thankless Tasks (Low Impact, High Effort)
-- **Priority**: Avoid or deprioritize
-- High resource drain with little return
-- Should be eliminated, delegated, or deferred
-- Question if they're truly necessary
-- Examples: Low-value reports, unnecessary processes
+**Examples**: Product launches, system implementations, major refactors, strategic partnerships
 
-## How to Use
+### Fill-Ins (Low Impact, Low Effort)
+**Priority**: Do Later
+- Easy tasks with minimal value
+- Good for filling small time gaps
+- Don't prioritize over higher-impact work
+- Can be delegated
 
-### Step 1: List All Tasks
-- Brainstorm all potential tasks or projects
-- Don't filter initially - capture everything
-- Include tasks from various sources
+**Examples**: Minor admin tasks, routine maintenance, nice-to-have improvements, inbox organization
 
-### Step 2: Assess Impact
-- Define what "impact" means for your context
-- Rate each task's potential value (high or low)
-- Consider: revenue, customer satisfaction, strategic goals
-- Be realistic about expected outcomes
+### Thankless Tasks (Low Impact, High Effort)
+**Priority**: Avoid/Eliminate
+- High effort for little return
+- Often disguised as important
+- Should be eliminated or delegated
+- Question if they need doing at all
 
-### Step 3: Estimate Effort
-- Evaluate resources required: time, people, money
-- Rate effort as high or low
-- Consider: complexity, dependencies, unknowns
-- Factor in team capacity and skills
+**Examples**: Over-engineering solutions, perfectionism on low-value work, maintaining legacy systems, endless research
 
-### Step 4: Plot on Matrix
-- Place each task in appropriate quadrant
-- Use sticky notes or digital tools
-- Involve team in placement discussions
-- Adjust positions based on group consensus
+## How to Use It
 
-### Step 5: Prioritize
-- Focus on Quick Wins first
-- Plan timeline for Major Projects
-- Fit in Fill-Ins opportunistically
-- Eliminate or defer Thankless Tasks
+1. **List all tasks/projects** you're considering
+2. **Assess impact**: What value will completion create?
+3. **Estimate effort**: How much time/resources required?
+4. **Plot on matrix**: Place each item in appropriate quadrant
+5. **Prioritize**: Focus on Quick Wins, then Major Projects
+6. **Review regularly**: Reassess as circumstances change
+
+## Key Differences from Other Matrices
+
+**vs. Eisenhower Matrix**: Impact-Effort focuses on value and resources, while Eisenhower uses urgency and importance
+
+**vs. Priority Matrix**: Similar concept but Impact-Effort specifically quantifies effort investment
 
 ## Benefits
 
-- Visual and intuitive prioritization
-- Fast decision-making framework
 - Identifies highest ROI activities
-- Prevents wasting effort on low-value work
-- Builds consensus through shared visualization
-- Easy to explain to stakeholders
-- Flexible for various contexts
+- Prevents wasting time on low-value work
+- Makes trade-offs visible
+- Facilitates team alignment
+- Supports strategic resource allocation
+- Combats busy work disguised as productivity
+
+## Common Pitfalls
+
+**Overestimating Impact**: Be realistic about actual value created
+
+**Underestimating Effort**: Account for hidden complexity and dependencies
+
+**Ignoring Context**: Urgent items may need attention regardless of quadrant
+
+**Static Assessment**: Impact and effort change—review regularly
 
 ## Best Practices
 
-- Keep definitions of "impact" and "effort" consistent
-- Involve relevant stakeholders in assessment
-- Review and update matrix regularly
-- Don't get stuck on precise positioning
-- Focus on relative placement, not absolute scores
-- Challenge items in Thankless Tasks quadrant
-- Celebrate Quick Wins to maintain momentum
+- Use relative rather than absolute scoring
+- Include diverse perspectives when assessing
+- Consider both short and long-term impact
+- Account for opportunity costs
+- Be honest about thankless tasks
+- Focus on completing Quick Wins to build momentum
+- Properly plan Major Projects rather than rushing them
 
-## Common Applications
+## Team Application
 
-- Product roadmap planning
-- Sprint planning in agile
-- Process improvement initiatives
-- Resource allocation decisions
-- Strategic planning
-- Personal task management
-- Team workload balancing
+For teams, the Impact-Effort Matrix:
+- Aligns priorities across members
+- Facilitates resource allocation discussions
+- Makes trade-offs transparent
+- Helps say no to low-value work
+- Supports sprint/iteration planning
 
-## Variations
+## Strategic Value
 
-- Value vs. Complexity
-- Benefit vs. Cost
-- Urgency vs. Importance (Eisenhower Matrix)
-- Impact vs. Confidence
-- Customer Value vs. Business Value
-
-## Tips for Success
-
-- Define clear criteria for impact and effort
-- Time-box the prioritization session
-- Use relative sizing, not absolute numbers
-- Revisit and adjust as new information emerges
-- Don't overthink placement - rough positioning is sufficient
-- Move items between quadrants as needed
-- Document assumptions and rationale
-
-## Integration with Other Methods
-
-- Combine with RICE for more detailed scoring
-- Use after brainstorming, before planning
-- Complement with MoSCoW for release planning
-- Integrate into agile sprint planning
-- Use for backlog refinement
+The matrix helps shift from reactive to proactive work by making visible which activities create the most value with available resources, enabling strategic rather than opportunistic time investment.
