@@ -1,45 +1,18 @@
 ## Overview
 
-Monday.com is a Work Operating System (Work OS) that integrates time tracking with project management, resource allocation, and strategic planning. The platform uses a highly visual, customizable interface to help teams manage work across departments and use cases.
+monday.com is a Work OS (Operating System) that integrates time tracking natively with visual dashboards showing task progress. Its Pro plan offers built-in time tracking that lets you log work directly on tasks and projects.
 
-## Time Tracking Features
+## Features
 
-- **Time Tracking Column** - Native time tracking available on Pro and Enterprise plans
-- **Play/pause timer** - Click to start tracking when beginning a task, pause and resume as needed
-- **Manual time entry** - Add time ranges manually by clicking into the Time Tracking Column
-- **Time Tracking Widget** - Consolidated view of time spent across multiple tasks and projects
-- **Automation** - Set up rules to automatically start/stop timers when task status changes (e.g., "In Progress" → "Done")
-- **Formula Column** - Calculate metrics like hours × hourly rates for billing
-- **Workload management** - Visualize team bandwidth using time data to prevent overcommitment
-
-## Platform Features
-
-- **No-code automation** - Automate repetitive workflows and time tracking
-- **Multiple views** - Kanban, Gantt, Calendar, Timeline, Map views
-- **Resource management** - Allocate team capacity and track utilization
-- **Custom dashboards** - Visualize time data and project metrics
-- **400+ integrations** - Connect with Slack, Microsoft Teams, Google Workspace, and more
-- **Mobile apps** - Track time and manage work from iOS and Android devices
-
-## Advanced Time Tracking
-
-Third-party integrations with Everhour, Timely, TMetric, and TrackingTime provide enhanced capabilities like:
-- Billable hours tracking
-- Detailed invoicing
-- Advanced time reports
-- Client-specific time tracking
-
-## Use Cases
-
-- Marketing teams managing campaigns and tracking time
-- Creative agencies billing clients for work
-- Software development teams tracking sprint work
-- Professional services managing project budgets
+- **Native Time Tracking**: Built-in time tracking available on Pro plan and above
+- **Visual Dashboards**: Colorful, customizable boards with multiple view options
+- **Time Columns**: Add time tracking columns to any board to log hours per task
+- **Automation**: Create custom automations to streamline workflows
+- **Workload View**: Visualize team capacity and balance workloads
+- **Gantt Charts**: Plan projects with timeline and dependency visualization
+- **Integrations**: Connect with popular tools like Slack, Zoom, Google Drive
+- **Mobile Apps**: Manage work and track time from iOS and Android devices
 
 ## Pricing
 
-Time Tracking Column is available on:
-- **Pro Plan**: $12/user/month (3 user minimum)
-- **Enterprise Plan**: Custom pricing
-
-Monday.com seamlessly integrates time tracking with broader project and workflow management, making it ideal for teams that need both capabilities in a unified, visual platform.
+monday.com offers a free plan for up to 2 users. Paid plans start at $9 per user per month (Basic), with time tracking available starting at $12 per user per month (Standard) and full features on Pro plan at $19 per user per month.

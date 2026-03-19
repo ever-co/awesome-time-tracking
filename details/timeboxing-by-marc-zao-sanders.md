@@ -1,34 +1,42 @@
 ## Overview
 
-Marc Zao-Sanders' book on timeboxing provides a comprehensive guide to what he calls "the gloriously simple practice of choosing one thing to do, when to do it, and getting it done." The book presents timeboxing as carefully and intentionally selecting what to do, specifying start and finish times, focusing solely on that single activity, and getting it done to an acceptable standard within that timeframe.
+"Timeboxing" is a book and methodology developed by Marc Zao-Sanders, CEO and co-founder of Filtered. Based on his research, timeboxing ranked as the most useful technique in a survey of 100 productivity methods.
 
-## Author Background
+## What is Timeboxing?
 
-Marc Zao-Sanders is the co-founder and CEO of filtered.com, a learning tech company. He regularly writes about algorithms, learning, and productivity in Harvard Business Review, Scientific American, and MIT Sloan Management Review. His viral piece on timeboxing is now featured in the HBR Emotional Intelligence Series publication, "Developing Good Habits," alongside James Clear and other leading experts.
+Timeboxing is the practice of allocating a fixed amount of time to each task, then stopping when the time is up. Unlike traditional to-do lists that remain open-ended, timeboxing creates clear boundaries around work.
 
-## Timeboxing vs. Time Blocking
+## Research Foundation
 
-The book distinguishes between related techniques:
+In a 2018 Harvard Business Review article, Zao-Sanders reported that timeboxing ranked as the most useful technique among 100 productivity methods tested. The research showed that setting fixed time limits:
+- Creates urgency and focus
+- Reduces procrastination
+- Improves time estimation skills
+- Makes large projects manageable
 
-- **Time-blocking** is the blocking off of time to do something, setting specific task start and end times
-- **Timeboxing** goes further by setting a limit on how much time you dedicate to a specific task, typically attached to a goal
+## Key Principles
 
-## Endorsements
+1. **Decide time limits in advance** to avoid micro-decisions during work
+2. **Block time on your calendar** to create commitment
+3. **Match time to importance** not just to perceived duration
+4. **Stop when time expires** even if incomplete
+5. **Review and adjust** to improve future time estimates
 
-Nir Eyal, author of "Indistractable," calls timeboxing "a masterclass in intentional living" and describes it as "the nearest thing we have to productivity magic" and "perhaps the most effective time management technique ever devised."
+## Benefits Over Other Methods
 
-## Scientific Backing
+- More specific than traditional time blocking
+- More flexible than rigid scheduling
+- Better for estimation than open-ended tasks
+- Creates natural time tracking data
 
-Timeboxing is "among the most well-studied and powerful methods we know for getting things done" and is "a critical component of becoming indistractable, and a surefire way to increase productivity."
+## The Book
 
-## Notable Practitioners
+Zao-Sanders' book provides:
+- Scientific evidence for timeboxing effectiveness
+- Practical implementation strategies
+- Solutions to common challenges
+- Integration with other productivity methods
 
-Both Elon Musk and Bill Gates use the timeboxing technique, demonstrating its effectiveness at the highest levels of achievement.
+## Application
 
-## Key Advantage
-
-The book argues that timeboxing is "far more effective than running your life with a to-do list," offering a structured alternative to traditional task management approaches.
-
-## Format
-
-Published by Penguin, available in multiple formats including hardcover, paperback, and ebook.
+Timeboxing naturally creates time tracking data as you must decide in advance how long tasks should take, then record actual time spent.
