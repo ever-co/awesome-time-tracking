@@ -1,156 +1,124 @@
 ## Overview
 
-Forest is a unique productivity app that gamifies focus time by growing virtual trees. When you want to focus, you plant a seed that grows into a tree over your focus session. If you leave the app to use your phone, the tree dies. Over time, you grow a forest representing your focused work, and the app partners with tree-planting organizations to plant real trees based on virtual currency earned.
+Forest is an app helping you stay away from your smartphone and stay focused on your work. The concept is simple: when you want to focus, you plant a virtual tree. If you stay focused and don't use your phone, your tree grows. If you give in to distraction and leave the app, your tree dies.
 
 ## How It Works
 
-### Basic Mechanic
-1. **Plant a Seed**: Start a focus session (10-120 minutes)
-2. **Stay Focused**: Tree grows while app stays open
-3. **Leave App**: Tree dies if you use phone
-4. **Complete Session**: Add healthy tree to your forest
-5. **Earn Coins**: Use to unlock tree species or plant real trees
+### Basic Mechanism
+
+1. **Plant a Tree** - Whenever you want to focus on your work, plant a tree
+2. **Stay Focused** - In the next 30 minutes (or custom duration), the tree will grow when you are working
+3. **Avoid Your Phone** - The tree will be killed if you leave this app
+4. **Build Your Forest** - Over time, you build an entire forest representing your productive hours
 
 ### Focus Sessions
-- Customizable duration
-- Deep focus mode (more strict)
-- Light focus mode (allow specific apps)
-- Whitelist for necessary apps
-- Tag sessions by activity
 
-## Gamification Elements
-
-### Growing Forest
-- Visual representation of productivity
-- Satisfying to see forest grow
-- Different tree species
-- Unlock rare trees
-- Seasonal themes
-
-### Statistics & Achievements
-- Daily/weekly/monthly focus time
-- Streak tracking
-- Total trees planted
-- Achievements and badges
-- Leaderboards with friends
-
-### Social Features
-- Plant trees with friends
-- Compete on leaderboards
-- Share achievements
-- Group focus sessions
+- Set custom focus durations (typically 25-120 minutes)
+- Choose from various tree species
+- Tag sessions with specific tasks or projects
+- Track your focus time across days, weeks, and months
 
 ## Real-World Impact
 
+One of the most unique features is the real-tree planting partnership.
+
 ### Trees for the Future Partnership
-- Earn virtual coins through focus
-- Spend coins to plant real trees
-- Partner organizations plant actual trees
-- Track real environmental impact
-- Gamification with purpose
+
+Forest team partners with Trees for the Future to plant real trees on Earth. When users spend virtual coins they earn in Forest on planting real trees, Forest team donates and creates orders of planting.
+
+**Over 1,500,000 real trees have been planted on Earth by Forest users.**
 
 ## Key Features
 
-### Mobile App
-- iOS and Android
-- Prevents phone usage
-- Background mode
+### Gamification
+
+- Collect different tree species
+- Earn virtual coins for successful focus sessions
+- Build diverse forests
+- Unlock achievements
+- Compete with friends
+
+### Whitelist/Allowlist
+
+- Allow specific apps that you need during focus time
+- Prevent accidental tree deaths when using necessary tools
+- Customize for work vs. study sessions
+
+### Statistics and Insights
+
+- Daily, weekly, and monthly focus time tracking
+- Most productive hours identification
+- Success rate monitoring
+- Tag-based analysis for different types of work
+
+### Social Features
+
+- Plant trees together with friends
+- Compare forests and achievements
+- Share your forest on social media
+- Collaborative focus sessions
+
+## Popularity and Recognition
+
+- Top productivity app in 136 countries
+- More than 6 million satisfied paying users
+- Featured by Apple and Google
+- Winner of multiple app awards
+- Average rating of 4.8+ stars across platforms
+
+## Pricing and Availability
+
+### Platforms
+
+- iOS (iPhone and iPad)
+- Android
+- Chrome browser extension
+
+### Pricing Model
+
+**Free Version:**
+- Basic tree planting functionality
+- Limited tree species
+- Core focus timer features
+
+**Pro Version:**
+- Access to all tree species
+- Advanced statistics
+- Custom tags and notes
+- Forest sounds
 - Widget support
-- Apple Watch companion
-
-### Desktop Extension
-- Chrome extension
-- Website blocking
-- Synchronized with mobile
-- Grow trees while working on computer
-
-### Timeline & Stats
-- Visual calendar of focused days
-- Productivity graphs
-- Focus time trends
-- Most productive hours
-- Insights and patterns
-
-### Customization
-- Multiple tree species
-- Soundscapes
-- Focus mode intensity
-- App whitelist
-- Tag system
+- One-time purchase (no subscription)
 
 ## Use Cases
 
-### Reducing Phone Addiction
-- Physical barrier to phone use
-- Emotional cost of killing tree
-- Build mindful phone habits
-- Track progress over time
+### Students
 
-### Study Sessions
-- Student favorite for exams
-- Library study sessions
+- Study sessions without phone distractions
+- Exam preparation
 - Homework completion
-- Reading focus
+- Library study time
 
-### Work Focus
-- Deep work blocks
-- Pomodoro sessions
-- Distraction-free writing
-- Creative work
+### Professionals
 
-### Mindfulness
-- Present moment awareness
-- Digital detox
-- Intentional phone use
-- Breaking unconscious checking
+- Deep work sessions
+- Meeting-free focus blocks
+- Creative work time
+- Important project deadlines
 
-## Benefits
+### General Users
 
-### Behavior Change
-- Makes phone cost visible (dead tree)
-- Positive reinforcement (growing forest)
-- Habit formation through repetition
-- Social accountability
+- Reducing phone addiction
+- Improving digital wellbeing
+- Family dinner time without phones
+- Quality time with loved ones
+- Mindfulness and presence
 
-### Motivation
-- Gamification keeps it fun
-- Real trees add meaning
-- Visual progress satisfying
-- Achievements provide goals
+## Impact on Phone Addiction
 
-### Flexibility
-- Works for any focus duration
-- Customizable strictness
-- Multiple use cases
-- Cross-platform
+Forest addresses phone addiction through:
 
-## Pricing
-
-### Mobile App
-- Freemium model
-- Basic features free
-- Premium for advanced features
-- One-time purchase or subscription
-
-### Desktop Extension
-- Separate purchase
-- Synchronizes with mobile
-- Optional add-on
-
-## Comparison to Alternatives
-
-### vs Flora
-- Forest: More popular, tree planting
-- Flora: Similar concept, different execution
-
-### vs Freedom
-- Forest: Gamified, motivational
-- Freedom: Hardcore blocker, cross-device
-
-### vs Plain Pomodoro Timer
-- Forest: Visual feedback, gamification
-- Pomodoro Timer: Simpler, less engaging
-
-## Ideal For
-
-Students fighting phone distraction, individuals with phone addiction, people motivated by gamification, environmentally-conscious users, visual learners wanting progress feedback, and anyone seeking fun approach to focus building.
+- **Visual consequence** - Dead trees provide immediate negative feedback
+- **Positive reinforcement** - Growing forests create satisfaction
+- **Habit formation** - Regular use builds focus habits
+- **Social accountability** - Sharing forests with friends adds pressure
+- **Real-world impact** - Planting real trees adds meaning to focus time
