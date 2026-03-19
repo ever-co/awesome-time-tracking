@@ -1,29 +1,34 @@
 ## Overview
 
-Idle time detection automatically identifies when employees step away from their computers or stop active work. The system monitors keyboard, mouse, and application activity to determine when users are actively working versus idle, ensuring accurate time tracking.
+Idle time detection monitors keyboard and mouse activity to identify periods when the computer appears unused. When inactivity exceeds a threshold (typically 5-15 minutes), the system prompts the user to categorize the time, ensuring accurate timesheets.
 
 ## How It Works
 
-- Monitors keyboard and mouse activity
-- Tracks active application usage
-- Detects periods of inactivity (typically 3-5 minutes)
-- Marks idle periods separately from active work time
-- Allows users to categorize idle time after returning
+### Detection Method
+- Monitors keyboard strokes
+- Tracks mouse movements
+- Measures activity frequency
+- Sets inactivity threshold (configurable)
+
+### User Prompt
+When returning from idle:
+- "You've been idle for 12 minutes"
+- Options: Keep time / Delete time / Mark as break
+- One-click categorization
 
 ## Benefits
 
-- **Billing Accuracy**: Ensures clients aren't billed for inactive time
-- **Realistic Metrics**: Provides accurate productivity data
-- **Fair Tracking**: Distinguishes between work and legitimate breaks
-- **Automatic**: No manual start/stop needed
-- **Transparency**: Clear visibility into work patterns
+### Prevents Time Inflation
+- Lunch breaks don't count as work time
+- Meetings away from desk handled properly
+- Personal breaks excluded from billable hours
+- Accurate client billing
 
-## Privacy Considerations
+### Improves Accuracy
+- Captures actual work time only
+- Prompts memory while event is fresh
+- Reduces estimation and guesswork
 
-Modern idle detection respects privacy by only tracking activity patterns, not content of work or keystrokes.
+## Key Takeaway
 
-## Common Thresholds
-
-- 3 minutes idle: Standard for most office work
-- 5 minutes idle: Common for creative work requiring thinking time
-- 10 minutes idle: Used for roles with natural work breaks
+Idle time detection is essential for accurate time tracking, automatically identifying periods when work isn't occurring and prompting appropriate categorization.
