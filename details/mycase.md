@@ -1,26 +1,31 @@
 ## Overview
 
-MyCase is a cloud-based legal practice management platform designed to help law firms manage cases, track time, bill clients, and communicate effectively, all from a single integrated system.
+MyCase is a comprehensive legal practice management software that includes an innovative time tracking feature called Smart Time Finder, which helps attorneys capture billable time they might otherwise forget to record.
 
 ## Features
 
-- **Time Tracking**: Timers, manual entry, and mobile time tracking for billable activities
-- **Expense Tracking**: Record and bill client expenses with receipt capture
-- **Invoicing**: Generate professional invoices from tracked time and expenses
-- **Payment Processing**: Accept credit card, debit card, and eCheck payments online
-- **Trust Accounting**: IOLTA-compliant trust account management
-- **Case Management**: Organize case files, documents, and communications
-- **Client Portal**: Secure client access to case information and documents
-- **Document Management**: Store, organize, and share case documents
-- **Calendaring**: Shared calendars with court date tracking and conflict checking
-- **Communication**: Email, text messaging, and secure messaging with clients
-- **Mobile Apps**: Full-featured iOS and Android applications
-- **Reporting**: Financial and operational reports for practice insights
+- **Smart Time Finder** - Generates a list of common billable activities to help recover missed time entries
+- **Timer-Based Tracking** - Start/stop timers for real-time activity tracking
+- **Mobile Time Entry** - Track time from iOS and Android devices
+- **Case Management** - Organize case files, documents, and communications
+- **Billing & Invoicing** - Create invoices from tracked time with customizable templates
+- **Trust Accounting** - IOLTA-compliant trust account management
+- **Client Portal** - Secure portal for client communication and document sharing
+- **Document Management** - Store and organize case documents
+- **Calendar & Dockets** - Deadline tracking and appointment scheduling
+- **Email Integration** - Sync with Outlook and Gmail
 
-## Benefits
+## Impact
 
-MyCase streamlines the entire legal workflow from client intake through final payment, helping firms save time on administrative tasks and get paid faster through integrated payment processing.
+In 2023, MyCase customers captured an additional 579,665 hours using Smart Time Finder, representing significant recovered revenue that would have otherwise been lost.
+
+## Target Users
+
+- Solo practitioners
+- Small law firms
+- Mid-sized firms
+- All practice areas
 
 ## Pricing
 
-Subscription-based pricing with per-user monthly fees. Different plan tiers offer varying levels of features and support. Free trial available.
+Pricing starts at approximately $39-79 per user per month with a free trial available.

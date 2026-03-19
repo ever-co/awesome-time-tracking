@@ -1,23 +1,36 @@
 ## Overview
 
-Timemator is an automatic time tracking application specifically designed for freelancers working on Mac and iPhone. The app automatically captures all activities on your Mac, making it easy to review work and assign time to projects retroactively.
+Timemator is an automatic time tracking application built specifically for Mac and iPhone, designed with freelancers and independent professionals in mind. It focuses on zero-effort time capture through intelligent automation.
 
-## Key Features
+## Features
 
-- **Automatic Activity Capture**: Timemator automatically captures everything you do on your Mac without manual timer management
-- **Retroactive Time Assignment**: Review captured activities and assign time to projects with just a few clicks
-- **Native Mac & iPhone Apps**: Built specifically for Apple platforms with seamless synchronization
-- **Privacy-Focused**: Data stays on your devices with optional iCloud sync
-- **Invoicing Support**: Generate invoices based on tracked time
+- **Automatic Tracking** - Captures time automatically based on triggers and conditions
+- **Location-Based Tracking** - Start/stop timers based on location (arriving at client sites)
+- **Calendar Integration** - Automatically track time from calendar events
+- **App-Based Triggers** - Start tracking when you open specific applications
+- **Smart Rules** - Create custom automation rules for time tracking
+- **Manual Time Entry** - Option to add time manually when needed
+- **Project Organization** - Organize time by projects and clients
+- **Invoicing** - Generate invoices from tracked time
+- **Reports** - Detailed time reports for billing and analysis
+- **Native Mac & iOS** - Built specifically for Apple ecosystem
+- **Privacy-Focused** - Data stored locally on your devices
 
-## How It Works
+## Automation Examples
 
-Timemator runs in the background and automatically records all applications, websites, and documents you work with. When you're ready to create timesheets, you can review the captured data and quickly assign activities to the appropriate client projects.
+- Start timer when arriving at client office
+- Track time during calendar meetings
+- Auto-track when opening design software
+- Stop tracking when leaving work location
 
-## Platform
+## Target Users
 
-Available for macOS and iOS with data synchronization via iCloud.
+- Freelancers
+- Consultants
+- Independent contractors
+- Mac and iPhone users
+- Anyone billing by the hour
 
 ## Pricing
 
-Subscription-based pricing model for full access to automatic tracking features.
+One-time purchase or subscription options available.

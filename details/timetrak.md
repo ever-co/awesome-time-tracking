@@ -1,36 +1,52 @@
 ## Overview
 
-TimeTrak is a workforce management solution specializing in biometric time and attendance tracking. The system combines advanced fingerprint and facial recognition time clocks with cloud-based software to eliminate time theft, streamline payroll processing, and provide accurate labor cost tracking for businesses.
+TimeTrak provides biometric fingerprint time clock systems designed to eliminate buddy punching and ensure accurate employee time tracking. Their cloud-based platform combines hardware time clocks with comprehensive workforce management software.
 
-## Features
+## Biometric Time Clock Features
 
-- **Biometric Time Clocks**: Fingerprint scanners and facial recognition terminals eliminate buddy punching
-- **Cloud-Based Software**: Access employee time data from anywhere with internet connection
-- **Mobile App**: Employees can clock in/out via smartphone with GPS verification
-- **Job Costing**: Track labor costs by department, job, or project
-- **Scheduling**: Create and manage employee schedules with shift assignments
-- **Overtime Tracking**: Automatic calculation of overtime hours with customizable rules
-- **PTO Management**: Track vacation, sick leave, and other time-off requests
-- **Real-Time Alerts**: Notifications for late arrivals, early departures, and missed punches
-- **Payroll Integration**: Export timesheets to QuickBooks, ADP, Paychex, Gusto, and other payroll systems
-- **Multi-Location Support**: Manage employees across multiple sites from one dashboard
-- **Reporting**: Comprehensive reports on attendance, labor costs, and productivity
-- **Geofencing**: Set location boundaries for mobile clock-ins
-- **Badge/Card Readers**: Optional RFID badge functionality
+### Fingerprint Authentication
+- **Fingerprint Scanning** - Verify employee identity with fingerprint
+- **Eliminate Buddy Punching** - Only the actual employee can clock in
+- **Fast Recognition** - Authentication in under 1 second
+- **Large User Capacity** - Store thousands of fingerprint templates
+- **High Accuracy** - Advanced biometric algorithms
+- **Durable Hardware** - Designed for harsh workplace environments
 
-## Hardware Options
+### Hardware Options
+- **Wall-Mounted Terminals** - Fixed-location time clocks
+- **Portable Devices** - Mobile biometric clocks for job sites
+- **Weatherproof Models** - Outdoor-rated for construction and field work
+- **USB Connectivity** - Connect to existing computers
+- **Ethernet/WiFi** - Network-connected cloud sync
 
-TimeTrak offers various biometric time clock models:
-- Fingerprint-only terminals
-- Face recognition systems
-- Combination fingerprint/face/badge readers
-- Weatherproof outdoor models for construction and field work
-- Portable battery-powered units
+## Cloud-Based Software
 
-## Industries Served
+- **Real-Time Access** - View attendance from anywhere
+- **Automatic Sync** - Punch data syncs to cloud instantly
+- **No Servers Required** - Cloud-hosted, no IT infrastructure needed
+- **Mobile Access** - Manage from smartphone or tablet
+- **Automatic Backups** - Never lose time data
+- **Multi-Location** - Manage multiple sites from one account
 
-TimeTrak serves manufacturing, construction, healthcare, hospitality, retail, and other industries where accurate time tracking and elimination of time theft are critical.
+## Workforce Management
+
+- **Time & Attendance** - Track hours, overtime, breaks
+- **Scheduling** - Create and publish employee schedules
+- **Time-Off Management** - Handle PTO requests and accruals
+- **Labor Cost Tracking** - Monitor labor costs in real-time
+- **Compliance** - Track compliance with labor laws
+- **Reporting** - Detailed attendance and labor reports
+- **Payroll Integration** - Export to QuickBooks, ADP, Paychex
+
+## Industries
+
+- Manufacturing
+- Healthcare
+- Retail
+- Construction
+- Hospitality
+- Any business with hourly employees
 
 ## Pricing
 
-TimeTrak pricing includes monthly software subscription and one-time hardware costs. Software plans start around $3-5 per employee per month. Biometric time clocks range from $299 to $1,200 depending on features and capabilities.
+Hardware purchase plus monthly software subscription; contact for pricing.

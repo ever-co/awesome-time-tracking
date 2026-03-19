@@ -1,105 +1,55 @@
 ## Overview
 
-amGtime provides comprehensive employee time and attendance tracking solutions combining advanced biometric hardware with cloud-based software for workforce management.
+AMGtime provides comprehensive biometric time clock systems and workforce management solutions designed to eliminate time theft and ensure accurate employee attendance tracking through fingerprint scanning, facial recognition, and other biometric technologies.
 
-## Hardware Solutions
+## Biometric Time Clock Options
 
-### Biometric Time Clocks
+### Fingerprint Time Clocks
+- **Fingerprint Scanning** - Most common and reliable biometric method
+- **Anti-Spoofing Technology** - Detects fake fingerprints
+- **Fast Recognition** - Verify identity in under 1 second
+- **Large Capacity** - Store thousands of fingerprint templates
+- **Standalone or Networked** - Options for both configurations
 
-#### AMG FR-1000 Facial Recognition Time Clock
-- **Advanced Facial Recognition**: 1000+ face template capacity
-- **RFID Support**: Proximity card reader included
-- **WiFi Connectivity**: Wireless network connection
-- **Rugged Design**: Suitable for harsh environments
-- **Large Display**: Touchscreen interface
-- **Multiple Authentication**: Face, card, or PIN
+### Facial Recognition Clocks
+- **Touchless Clock-In** - Hygienic, no physical contact required
+- **Face Detection** - Works with masks and changing appearances
+- **Temperature Screening** - Optional fever detection
+- **Photo Capture** - Visual record of clock-ins
+- **Fast Processing** - Recognition in under 1 second
 
-#### Other Time Clock Models
-- **Fingerprint Readers**: Biometric fingerprint scanners
-- **Hand Geometry**: Palm reading technology
-- **RFID Badge Readers**: Contactless card systems
-- **Multi-Modal**: Combination of multiple authentication methods
+### Additional Methods
+- **RFID/Badge** - Card-based clock-in option
+- **PIN Entry** - Backup identification method
+- **Mobile App** - GPS-verified mobile clock-in
+- **Web Browser** - Clock in from any computer
 
-### Hardware Features
-- **Weatherproof Options**: Outdoor-rated time clocks
-- **Battery Backup**: Continue operation during power outages
-- **Large Capacity**: Support for thousands of employees
-- **Color Displays**: Easy-to-read screens
-- **Audio Feedback**: Confirmation beeps and voice prompts
+## Software Features
 
-## Software Platform
-
-### Cloud-Based Management
-- **Real-Time Data**: Live attendance information
-- **Web Access**: Manage from any device
-- **Automatic Updates**: No manual software updates needed
-- **Data Security**: Encrypted data transmission and storage
-
-### Time & Attendance
-- **Punch Tracking**: Clock in/out with timestamps
-- **Overtime Calculation**: Automatic overtime tracking
-- **Department Tracking**: Organize employees by department
-- **Job Costing**: Track time to specific jobs or projects
-- **Break Management**: Track paid and unpaid breaks
-
-### Scheduling
-- **Shift Scheduling**: Create and manage employee schedules
-- **Shift Differential**: Different pay rates by shift
-- **Schedule Templates**: Reusable patterns
-- **Schedule Alerts**: Notify employees of schedules
-
-### Reporting
-- **Attendance Reports**: Detailed time and attendance data
-- **Exception Reports**: Late arrivals, early departures, absences
-- **Payroll Reports**: Export for payroll processing
-- **Custom Reports**: Build specific reports
-
-### Payroll Integration
-- **Multiple Formats**: Export to various payroll systems
-- **ADP Integration**: Direct connection to ADP
-- **QuickBooks**: Export to QuickBooks
-- **Paychex**: Integration with Paychex
-- **Custom Integration**: API for other systems
-
-## Anti-Fraud Features
-
-- **Biometric Verification**: Prevents buddy punching
-- **Photo Capture**: Optional photo with each punch
-- **GPS Tracking**: Location verification (mobile)
-- **Tamper Alerts**: Notifications of clock tampering attempts
-
-## Industries Served
-
-- Manufacturing
-- Warehousing and distribution
-- Construction
-- Healthcare
-- Retail
-- Hospitality
-- Education
+- **Cloud-Based** - Access from anywhere, automatic backups
+- **Real-Time Tracking** - See who's clocked in right now
+- **Overtime Alerts** - Get notified of overtime situations
+- **Schedule Management** - Create and manage employee schedules
+- **Payroll Export** - Export to QuickBooks, ADP, Paychex, and more
+- **Reporting** - Comprehensive attendance and labor reports
+- **Multi-Location** - Manage multiple locations from one account
 
 ## Benefits
 
-- Eliminates time theft through biometric verification
-- Rugged hardware withstands demanding environments
-- Cloud platform accessible from anywhere
-- Reduces payroll processing time
-- Improves workforce visibility
+- **Eliminate Buddy Punching** - Only the actual employee can clock in
+- **Reduce Time Theft** - Accurate time tracking prevents time padding
+- **Improve Payroll Accuracy** - Exact punch times reduce payroll errors
+- **Streamline Administration** - Automate timesheet collection
 
-## Support & Services
+## Industries
 
-- Technical support
-- Installation assistance
-- Training
-- Warranty coverage
-- Replacement parts
+- Manufacturing
+- Healthcare
+- Retail
+- Hospitality
+- Construction
+- Any business with hourly employees
 
 ## Pricing
 
-Pricing varies based on:
-- Number of time clocks
-- Clock model and features
-- Software features needed
-- Number of employees
-
-Contact for custom quote and demo.
+Hardware ranges from $200-$800 per terminal; software subscription starting around $3-5 per employee/month.

@@ -1,41 +1,42 @@
 ## Overview
 
-The Context Switching Technique is a time management approach that groups tasks by the mental energy and context they require, minimizing costly transitions between different types of work.
+The Context Switching Technique is a time management strategy that minimizes the cognitive cost of switching between different types of tasks by grouping similar work together and scheduling it based on mental energy levels.
 
-## How It Works
+## Core Principle
 
-**Morning: Deep Creative Work**
-- Schedule cognitively demanding tasks
-- No digital interruptions
-- Single-focus sessions
-- Leverage peak mental energy
-
-**Afternoon: Administrative Tasks**
-- Batch emails, calls, and meetings
-- Handle routine activities
-- Process lighter cognitive loads
-- Group similar context tasks
-
-## Key Principles
-
-- Every context switch has a cognitive cost
-- Group similar tasks to minimize switching
-- Protect high-energy time for high-value work
-- Batch low-value but necessary tasks
-- Align task difficulty with energy levels
-
-## Benefits
-
-- Reduced mental fatigue
-- Higher quality deep work
-- More efficient task completion
-- Better energy management
-- Less time lost to context switching
+Context switching—jumping between different types of tasks—depletes mental energy and reduces productivity. By batching similar tasks and aligning them with energy levels, you work more efficiently.
 
 ## Implementation
 
-- Identify your peak energy periods
-- Categorize tasks by context and energy required
-- Create batches of similar tasks
-- Schedule task batches strategically
-- Minimize interruptions during deep work blocks
+### Group by Mental Energy
+- **Deep Creative Work** - High-cognition tasks (writing, design, strategy)
+- **Analytical Work** - Problem-solving, data analysis, planning
+- **Administrative Tasks** - Email, scheduling, routine paperwork
+- **Communication** - Meetings, calls, collaboration
+- **Maintenance** - Organizing, filing, cleaning up
+
+### Schedule by Energy Patterns
+- **Morning (High Energy)** - Deep creative work without digital interruptions
+- **Mid-Day** - Meetings and collaborative work
+- **Afternoon (Lower Energy)** - Administrative tasks and email batching
+- **End of Day** - Planning for tomorrow, light maintenance
+
+## Benefits
+
+- **Reduced Cognitive Load** - Less mental effort switching between task types
+- **Improved Focus** - Longer stretches of concentrated work
+- **Better Quality** - Deep work done when energy is highest
+- **Less Decision Fatigue** - Pre-decided what type of work happens when
+- **Increased Efficiency** - Batch processing similar tasks together
+
+## Best Practices
+
+- Batch email into 2-3 designated times per day
+- Group all meetings into specific blocks when possible
+- Protect morning hours for most important deep work
+- Use afternoons for collaborative and administrative work
+- Minimize notifications during focused work blocks
+
+## Modern Relevance (2026)
+
+In 2026, work is dynamic, collaborative, and often asynchronous. This technique acknowledges that flexibility, not rigidity, enables sustainable productivity today.

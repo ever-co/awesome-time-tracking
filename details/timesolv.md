@@ -1,24 +1,27 @@
 ## Overview
 
-TimeSolv Legal Billing is cloud-based time tracking and billing management software for legal firms. Proven since 1999 with over $5.3 billion billed through the platform.
+TimeSolv is a cloud-based legal time and billing software designed specifically for attorneys, law firms, and legal professionals. It's ranked #1 for usability and provides comprehensive time tracking, billing, and practice management features.
 
-## Time Tracking Features
+## Features
 
-Track time from anywhere: desktop, mobile, or offline with TimeSync Desktop App. Entries sync automatically when you reconnect.
+- **Time Tracking** - Timer-based and manual time entry with ABA task codes
+- **Trust Accounting** - IOLTA-compliant trust accounting for client funds
+- **Automated Billing** - Generate invoices from tracked time with customizable templates
+- **Expense Tracking** - Track case-related expenses for client billing
+- **Comprehensive Reporting** - 31 built-in reports for billing analysis and practice insights
+- **Mobile Apps** - Track time and expenses from iOS and Android devices
+- **Client Portal** - Secure portal for clients to view invoices and make payments
+- **Calendar Integration** - Sync with Outlook and Google Calendar
+- **Document Management** - Store case documents and files
+- **Conflict Checking** - Automated conflict of interest detection
 
-## Billing Capabilities
+## Industries Served
 
-Supports hourly billing, flat fees, hybrid arrangements, contingency fees, retainers, and installment plans. Includes trust accounting, ABA task codes, UTBMS, and LEDES 1998B formats.
-
-## TimeSolvPay
-
-Accept credit cards and ACH payments directly from invoices with integrated payment processing.
-
-## Integrations
-
-Connects with QuickBooks, AccountEdge, NetDocuments, Dropbox, LawPay, and more.
+- Law firms of all sizes
+- Solo practitioners
+- Corporate legal departments
+- Legal aid organizations
 
 ## Pricing
 
-- Monthly: $49.99/month for 1-4 users
-- Annual: $47.50/month for 1-4 users
+Pricing starts at $44.95 per user per month with a 30-day free trial. Volume discounts available for larger firms.

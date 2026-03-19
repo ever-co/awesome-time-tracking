@@ -1,23 +1,27 @@
 ## Overview
 
-Motion is an AI-powered productivity app that combines calendar management, task scheduling, and project management into a single intelligent platform. Unlike traditional time blocking tools, Motion uses AI to automatically schedule your tasks as calendar blocks based on your deadlines, priorities, and available time.
+Motion is an AI-driven productivity suite that revolutionizes time management by automatically scheduling tasks from your to-do list into your calendar. It uses artificial intelligence to create optimal time blocks and dynamically adjusts schedules as priorities change throughout the day.
 
 ## Features
 
-- **AI Auto-Scheduling**: Motion's AI scheduler automatically places tasks on your calendar, adjusting throughout the day as priorities change
-- **Intelligent Task Management**: Add tasks with deadlines and priorities, and Motion determines when to work on them
-- **Calendar Integration**: Connects with Google Calendar, Outlook, and other calendar services
-- **Project Management**: Organize tasks into projects with dependencies and team collaboration
-- **Meeting Scheduling**: Built-in meeting scheduler to find optimal times without back-and-forth emails
-- **Focus Time Protection**: Automatically blocks time for deep work based on your task priorities
-- **Dynamic Rescheduling**: When urgent tasks arise or meetings run long, Motion automatically adjusts your schedule
-- **Team Collaboration**: Share projects, assign tasks, and coordinate schedules with team members
-- **Mobile Apps**: Full-featured iOS and Android apps for on-the-go schedule management
+- **AI Auto-Scheduling** - Automatically schedules tasks from to-do lists into calendar time blocks
+- **Dynamic Re-scheduling** - Intelligently adjusts schedule when new tasks or meetings are added
+- **Project Management** - AI-assisted project creation and task breakdown
+- **Team Coordination** - Helps teams coordinate complex projects with automated scheduling
+- **Priority Management** - Automatically prioritizes tasks based on deadlines and importance
+- **Calendar Integration** - Syncs with Google Calendar, Outlook, and other calendar services
+- **Meeting Scheduling** - Smart scheduling assistant for finding optimal meeting times
+- **Focus Time Protection** - Blocks time for deep work automatically
+- **Deadline Tracking** - Ensures tasks are scheduled with enough time before deadlines
+- **Mobile Apps** - Access and manage your AI-scheduled day from iOS and Android
 
-## How It Works
+## Use Cases
 
-You input your tasks with deadlines, estimated duration, and priority level. Motion's AI analyzes your existing calendar commitments and available time slots, then automatically schedules each task at the optimal time. As your day changes, Motion continuously re-optimizes your schedule to ensure you stay on track with your priorities.
+- Individual professionals managing complex workloads
+- Teams coordinating projects with multiple dependencies
+- Executives balancing meetings and strategic work
+- Anyone struggling with manual calendar management
 
 ## Pricing
 
-Motion offers a 7-day free trial. Paid plans start at $19 per month for individuals (billed annually) or $34 per month (billed monthly). Team plans are available starting at $12 per user per month (billed annually).
+Starts at $19-34 per user per month with a free trial available.

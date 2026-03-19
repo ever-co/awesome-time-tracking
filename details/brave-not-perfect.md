@@ -1,31 +1,36 @@
 ## Overview
 
-"Brave, Not Perfect: Fear Less, Fail More, Live Bolder" is a book by Reshma Saujani that serves as a manifesto enabling women to see the roots of perfectionism and rewire themselves for bravery.
-
-## Author Background
-
-Reshma Saujani is the Founder and CEO of Girls Who Code, a national non-profit organization working to close the gender gap in technology. Her 2016 TED talk "Teach girls bravery, not perfection" struck a chord around the world, with over 3 million views.
+"Brave, Not Perfect: Fear Less, Fail More, and Live Bolder" by Reshma Saujani is a manifesto challenging women to embrace bravery over perfection. The book examines how girls are socialized to be perfect while boys are encouraged to be brave, and offers strategies for breaking free from perfectionism.
 
 ## Core Message
 
-The book addresses how boys are taught to be brave while girls learn that achievement is paved with diligence and caution. It challenges this cultural conditioning and provides a path forward for women to embrace imperfection and take bold action.
-
-## Structure
-
-The book has a manual-like structure that urges readers to actively engage with the content, helping them develop a "bravery mindset" through practical exercises and reflections.
+Perfectionism holds women back from taking risks, pursuing ambitious careers, and living authentically. The book encourages choosing courage over caution and action over overthinking.
 
 ## Key Themes
 
-- Overcoming perfectionism in professional and personal life
-- Understanding the societal roots of gender-based fear of failure
-- Rewiring thought patterns to prioritize bravery over perfection
-- Taking calculated risks and embracing failure as part of growth
-- Building confidence through action rather than endless preparation
+- **Choose Brave Over Perfect** - Take action despite fear of failure
+- **Embrace Failure** - See failure as learning rather than defeat
+- **Challenge Socialization** - Recognize how gendered expectations shape behavior
+- **Take Smart Risks** - Step outside comfort zones strategically
+- **Build Courage Muscles** - Practice bravery in small ways daily
+- **Reject Perfectionism** - Done is better than perfect
+- **Live Bolder** - Pursue what you want without waiting for permission
+
+## Relevance to Time Management
+
+Perfectionism leads to procrastination and wasted time on over-polishing work. By choosing brave over perfect, you make faster decisions and take action more quickly.
+
+## Author Background
+
+Reshma Saujani is the founder of Girls Who Code, a nonprofit working to close the gender gap in technology.
 
 ## Target Audience
 
-Best for perfectionists who need permission to be imperfect and women seeking to overcome fear of failure in their careers and personal lives.
+- Women struggling with perfectionism
+- Anyone paralyzed by fear of failure
+- People seeking to take bigger career risks
+- Those working to overcome gendered socialization
 
 ## Format
 
-Published book available in hardcover, paperback, and digital formats.
+Available in hardcover, paperback, audiobook, and e-book formats.

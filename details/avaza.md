@@ -1,31 +1,55 @@
 ## Overview
 
-Avaza is a comprehensive work management platform designed for service businesses, combining project management, time tracking, expense management, and invoicing to provide an end-to-end solution for managing billable work.
+Avaza is a comprehensive business management platform that combines time tracking, project management, invoicing, and expense tracking in one unified system. It simplifies billing with an integrated invoicing system that connects seamlessly with tracked time.
 
 ## Features
 
-- **Time Tracking**: Timers, timesheets, and mobile time tracking for billable and non-billable hours
-- **Project Management**: Tasks, Gantt charts, Kanban boards, and project collaboration
-- **Expense Tracking**: Capture receipts and track project-related expenses
-- **Invoicing**: Generate invoices from tracked time and expenses with customizable templates
-- **Quotes**: Create and send professional quotes and estimates
-- **Resource Scheduling**: Allocate team members to projects and view capacity
-- **Team Chat**: Built-in messaging for project discussions
-- **Recurring Invoices**: Automate billing for retainer clients
-- **Online Payments**: Accept credit card and PayPal payments
-- **Reporting**: Financial reports, project profitability, and team utilization
-- **Client Portal**: Allow clients to view projects, invoices, and make payments
-- **Mobile Apps**: Full-featured iOS and Android applications
-- **Integrations**: Connect with accounting software, payment processors, and other tools
+### Time Tracking
+- **Timers** - Start/stop timers for real-time tracking
+- **Manual Entry** - Add time entries manually
+- **Timesheet View** - Weekly and monthly timesheet views
+- **Project Time** - Track time by project and task
+- **Billable vs. Non-Billable** - Categorize time for billing
+- **Timer Browser Extension** - Track from any website
+- **Mobile Apps** - iOS and Android time tracking
 
-## Target Audience
+### Project Management
+- **Task Management** - Create and assign project tasks
+- **Gantt Charts** - Visual project timelines
+- **Project Templates** - Reusable project structures
+- **Collaboration** - Team communication and file sharing
+- **Project Budgets** - Set and track project budgets
+- **Milestones** - Track project milestones and phases
 
-Ideal for consultants, agencies, professional services firms, and freelancers who need to manage projects and bill clients from one platform.
+### Invoicing & Billing
+- **Integrated Billing** - Convert tracked time to invoices automatically
+- **Professional Invoices** - Customizable invoice templates
+- **Recurring Invoices** - Automated recurring billing
+- **Online Payments** - Accept credit card and bank payments
+- **Multi-Currency** - Bill in multiple currencies
+- **Tax Management** - Handle sales tax and VAT
 
-## Benefits
+### Expense Tracking
+- **Expense Recording** - Track business expenses
+- **Receipt Capture** - Photo receipts from mobile app
+- **Expense Categories** - Organize expenses by type
+- **Billable Expenses** - Include expenses in client invoices
+- **Expense Reports** - Generate expense reports
 
-Eliminates the need for multiple subscriptions by combining project management, time tracking, and billing in one affordable platform with seamless data flow between functions.
+### Reporting
+- **Time Reports** - Detailed time tracking reports
+- **Financial Reports** - Profit and loss, revenue reports
+- **Project Reports** - Project profitability and status
+- **Team Utilization** - Resource allocation reports
+
+## Target Users
+
+- Freelancers
+- Consultants
+- Creative agencies
+- Professional services firms
+- Small to medium businesses
 
 ## Pricing
 
-Tiered pricing starting with a free plan for small teams, with paid plans offering advanced features like resource scheduling and custom branding.
+Free plan for up to 5 users. Paid plans start at $11.95-39.95 per month depending on features and users.

@@ -1,87 +1,31 @@
 ## Overview
 
-Akiflow is a time blocking calendar and task management app that boosts users' productivity and optimizes their time. It's a calendar-centered productivity app that brings all your tasks, events, and inbox items into one place for structured daily planning and time blocking.
+Akiflow is a powerful task management and time blocking application that unifies tasks from multiple platforms into a single consolidated inbox. It combines task capture with calendar-based time blocking to help professionals manage complex workflows.
 
 ## Features
 
-### Time Blocking
-- Visual mapping of daily schedule
-- Assign tasks to precise time slots
-- Simple drag-and-drop interface
-- Place tasks directly into calendar slots
-- Time blocking consists of blocking time for tasks on calendar
-- Schedule exactly when you're going to work on each task
+- **Unified Inbox** - Pulls tasks from ClickUp, Asana, Gmail, Slack, Notion, and 20+ other apps
+- **Calendar Time Blocking** - Drag tasks directly onto calendar to create time blocks
+- **Task Consolidation** - All your tasks in one place regardless of source
+- **Quick Capture** - Rapidly add tasks from anywhere with keyboard shortcuts
+- **Label & Organization** - Tag and categorize tasks across platforms
+- **Calendar Integration** - Syncs with Google Calendar and Outlook
+- **Focus Mode** - Minimize distractions while working on time-blocked tasks
+- **Keyboard-First** - Extensive keyboard shortcuts for power users
+- **Cross-Platform** - Available on Mac, Windows, iOS, and web
+- **Two-Way Sync** - Changes sync back to original task management tools
 
-### Task Integration
-- Automatically gathers tasks from multiple platforms:
-  - Slack
-  - Asana
-  - Trello
-  - Notion
-  - Email
-  - And more
-- Displays all tasks in one unified dashboard
-- No need to jump between platforms
-- See everything in one place
+## Integration Ecosystem
 
-### Calendar Management
-- Drag-and-drop calendar interface
-- Schedule tasks using visual interface
-- Don't just list tasks - schedule them
-- Integrated calendar view
-- Sync with existing calendars
+Connects with ClickUp, Asana, Todoist, Notion, Gmail, Slack, Trello, Linear, GitHub, and many more.
 
-### Focus Features
-- During time blocks, hides everything else
-- Notifications muted during focus time
-- Only current task visible
-- Helps stay on task
-- Distraction-free work environment
+## Target Users
 
-## Who It's For
-
-- Professionals managing multiple tools
-- Freelancers needing consolidated task view
-- Busy individuals with complex schedules
-- Teams using multiple project management platforms
-- Anyone wanting unified calendar and task management
-- Time blocking practitioners
-
-## Benefits
-
-- Consolidate tasks from all platforms
-- Unified view of all commitments
-- Visual time allocation
-- Reduce context switching
-- Improve focus with dedicated time blocks
-- Better daily planning
-- One dashboard for everything
-
-## Integration Capabilities
-
-- Task imports from popular platforms
-- Email integration
-- Calendar synchronization
-- Messaging platform connections
-- Project management tool links
+- Product managers
+- Software developers
+- Project managers
+- Anyone using multiple task management tools
 
 ## Pricing
 
-- Approximately $34/month
-- Trial period available
-- Premium pricing for professional features
-
-## Platform Availability
-
-- Desktop application
-- Web-based interface
-- Cross-platform synchronization
-
-## Use Cases
-
-- Daily planning and scheduling
-- Task consolidation from multiple sources
-- Time blocking implementation
-- Focus time protection
-- Calendar and task coordination
-- Team collaboration across platforms
+Starts at approximately $19-34 per month with a free trial available.

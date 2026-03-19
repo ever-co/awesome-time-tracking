@@ -1,25 +1,29 @@
 ## Overview
 
-Parim is a time tracking application optimized for mobile workers, particularly those managing multiple job sites who need straightforward clock-in functionality on Android devices.
+Parim is a specialized time tracking and workforce management application designed for shift-based industries including event staffing, security services, hospitality, and retail. It's particularly effective for managing teams across multiple locations with GPS verification.
 
 ## Features
 
-- **Simple Clock-In**: User-friendly interface with one-touch clock-in/clock-out
-- **Break Management**: Easy tracking of paid and unpaid breaks
-- **Multi-Site Support**: Manage time across different job locations
-- **Android Optimized**: Native Android app designed for field workers
-- **Mobile-First Design**: Built specifically for on-the-go time tracking
-- **Timesheet Generation**: Automatic compilation of work hours
-- **GPS Verification**: Location tracking for job site verification
+- **GPS Geofencing** - Verify employee attendance at assigned locations
+- **Shift Scheduling** - Create and manage shift schedules for multiple locations
+- **Mobile Time Clock** - Clock in/out via smartphone with location verification
+- **Real-Time Attendance** - Live view of who's working where
+- **Automated Reminders** - Shift notifications and clock-in reminders
+- **Timesheet Approval** - Digital approval workflow for managers
+- **Break Management** - Track and enforce required breaks
+- **Payroll Export** - Export timesheets for payroll processing
+- **Client Billing** - Track time by client and location for billing
+- **Multi-Location Support** - Manage teams across unlimited locations
 
-## Target Users
+## Industries
 
-- Mobile workers
-- Field service technicians
-- Construction crews
-- Maintenance teams
-- Multi-site employees
+- Event staffing
+- Security services
+- Hospitality
+- Retail
+- Facility management
+- Cleaning services
 
 ## Pricing
 
-Check website for current pricing plans based on team size.
+Custom pricing based on team size and features required, with a free trial available.

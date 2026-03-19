@@ -1,58 +1,31 @@
 ## Overview
 
-DeskTime is an automatic time tracking and productivity monitoring software, famous for discovering the 52/17 rule by analyzing the work patterns of its most productive users.
+DeskTime is a comprehensive time tracker and productivity monitoring platform designed for both remote and on-site teams. It combines automatic time tracking with productivity analytics to help teams move from guesswork to data-driven decision-making.
 
-## Automatic Time Tracking
+## Features
 
-- Fully automatic desktop tracking
-- Application and website monitoring
-- Idle time detection
-- Offline time tracking
-- Manual time entry option
-- Calendar integration
+### Automatic Time Tracking
+- **Arrival/Departure Timestamps** - Automatically records when employees start and end work
+- **Work Time Calculation** - Tracks total time spent on work-related tasks
+- **Productivity Tracking** - Automatically calculates daily team productivity
+- **Idle Time Detection** - Identifies periods of inactivity
 
-## Productivity Features
+### Monitoring & Analytics
+- **URL & App Tracking** - Logs which apps and websites are used and for how long
+- **Productivity Calculation** - Employees categorize apps/URLs as productive or unproductive
+- **Project Tracking** - Track time spent on specific projects and tasks
+- **Screenshots** - Optional screenshot feature for visual work verification
+- **Reports & Insights** - Detailed productivity and time usage reports
 
-**Productivity Analysis:**
-- Categorizes apps/sites as productive, unproductive, or neutral
-- Real-time productivity percentage
-- Daily productivity reports
-- Individual and team analytics
-- Custom productivity rules
+### Privacy Features
+- **Private Time** - All tracking stops during private moments for personal matters
+- **Transparent Monitoring** - Not designed as surveillance but productivity improvement
+- **Employee Control** - Workers can pause tracking when needed
 
-**The 52/17 Discovery:**
-DeskTime's analysis revealed that the most productive employees worked in 52-minute focused bursts followed by 17-minute breaks, leading to the popularization of this method.
+## Platforms
 
-## Team Management
+Desktop apps for Windows, Mac, Linux. Mobile apps for iOS and Android.
 
-- Employee time tracking
-- Project time allocation
-- Task management
-- Attendance tracking
-- Shift scheduling
-- Screenshots (optional)
-- URL and app tracking
+## Pricing (2026)
 
-## Reporting
-
-- Productivity reports
-- Time utilization
-- Project reports
-- Absence calendar
-- Custom reports
-- Export capabilities
-
-## Integrations
-
-- Google Calendar
-- Outlook Calendar
-- Jira, Trello, Asana
-- Basecamp
-- API access
-
-## Pricing
-
-Pro: $7/user/month
-Premium: $10/user/month
-Enterprise: $20/user/month
-14-day free trial
+Free version with unlimited users. Pro: $7/user/month, Premium: $10/user/month, Enterprise: $20/user/month. 14-day free trial.

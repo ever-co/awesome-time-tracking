@@ -1,35 +1,41 @@
 ## Overview
 
-Tabs3 Billing is legal billing and practice management software designed specifically for law firms. The platform offers flexible billing options, time tracking tools, and secure client account management all in one trusted platform.
+Tabs3 is a comprehensive legal billing and practice management software designed specifically for law firms. It provides robust time tracking, billing, trust accounting, and case management features tailored to legal professionals' unique needs.
 
-## Key Features for Legal Time Tracking
+## Features
 
-- **Legal-specific time entry**: Built for 6-minute increment billing (tenths of an hour)
-- **Multiple billing rates**: Support for different hourly rates by attorney, client, or matter
-- **LEDES billing**: Generate standardized electronic billing for corporate clients
-- **Trust accounting**: Secure management of client funds with IOLTA compliance
-- **Matter-based tracking**: Track time and expenses by case or matter
-- **Mobile time entry**: Capture billable time on the go
+### Time & Billing
+- **Time Tracking** - Capture billable time with timers and manual entry
+- **Fee Management** - Flexible billing rates and fee structures
+- **Invoice Generation** - Create professional invoices from tracked time
+- **Billing Automation** - Automate recurring billing and retainer management
+- **Pre-Billing Reports** - Review time entries before creating invoices
+- **Payment Processing** - Accept credit cards and process payments
+- **Collections** - Track aging accounts and manage collections
 
-## Practice Management Integration
+### Trust Accounting
+- **IOLTA Compliance** - Maintain compliant trust accounts
+- **Trust-to-Operating** - Transfer funds between trust and operating accounts
+- **Three-Way Reconciliation** - Ensure trust account accuracy
+- **Trust Transaction Tracking** - Monitor all trust account activity
+- **Trust Reports** - Comprehensive trust accounting reports
 
-Tabs3 integrates with PracticeMaster practice management software for:
-- Calendar and docket management
-- Contact management
-- Document management
-- Conflict checking
+### Practice Management
+- **Client Management** - Centralize client information and communications
+- **Matter Management** - Organize cases and matters
+- **Document Management** - Store case-related documents
+- **Calendar & Dockets** - Track deadlines and appointments
+- **Contact Management** - Manage client and professional contacts
 
-## Compliance
+### Reporting
+- **Financial Reports** - Detailed financial analysis and reporting
+- **Productivity Reports** - Track attorney time and billable hours
+- **Custom Reports** - Create custom report templates
 
-- State bar association compliant
-- Trust accounting rules adherence
-- Audit trail maintenance
-- Secure data storage
+## Platform
 
-## Target Users
-
-Designed for solo practitioners, small to mid-sized law firms, and legal departments across all practice areas.
+Windows desktop application with optional cloud hosting
 
 ## Pricing
 
-Contact vendor for pricing. Available as on-premise or cloud-based solution.
+One-time purchase or subscription options; contact for pricing.

@@ -1,32 +1,31 @@
 ## Overview
 
-ZoomShift is an employee scheduling tool designed specifically for restaurants, whether indie establishments or national franchises, to help save time and money. It's a top choice for small to medium-sized restaurants needing agile scheduling tools.
+ZoomShift is an employee scheduling platform designed specifically for organizations that require shift schedules, including restaurants, retail stores, healthcare facilities, and other shift-based businesses.
 
 ## Features
 
-### Scheduling Capabilities
-- Easily copy shifts from day-to-day or week-to-week
-- Unlimited templates for every shift, location, and season
-- Drag-and-drop scheduling tool creates conflict-free schedules based on restaurant needs
-- Create, adjust, and share employee schedules in minutes reducing scheduling conflicts and improving coverage
+- **Drag-and-Drop Scheduling** - Easy-to-use schedule builder with visual interface
+- **Shift Templates** - Save and reuse common shift patterns
+- **Employee Availability** - Track employee availability and time-off requests
+- **Shift Swapping** - Allow employees to trade shifts with manager approval
+- **Time Clock** - Mobile time clock with GPS verification
+- **Team Messaging** - Built-in communication for schedule updates
+- **Labor Cost Tracking** - Monitor labor costs in real-time
+- **Schedule Publishing** - Publish schedules and notify team automatically
+- **Mobile Apps** - iOS and Android apps for managers and staff
+- **Overtime Alerts** - Warnings when approaching overtime thresholds
+- **Reporting** - Schedule and labor cost reports
+- **Multi-Location** - Manage multiple locations from one account
 
-### Labor Cost Management
-- Real-time views of costs to instantly make changes for heavy nights
-- Compare labor costs with average revenue for each day
-- Helps restaurant managers save considerable man-hours, stay on top of labor budgets, and reduce human error in payroll calculations
+## Industries
 
-### Mobile Accessibility
-- Available for both Android and iOS
-- Downloadable from Google Play Store and Apple App Store
+- Restaurants and food service
+- Retail stores
+- Healthcare facilities
+- Hospitality
+- Security services
+- Any shift-based organization
 
 ## Pricing
 
-ZoomShift offers user-based pricing:
-- Essentials plan: $0 for small teams of up to 20 users
-- Paid pricing: Starts at $2 per user monthly
-
-## Use Cases
-
-- Independent restaurants and national franchises
-- Small to medium-sized businesses
-- Teams requiring agile scheduling with real-time cost visibility
+Starts at approximately $2-3 per user per month with a free trial available.

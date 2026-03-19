@@ -1,34 +1,24 @@
 ## Overview
 
-Timing is a fully automatic time tracking app exclusively for macOS that tracks which apps and websites you use, for how long, and when. It creates accurate timesheets without any manual start/stop timers.
+Timing is the leading automatic time tracking app for Mac, designed to record every app, document, and website you use without requiring manual timers. It's built as a native Mac application for maximum performance and privacy.
 
 ## Features
 
-- **Automatic Tracking**: Records all Mac activity automatically
-- **Timeline View**: Visual timeline of your entire day
-- **Smart Suggestions**: AI suggests how to categorize your time
-- **Project Tracking**: Organize time by projects and tasks
-- **Productivity Analysis**: Identify time usage patterns
-- **Offline Support**: Works without internet connection
-- **Privacy First**: All data stored locally on your Mac
-- **Calendar Integration**: Sync with macOS Calendar
-- **Reporting**: Detailed time reports and summaries
-- **Export**: Export to CSV, PDF, and invoicing tools
-- **No Screenshots**: Privacy-friendly tracking
-- **Keyboard Shortcuts**: Quick time entry and navigation
+- **Automatic Activity Tracking** - Automatically tracks every app, document, and website with full file paths and URLs
+- **AI Summaries** - Transform raw activity data into actionable insights with intelligent summaries
+- **Call Detection** - Automatically prompts to record time after video or voice calls
+- **Screen Time Import** - Import mobile app usage from Screen Time for complete cross-device tracking
+- **Native Performance** - Built as a native Mac app for blazing speed, not a slow web or Electron app
+- **Local Privacy** - All data stored locally on your Mac and never leaves your device unless you opt into sync
+- **Project Categorization** - Organize tracked time into projects and clients
+- **Productivity Reports** - Detailed insights into how time is spent
+- **Billing Integration** - Export time to invoicing systems
+- **macOS Integration** - Full compatibility with latest macOS including Liquid Glass design
 
-## How It Works
+## macOS Compatibility
 
-1. Timing runs in the background on your Mac
-2. Automatically records apps, documents, and websites
-3. You review the timeline and assign time to projects
-4. AI learns from your assignments and suggests categorization
-5. Generate reports and export for billing
+Fully compatible with macOS 26 Tahoe and the new Liquid Glass design, with views carefully reworked to seamlessly integrate.
 
 ## Pricing
 
-- **Monthly**: $10/month per Mac
-- **Yearly**: $79/year per Mac
-- **Lifetime**: $199 one-time per Mac
-- 14-day free trial
-- macOS only
+Free 30-day trial. Plans: Professional ($9/month), Expert ($11/month), and Connect ($16/month), billed annually.

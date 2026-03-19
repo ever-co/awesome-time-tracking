@@ -1,58 +1,38 @@
 ## Overview
 
-Restaurant365 is an all-in-one restaurant management software that combines accounting, back-office operations, inventory management, scheduling, and time tracking into a single cloud-based platform built specifically for restaurants.
+Restaurant365 is an all-in-one restaurant management platform that combines accounting, operations, inventory, and workforce management. In 2026, it features AI-powered employee scheduling tools designed to optimize labor costs while maintaining service quality.
 
-## Time & Attendance Features
+## Features
 
-- **Integrated Time Clock**: Track employee clock-in/out directly within the platform
-- **Mobile Punching**: Employees can clock in from mobile devices
-- **GPS Verification**: Location tracking for mobile clock-ins
-- **Break Tracking**: Automatic tracking of meal and rest breaks
-- **Overtime Management**: Real-time overtime alerts and tracking
-- **Tip Reporting**: Integrated tip declaration and tracking
-- **Labor Law Compliance**: Built-in compliance for various jurisdictions
-- **POS Integration**: Import time data from major POS systems
+### AI-Powered Scheduling
+- **Predictive Analytics** - AI forecasts staffing needs based on historical data
+- **Demand-Based Scheduling** - Match staffing to predicted customer volume
+- **Labor Cost Optimization** - Automatically suggest optimal staffing levels
+- **Smart Scheduling** - AI considers employee skills, availability, and preferences
+- **Real-Time Adjustments** - Adapt schedules based on actual vs. predicted demand
 
-## Scheduling
+### Workforce Management
+- **Time & Attendance** - Track employee hours and attendance
+- **Shift Management** - Create, publish, and manage shift schedules
+- **Employee Communication** - Send schedule updates and announcements
+- **Compliance Tracking** - Monitor labor law compliance and break requirements
+- **Payroll Integration** - Seamless connection to payroll processing
 
-- **Smart Scheduling**: AI-powered schedule creation based on sales forecasts
-- **Labor Budgets**: Set and track labor budget percentages
-- **Shift Templates**: Save and reuse common shift patterns
-- **Availability Management**: Employee availability and time-off requests
-- **Schedule Publishing**: Automatic notification to employees
-- **Shift Trading**: Employee-initiated shift swaps with approval
+### Restaurant Operations
+- **Accounting** - Full-featured restaurant accounting system
+- **Inventory Management** - Track food costs and inventory levels
+- **Recipe Costing** - Calculate food costs for menu items
+- **Invoice Processing** - Automated AP and invoice management
+- **Reporting & Analytics** - Comprehensive operational reports
 
-## Labor Cost Management
+## AI Advantages
 
-- **Real-Time Labor Tracking**: Monitor labor percentages as they happen
-- **Sales Forecasting**: Predict sales and optimize staffing
-- **Budget vs. Actual**: Compare planned labor to actual hours
-- **Multi-Location Support**: Manage labor across multiple restaurants
-- **Detailed Analytics**: Labor reports by location, position, daypart
+AI scheduling helps restaurants balance labor costs, reduce overstaffing, ensure adequate coverage during peak times, and make data-driven decisions rather than relying on guesswork.
 
-## Accounting Integration
+## Target Market
 
-- **Payroll Integration**: Seamless connection to major payroll providers
-- **GL Integration**: Automatic general ledger posting
-- **Cost Accounting**: True labor costs including taxes and benefits
-- **Accrual Tracking**: Track vacation, sick time, and other accruals
-- **Tip Allocation**: Automated tip pooling and distribution
-
-## Additional Features
-
-- **Inventory Management**: Track food and beverage costs
-- **Accounts Payable**: Invoice processing and payment
-- **Recipe Costing**: Calculate theoretical food costs
-- **Prime Cost Reports**: Combined food and labor cost analysis
-- **Cash Management**: Track cash flow and reconciliation
+Medium to large restaurant groups and chains
 
 ## Pricing
 
-Restaurant365 offers tiered pricing based on:
-- Number of locations
-- Required modules
-- Transaction volume
-- Employee count
-
-Typical pricing ranges from $300-$500+ per location per month.
-Contact Restaurant365 for specific pricing.
+Custom enterprise pricing based on number of locations and features.

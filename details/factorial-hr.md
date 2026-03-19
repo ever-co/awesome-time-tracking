@@ -1,34 +1,34 @@
 ## Overview
 
-Factorial is an all-in-one HR software platform that centralizes time tracking, employee management, leave management, and HR administration for growing companies and SMBs.
+Factorial HR is a comprehensive people management platform that goes beyond time and attendance tracking to connect people, finance, and business management in a single hub. In 2026, it's recognized as one of the most advanced biometric time clock systems available.
 
-## Time Tracking Features
+## Time & Attendance Features
 
-- **Time Clock**: Digital clock-in/out system for accurate attendance tracking
-- **Shift Scheduling**: Create and manage employee shifts and schedules
-- **Timesheet Management**: Review and approve employee timesheets
-- **Mobile App**: iOS and Android apps for remote time tracking
-- **Overtime Tracking**: Automatically calculate and track overtime hours
-- **Break Management**: Track breaks and ensure labor law compliance
-- **Project Time Allocation**: Assign time to specific projects or departments
-- **Reporting**: Generate detailed reports on time, attendance, and labor costs
-- **Integration**: Connect with payroll systems for seamless data transfer
+### Clock-In Methods
+- **Facial Recognition** - Biometric clock-in through the Factorial app
+- **GPS Geolocation** - Track with configurable radius from 1km to 50m
+- **QR Code** - Clock in from specific locations using QR codes
+- **Web/Mobile** - Standard clock-in from any device
+- **Project Clock-In** - Track hours against specific projects and tasks
 
-## Additional HR Features
+### Attendance Management
+- **Shift Management** - Create and manage employee shift schedules
+- **Automatic Notifications** - Alerts when incorrect punches are recorded
+- **Missed Clock-In Alerts** - Email notifications for missed clock-ins
+- **Configurable Clock-In Ranges** - Set acceptable clock-in time windows
+- **Time-Off Approvals** - Digital PTO request and approval workflow
+- **Cloud-Based** - Access from anywhere for remote employee monitoring
 
-- Leave and absence management
-- Employee onboarding and offboarding
-- Performance reviews
-- Document management
-- Payroll integration
-- Employee self-service portal
-- HR analytics and reporting
+### Additional HR Features
+- **Payroll Processing** - Integrated payroll management
+- **Document Management** - Store employee documents
+- **Performance Reviews** - Employee performance tracking
+- **Recruitment** - Applicant tracking and hiring tools
 
-## Pricing
+## Target Market
 
-Factorial offers tiered pricing based on features and company size:
-- Essential: Starting at approximately €3/employee/month
-- Professional: Advanced features for growing teams
-- Enterprise: Custom pricing with dedicated support
+Great fit for small businesses with fewer than 50 employees, especially those with little or no dedicated HR staff.
 
-Free trial available.
+## Pricing (2026)
+
+Starts at approximately $8 per employee/month.

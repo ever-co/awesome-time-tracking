@@ -1,53 +1,30 @@
 ## Overview
 
-TMetric is an automatic time tracking software that quietly runs in the background, capturing every app switch and idle period to create a flawless timeline of your work activities.
+TMetric is an automatic time tracking solution that quietly runs in the background, capturing every application switch and idle period to create a comprehensive timeline of work activities. It's popular among small and mid-sized teams for its zero-touch tracking approach.
 
-## Automatic Tracking
+## Features
 
-- Passive background tracking
-- App and website monitoring
-- Idle time detection
-- Automatic timeline construction
-- Smart categorization
-- Manual override available
+- **Automatic Activity Tracking** - Logs all app and website usage without manual timers
+- **Idle Time Detection** - Identifies and flags inactive periods
+- **Manual Time Entry** - Option to add time entries manually when needed
+- **Project Time Tracking** - Organize time by projects, clients, and tasks
+- **Billable Hours** - Mark time as billable or non-billable
+- **Invoicing** - Generate invoices from tracked time
+- **Budgeting** - Set project budgets and get alerts
+- **Team Monitoring** - See what team members are working on
+- **Integrations** - Connect with Asana, Trello, JIRA, GitHub, and 50+ other tools
+- **Detailed Reports** - Time, activity, and productivity reports
+- **Browser Extension** - Track time directly from web apps
+- **Mobile Apps** - iOS and Android apps for on-the-go tracking
 
-## Key Features
+## Use Cases
 
-**Time Management:**
-- Start/stop timers
-- Manual time entry
-- Time estimates
-- Billable vs. non-billable
-- Project and task tracking
-- Calendar integration
-
-**Team Features:**
-- Team dashboards
-- Activity monitoring
-- Productivity reports
-- Time approval workflows
-- Rate management
-- Capacity planning
-
-**Integrations:**
-- Jira, Trello, Asana
-- GitHub, GitLab, Bitbucket
-- Basecamp, Wrike
-- Slack, Microsoft Teams
-- 50+ integrations
-
-## Reporting
-
-- Time reports
-- Productivity analytics
-- Billable hours reports
-- Client reports
-- Project profitability
-- Custom reports
+- Software development teams
+- Digital agencies
+- Freelancers
+- Consulting firms
+- Remote teams
 
 ## Pricing
 
-Free plan: Basic features, unlimited users
-Professional: $5/user/month
-Business: $7/user/month
-15-day free trial on paid plans
+Free plan available for individuals. Paid plans start at $5 per user per month.

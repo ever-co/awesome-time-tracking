@@ -1,70 +1,19 @@
 ## Overview
 
-Workyard is the #1 GPS time clock app built specifically for contractors and field services companies. It is a complete time tracking and job management software designed for construction and field service teams.
+Workyard is a GPS time tracking and job management platform purpose-built for construction, landscaping, and field service businesses. Unlike basic time clocks that only capture location at punch times, Workyard provides continuous GPS tracking throughout the entire workday.
 
 ## Features
 
-### GPS Time Tracking
-- Built-in GPS tracking starts recording when employees clock in
-- Automatic detection of job site arrivals and departures
-- Records exact times employees arrive at and leave each job site
-- Location recorded every five minutes while clocked in
-- Near real-time insight into employee whereabouts
-- Uses satellites, not internet, for location tracking
+- **Continuous GPS Tracking** - Tracks crew locations, travel time, and mileage throughout the day, not just at clock-in/out
+- **Geofencing** - Automated clock-in reminders when workers arrive at job sites
+- **Job Costing** - Real-time labor cost tracking by project, crew, and task
+- **Certified Payroll** - Compliance reporting for prevailing wage jobs
+- **Mileage Tracking** - Automatic mileage logs for vehicle reimbursement and job costing
+- **Photo Verification** - Clock-in photos to prevent buddy punching
+- **Project Management** - Schedule crews, track job progress, and manage tasks
+- **Mobile Apps** - iOS and Android apps for field workers
+- **Real-Time Dashboard** - Live visibility into crew locations and job status
 
-### Mileage & Travel Tracking
-- Automatic detection of driving trips for clocked-in workers
-- Records exact driving route
-- Tracks miles traveled
-- Captures travel time for trips
-- Mileage reimbursement documentation
+## Pricing
 
-### Offline Capability
-- Clock in and submit time without internet connectivity
-- GPS uses satellite signals, not internet
-- Data syncs when connection restored
-- Ideal for remote job sites
-
-### Payroll Integration
-- Automates timesheets to payroll & job costing
-- One-click data send to payroll systems
-- Integrations include:
-  - QuickBooks
-  - ADP
-  - Gusto
-  - Paylocity
-  - And more
-
-### Security & Verification
-- Facial detection technology
-- Prevents buddy punching
-- Employee identity verification
-- Time theft prevention
-
-### Geofencing
-- Automatic clock-in/out reminders
-- Location-based alerts
-- Job site boundary enforcement
-
-### Job Tracking
-- Job tracking and cost code allocation
-- Real-time crew location visibility
-- Smart alerts for timesheet errors
-- Multi-site job management
-
-## Platform Availability
-
-- iOS mobile app
-- Android mobile app
-- Web dashboard
-
-## Trial
-
-14-day free trial available
-
-## Industries Served
-
-- Construction
-- Field Services
-- Contractors
-- Service companies with mobile teams
+Pricing starts at approximately $9-15 per user per month, with a 14-day free trial available. Custom enterprise pricing for larger teams.

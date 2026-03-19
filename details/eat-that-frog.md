@@ -1,33 +1,30 @@
 ## Overview
 
-Eat That Frog! by Brian Tracy helps readers overcome procrastination and increase productivity with 21 actionable strategies based on over 30 years of time management research.
+"Eat That Frog!" by Brian Tracy is a classic productivity book based on a Mark Twain quote: if the first thing you do each morning is eat a live frog, you can go through the day knowing the worst is behind you. The "frog" represents your most important and challenging task.
 
-## Core Concept
+## Core Philosophy
 
-The title refers to Mark Twain's advice: "If the first thing you do each morning is eat a live frog, you can go through the day knowing the worst is behind you." Your "frog" is your biggest, most important task.
+Start each day by tackling your biggest, most important task (your "frog") before anything else. This ensures you accomplish what matters most before distractions and lower-priority tasks consume your day.
 
-## Key Strategies
+## The 21 Principles
 
-- **Eat That Frog First**: Tackle your most important task first thing
-- **Plan Every Day**: Start with a written plan
-- **Apply the 80/20 Rule**: Focus on the 20% of tasks producing 80% of results
-- **ABCDE Method**: Prioritize tasks by importance
-- **Focus on Key Result Areas**: Identify what matters most
-- **Law of Forced Efficiency**: Work with greater focus when time is limited
-- **Prepare Thoroughly**: Proper planning prevents poor performance
+Key techniques include:
 
-## Time Management Impact
+- **Set the Table** - Decide exactly what you want and write it down
+- **Plan Every Day in Advance** - Create written plans for each day
+- **Apply the 80/20 Rule** - Focus on the 20% of activities that produce 80% of results
+- **Consider the Consequences** - Think long-term about task impact
+- **Practice Creative Procrastination** - Deliberately delay low-value tasks
+- **Use the ABCDE Method** - Categorize tasks by priority
+- **Focus on Key Result Areas** - Identify and excel in critical competencies
+- **Apply the Law of Three** - Identify your three most important tasks
+- **Prepare Thoroughly** - Proper preparation prevents poor performance
+- **Single Handle Every Task** - Work on one thing until complete
 
-Provides practical, immediately applicable techniques that have helped millions improve productivity and reduce procrastination.
+## Based on Research
 
-## Recognition
-
-Consistently appears on Amazon bestseller lists and recommended among top time management books of 2026.
+Draws on over 30 years of time management research and provides actionable, tested strategies.
 
 ## Format
 
-Available in multiple formats.
-
-## Author
-
-Brian Tracy - renowned speaker and author of over 80 books on success and achievement.
+Available in hardcover, paperback, audiobook, and e-book formats.

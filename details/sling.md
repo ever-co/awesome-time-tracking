@@ -1,59 +1,33 @@
 ## Overview
 
-Sling is a free employee scheduling and shift planning software designed to simplify workforce management for businesses with hourly employees. The platform offers an intuitive interface for creating schedules, managing time off, and facilitating team communication.
+Sling is a comprehensive employee scheduling and shift planning platform designed for restaurants, retail stores, and other shift-based businesses. It offers powerful scheduling features with a free plan that makes it accessible to small businesses.
 
-## Core Features
+## Features
 
-### Scheduling
-- **Drag-and-Drop Interface**: Easily create and modify shift schedules
-- **Template Scheduling**: Save and reuse common schedule patterns
-- **Shift Copying**: Duplicate previous schedules to save time
-- **Availability Management**: Track employee availability and time-off requests
-- **Conflict Alerts**: Automatic warnings for double-booking and overtime
-- **Shift Trading**: Allow employees to swap shifts with manager approval
+- **Shift Scheduling** - Drag-and-drop schedule builder with color-coded shifts
+- **Availability Management** - Track employee availability and time-off requests
+- **Shift Trading** - Employees can swap shifts with manager approval
+- **Time Clock** - Mobile and web-based time clock with GPS verification
+- **Task Management** - Create and assign tasks to employees
+- **Team Messaging** - Built-in chat for team communication
+- **Labor Cost Tracking** - Monitor scheduled labor costs in real-time
+- **Schedule Templates** - Save recurring schedules for easy reuse
+- **Notifications** - Automatic alerts for schedule changes and shift reminders
+- **Mobile Apps** - iOS and Android apps for managers and employees
+- **Overtime Alerts** - Get warned when scheduling approaches overtime thresholds
+- **Payroll Export** - Export timesheets for payroll processing
 
-### Time Tracking
-- **Time Clock**: Employees can clock in/out via mobile app or web
-- **GPS Verification**: Confirm employee location during clock-in
-- **Break Tracking**: Monitor and enforce break compliance
-- **Timesheet Export**: Export hours to payroll systems
+## Free Plan
 
-### Communication
-- **Team Messaging**: Built-in chat for group and individual messages
-- **Shift Notifications**: Automatic alerts for new shifts and changes
-- **Announcements**: Broadcast important updates to the team
-- **File Sharing**: Share documents and files with employees
+Sling offers a genuinely useful free plan that includes basic scheduling, time clock, and messaging features for unlimited users.
 
-## Mobile Apps
-
-Fully-featured iOS and Android apps allow employees to:
-- View their schedules
-- Clock in and out
-- Request time off
-- Swap shifts
-- Communicate with managers and coworkers
-
-## Industries
+## Target Industries
 
 - Restaurants and food service
 - Retail stores
-- Hotels and hospitality
 - Healthcare facilities
-- Entertainment venues
-- Security services
-
-## Integration
-
-Sling integrates with popular payroll and POS systems for seamless data transfer.
+- Hospitality
 
 ## Pricing
 
-Sling offers a free plan with core scheduling features. Premium plans add advanced features like time tracking, labor cost optimization, and enhanced reporting.
-
-## Free Plan Includes
-
-- Unlimited schedules
-- Mobile apps
-- Team messaging
-- Shift trading
-- Time-off management
+Free plan available. Premium plans start at $2-4 per user per month.

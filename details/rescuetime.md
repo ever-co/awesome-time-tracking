@@ -1,33 +1,30 @@
 ## Overview
 
-RescueTime is an automatic time tracking and productivity analytics platform that passively monitors how users spend time on their devices. Unlike manual time trackers, RescueTime works quietly in the background, automatically recording activity across apps, websites, and documents to provide detailed productivity insights.
+RescueTime is a pioneering automatic time tracking and productivity solution with over a decade of development. In 2026, it has evolved into a sophisticated tool that combines time tracking with AI-based focus guidance and burnout prevention, specifically designed for remote workers facing cognitive fatigue in hybrid environments.
 
-## Key Features
+## Features
 
-- **Automatic tracking** - Runs silently in the background recording app and website usage without manual timers
-- **Productivity categorization** - Automatically categorizes activities as productive or distracting based on customizable rules
-- **Focus Sessions** - Block distracting apps and websites to maintain concentration on important work
-- **Detailed reports** - Daily, weekly, and monthly analytics showing exactly where time is spent
-- **Real-time alerts** - Notifications when spending too much time on distracting activities
-- **Goal setting** - Set productivity goals and track progress over time
-- **Client/project time tracking** - RescueTime Timesheets automates tracking time by client, project, or task
-- **Multi-platform** - Available on Windows, macOS, Linux, iOS, Android, and web
+### Automatic Time Tracking
+- **Background Monitoring** - Silently tracks all desktop and mobile activities without manual timers
+- **App & Website Tracking** - Records time spent in every application and website
+- **Productivity Scoring** - Automatically categorizes activities as productive or distracting
+- **Detailed Reports** - Comprehensive analytics on time usage patterns
 
-## Privacy & Data
+### 2026 AI Enhancements
+- **AI-Based Focus Sessions** - Personalized focus blocks with intelligent distraction prevention
+- **Real-Time Alerts** - Detects and interrupts poor focus patterns immediately
+- **Smart Burnout Warnings** - Monitors work intensity and suggests breaks before burnout
+- **Productivity Coach** - AI-optimized guidance for digital professionals
 
-All data is stored locally on the user's device by default, with optional cloud syncing. RescueTime emphasizes privacy by design and does not monitor or record keystrokes, document contents, or take screenshots.
+### Focus Tools
+- **Distraction Blocking** - Block distracting websites and apps during focus time
+- **FocusTime** - Scheduled deep work sessions with automatic blocking
+- **Goal Setting** - Set daily productivity goals and track progress
 
-## Use Cases
+## Platforms
 
-- Identify time-wasting habits and productivity patterns
-- Track billable hours automatically for client work
-- Understand peak productivity hours for better time blocking
-- Reduce distractions with focus mode and website blocking
-- Generate accurate timesheets without manual logging
+Supports Windows, macOS, Android, and web. iOS supported via calendar sync and summary emails.
 
 ## Pricing
 
-- **Lite Plan**: Free - includes basic automatic time tracking and productivity reports (12 months data history)
-- **Premium Plan**: $12/month (billed annually) - adds FocusTime (website blocking), detailed goals, unlimited data history, and advanced analytics
-
-All premium plans include a 14-day free trial with no credit card required.
+14-day free trial. Paid plans available with no charge until trial ends.

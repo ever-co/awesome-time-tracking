@@ -1,56 +1,54 @@
 ## Overview
 
-NGTECO specializes in employee time clocks with biometric authentication capabilities, including facial recognition and fingerprint scanning. Their hardware solutions provide secure, accurate time tracking that prevents buddy punching and time theft.
+NGTECO provides advanced employee time clock systems featuring biometric authentication including facial recognition and Face ID technology. Their solutions offer touchless, hygienic attendance tracking with integrated workforce management capabilities.
 
-## Biometric Technologies
+## Face ID Time Clocks
 
-### Face ID Recognition
-- Fast facial authentication
-- Contactless clocking
-- Works with masks (advanced models)
-- Temperature screening integration
-- Large face database capacity
+### Facial Recognition Technology
+- **Touchless Authentication** - No physical contact required for clock-in
+- **Face ID Accuracy** - Advanced facial recognition algorithms
+- **Mask Detection** - Works even when employees wear face masks
+- **Live Face Detection** - Prevents photo spoofing
+- **Multi-Face Recognition** - Can identify multiple people simultaneously
+- **Fast Processing** - Recognition in under 0.5 seconds
 
-### Fingerprint Scanning
-- High-accuracy fingerprint readers
-- Multiple finger enrollment
-- Anti-spoofing technology
-- Fast verification times
-- Durable sensors
+### Health Screening Features
+- **Temperature Screening** - Built-in thermal imaging for fever detection
+- **Health Status Alerts** - Automated alerts for elevated temperatures
+- **Contactless Operation** - Promotes workplace hygiene
+- **Access Control** - Deny entry based on health screening results
+
+## Additional Biometric Options
+
+- **Fingerprint Scanning** - Traditional fingerprint authentication
+- **Palm Recognition** - Palm vein pattern identification
+- **RFID Cards** - Card-based backup authentication
+- **PIN Codes** - Numeric code entry option
+
+## Software & Integration
+
+- **Cloud Platform** - Web-based workforce management
+- **Real-Time Monitoring** - See attendance status live
+- **Attendance Reports** - Detailed time and attendance analytics
+- **Schedule Management** - Create and manage work schedules
+- **Overtime Tracking** - Monitor and control overtime
+- **Payroll Integration** - Export to popular payroll systems
+- **Mobile App** - Remote access and management
+- **API Access** - Integrate with existing HR systems
+
+## Use Cases
+
+- Corporate offices
+- Healthcare facilities (touchless for hygiene)
+- Manufacturing plants
+- Retail stores
+- Schools and universities
+- Government facilities
 
 ## Hardware Options
 
-- Wall-mounted time clocks
-- Desktop terminals
-- Portable units
-- Outdoor-rated models
-- Multi-modal authentication devices
+Wall-mounted, desktop, and turnstile-integrated models available
 
-## Key Features
+## Pricing
 
-- Multiple authentication methods
-- Color touchscreen displays
-- Wi-Fi and Ethernet connectivity
-- Battery backup
-- Real-time data sync
-- Offline operation capability
-
-## Security Benefits
-
-- Eliminate buddy punching
-- Prevent time card fraud
-- Accurate attendance records
-- Audit trail for compliance
-- Tamper-proof design
-
-## Integration Capabilities
-
-- Payroll software compatibility
-- HR system integration
-- Access control systems
-- Time and attendance platforms
-- Export to various formats
-
-## Target Users
-
-Businesses of all sizes requiring secure time tracking, particularly those in industries where time theft is a concern or where accurate attendance verification is critical for payroll and compliance purposes.
+Contact for custom hardware and software pricing based on needs.

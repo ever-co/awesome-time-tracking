@@ -1,72 +1,98 @@
 ## Overview
 
-Time Blocking is a time management method where you divide your day into blocks of time, with each block dedicated to accomplishing a specific task or group of tasks. It's a proactive approach to planning that helps prevent reactive, interrupt-driven work.
+Time Blocking is a time management method where you divide your day into blocks of time, with each block dedicated to accomplishing a specific task or group of tasks. It transforms to-do lists into scheduled calendar events, making you deliberate with your time.
 
 ## Core Principles
 
-- **Pre-planned Schedule**: Plan your entire day in advance
-- **Dedicated Time Blocks**: Assign specific time periods to specific tasks
-- **Single Focus**: Work on one thing during each block
-- **No Interruptions**: Protect your blocks from distractions
-- **Realistic Allocation**: Estimate time needs accurately
-- **Regular Review**: Adjust and refine your approach
+### Schedule Everything
+- Block time for all activities, not just meetings
+- Include work tasks, breaks, meals, and personal time
+- Treat time blocks as appointments with yourself
+- Plan your ideal week in advance
 
-## Types of Time Blocking
+### Be Intentional
+- Decide in advance what you'll work on and when
+- Allocate time based on priorities and energy levels
+- Prevent reactive, unplanned work
+- Create space for deep work and shallow work separately
 
-**Task Batching**: Group similar tasks together in one block
-- Email processing block
-- Meeting block
-- Administrative tasks block
+## Implementation Methods
 
-**Day Theming**: Dedicate entire days to specific types of work
-- Monday: Strategy and planning
-- Tuesday: Client meetings
-- Wednesday: Deep work
-- Thursday: Team collaboration
-- Friday: Admin and review
+### Daily Time Blocking
+1. **Evening Before** - Review tasks and plan next day
+2. **Morning Review** - Adjust blocks based on priorities
+3. **Create Blocks** - Schedule all tasks into calendar
+4. **Follow Schedule** - Work according to plan
+5. **Adjust as Needed** - Reschedule blocks when interruptions occur
 
-**Time Boxing**: Set strict time limits for each task
-- 30 minutes for report
-- 2 hours for coding
-- 15 minutes for email
+### Weekly Time Blocking
+1. **Sunday Planning** - Block out entire week in advance
+2. **Recurring Blocks** - Schedule standard weekly activities
+3. **Theme Days** - Dedicate days to specific types of work
+4. **Buffer Time** - Include flex blocks for unexpected work
+5. **Daily Refinement** - Adjust each day as needed
 
-## Implementation Steps
+## Types of Time Blocks
 
-1. **Audit Your Time**: Track how you currently spend time for a week
-2. **Identify Priorities**: List your most important recurring tasks
-3. **Estimate Duration**: Realistically estimate how long tasks take
-4. **Create Template**: Build a weekly schedule template
-5. **Schedule Blocks**: Fill your calendar with time blocks
-6. **Add Buffer Time**: Include breaks and transition time
-7. **Protect Blocks**: Treat them like important meetings
-8. **Review and Adjust**: Refine your system weekly
+### Deep Work Blocks
+- 2-4 hours of focused, uninterrupted work
+- Most cognitively demanding tasks
+- Schedule during peak energy hours
+- No meetings or interruptions
+
+### Shallow Work Blocks
+- Email processing
+- Administrative tasks
+- Quick responses and check-ins
+- Usually 30-60 minutes
+
+### Meeting Blocks
+- Group all meetings into specific time periods
+- Protect other blocks from meeting requests
+- Leave buffer time between meetings
+
+### Break Blocks
+- Lunch, exercise, walks
+- Mental recovery time
+- Social connections
+- Essential for sustained performance
+
+### Reactive Blocks
+- Buffer time for unexpected urgent items
+- Flexibility within structure
+- Handle interruptions without derailing day
 
 ## Best Practices
 
-- **Start Small**: Begin with blocking just your most important tasks
-- **Include Breaks**: Schedule rest and recovery time
-- **Build in Flexibility**: Leave some unscheduled time for unexpected tasks
-- **Be Specific**: "Write report" is better than "Work"
-- **Use Calendar Colors**: Color-code different types of activities
-- **Plan the Night Before**: Review and plan tomorrow's blocks each evening
-- **Protect Deep Work**: Schedule focus time when energy is highest
-- **Batch Similar Tasks**: Group related activities together
+- **Start Small** - Begin with blocking 2-3 important tasks per day
+- **Color Code** - Use colors to distinguish block types visually
+- **Be Realistic** - Add 25-50% more time than you think tasks will take
+- **Include Breaks** - Schedule rest periods to maintain energy
+- **Theme Blocks** - Group similar tasks together
+- **Protect Blocks** - Treat them as non-negotiable appointments
+- **Review & Adjust** - Refine system based on what works
+
+## Common Mistakes
+
+- Blocking too many tasks (unrealistic expectations)
+- No buffer time for unexpected work
+- Skipping break blocks
+- Too rigid (unable to adapt to changes)
+- Not protecting deep work blocks from meetings
 
 ## Benefits
 
-- Reduces decision fatigue throughout the day
-- Prevents multitasking and context switching
-- Makes time commitments visible
-- Ensures important work gets scheduled
-- Improves time estimation skills
-- Reduces stress and overwhelm
-- Increases accountability and follow-through
-- Protects time for deep work
+- **Clarity** - Know exactly what to work on when
+- **Reduced Decision Fatigue** - Pre-decided schedule
+- **Protected Focus Time** - Deep work has designated space
+- **Better Estimates** - Learn how long tasks actually take
+- **Work-Life Balance** - Intentional personal time
+- **Stress Reduction** - Everything has its place
 
-## Common Challenges
+## Tools for Time Blocking
 
-- **Interruptions**: Build buffer time and communicate boundaries
-- **Underestimating Time**: Track actual time and adjust estimates
-- **Overscheduling**: Leave 40-50% of your day unscheduled initially
-- **Rigidity**: Be flexible and adjust blocks when necessary
-- **Initial Overhead**: Planning gets faster with practice
+In 2026, many apps support time blocking including Google Calendar, Motion, Morgen, Akiflow, Structured, and dedicated time blocking apps.
+
+## Modern Relevance (2026)
+
+Time blocking improves time management by making you deliberate with your time, cutting distractions and reducing the urge to multitask.

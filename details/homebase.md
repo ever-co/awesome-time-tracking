@@ -1,58 +1,29 @@
 ## Overview
 
-Homebase is a comprehensive workforce management platform offering time tracking, scheduling, and HR tools specifically designed for hourly teams in small businesses, with a generous free forever plan.
+Homebase is an all-in-one employee scheduling and time tracking platform designed specifically for restaurants, retail stores, and small businesses. It offers a generous free plan that covers essential scheduling, time tracking, and team communication needs.
 
-## Key Features
+## Features
 
-- **Free Time Clock**: Mobile time clock app for iOS and Android
-- **GPS Time Tracking**: Location verification for mobile workers
-- **Shift Scheduling**: Create and manage employee schedules
-- **Team Communication**: Built-in messaging and shift notifications
-- **Overtime Alerts**: Automatic notifications when approaching overtime
-- **Break Management**: Customizable break and meal period rules
-- **PTO Tracking**: Manage time off requests and accruals
-- **Hiring Tools**: Job postings and applicant tracking
-- **HR Compliance**: Helps maintain labor law compliance
-- **Payroll Integration**: Exports to popular payroll providers
+- **Employee Scheduling** - Drag-and-drop schedule builder with shift templates
+- **Time Clock** - Mobile and tablet time clock with GPS verification
+- **Team Chat** - Built-in messaging for team communication
+- **Hiring Tools** - Job posting and applicant tracking
+- **Time-Off Management** - PTO requests and approvals
+- **Labor Cost Tracking** - Monitor labor costs against budgets in real-time
+- **Shift Swapping** - Employees can request shift swaps for manager approval
+- **Schedule Templates** - Save and reuse common schedule patterns
+- **Break Compliance** - Automatic break reminders for compliance
+- **Payroll Integration** - Export to payroll providers like Gusto, QuickBooks, ADP
+- **Mobile Apps** - iOS and Android apps for managers and employees
 
-## Free Plan Highlights
+## Industries
 
-- Unlimited employees
-- Mobile time clock with GPS
-- Basic scheduling
-- Time off requests
-- Team messaging
-- Break enforcement
-
-## Paid Plans (Essentials)
-
-$30/month for unlimited employees includes:
-- Advanced scheduling features
-- Overtime controls
-- Custom break rules
-- Shift trading
-- Labor cost reports
-
-## Target Industries
-
-- Restaurants and food service
+- Restaurants (quick-service and full-service)
 - Retail stores
+- Healthcare facilities
 - Hospitality
-- Healthcare
-- Services businesses with hourly workers
+- Service businesses
 
-## Why Small Businesses Choose Homebase
+## Pricing
 
-- Completely free for basic features
-- No per-employee pricing on free plan
-- Easy to set up and use
-- Mobile-first design
-- Great for businesses with high employee turnover
-
-## Unique Advantages
-
-- Industry-leading free plan
-- Designed specifically for hourly workers
-- All-in-one scheduling and time tracking
-- Hiring tools included
-- Strong focus on compliance
+Free plan available with core features. Premium plans start at $20-49 per location per month.

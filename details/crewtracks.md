@@ -1,73 +1,28 @@
 ## Overview
 
-CrewTracks is a crew tracking app and construction management software designed specifically for construction and field service teams. It provides comprehensive time tracking with GPS verification, job costing capabilities, and workforce management tools tailored to the unique needs of field-based operations.
+CrewTracks is a comprehensive crew tracking app and construction management software designed for contractors, construction companies, and field service businesses. It combines GPS time tracking with job costing, equipment management, and crew coordination.
 
-## GPS Time Tracking Features
+## Features
 
-### Location-Based Tracking
-- GPS-verified clock in/out
-- Geofencing for job site boundaries
-- Live location tracking during work hours
-- Travel time tracking between job sites
-- Location history and breadcrumb trails
+- **GPS Time Tracking** - Track crew locations and hours worked with GPS verification
+- **Mobile Time Clock** - Employees clock in/out via smartphone with location stamps
+- **Job Costing** - Real-time labor cost tracking by job, phase, and cost code
+- **Equipment Tracking** - Monitor equipment usage and location
+- **Crew Scheduling** - Schedule crews and assign workers to jobs
+- **Daily Reports** - Generate daily job progress reports with photos and notes
+- **Payroll Integration** - Export timesheets to payroll systems like QuickBooks and ADP
+- **Geofencing** - Set job site boundaries for automated tracking
+- **Photo Documentation** - Capture job site photos with GPS and timestamp data
+- **Offline Mode** - Track time even without internet connection
 
-### Mobile-First Design
-- Native iOS and Android apps
-- Works offline and syncs when connected
-- Photo documentation from job sites
-- Digital forms and checklists
-- Push notifications for crew communication
+## Use Cases
 
-## Job Costing & Project Management
+- General contractors
+- Specialty trade contractors
+- Field service companies
+- Landscaping businesses
+- Utility contractors
 
-### Time-to-Cost Allocation
-- Track time against specific jobs and tasks
-- Labor cost calculations in real-time
-- Equipment time tracking
-- Material usage logging
-- Budget vs. actual comparisons
+## Pricing
 
-### Project Tracking
-- Multiple projects and phases
-- Task assignment and tracking
-- Progress monitoring
-- Client and job site information
-- Work order management
-
-## Construction-Specific Features
-
-- **Equipment Tracking**: Monitor equipment usage and location
-- **Safety Compliance**: Digital safety forms and incident reporting
-- **Weather Integration**: Job site weather conditions logging
-- **Crew Scheduling**: Assign crews to specific jobs and shifts
-- **Subcontractor Management**: Track subcontractor time and costs
-
-## Reporting & Analytics
-
-- Daily job reports
-- Labor cost analysis
-- Crew productivity metrics
-- Payroll reports
-- Job profitability analysis
-- Custom report builder
-
-## Integration Capabilities
-
-- QuickBooks integration for accounting
-- Payroll system connections
-- Estimating software integration
-- ERP system compatibility
-- Export capabilities for various formats
-
-## Benefits for Construction Teams
-
-- **Accurate Job Costing**: GPS-verified time eliminates guesswork
-- **Reduced Time Theft**: Location verification prevents buddy punching
-- **Better Profitability**: Real-time insights into labor costs per job
-- **Simplified Payroll**: Automated time data export
-- **Improved Scheduling**: Historical data informs future job planning
-- **Client Transparency**: Detailed job reports and documentation
-
-## Target Users
-
-Construction companies, contractors, landscaping firms, field service businesses, and any organization managing mobile crews across multiple job sites requiring GPS-verified time tracking and job costing capabilities.
+Pricing available upon request with a free trial option.

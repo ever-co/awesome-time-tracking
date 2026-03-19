@@ -1,39 +1,30 @@
 ## Overview
 
-Lawmatics combines legal CRM, client intake, and practice management with built-in time tracking and billing, allowing law firms to manage the entire client lifecycle including billable time capture.
+Lawmatics is a comprehensive legal CRM and time tracking platform that uniquely combines client relationship management with billable hour tracking and firm growth tools. It's designed specifically for law firms looking to centralize intake, client communication, and time billing in one system.
 
 ## Features
 
-- Integrated time tracking within CRM
-- Client intake and lead management
-- Matter management
-- Automated workflows
-- Document automation
-- Billing and invoicing
-- Email marketing and communication
-- Reporting and analytics
+- **Time Tracking** - Track billable hours with timers and manual entry
+- **Legal CRM** - Manage client relationships, contacts, and communications
+- **Intake Automation** - Automated lead capture and client intake workflows
+- **Task Management** - Assign and track tasks across the firm
+- **Email Integration** - Two-way email sync with Gmail and Outlook
+- **Document Automation** - Generate client documents from templates
+- **Marketing Automation** - Email campaigns and client nurture sequences
+- **Analytics & Reporting** - Track firm performance and conversion metrics
+- **Client Portal** - Secure portal for client communication
+- **Calendar Scheduling** - Online appointment booking and calendar sync
 
-## Time Tracking Capabilities
+## Unique Value
 
-- Timer-based or manual time entry
-- Matter-based time allocation
-- Billing rate management
-- Billable vs non-billable designation
-- Time entry from mobile devices
-- Integration with calendar
+Unlike traditional time tracking software, Lawmatics combines billing with client acquisition and retention, helping firms grow while accurately capturing billable time.
 
-## Legal-Specific Features
+## Target Market
 
-- Conflict checking
-- Trust accounting
-- Secure client portal
-- E-signature capability
-- Compliance with legal ethics rules
+- Small to mid-sized law firms
+- Solo practitioners
+- Practice areas: personal injury, immigration, family law, estate planning
 
 ## Pricing
 
-Contact for pricing based on firm size
-
-## Target Users
-
-Law firms, solo practitioners, legal departments
+Custom pricing based on firm size and features required, with a free demo available.
