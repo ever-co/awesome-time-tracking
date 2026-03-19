@@ -1,21 +1,42 @@
 ## Overview
 
-Focus Keeper is a straightforward Pomodoro timer application that emphasizes simplicity and ease of use. The app helps users apply the traditional Pomodoro Technique (25-minute work sessions followed by 5-minute breaks) without unnecessary features or complexity.
+Focus Keeper is a straightforward Pomodoro technique timer that helps users maintain focus through 25-minute work intervals followed by short breaks, with minimalist design and session tracking.
 
 ## Features
 
-- **Classic Pomodoro Timer**: 25-minute work, 5-minute break, 15-minute long break
-- **Customizable Intervals**: Adjust work and break durations
-- **Session Tracking**: Count completed pomodoros per day
-- **Minimalist Interface**: Clean design with no distractions
-- **Audio Alerts**: Gentle sounds signal work/break transitions
-- **Statistics**: Track daily and weekly productivity
-- **Task Labels**: Optional task naming for each session
-- **Auto-Start**: Automatically begin next session
-- **Do Not Disturb**: Silences notifications during focus time
-- **Widget Support**: Quick access from home screen
+- Classic 25-minute Pomodoro intervals
+- 5-minute short breaks
+- 15-minute long breaks after 4 sessions
+- Customizable timer durations
+- Session tracking and history
+- Daily goal setting
+- Productivity statistics
+- Minimalist, distraction-free interface
+
+## Pomodoro Technique Support
+
+- Standard Pomodoro timing (25/5/15)
+- Automatic break transitions
+- Long break after every 4 pomodoros
+- Audio notifications
+- Visual timer display
+
+## Tracking & Analytics
+
+- Daily completed sessions
+- Weekly productivity trends
+- Goal achievement tracking
+- Focus time summaries
+
+## Platform
+
+iOS, Android, Web
 
 ## Pricing
 
-- **Free**: Basic Pomodoro timer
-- **Pro**: $2.99 one-time - Custom intervals, statistics, themes
+Free with basic features
+Pro version available
+
+## Target Users
+
+Students, knowledge workers, anyone practicing Pomodoro technique

@@ -1,23 +1,35 @@
 ## Overview
 
-Focused Work is a productivity timer application designed specifically for Apple devices, helping users maintain concentration and complete tasks efficiently. The app builds on the proven Pomodoro Technique while adding modern features like automatic distraction blocking.
+Focused Work provides flexible timing options including Pomodoro, Flowmodoro, and custom structures, with automatic website and app blocking to maintain focus during work sessions.
+
+## Timing Options
+
+- **Pomodoro**: Classic 25/5 timing
+- **Flowmodoro**: Flexible work/break ratios
+- **Custom**: Create your own timing structure
+- **Flexible Breaks**: Adjust break length based on work duration
+
+## Distraction Blocking
+
+- Automatic website blocking during focus time
+- App blocking on desktop
+- Customizable blocklists
+- Smart blocking (only during work intervals)
+- Whitelist support
 
 ## Features
 
-- **Automatic Distraction Blocking**: Blocks distracting apps and websites automatically when the timer is running
-- **Cross-Device Sync**: Full synchronization across iPhone, iPad, Mac, and Apple Watch via iCloud
-- **Customizable Timer Sessions**: Configure work and break durations to match your workflow
-- **Statistics and Insights**: Track completed focus sessions and productivity patterns over time
-- **Apple Watch Support**: Start, stop, and monitor timers directly from your wrist
-- **Native macOS and iOS Design**: Clean, intuitive interface following Apple's design guidelines
+- Multiple timer formats
+- Session goals and tracking
+- Productivity statistics
+- Custom focus/break ratios
+- Keyboard shortcuts
+- Minimalist interface
 
-## Benefits
+## Platform
 
-- Reduces context switching by blocking distractions during focus time
-- Maintains productivity across all Apple devices
-- Provides visual feedback on completed work sessions
-- Helps establish consistent work rhythms
+macOS, Windows, Web
 
-## Platform Availability
+## Target Users
 
-iOS, iPadOS, macOS, watchOS
+Knowledge workers, students, anyone needing flexible focus tools with distraction prevention

@@ -1,68 +1,139 @@
 ## Overview
 
-Inbox Zero is a rigorous approach to email management created by productivity expert Merlin Mann. The goal is to keep your inbox empty—or almost empty—at all times.
+Inbox Zero, created by productivity expert Merlin Mann, is an email management approach emphasizing rapid decision-making and keeping your inbox empty (or nearly empty) by processing messages decisively rather than letting them accumulate.
 
-## Core Concept
+## Core Philosophy
 
-Inbox Zero isn't about having zero emails total, but rather zero emails sitting in your inbox as a pseudo-to-do list.
+Inbox is a to-do list others can write on. The goal isn't empty inbox for its own sake, but rather spending minimal time and attention on email.
 
 ## The Five Actions
 
-For each email, choose one:
+Every email gets one of five actions:
 
-1. **Delete** - If not needed
-2. **Delegate** - Forward to appropriate person
-3. **Respond** - If takes < 2 minutes
-4. **Defer** - Move to task list/calendar
-5. **Do** - Complete the action required
+### 1. Delete (or Archive)
+- Not needed
+- No action required
+- FYI only
+- Get to zero
 
-## Implementation
+### 2. Delegate
+- Someone else should handle
+- Forward with clear request
+- Remove from your plate
+- Trust and empower others
 
-### Process Regularly
+### 3. Respond
+- Quick reply needed
+- Can do in <2 minutes
+- Handle immediately
+- Clear from inbox
 
-- Set specific times for email (2-3x daily)
-- Process to zero each time
-- Don't leave emails in inbox
+### 4. Defer
+- Needs action but not now
+- Move to task list
+- Schedule for later
+- Set reminder
+- Remove from inbox
 
-### Decision Making
+### 5. Do
+- Requires immediate action
+- Can't delegate
+- Time-sensitive
+- Complete and archive
 
-- Touch each email once
-- Make immediate decision
-- Act or move to appropriate system
-- Don't re-read repeatedly
+## Process
 
-### Tools
+### Set Specific Times
+- Check email 2-3 times daily
+- Not first thing in morning
+- Batch processing
+- Close between sessions
 
-- Folders/labels for reference
-- Task list for actions needed
-- Calendar for scheduled items
-- Delete button (use liberally)
+### Process to Zero
+- Decide on each message
+- Apply one of five actions
+- Don't re-read later
+- Touch once, decide once
+
+### Maintain System
+- Quick daily processing
+- Don't let accumulate
+- Stay current
+- Trust the system
+
+## Supporting Practices
+
+**Filters and Rules:**
+- Auto-archive newsletters
+- Auto-label by sender
+- Route notifications
+- Reduce inbox volume
+
+**Unsubscribe Aggressively:**
+- Regular cleanup
+- Reduce incoming volume
+- Keep only valuable emails
+
+**Templates:**
+- Canned responses
+- Common replies
+- Faster processing
+- Consistent communication
+
+**Folders/Labels:**
+- Action required
+- Waiting for
+- Reference
+- Archive
 
 ## Benefits
 
 - Reduced email stress
-- Faster decision-making
-- Nothing falls through cracks
+- Faster email processing
+- Nothing slips through cracks
 - Clear mind
-- Email doesn't control your day
+- Better responsiveness
+- Reclaimed time and attention
 
-## Common Challenges
+## Common Misunderstandings
 
-- **High volume**: Unsubscribe, filter, delegate
-- **Decision fatigue**: Use two-minute rule
-- **Fear of deleting**: Trust you'll remember what matters
-- **Backlog**: Declare email bankruptcy if needed
+**NOT about:**
+- Obsessing over empty inbox
+- Processing email constantly
+- Instant responses to everything
+- Spending more time on email
 
-## Time Tracking Connection
+**IS about:**
+- Decisive action
+- Minimal time spent
+- Clear system
+- Reduced stress
 
-- Track time spent processing email
-- Batch email processing
-- Limit total email time
-- Use insights to optimize
+## Challenges
 
-## Related Concepts
+**High Email Volume:**
+- Ruthless filtering
+- Aggressive unsubscribe
+- Delegate where possible
+- Set expectations
 
-- GTD (Getting Things Done)
-- Two-Minute Rule
-- Email Batching
-- Decision Making
+**Requires Action:**
+- Use task management system
+- Don't let inbox become to-do list
+- Move to proper place
+
+**Cultural Expectations:**
+- Educate colleagues
+- Set boundaries
+- Communicate response times
+
+## Integration with Other Systems
+
+- GTD (capture and process)
+- Time blocking (scheduled email time)
+- Task management (defer to proper system)
+- Calendar (schedule action items)
+
+## Target Users
+
+Anyone overwhelmed by email, knowledge workers, professionals with high email volume, people seeking reduced stress, individuals wanting better email habits

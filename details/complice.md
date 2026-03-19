@@ -1,25 +1,34 @@
 ## Overview
 
-Complice is a unique productivity tool that emphasizes intention-setting and goal alignment. It combines daily planning, time tracking, and long-term goal management with a focus on staying connected to your deeper purposes.
+Complice is an intention-driven productivity tool that helps users set daily intentions, track progress through pomodoros, and reflect on alignment between actions and broader goals.
+
+## Core Philosophy
+
+- Focus on intentions rather than just tasks
+- Connect daily actions to long-term goals
+- Regular reflection on what matters
+- Mindful productivity over mere busyness
+- Iterative goal refinement
 
 ## Features
 
-- **Daily Intentions**: Set intentions each morning
-- **Goal Hierarchy**: Connect daily work to long-term goals
-- **Time Tracking**: Pomodoro-based time tracking
-- **Accountability**: Optional accountability partners
-- **Reflection**: Evening review prompts
-- **Streak Tracking**: Build consistent habits
-- **Integration**: Connects with Beeminder and other tools
-- **Tagging**: Organize work by context
-- **Analytics**: Insights on time and goal progress
+- Daily intention setting
+- Pomodoro timer integration
+- Goal hierarchy (outcomes, goals, intentions, tasks)
+- Daily and weekly review rituals
+- Progress visualization
+- Accountability partnerships
+- Habit tracking
+- Journal integration
 
-## Philosophy
+## Intention System
 
-Based on intention-setting rather than just task completion. Each day, you decide what you intend to do and why it matters, keeping you connected to your broader goals.
+- Set daily intentions aligned with goals
+- Break intentions into concrete actions
+- Track time spent on each intention
+- Review and reflect on outcomes
+- Adjust based on learnings
 
-## Pricing
+## Target Users
 
-- $12/month or $99/year
-- 30-day free trial
-- Web-based application
+Mindful productivity practitioners, goal-oriented individuals, people seeking meaningful work alignment, reflective professionals

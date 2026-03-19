@@ -1,31 +1,68 @@
 ## Overview
 
-TopTracker is a completely free time tracking application developed by Toptal, the exclusive network of top freelance software developers, designers, and finance experts. It provides professional-grade time tracking without any cost or user limitations.
+TopTracker is a completely free time tracking application developed by Toptal, the elite freelance network. It offers professional-grade time tracking with optional screenshots and activity monitoring for transparent client billing.
 
 ## Features
 
-- **Completely Free**: No premium tiers, no user limits, no subscription fees
-- **Time Tracking**: Desktop application with one-click timer start/stop
-- **Screenshots**: Optional periodic screenshot capture to verify work activity
-- **Activity Levels**: Track keyboard and mouse activity to measure productivity
-- **Manual Time Entry**: Add time manually when needed
-- **Project Tracking**: Organize time by projects and clients
-- **Idle Time Detection**: Automatic pause when computer is idle
-- **Reporting**: Detailed reports on time spent by project, client, and team member
-- **Invoicing**: Generate invoices from tracked time
-- **Team Management**: Monitor team productivity and time allocation
-- **Integrations**: Connect with project management and accounting tools
-- **Cross-Platform**: Available for Windows, Mac, and Linux
-- **Privacy Controls**: Flexible screenshot and monitoring settings
+- **Completely Free**: No premium tiers or hidden costs
+- **Automatic Time Tracking**: Desktop app tracks time automatically
+- **Optional Screenshots**: Configurable screenshot frequency for transparency
+- **Activity Levels**: Monitor keyboard and mouse activity
+- **Detailed Reports**: Export timesheets for client billing
+- **Project & Task Tracking**: Organize time by client projects
+- **Manual Time Entry**: Add time entries retrospectively
+- **Offline Tracking**: Continue tracking without internet
+- **Multi-Platform**: Windows, Mac, Linux support
 
-## Target Audience
+## Transparency Features
 
-Designed for freelancers, remote workers, and distributed teams who need reliable time tracking with transparency features but don't want to pay for expensive monitoring software.
+- **Client Access**: Share time tracking data with clients
+- **Screenshot Gallery**: Visual proof of work for hourly billing
+- **Activity Monitoring**: Demonstrate active work time
+- **Detailed Timelines**: Minute-by-minute work breakdowns
 
-## Benefits
+## Reporting
 
-Provides transparency for client billing, helps freelancers understand where time goes, and enables remote teams to demonstrate productivity without expensive enterprise tools.
+- Export to CSV, Excel, PDF
+- Custom date ranges
+- Project summaries
+- Billable vs. non-billable time
+- Client-ready reports
+
+## Privacy Controls
+
+- Toggle screenshots on/off per project
+- Blur sensitive information
+- Delete unwanted screenshots
+- Local data storage options
+- User-controlled sharing
+
+## Integration
+
+- Toptal platform (for Toptal freelancers)
+- Standalone use for any freelancer
+- Export to accounting software
+
+## Target Users
+
+- Freelancers billing hourly
+- Remote contractors
+- Toptal network members
+- Agencies managing client projects
+- Distributed teams needing transparency
+
+## Why It's Free
+
+Toptal offers TopTracker free as a service to the freelance community and to promote transparent, professional remote work practices. No ads, no upsells.
+
+## Platform Availability
+
+Windows, macOS, Linux
 
 ## Pricing
 
-Completely free with no restrictions on users, projects, or features.
+**100% Free** - No paid tiers or limitations
+
+## Comparison to Competitors
+
+Unlike paid alternatives like Hubstaff or Time Doctor, TopTracker offers similar features (screenshots, activity tracking, detailed reports) completely free, making it ideal for budget-conscious freelancers and small teams.

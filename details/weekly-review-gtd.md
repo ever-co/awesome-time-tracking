@@ -1,127 +1,98 @@
 ## Overview
 
-The Weekly Review is a cornerstone habit of the Getting Things Done (GTD) methodology. David Allen considers it essential for maintaining a trusted system and achieving mind-like-water clarity.
+The Weekly Review is a critical practice in Getting Things Done (GTD) methodology, involving a comprehensive review of all commitments, projects, and systems to maintain clarity and control.
 
-## What It Is
+## Purpose
 
-A dedicated 1-2 hour time block each week to:
-- Get Clear: Process all inputs
-- Get Current: Update all lists and projects
-- Get Creative: Review goals and plan ahead
+David Allen calls the Weekly Review the "critical factor for success" - it's what keeps your GTD system trusted and current.
 
-## The Three Goals
+## The Process
 
-### 1. Get Clear
+### Get Clear
+1. **Collect loose papers and materials** - Empty physical inboxes
+2. **Process your notes** - Review meeting notes, thoughts captured
+3. **Empty your head** - Brain dump anything on your mind
 
-Empty all inboxes:
-- Email inbox
-- Physical inbox
-- Notes and capture tools
-- Voicemail
-- Text messages
+### Get Current
+4. **Review previous calendar** - Last week's meetings, outcomes
+5. **Review upcoming calendar** - Next few weeks, preparation needed
+6. **Empty email inbox** - Process to zero or near-zero
+7. **Review project list** - Status, next actions, completions
+8. **Review next actions lists** - Current, complete, update
+9. **Review waiting for list** - Follow up as needed
+10. **Review someday/maybe** - Anything to activate?
 
-Process everything to zero.
+### Get Creative
+11. **Review goals** - Higher-altitude perspectives
+12. **Be creative and courageous** - New ideas, possibilities
 
-### 2. Get Current
+## Time Required
 
-Review and update:
-- Calendar (past and future weeks)
-- Project list (active projects)
-- Next Actions lists
-- Waiting For list
-- Someday/Maybe list
-
-Ensure everything is current and accurate.
-
-### 3. Get Creative
-
-Look ahead and plan:
-- Review goals and objectives
-- Generate new ideas
-- Update priorities
-- Identify next actions for key projects
-- Plan the upcoming week
-
-## Standard Weekly Review Steps
-
-### Step 1: Collect Loose Papers and Materials
-
-Gather everything scattered around.
-
-### Step 2: Process Your Inbox
-
-Get inbox to zero using GTD processing workflow.
-
-### Step 3: Review Your Calendar
-
-**Past week:** Capture actions from past meetings
-**Next 2 weeks:** Prepare for upcoming appointments
-
-### Step 4: Review Your Lists
-
-**Next Actions:** Review all context lists
-**Projects:** Review all active projects
-**Waiting For:** Follow up on delegated items
-
-### Step 5: Review Someday/Maybe
-
-Consider activating any items.
-
-### Step 6: Review Goals and Objectives
-
-Ensure alignment with higher-level goals.
-
-### Step 7: Be Creative
-
-Capture new ideas and projects.
-
-## When to Do It
-
-Find a consistent time that works:
-- Friday afternoon (popular)
-- Sunday evening
-- Monday morning
-- Whenever you have 1-2 hours uninterrupted
-
-**Key:** Same time each week builds habit.
+Typically 60-120 minutes for thorough review, depending on life complexity.
 
 ## Benefits
 
-- Maintains system trust
-- Prevents things falling through cracks
-- Provides weekly closure
-- Reduces anxiety
-- Enables better planning
-- Keeps system current
-- Creates space for strategic thinking
-
-## Common Challenges
-
-### "Too Busy"
-
-**Solution:** Schedule it as non-negotiable appointment. It saves more time than it costs.
-
-### "Takes Too Long"
-
-**Solution:** Better daily habits reduce weekly review time. As system stays current, reviews get faster.
-
-### "Boring/Tedious"
-
-**Solution:** Make it pleasant - good location, coffee/tea, music. The peace of mind is worth it.
+- Maintains trust in system
+- Reduces stress and anxiety
+- Surfaces forgotten commitments
+- Ensures nothing slips through cracks
+- Provides bird's-eye view
+- Enables confident decision-making
+- Identifies emerging priorities
+- Celebrates accomplishments
 
 ## Best Practices
 
-- **Schedule it**: Put it on calendar
-- **Protect it**: Treat as important meeting
-- **Make it pleasant**: Choose good environment
-- **Be consistent**: Same time each week
-- **Don't skip**: Critical for system health
-- **Track time**: Most people need 60-90 minutes
+**Consistency:**
+- Same day/time each week
+- Friday afternoon popular
+- Non-negotiable appointment with yourself
+- Protected calendar block
 
-## Integration with Time Tracking
+**Environment:**
+- Quiet, uninterrupted space
+- All tools and materials accessible
+- Comfortable setting
+- Adequate time blocked
 
-- Track time spent on weekly review
-- Review time tracking data during review
-- Analyze where time went last week
-- Plan time allocations for next week
-- Identify time wasters to eliminate
+**Ritual:**
+- Make it enjoyable
+- Favorite beverage
+- Music if helpful
+- Reward after completion
+
+## Common Challenges
+
+**Skipping Reviews:**
+- System degrades quickly
+- Trust erodes
+- Stress increases
+- Items fall through cracks
+
+**Rushing Through:**
+- Defeats purpose
+- Items get overlooked
+- System becomes unreliable
+
+**Too Infrequent:**
+- Longer reviews required
+- More overwhelming
+- Harder to maintain
+
+## Variations
+
+**Mini Daily Review:** 10-15 min daily check-in
+
+**Monthly Review:** Higher-level goals and direction
+
+**Quarterly Review:** Strategic assessment
+
+**Annual Review:** Major life and career reflection
+
+## Integration
+
+Weekly Review works with any productivity system but is critical for GTD's effectiveness.
+
+## Target Users
+
+GTD practitioners, busy professionals, anyone with many commitments, people wanting reduced stress, knowledge workers maintaining complex projects

@@ -1,31 +1,35 @@
 ## Overview
 
-Brain.fm creates AI-generated music specifically designed to affect your brain and help you focus, relax, or sleep better. Unlike regular music, Brain.fm's audio is engineered using neuroscience research to influence brain activity patterns.
+Brain.fm uses AI to generate functional music specifically engineered to enhance focus, relaxation, or sleep through neuroscience-backed audio techniques.
+
+## Science
+
+- Neural phase locking technology
+- Auditory driving principles
+- Peer-reviewed research backing
+- Personalized neural entrainment
+
+## Modes
+
+- **Focus**: Deep work and concentration
+- **Relax**: Stress reduction
+- **Sleep**: Better rest quality
+- **Recharge**: Mental energy restoration
 
 ## Features
 
-- **Focus Music**: Enhance concentration for 2-4 hour sessions
-- **Relax Mode**: Reduce stress and anxiety
-- **Sleep Mode**: Fall asleep faster and sleep deeper
-- **AI Generation**: Unique, non-repeating tracks
-- **Session Timer**: Built-in work session timer
-- **Offline Mode**: Download sessions for offline use
-- **Multiple Genres**: Various musical styles
-- **Intensity Levels**: Adjust stimulation level
-- **Cross-Platform**: Web, iOS, Android, desktop
-- **Scientific Backing**: Research-validated approach
-
-## How It Works
-
-Based on auditory neuroscience research:
-- Rhythmic patterns influence brainwave activity
-- Neural phase locking synchronizes brain activity
-- Reduced distractibility through acoustic modulation
-- Engineered to avoid habitual listening patterns
+- AI-generated endless music
+- No lyrics to distract
+- Intensity level adjustment
+- Session timers
+- Offline playback
+- Cross-platform availability
 
 ## Pricing
 
-- **Monthly**: $6.99/month
-- **Yearly**: $49.99/year
-- Free trial available
-- 100% money-back guarantee
+~$7/month annual, $15/month monthly
+Free trial available
+
+## Target Users
+
+Knowledge workers, students, anyone seeking focus enhancement through scientifically-designed audio

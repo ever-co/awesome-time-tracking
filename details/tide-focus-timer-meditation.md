@@ -1,57 +1,73 @@
 ## Overview
 
-Tide is a comprehensive wellness and productivity app that combines focus timing, meditation, sleep assistance, and white noise in a single platform. Named App Store Best of 2017, Tide helps users relieve stress, stay focused, practice mindfulness, and sleep better at night.
+Tide is a comprehensive wellness and productivity app that integrates focus timers with meditation, breathing exercises, and sleep aids to promote holistic wellbeing alongside productive work habits.
 
-## Core Features
+## Features
 
-### Focus Timer
-High-efficiency work mode that combines the Pomodoro Technique with nature sounds, helping users maintain concentration during work sessions.
+### Focus & Productivity
+- **Pomodoro Timer**: Customizable work and break intervals
+- **Focus Music & Sounds**: Nature sounds, white noise, and ambient music
+- **Productivity Tracking**: Monitor focus time and patterns
+- **Task Management**: Link timer to specific tasks
 
-### White Noise & Nature Sounds
-Extensive library of soothing sounds including:
-- Ocean waves
+### Meditation & Mindfulness
+- **Guided Meditations**: Various themes and durations
+- **Breathing Exercises**: Stress relief and centering techniques
+- **Mindfulness Reminders**: Regular prompts for awareness
+- **Progress Tracking**: Monitor meditation consistency
+
+### Sleep & Relaxation
+- **Sleep Sounds**: Calming audio for better sleep quality
+- **Bedtime Stories**: Narrated stories for relaxation
+- **Sleep Timer**: Auto-stop for nighttime use
+- **Wake-Up Sounds**: Gentle alarm alternatives
+
+### Wellness Integration
+- **Daily Check-ins**: Mood and energy tracking
+- **Habit Building**: Consistency streaks and rewards
+- **Analytics Dashboard**: Holistic view of focus, meditation, and sleep
+- **Community Features**: Connect with other mindful users
+
+## Philosophy
+
+Tide emphasizes that true productivity includes mental health and wellbeing. By combining focus tools with meditation and sleep features, it promotes sustainable, mindful productivity rather than burnout-inducing hustle.
+
+## Sound Library
+
 - Rain and thunderstorms
-- Forest ambiance
-- Coffee shop atmosphere
-- Meditation soundscapes
-
-### Meditation
-Professional meditation sessions that integrate with casual life, using white noise to help users meditate, sleep better, focus, relax, calm down, and increase happiness.
-
-### Sleep Features
-- Sleep mode for nighttime rest
-- Nap mode for daytime power naps
-- Soundscapes designed to promote better sleep quality
-
-## Recent Updates (2026)
-
-The latest version (January 29, 2026) features:
-- Redesigned Focus & Meditation Reports with fresh visuals
-- Improved interactions and user experience
-- Enhanced reporting capabilities
+- Ocean waves
+- Forest ambience
+- Campfire
+- Birdsong
+- Flowing water
+- White, pink, and brown noise
+- Meditation music
 
 ## Platform Availability
 
-Tide is available across multiple platforms:
-- iOS (iPhone and iPad)
-- Android
-- Microsoft Edge extension
-- Google Chrome extension
-
-## Use Cases
-
-### Work Productivity
-Use the Pomodoro-based focus timer with nature sounds to maintain concentration during work sessions.
-
-### Meditation Practice
-Access guided meditations and ambient sounds for mindfulness practice.
-
-### Sleep Improvement
-Leverage sleep-optimized soundscapes to fall asleep faster and sleep more deeply.
-
-### Stress Relief
-Combine white noise and meditation features to reduce stress and promote relaxation throughout the day.
+iOS, Android, Web
 
 ## Pricing
 
-Tide offers both free and premium versions, with the premium "Tide Plus" unlocking additional features and content.
+- **Free Version**: Core timer and basic sounds
+- **Premium**: ~$30/year - Full sound library, all meditations, advanced features
+- **Lifetime**: One-time purchase option available
+
+## Target Users
+
+- Mindful professionals
+- Students managing stress
+- Remote workers seeking balance
+- Anyone interested in meditation
+- Individuals with sleep challenges
+- People building holistic productivity habits
+
+## Awards & Recognition
+
+App Store Editor's Choice
+Google Play Best App awards
+Millions of users worldwide
+
+## Unique Value
+
+Unlike pure focus apps, Tide integrates wellbeing practices directly into productivity routines, encouraging users to view rest, meditation, and sleep as essential components of effective time management.

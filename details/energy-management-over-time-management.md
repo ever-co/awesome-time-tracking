@@ -1,123 +1,157 @@
 ## Overview
 
-Energy Management Over Time Management is a productivity philosophy shift from the traditional focus on time optimization to managing your energy, attention, and cognitive capacity. The core insight: productivity isn't about overriding your natural patterns—it's about understanding and optimizing them.
+Energy Management prioritizes optimizing personal energy levels over merely scheduling time, recognizing that the quality of time spent depends on available physical, emotional, mental, and spiritual energy.
 
-## Why Time Management Isn't Enough
+## Core Principle
 
-Traditional time management assumes:
-- All hours are created equal
-- More hours = more productivity
-- Discipline can override biological limitations
+Time is finite, but energy is renewable. Managing energy - not just time - is the key to sustained high performance and wellbeing.
 
-Reality shows:
-- Cognitive capacity varies throughout the day
-- Quality of attention matters more than quantity of time
-- Sustainable performance requires energy renewal
-- Working against natural rhythms decreases output
-
-## The Four Energy Dimensions
+## Four Energy Dimensions
 
 ### 1. Physical Energy
-- **Foundation**: Sleep, nutrition, exercise, movement breaks
-- **Management**: Regular meals, hydration, standing/walking intervals
-- **Peak Window**: 2 hours after waking for most people
+**Foundation of all energy**
+- Sleep quality and quantity
+- Nutrition and hydration
+- Regular exercise
+- Movement throughout day
+- Recovery and rest periods
+
+**Practices:**
+- 7-9 hours quality sleep
+- Eat every 3-4 hours
+- Exercise 30+ minutes daily
+- Take breaks every 90 minutes
+- Stay hydrated
 
 ### 2. Emotional Energy
-- **Foundation**: Positive relationships, meaningful work, stress management
-- **Management**: Boundary setting, emotional regulation, celebration of wins
-- **Depletion Signs**: Irritability, cynicism, emotional exhaustion
+**Quality of energy**
+- Positive emotions expand capacity
+- Negative emotions drain energy
+- Emotional regulation skills
+- Quality relationships
+- Gratitude and appreciation
+
+**Practices:**
+- Regular appreciation practice
+- Manage stress triggers
+- Build supportive relationships
+- Take emotional breaks
+- Pursue enjoyable activities
 
 ### 3. Mental Energy
-- **Foundation**: Focus time, learning, challenge, variety
-- **Management**: Deep work blocks, context switching minimization, strategic breaks
-- **Peak Capacity**: 4-6 hours of deep cognitive work per day
+**Focus and concentration**
+- Ability to concentrate
+- Task switching costs
+- Decision fatigue
+- Cognitive load management
+- Creative thinking capacity
+
+**Practices:**
+- Single-tasking on important work
+- Minimize distractions
+- Strategic breaks for renewal
+- Batch similar tasks
+- Limit decision-making load
 
 ### 4. Spiritual Energy
-- **Foundation**: Purpose, values alignment, meaning
-- **Management**: Reflection time, goal alignment, contribution focus
-- **Renewal**: Regular review of priorities and purpose
+**Meaning and purpose**
+- Connection to values
+- Sense of purpose
+- Work alignment with values
+- Contribution and impact
+- Greater good connection
 
-## Core Principles
+**Practices:**
+- Clarify core values
+- Align work with purpose
+- Regular reflection
+- Meaningful contributions
+- Service to others
 
-### 1. Match Tasks to Energy States
-- **High Energy**: Complex problem-solving, strategic decisions, creative work
-- **Medium Energy**: Collaboration, communication, routine analytical work
-- **Low Energy**: Administrative tasks, organization, light planning
+## Energy Renewal Strategies
 
-### 2. Protect and Renew Energy
-- Schedule recovery as intentionally as you schedule work
-- Take breaks before you feel depleted, not after
-- Build in transition time between different types of work
+### Oscillation Principle
+- Humans naturally oscillate between energy expenditure and renewal
+- Need regular recovery periods
+- Strategic disengagement enhances engagement
+- Breaks aren't lazy, they're strategic
 
-### 3. Optimize for Quality, Not Quantity
-- 4 hours of deep work in a high-energy state > 8 hours in a depleted state
-- One hour of focused energy > three hours of divided attention
+### Ultradian Rhythms
+- Natural 90-120 minute cycles
+- Peak performance in cycles
+- Decline after ~90 minutes
+- Renewal needed between cycles
 
-### 4. Create Energy Rituals
-- Morning routines that boost physical and mental energy
-- Midday practices that renew focus
-- Evening routines that facilitate recovery
+### Implementation
 
-## Implementation Framework
+**Daily:**
+- Morning energy ritual
+- Strategic breaks every 90 min
+- Lunch away from desk
+- Evening wind-down
+- Consistent sleep schedule
 
-### Week 1-2: Awareness
-- Track energy levels every 2 hours (scale of 1-10)
-- Note what activities increase or decrease energy
-- Identify your natural peak and trough periods
-
-### Week 3-4: Alignment
-- Reschedule tasks to match energy patterns when possible
-- Protect your highest-energy windows for most important work
-- Build in energy renewal practices
-
-### Ongoing: Optimization
-- Experiment with different energy management techniques
-- Adjust schedule based on energy data
-- Monitor for sustainable performance, not just output
-
-## Energy Renewal Practices
-
-**Micro-Breaks (2-5 minutes every 90 minutes)**
-- Walk away from screen
-- Stretch or movement
-- Deep breathing
-- Look at distant objects (eye rest)
-
-**Recovery Breaks (15-20 minutes every 2-3 hours)**
-- Walk outdoors
+**Weekly:**
+- Exercise 3-5 times
 - Social connection
-- Light meal or snack
-- Complete environment change
+- Recreation and hobbies
+- Digital sabbath
+- Weekly planning ritual
 
-**Deep Recovery (Weekly)**
-- Full day off from work
-- Different types of activities
-- Social and family time
-- Physical activity and nature
+**Quarterly:**
+- Extended vacation
+- Strategic renewal
+- Values alignment check
+- Energy audit
 
-## Measuring Success
+## Practical Applications
 
-Traditional metrics vs. Energy Management metrics:
+### Schedule by Energy
+- Do creative work during peak energy
+- Administrative tasks during low energy
+- Protect high-energy time
+- Don't schedule important work during natural lulls
 
-**Old**: Hours worked, tasks completed, calendar filled  
-**New**: Quality of output, energy at day's end, sustainable pace, mental clarity
+### Energy Audit
+1. Track energy levels throughout day for week
+2. Note activities that energize vs. drain
+3. Identify patterns
+4. Restructure accordingly
 
-## Integration with Time Tracking
+### Energy ROI
+- Evaluate tasks by energy cost vs. return
+- Some activities deplete more than they produce
+- Others energize while producing
+- Optimize for positive energy return
 
-Energy management enhances time tracking:
-- Tag entries with energy level (high/medium/low)
-- Identify which activities drain or energize you
-- Optimize schedule based on energy data, not just time data
-- Track energy patterns alongside time patterns
+## Comparison to Traditional Time Management
 
-## Common Pitfalls
+**Time Management:**
+- Focus on efficiency
+- Maximize output per hour
+- Fill all available time
+- Can lead to burnout
 
-- Pushing through low energy instead of taking breaks
-- Scheduling important work during natural energy troughs
-- Ignoring physical needs (sleep, food, movement)
-- Using stimulants (caffeine, stress) to override natural rhythms
-- Measuring success by hours worked instead of energy sustained
+**Energy Management:**
+- Focus on effectiveness
+- Optimize energy for quality output
+- Include strategic renewal
+- Sustainable long-term
 
-## The 2026 Shift
+## Benefits
 
-In 2026, the biggest shift in productivity thinking is toward Energy Management rather than just time management. Students and professionals are now taught to recognize their circadian rhythms, chronotypes, and ultradian cycles—ensuring that deep work happens when their brain is most alert and recovery happens before depletion.
+- Sustained high performance
+- Reduced burnout
+- Better quality work
+- Improved health
+- Greater life satisfaction
+- Enhanced creativity
+- Stronger relationships
+
+## Research Basis
+
+Based on work by Tony Schwartz and Jim Loehr, drawing from performance science in athletics applied to knowledge work.
+
+## Target Audience
+
+Knowledge workers, high performers, anyone experiencing burnout, leaders managing teams, individuals seeking sustainable productivity
