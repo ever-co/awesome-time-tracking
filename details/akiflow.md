@@ -1,31 +1,33 @@
 ## Overview
 
-Akiflow is a powerful task management and time blocking application that unifies tasks from multiple platforms into a single consolidated inbox. It combines task capture with calendar-based time blocking to help professionals manage complex workflows.
+Akiflow unifies your calendar and tasks in one interface optimized for quick daily planning. It pulls tasks from multiple tools (Todoist, Asana, Notion) and helps you schedule them into your day through intuitive time blocking.
 
-## Features
+## Key Features
 
-- **Unified Inbox** - Pulls tasks from ClickUp, Asana, Gmail, Slack, Notion, and 20+ other apps
-- **Calendar Time Blocking** - Drag tasks directly onto calendar to create time blocks
-- **Task Consolidation** - All your tasks in one place regardless of source
-- **Quick Capture** - Rapidly add tasks from anywhere with keyboard shortcuts
-- **Label & Organization** - Tag and categorize tasks across platforms
-- **Calendar Integration** - Syncs with Google Calendar and Outlook
-- **Focus Mode** - Minimize distractions while working on time-blocked tasks
-- **Keyboard-First** - Extensive keyboard shortcuts for power users
-- **Cross-Platform** - Available on Mac, Windows, iOS, and web
-- **Two-Way Sync** - Changes sync back to original task management tools
+- Unified inbox for all tasks
+- Calendar integration (Google, Outlook)
+- Command bar for quick actions
+- Time blocking interface
+- Integrations with 20+ productivity tools
+- Focus mode
+- Keyboard shortcuts
+- Mobile apps
 
-## Integration Ecosystem
+## Workflow
 
-Connects with ClickUp, Asana, Todoist, Notion, Gmail, Slack, Trello, Linear, GitHub, and many more.
+1. Import tasks from connected apps
+2. Review in unified inbox
+3. Drag tasks onto calendar to time block
+4. Adjust schedule as day progresses
+5. Mark complete or reschedule
 
-## Target Users
+## Integrations
 
-- Product managers
-- Software developers
-- Project managers
-- Anyone using multiple task management tools
+- Todoist, Asana, Notion
+- Gmail, Slack
+- Linear, Jira
+- Google Calendar, Outlook
 
 ## Pricing
 
-Starts at approximately $19-34 per month with a free trial available.
+Approximately $20-30/month for individual plan.

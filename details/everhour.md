@@ -1,24 +1,40 @@
 ## Overview
 
-Everhour is a time tracking platform specifically designed for project-based teams. It offers time tracking with built-in billing and budgeting capabilities, allowing teams to set project budgets, track billable hours, and receive threshold alerts—all integrated directly inside popular project management tools.
+Everhour's differentiator is deep integration with popular project management tools. Instead of a separate time tracking app, Everhour embeds timers directly into Asana tasks, Trello cards, ClickUp tasks, etc.
+
+## Key Integrations
+
+- Asana
+- Trello
+- ClickUp
+- Monday.com
+- Basecamp
+- Jira
+- GitHub
+- GitLab
+- Notion
 
 ## Features
 
-- **Native Integrations** - Track time directly within Asana, Jira, ClickUp, Monday, Basecamp, Trello, GitHub, and more
-- **Multiple Tracking Methods** - Use timers, manual logging, or watch apps
-- **Budget Management** - Set project budgets and receive alerts when burning through hours too quickly
-- **Billing Rates** - Configure rates per person or task for accurate invoicing
-- **Invoice Generation** - Create invoices automatically from tracked time
-- **Estimates vs. Actuals** - Compare planned versus actual time spent
-- **Team Utilization Reports** - Analyze team capacity and workload
-- **Multi-Platform** - Available on mobile, desktop, browser, and smartwatch
-- **Standalone Mode** - Can create projects and tasks directly in Everhour without external PM tools
-- **Threshold Alerts** - Get notified when projects approach budget limits
+- In-app time tracking
+- Browser extension
+- Mobile apps
+- Budget tracking
+- Invoicing
+- Reporting and analytics
+- Team scheduling
+- Leave management
+- Approval workflows
 
-## Integrations
+## How It Works
 
-Asana, Basecamp, Trello, Jira, GitHub, ClickUp, Monday.com, Notion, Todoist, and many more.
+1. Install Everhour integration in your PM tool
+2. Timer appears on tasks/cards
+3. Track time without context switching
+4. Data syncs to Everhour for reporting
+5. Generate invoices from tracked time
 
 ## Pricing
 
-Free plan for up to 5 users (limited features). Team plan starts at $8.50 per user/month (minimum 5 seats), billed annually.
+$8.50/user/month (5+ users)
+Free for solo users

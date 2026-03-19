@@ -1,38 +1,76 @@
-## Overview
+## The Attention Residue Effect
 
-Attention Residue is a cognitive phenomenon where a portion of your attention remains focused on a previous task even after you've switched to a new one. This effect was introduced by Sophie Leroy, a business professor at the University of Minnesota, in her 2009 research paper titled 'Why Is It So Hard to Do My Work?'
+Researched by Sophie Leroy (University of Washington), attention residue describes how part of our attention remains stuck on a previous task even after switching to a new one, degrading performance.
 
-## The Science
+## The Research
 
-When you switch from one task to another, your attention doesn't immediately follow. Instead, part of your mind stays engaged with the previous task, creating what Leroy calls "attention residue." The more intense or complex the previous task, the stronger the residue and the greater the impact on your performance.
+### Study Design
+- Participants given two tasks
+- Group A: Complete Task 1, then Task 2
+- Group B: Interrupt Task 1, switch to Task 2
 
-## Impact on Performance
+### Findings
+Group B (interrupted) performed significantly worse on Task 2 because:
+- Attention remained partially on incomplete Task 1
+- Cognitive resources split
+- Reduced capacity for new task
+- Lower quality work
 
-People experiencing attention residue after switching tasks are likely to demonstrate poor performance on the next task. The effect is particularly pronounced when:
-- The previous task was left incomplete or unresolved
-- The task was cognitively demanding
-- Multiple switches occur in quick succession
-- Insufficient time passes between context switches
+## Why It Happens
 
-## Connection to Deep Work
+### Incomplete Tasks
+- Brain wants to finish what it started
+- Unresolved problems create mental tension
+- Attention pulls back to incomplete work
+- Harder to fully engage new task
 
-Cal Newport, in his book "Deep Work," uses the attention residue concept to explain why uninterrupted work sessions are so effective. By working on a single hard task for extended periods without switching, you minimize the negative impact of attention residue, allowing you to maximize performance on that one task.
+### Cognitive Load
+- Working memory holds multiple contexts
+- Each context requires resources
+- Switching adds load from residue
+- Performance degrades
 
-## Mitigation Strategies
+## Practical Implications
 
-1. **Time Blocking**: Dedicate large blocks of time to single tasks
-2. **Task Completion**: Finish tasks before switching when possible
-3. **Clear Transitions**: Use rituals or breaks between different types of work
-4. **Minimize Interruptions**: Protect focus time from notifications and distractions
-5. **Batch Similar Tasks**: Group related activities to reduce context switching
+### Task Switching Costs
+- Not just time to switch
+- Also performance degradation from residue
+- Can last 20+ minutes
+- Compounds with frequent switching
 
-## Practical Applications
+### Strategies to Minimize
 
-- Schedule deep work sessions of 90+ minutes for important projects
-- Avoid checking email or messages during focused work
-- Use the first hours of the day for cognitively demanding tasks
-- Create shutdown rituals to clear residue before leaving work
+**1. Complete Tasks When Possible**
+- Finish before switching
+- Reach clear stopping point
+- Document progress for incomplete
 
-## Research References
+**2. Transition Rituals**
+- 2-min review of task just left
+- Write quick notes on status
+- Explicit mental close
+- Clears some residue
 
-The concept has been validated by subsequent research showing that task-switching can cause performance decreases of 20-40% compared to sustained focus on single tasks.
+**3. Minimize Context Switches**
+- Batch similar tasks
+- Time block by project
+- Protect deep work time
+
+**4. Strategic Breaks**
+- Physical movement between tasks
+- Clear workspace
+- Brief meditation
+- Helps clear residue
+
+## Related Findings
+
+- **Zeigarnik Effect**: Better memory for incomplete tasks
+- **Context Switching Cost**: 23-minute recovery time
+- **Deep Work**: Extended focus without switching
+
+## Measuring Impact
+
+Self-experiment:
+- Day 1: Switch tasks frequently
+- Day 2: Complete tasks before switching
+- Compare output quality and quantity

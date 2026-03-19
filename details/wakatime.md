@@ -1,23 +1,35 @@
-# WakaTime
+## Overview
 
-[WakaTime](https://wakatime.com/) provides automatic time tracking for programmers, offering metrics, goals, and insights based on programming activity across a wide range of editors and IDEs.
+WakaTime automatically tracks your coding time by integrating with popular code editors and IDEs. It provides detailed analytics about programming languages, projects, branches, and files you work on.
 
 ## Features
-- **Automatic Time Tracking:** Tracks coding activity automatically in the background.
-- **Detailed Metrics:** Provides stats on time spent per project, file, or feature.
-- **Meetings vs. Coding Comparison:** Compare time spent coding versus in meetings.
-- **Bottleneck Identification:** Helps identify bottlenecks in your codebase.
-- **Leaderboards and Goals:** Compete with others and set personal goals.
-- **Dashboards:** Visual dashboards for developers to see their coding activity and progress.
-- **Extensive Plugin Support:** Offers open source plugins for many editors and IDEs, including:
-  - VS Code, Visual Studio, IntelliJ IDEA, PyCharm, Sublime Text, Vim, Emacs, Eclipse, Notepad++, WebStorm, Xcode, Android Studio, Figma, Chrome, Firefox, and many more.
-- **Community Plugins and Desktop App:** Additional plugins available through the community, and a desktop app for system-wide tracking.
+
+- Automatic tracking in 50+ editors (VS Code, JetBrains, Sublime, Vim, etc.)
+- Language detection and time breakdown
+- Project and branch tracking
+- Daily/weekly email reports
+- Goals and streaks
+- Team dashboards
+- Private by default
+- Open source
+
+## Metrics Tracked
+
+- Daily coding time
+- Languages used
+- Projects and files
+- Operating system
+- Editors used
+- Time of day patterns
+
+## Use Cases
+
+- Personal productivity tracking
+- Freelancer time billing
+- Team productivity insights
+- Project time allocation
 
 ## Pricing
-*No pricing information provided in the content.*
 
-## Category
-Automated Time Tracking
-
-## Tags
-automatic-tracking, programmers, analytics, integration
+Free tier with 2 weeks history
+Paid: $9/month for unlimited history

@@ -1,33 +1,41 @@
 ## Overview
 
-TimeCamp is a comprehensive automatic time tracking platform that uses AI and keyword-based algorithms to categorize work activities automatically. Updated in 2026, it features an AI Agent that seamlessly fills timesheets in the background without requiring manual timers.
+TimeCamp provides automatic time tracking with detailed productivity monitoring. It tracks computer activities, categorizes them, and generates insights into how time is spent.
 
 ## Features
 
-### Automatic Time Tracking
-- **Background Recording** - Silently tracks all online and offline activities
-- **Keyword-Based Categorization** - Assign keywords to tasks; TimeCamp recognizes them in document titles, apps, and web pages
-- **AI Agent (2026)** - Automatically fills timesheets in the background with no clicks or timers
-- **App & Website Monitoring** - Records time spent in all applications and websites
-- **Offline Tracking** - Continues tracking even without internet connection
+- Automatic desktop tracking
+- Manual time entry
+- App and website monitoring
+- Productivity categorization
+- Timesheets and approvals
+- Invoicing
+- Budgeting
+- Integrations (50+ tools)
+- Mobile apps
 
-### Project Management
-- **Task Hierarchy** - Organize projects, tasks, and subtasks
-- **Budgeting** - Set time and cost budgets for projects
-- **Invoicing** - Generate invoices from tracked time
-- **Attendance Tracking** - Monitor employee work hours and attendance
-- **Timesheets** - Automated timesheet generation
-- **Reporting** - Detailed productivity and project reports
+## Automatic Tracking
 
-### Integrations
-- **PM Tools** - Asana, Trello, Jira, Basecamp, and 50+ integrations
-- **Calendar Sync** - Google Calendar, Outlook
-- **Billing Systems** - QuickBooks, Xero, FreshBooks
+- Monitors apps and websites
+- Auto-categorizes activities
+- Idle time detection
+- Offline time tracking
 
-## Platforms
+## Productivity Insights
 
-Desktop apps for Windows, Mac, and Linux. Mobile apps for iOS and Android. Web app available.
+- Productive vs. unproductive time
+- Distraction analysis
+- Focus time metrics
+- Daily/weekly reports
+
+## Integrations
+
+- Asana, Trello, Jira
+- Slack, Todoist
+- QuickBooks, Xero
+- Google Calendar
 
 ## Pricing
 
-Free plan available. Paid plans start at approximately $7-10 per user/month.
+Free basic plan
+Pro: $7/user/month

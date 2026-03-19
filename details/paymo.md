@@ -1,27 +1,29 @@
 ## Overview
 
-Paymo is a comprehensive work management platform designed for small businesses, freelancers, and remote teams. It combines time tracking with project management, task scheduling, and invoicing to provide an end-to-end solution for managing client work and getting paid.
+Paymo combines project management, time tracking, and invoicing in one platform. It's designed for small agencies and freelancers who need to track time, manage projects, and get paid.
 
 ## Features
 
-- **Time Tracking**: Track time with automatic timers, manual entries, or bulk time logging
-- **Task Management**: Organize work with task lists, Kanban boards, and Gantt charts
-- **Resource Scheduling**: Visual resource planning and team capacity management
-- **Invoicing**: Generate professional invoices based on tracked time and expenses
-- **Expense Tracking**: Log project expenses and include them in client invoices
-- **Project Templates**: Save and reuse project structures for recurring work
-- **Team Collaboration**: File sharing, comments, and real-time notifications
-- **Reporting**: Detailed reports on time, profitability, and project progress
-- **Client Portal**: Allow clients to view project progress and approve deliverables
-- **Integrations**: Connect with accounting software, calendars, and other tools
+- Time tracking (timer, manual, bulk)
+- Task management and Kanban boards
+- Gantt charts
+- Team scheduling
+- Invoicing and payments
+- Expense tracking
+- Client portal
+- Resource planning
+- Mobile apps
+
+## Workflow
+
+1. Create projects and tasks
+2. Track time on tasks
+3. Generate invoices from tracked time
+4. Send to clients and accept payments
+5. Track project profitability
 
 ## Pricing
 
-Paymo offers multiple pricing tiers:
-
-- **Free Plan**: Limited features for small teams
-- **Starter**: Starting at approximately $5.95 per user per month
-- **Small Office**: Mid-tier plan with additional features
-- **Business**: Full feature access for growing teams
-
-All paid plans include unlimited projects, clients, and invoices.
+Free for 1 user
+Small Office: $11.95/user/month
+Business: $24.95/user/month

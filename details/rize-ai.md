@@ -1,23 +1,41 @@
 ## Overview
 
-Rize is the first-ever A.I.-powered time tracker that automatically improves your focus and helps you build better work habits. Unlike traditional time trackers that require manual start/stop buttons, Rize runs in the background and automatically tracks your activity across apps, tasks, and calls.
+Rize combines automatic time tracking with AI-powered insights. It runs in the background on your computer, tracking which apps and websites you use, then uses AI to categorize activities and provide actionable productivity insights.
 
-## Features
+## Key Features
 
-- **Automatic Time Tracking**: Tracks applications, websites, and documents you use without requiring manual timers
-- **AI Categorization**: Intelligently categorizes activities by client, project, and task using pattern recognition and context
-- **Productivity Insights**: Analyzes shifts in productivity, focus time, and work hours to highlight patterns
-- **Focus Quality Analysis**: Drill down into context switching patterns and identify distracting apps or websites
-- **Smart Break Management**: Alerts you at the ideal time to take breaks with screen-blocking features to prevent burnout
-- **Auto-Generated Descriptions**: AI generates accurate descriptions for time entries, reducing review and edit time
-- **300,000+ Recognition**: Recognizes over 300,000 apps and websites automatically
+### Automatic Tracking
+- Tracks 300,000+ apps and websites
+- No manual timers needed
+- Runs in background
+- Privacy-first (local data storage option)
 
-## Platform Availability
+### AI Categorization
+- Automatically labels activities (work, meetings, focus, breaks)
+- Learns your patterns
+- Smart project detection
+- Context awareness
 
-- macOS (Mojave 10.14.6 or later)
-- Windows (Windows 10 or later)
+### Focus Analytics
+- Deep work session tracking
+- Meeting time analysis
+- Distraction identification
+- Focus score calculation
+
+### Insights & Reports
+- Daily/weekly productivity reports
+- Time distribution charts
+- Meeting load analysis
+- Work-life balance metrics
+- Custom categories
+
+## Privacy
+
+- Local data storage option
+- Encrypted sync
+- No keystroke logging
+- User controls what's tracked
 
 ## Pricing
 
-- **Standard Plan**: $9.99/month (billed annually) - ideal for personal productivity tracking
-- **Professional Plan**: $23.99/month (billed annually) - includes advanced project management tools and integrations like Zapier
+Around $10-15/month individual plans.

@@ -1,28 +1,39 @@
 ## Overview
 
-Cattr is an open-source time tracking solution that provides comprehensive monitoring and tracking capabilities for both individual and team use. It focuses on delivering detailed insights into work patterns and productivity.
+Cattr is an open-source time tracking tool that can be self-hosted, giving organizations full control over their data. It includes employee monitoring features like screenshots and activity detection.
 
 ## Features
 
 - Automatic time tracking
-- Screenshot capture at configurable intervals
-- Activity level detection
-- Application and website usage monitoring
+- Screenshot capture (configurable intervals)
+- Activity level monitoring
 - Project and task tracking
+- Reports and dashboards
 - Team management
-- Detailed reporting and analytics
-- Integration with popular project management tools
-- Desktop client for Windows, macOS, and Linux
-- Self-hosted deployment option
+- Self-hosted deployment
+- API access
 
-## Use Cases
+## Deployment Options
 
-- Remote team management
-- Freelancer productivity tracking
-- Project time allocation
-- Client billing and invoicing
-- Employee monitoring (with consent)
+- Self-hosted on your servers
+- Docker containers
+- Cloud hosting
+- Full data ownership
 
-## Pricing
+## Privacy Considerations
 
-Free and open-source. Can be self-hosted on your own infrastructure.
+- Configurable monitoring levels
+- Screenshot frequency settings
+- Activity tracking can be disabled
+- Transparent to employees
+
+## Best For
+
+- Organizations wanting data ownership
+- Privacy-conscious teams
+- Custom integration needs
+- Cost-conscious deployments
+
+## License
+
+Open source (check specific license on GitHub)

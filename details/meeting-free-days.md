@@ -1,109 +1,114 @@
-## Overview
+## The Practice
 
-Meeting-Free Days represent an organizational commitment to protecting sustained focus time by designating specific days where no internal meetings are scheduled, allowing employees to engage in deep work and individual productivity.
+Meeting-Free Days are designated days (often Wednesday or Friday) where no meetings are allowed, giving everyone uninterrupted time for focused work.
 
 ## Common Implementations
 
-**Full Day Approaches**:
-- No-Meeting Mondays (fresh start to week)
-- Focus Fridays (deep work before weekend)
-- Meeting-free Wednesdays (mid-week recovery)
+### No-Meeting Wednesday
+- Most popular choice
+- Midweek focus time
+- Breaks up meeting-heavy Mon/Tue and Thu/Fri
 
-**Partial Day Approaches**:
-- No meetings before noon
-- No meetings after 3pm
-- Meeting-free mornings
-- Afternoon focus blocks
+### Focus Friday
+- End week with deep work
+- Finish projects before weekend
+- Plan next week
+
+### Maker Mondays
+- Start week with focus
+- Build momentum
+- Strategic planning
 
 ## Benefits
 
-**For Individuals**:
-- Ability to plan substantial project work
-- Reduced context switching
-- Better energy management
-- Predictable focus time
-- Lower stress levels
-- Work-life balance improvement
+### For Individuals
+- Guaranteed focus time weekly
+- Ability to plan deep work
+- Reduced meeting fatigue
+- Better work-life balance
+- Higher job satisfaction
 
-**For Teams**:
-- Forced async communication
-- Better meeting discipline
-- More thoughtful scheduling
-- Increased output quality
-- Reduced meeting bloat
+### For Teams
+- Synchronized focus time
+- More gets done
+- Better project progression
+- Reduced coordination overhead
 
-**For Organizations**:
-- Higher productivity
-- Better retention
-- Innovation time
+### For Organization
+- Measurably increased productivity
+- Attracts top talent
 - Competitive advantage
-- Cultural differentiation
+- Cultural signal (respects focus)
 
-## Implementation Guidelines
+## Implementation Steps
 
-1. **Choose the Day**: Pick day that fits your org rhythm
-2. **Communicate Widely**: Announce policy clearly
-3. **Block Calendars**: Automatically block the time
-4. **Define Exceptions**: What qualifies as truly urgent?
-5. **Lead by Example**: Leaders must respect the policy
-6. **Monitor Compliance**: Track and address violations
-7. **Gather Feedback**: Refine based on experience
+1. **Pick the day**: Wednesday or Friday most common
+2. **Get leadership buy-in**: Essential for success
+3. **Communicate clearly**: Why and how
+4. **Block calendars**: Make day unavailable
+5. **Handle exceptions**: True emergencies only
+6. **Measure impact**: Track before/after productivity
+7. **Iterate**: Adjust based on feedback
 
-## Exception Handling
+## Handling Exceptions
 
-**Allowed**:
-- Critical client meetings (with approval)
-- Urgent crisis response
-- Time-sensitive external commitments
+### When to Allow Meetings
+- True emergencies (rare)
+- External stakeholder can't meet other days
+- Critical deadline decision
 
-**Not Allowed**:
-- Internal status updates
-- Recurring team meetings
-- "Quick sync" requests
-- Meeting spillover from other days
-
-## Supporting Practices
-
-- Async standups replace daily meetings
-- Documentation culture for decision-making
-- Clear escalation paths for urgent issues
-- Meeting-dense days to consolidate disruption
-- Respect for focus time indicators
+### How to Protect
+- Exceptions require approval
+- Look for alternatives first
+- Never schedule internal meetings
+- Don't let exceptions become norm
 
 ## Common Challenges
 
-**"But I need to sync with someone"**:
-Use async communication or schedule for other days
+**"We can't afford a day without meetings"**
+- Data shows productivity increases
+- Quality work matters more than coordination
+- Try pilot with one team first
 
-**"Clients won't understand"**:
-Educate clients on focus time benefits; most respect it
+**External meetings**
+- Educate clients about policy
+- Offer other days
+- Most respect the boundary
 
-**"What if something urgent comes up?"**:
-Define truly urgent vs. seems urgent; have escalation path
+**Different time zones**
+- Pick day that works globally
+- Or allow flex by region
 
-**"Meetings just move to other days"**:
-Set overall meeting limits; be more selective
+## Variations
 
-## Measuring Success
+### Meeting-Free Mornings
+- No meetings before noon daily
+- Protects peak focus time
+- Still allows PM coordination
 
-- Employee satisfaction with focus time
-- Project completion rates
-- Meeting hour reduction overall
-- Policy compliance percentage
-- Deep work hours achieved
-- Quality of output improvements
+### Meeting-Free Weeks
+- One week per quarter
+- For major projects/sprints
+- Advanced planning required
 
-## Variations by Company Size
+### Role-Based
+- Makers get 2-3 meeting-free days
+- Managers get 1 meeting-free day
+- Recognizes different needs
 
-**Startups**: Often full no-meeting days
-**Mid-size**: Half-day blocks or specific days
-**Enterprise**: Department-level implementation
-**Remote**: More critical due to meeting creep
+## Success Metrics
 
-## Evolution Over Time
+- Deep work hours increased
+- Project completion velocity
+- Employee satisfaction scores
+- Quality of deliverables
+- Meeting reduction overall
 
-Many companies start with:
-1. No-meeting afternoons
-2. Expand to full days
-3. Add multiple meeting-free days
-4. Eventually normalize to meeting-light culture overall
+## 2026 Adoption
+
+Now common in:
+- Tech companies (60%+ have some policy)
+- Consulting firms
+- Creative agencies
+- Remote-first organizations
+- Knowledge work sectors
