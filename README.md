@@ -14,7 +14,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Management Philosophy (77)](#time-management-philosophy)
 - [Time Tracking Software (162)](#time-tracking-software)
 - [Productivity Tool (108)](#productivity-tool)
-- [Time Management Technique (43)](#time-management-technique)
+- [Time Management Technique (44)](#time-management-technique)
 - [Automatic Time Tracking (28)](#automatic-time-tracking)
 - [attendance-payroll-management (6)](#attendance-payroll-management)
 - [Automated Time Tracking (25)](#automated-time-tracking)
@@ -28,7 +28,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [desktop-time-tracking-applications (14)](#desktop-time-tracking-applications)
 - [Developer Time Tracking (15)](#developer-time-tracking)
 - [Mobile Time Tracking (4)](#mobile-time-tracking)
-- [Mobile Workforce Management (8)](#mobile-workforce-management)
+- [Mobile Workforce Management (9)](#mobile-workforce-management)
 - [Open Source (9)](#open-source)
 - [resource-scheduling (1)](#resource-scheduling)
 - [Time Management Research (19)](#time-management-research)
@@ -40,7 +40,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [AI Scheduling (2)](#ai-scheduling)
 - [AI-Powered Time Tracking (2)](#ai-powered-time-tracking-1)
 - [Billing Feature (1)](#billing-feature)
-- [Business Management (35)](#business-management)
+- [Business Management (36)](#business-management)
 - [Business Management (1)](#business-management-1)
 - [Business Model (4)](#business-model)
 - [Client Reporting (1)](#client-reporting)
@@ -101,7 +101,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Team & Project Time Tracking (24)](#team--project-time-tracking)
 - [Time Blocking (8)](#time-blocking)
 - [Time Blocking & Interval Timers (17)](#time-blocking--interval-timers)
-- [Time Management Concept (9)](#time-management-concept)
+- [Time Management Concept (10)](#time-management-concept)
 - [Time Management Policy (5)](#time-management-policy)
 - [Time Tracking Analytics (1)](#time-tracking-analytics)
 - [Time Tracking Apis & Integrations (2)](#time-tracking-apis--integrations)
@@ -125,7 +125,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [web-based-time-tracking (11)](#web-based-time-tracking-1)
 - [Work Os (1)](#work-os)
 - [Workforce Analytics (1)](#workforce-analytics)
-- [Workforce Management (30)](#workforce-management)
+- [Workforce Management (31)](#workforce-management)
 
 
 ## Practices
@@ -991,7 +991,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [TrackingTime Button](https://trackingtime.co/) - Browser extension that adds one-click time tracking buttons to project management tools, allowing users to start timers directly from Asana, Trello, Jira, and 60+ other platforms without switching contexts. ([Read more](/details/trackingtime-button.md)) `Browser Extension` `Integrations` `Convenience` `Productivity`
 - [TrackingTime Button Browser Extension](https://trackingtime.co/best-practices/introducing-the-tracking-time-button.html) - Browser extension for Chrome, Firefox, Safari, and Microsoft Edge that adds time tracking buttons directly into 60+ productivity apps like Asana, Trello, Notion, and ClickUp. Enables seamless time tracking without switching contexts. ([Read more](/details/trackingtime-button-browser-extension.md)) `Browser Extension` `Integration` `Productivity`
 - [TrackingTime for Graphic Designers](https://trackingtime.co/industry/time-tracking-for-graphic-designers) - TrackingTime offers specialized time tracking software for graphic designers, providing tools to track creative work, manage design projects, and bill clients accurately for design services. ([Read more](/details/trackingtime-for-graphic-designers.md)) `Designers` `Creative Work` `Freelancers`
-- [Tyme](https://www.tyme-app.com) - Time tracking application available across all Apple platforms with over 20 Shortcuts app actions for macOS and iOS, offering seamless integration throughout the Apple ecosystem. ([Read more](/details/tyme.md)) `Ios` `Mac` `Integrations`
+- [Tyme](https://www.tyme-app.com/) - Time tracking app for individuals and teams that syncs seamlessly across Mac, iPhone, iPad, and Apple Watch, offering manual time tracking with extensive automation through Siri Shortcuts for efficient hour and expense tracking. ([Read more](/details/tyme.md)) `Apple Ecosystem` `Mobile` `Automation`
 - [uAttend](https://uattend.com) - Cloud-based time and attendance system with biometric time clocks, GPS tracking, and optional payroll services. uAttend offers flexible time tracking solutions for businesses of all sizes with multiple clock-in methods. ([Read more](/details/uattend.md)) `Biometric` `Attendance` `Time Clock` `Payroll`
 - [Undock](https://undock.com) - AI-powered predictive scheduling platform that suggests mutually available meeting times directly within your workflow, functioning like a spell-checker for time management. Unlike traditional passive booking links, Undock proactively learns your preferences and integrates across platforms like Gmail, Slack, and LinkedIn. ([Read more](/details/undock.md)) `Ai Powered` `Scheduling` `Calendar` `Automation`
 - [utt (Ultimate Time Tracker)](https://github.com/larose/utt) - A simple command-line time tracking application written in Python for freelancers and consultants who need to track time and generate reports for another system. Features activity categorization into working, break, and ignored types with customizable reporting. ([Read more](/details/utt-ultimate-time-tracker-cli.md)) `Command Line` `Open Source` `Terminal` `Linux`
@@ -1145,6 +1145,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Ready-to-Resume Plan](https://www.sophieleroy.com/attention-residue) - Cognitive technique developed by Sophie Leroy and Glomb to help employees disengage from incomplete work during task interruptions. Involves writing down current project state and next planned steps before switching, reducing attention residue. ([Read more](/details/ready-to-resume-plan.md)) `Attention Residue` `Task Switching` `Productivity`
 - [Reverse Scheduling Technique](https://www.scotthyoung.com/blog/2007/03/23/how-to-finish-your-work-one-hour-per-day/) - Planning approach that starts with desired end time and works backward to allocate tasks. Used by students and professionals to prevent work expanding to fill all available time. Creates fixed endpoint pressure that enhances focus and prevents perfectionism, based on Parkinson's Law reversal. ([Read more](/details/reverse-scheduling-technique.md)) `Scheduling` `Deadlines` `Parkinsons Law` `Constraints`
 - [Reverse Time Blocking](https://desklog.io/blog/best-time-management-techniques/) - Time management approach where you schedule rest, breaks, and personal time first, then fill remaining blocks with work. This method ensures work-life balance and prevents burnout by protecting recovery time. ([Read more](/details/reverse-time-blocking.md)) `Work Life Balance` `Time Blocking` `Wellbeing` `Boundaries`
+- [Rule of Three](https://www.briantracy.com/blog/time-management/maximize-your-priorities-using-the-rule-of-three-time-management-make-a-list/) - Time management and prioritization technique introduced by J.D. Meier focusing on identifying and completing three key priorities across different time horizons (daily, weekly, monthly) to maximize productivity, reduce clutter, and maintain focus on what truly matters. ([Read more](/details/rule-of-three.md)) `Prioritization` `Focus` `Goal Setting`
 - [Single-Tasking (Monotasking)](https://www.atlassian.com/blog/productivity/time-management-strategies) - A productivity practice of focusing on one task at a time rather than multitasking, based on cognitive science research showing that sequential task completion is more efficient and produces higher quality work than task switching. ([Read more](/details/single-tasking-monotasking.md)) `Focus` `Monotasking` `Deep Work` `Attention Management` `Cognitive Science`
 - [Task Stacking Productivity Technique](https://medium.com/lessons-from-startup-ceos/how-batching-and-stacking-can-solve-your-time-management-problem-330c859141ad) - A time management method involving grouping compatible tasks based on location, tools, or mental mode to complete multiple activities efficiently without the cognitive switching costs of traditional multitasking, creating momentum through strategic task sequencing. ([Read more](/details/task-stacking-productivity-technique.md)) `Batching` `Efficiency` `Task Management` `Productivity`
 - [Temptation Bundling](https://katherinemilkman.com/research/) - Behavioral economics strategy of pairing pleasurable activities with necessary but unenjoyable tasks. Research by Katy Milkman shows combining wants (podcasts, TV) with shoulds (exercise, admin) increases follow-through and makes obligations more appealing. ([Read more](/details/temptation-bundling.md)) `Behavioral Economics` `Motivation` `Habit Formation`
@@ -1508,6 +1509,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Parim](https://www.parim.co/) - Time tracking app designed for shift-based workforces in industries like event staffing and security services, featuring GPS geofencing, attendance management, and scheduling optimized for managing multiple locations. ([Read more](/details/parim.md)) `Shift Management` `GPS` `Event Staffing`
 - [Teambridge Geofencing Time Clock](https://www.teambridge.com/) - Mobile time tracking solution with geofencing capabilities designed for field service teams and deskless workers requiring location-verified attendance. ([Read more](/details/teambridge-geofencing-time-clock.md)) `Geofencing` `Mobile` `Field Service`
 - [Timeero](https://timeero.com/) - Time and mileage tracking app specializing in location management for field teams, offering GPS tracking, geofencing, and route verification for industries like healthcare, sales, construction, and field service. ([Read more](/details/timeero.md)) `GPS Tracking` `Mileage Tracking` `Field Workers`
+- [Ximble](https://www.ximble.com/) - Hospitality staff management software offering employee scheduling, time tracking, shift swapping, and paid time-off management designed for fast-paced environments like restaurants, bars, hotels, and retail operations, now merged with Paycor for complete HCM solutions. ([Read more](/details/ximble.md)) `Hospitality` `Scheduling` `Shift Management`
 
 ## Open Source
 
@@ -1637,6 +1639,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Business Management
 
+- [Accelo](https://www.accelo.com/) - Complete client work management platform handling quote-to-cash processes for professional services firms, featuring high-grade time tracking, project management, CRM, automated workflows, and integrated billing from prospect identification through final payment collection. ([Read more](/details/accelo.md)) `Professional Services` `Quote To Cash` `Automation`
 - [Acuity Scheduling](https://acuityscheduling.com/) - Online appointment scheduling software that allows clients to view real-time availability and self-book appointments without staff involvement. Acuity automates booking, sends reminders, processes payments, and integrates with major calendars to streamline time management for service-based businesses. ([Read more](/details/acuity-scheduling.md)) `appointment-scheduling` `Automation` `service-businesses`
 - [Aderant iTimekeep](https://aderant.com/solutions/itimekeep/) - The #1 mobile time tracking software for attorneys. Enterprise-grade legal time capture solution that works seamlessly on mobile devices, enabling lawyers to record time anywhere with automatic sync to firm billing systems. ([Read more](/details/aderant-itimekeep.md)) `Legal` `Mobile` `Enterprise`
 - [AscenWork Timesheet Approval](https://www.ascenwork.com/approval-workflow/timesheet-approval-workflow/) - SharePoint-based timesheet approval workflow solution providing structured time tracking and validation within Microsoft 365 environments. Leverages SharePoint's workflow engine for automated routing, approvals, and integration with existing Microsoft infrastructure. ([Read more](/details/ascenwork-timesheet-approval.md)) `Sharepoint` `Microsoft 365` `Workflow`
@@ -2532,6 +2535,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Instant Gratification Monkey](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) - A viral procrastination framework by Tim Urban from Wait But Why that personifies the mental struggle of procrastination through three characters: the Rational Decision-Maker, the Instant Gratification Monkey, and the Panic Monster. ([Read more](/details/instant-gratification-monkey.md)) `Procrastination` `Psychology` `Behavior Change`
 - [Maker Schedule Manager Schedule](http://www.paulgraham.com/makersschedule.html) - Time management concept from Paul Graham distinguishing between maker schedule requiring long uninterrupted blocks for creative work and manager schedule built around hourly meetings and appointments. ([Read more](/details/maker-schedule-manager-schedule.md)) `Work Styles` `Scheduling` `Deep Work`
 - [Maker Schedule vs. Manager Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham's concept distinguishing between makers who need long uninterrupted blocks for creative work and managers who work in hour-long appointment slots, highlighting scheduling conflicts. ([Read more](/details/maker-schedule-vs-manager-schedule.md)) `Deep Work` `Scheduling` `Knowledge Work` `Paul Graham` `Productivity Philosophy`
+- [Spoon Theory](https://en.wikipedia.org/wiki/Spoon_theory) - Energy management concept using spoons as a metaphor for daily available mental and physical energy, helping people with chronic illness, chronic pain, or disability visualize and prioritize activities throughout the day based on limited energy reserves. ([Read more](/details/spoon-theory.md)) `Energy Management` `Chronic Illness` `Self Pacing`
 - [Task Completion Bias Awareness](https://hbr.org/2015/03/why-we-choose-tasks-that-are-urgent-over-important) - Recognition of psychological tendency to prioritize completing easy, quick tasks over important, difficult ones. Understanding this bias enables conscious prioritization of impact over completion quantity, preventing productivity theater where busy doesn't equal effective. ([Read more](/details/task-completion-bias-awareness.md)) `Psychology` `Bias` `Prioritization` `Awareness`
 - [Time Blocking vs. Timeboxing](https://super-productivity.com/guides/time-boxing-method/) - Comparison framework explaining the distinction between time blocking (reserving calendar slots for work categories) and timeboxing (assigning fixed durations to specific tasks). They work best together for complete scheduling control. ([Read more](/details/time-blocking-vs-timeboxing.md)) `Time Blocking` `Timeboxing` `Productivity`
 - [Time Confetti Awareness](https://www.brigidschulte.com/overwhelmed-book/) - Recognition of how schedules fragment into unusable small chunks between meetings and obligations. Coined by Brigid Schulte, refers to 10-15 minute gaps too short for meaningful work but collectively significant. Awareness enables strategic consolidation or deliberate use of micro-moments. ([Read more](/details/time-confetti-awareness.md)) `Fragmentation` `Awareness` `Calendar` `Micro Moments`
@@ -2957,6 +2961,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [TimeForge](https://timeforge.com) - Restaurant and hospitality workforce management software providing employee scheduling, shift management, and labor forecasting to help overcome staffing challenges. ([Read more](/details/timeforge.md)) `Restaurant` `Scheduling` `Hospitality`
 - [Toast Scheduling](https://pos.toasttab.com/products/restaurant-employee-scheduling-software) - Restaurant employee scheduling software integrated with Toast POS system, offering schedule creation, labor cost management, and seamless integration with point-of-sale data for demand-based scheduling. ([Read more](/details/toast-scheduling.md)) `Restaurant` `Pos Integration` `Scheduling`
 - [TouchBistro Scheduling](https://www.touchbistro.com/) - Restaurant employee scheduling and shift management software integrated with TouchBistro POS system, offering labor cost optimization, shift templates, and mobile access for restaurant teams. ([Read more](/details/touchbistro-scheduling.md)) `Restaurant` `Pos Integration` `Scheduling`
+- [UKG Dimensions](https://www.ukg.com/solutions/ukg-dimensions) - Enterprise-level workforce management solution delivering cloud-based HCM capabilities including time and attendance tracking, scheduling, labor forecasting, and compliance management with advanced security features and reliable hardware integration for large organizations. ([Read more](/details/ukg-dimensions.md)) `Enterprise` `Compliance` `Time Attendance`
 - [UKG Pro](https://www.ukg.com/) - Comprehensive cloud-based workforce management and human capital management platform formed from the merger of Ultimate Software and Kronos, offering time tracking, payroll, HR, and talent management for enterprises with advanced rule engines and compliance features. ([Read more](/details/ukg-pro.md)) `Enterprise` `Payroll` `Hr Management` `Workforce Analytics` `Compliance`
 - [Verint TimeFleX Bot](https://www.verint.com/workforce-management-software-wfm-solutions/timeflex/) - A call center workforce management scheduling software with AI-powered bot that enables flexible scheduling for contact center agents, helping organizations reduce agent attrition by approximately 25% on average while optimizing workforce efficiency. ([Read more](/details/verint-timeflex-bot.md)) `Call Center` `Ai Powered` `Scheduling` `Workforce Analytics` `Flexible`
 - [Workday Scheduling and Labor Optimization](https://www.workday.com/) - Enterprise workforce management feature announced by Workday in January 2026 offering demand forecasting, AI-powered scheduling, and frontline workforce optimization for retail and hospitality. Enables 67% faster weekly scheduling and up to 90% reduction in staffing-change time for deskless workers. ([Read more](/details/workday-scheduling-and-labor-optimization.md)) `Enterprise` `Ai Powered` `Scheduling` `Retail` `Hospitality`
