@@ -1,40 +1,39 @@
 ## Overview
 
-"Make Time: How to Focus on What Matters Every Day" is a productivity book by Jake Knapp and John Zeratsky that addresses the modern challenges of the "busy bandwagon" and "infinity pools" - endless distractions from apps, email, and social media.
-
-## The Authors
-
-Jake Knapp is a designer, investor, and New York Times bestselling author whose books Sprint, Make Time, and Click are available in over 20 languages worldwide. He is cofounder and general partner at Character Capital and previously helped build Gmail and Microsoft Encarta, cofounded Google Meet, and was a partner at Google Ventures.
-
-John Zeratsky is an entrepreneur, designer, and bestselling author who helps people and organizations design better lives through books, workshops, and coaching.
-
-## The Four-Step Framework
-
-The book features a four-step daily framework:
-
-1. **Highlight** - Choose a single priority for your day
-2. **Laser** - Beat distraction to make time for your Highlight
-3. **Energize** - Use the body to recharge the brain
-4. **Reflect** - Adjust and improve your system
-
-## Key Concepts
-
-### The Busy Bandwagon
-The hectic culture of modern societies where everyone feels obligated to be constantly busy.
-
-### Infinity Pools
-Endless sources of distraction like social media feeds, news, and video streaming that consume unlimited time.
-
-### 80+ Tactics
-The book provides more than 80 practical tactics readers can experiment with to:
-- Make small shifts in their environment
-- Liberate themselves from constant busyness and distraction
-- Create time for meaningful activities
+"Make Time: How to Focus on What Matters Every Day" is a book by Jake Knapp and John Zeratsky that explains how small changes in the design of our days can give us more time for the people and activities that energize and fulfill us.
 
 ## Philosophy
 
-Make Time rejects the notion that productivity is about doing more things faster. Instead, it advocates for intentionality - making conscious choices about how to spend your time and energy on what truly matters.
+Make Time is not about crushing your to-do list or maximizing personal productivity. It's about rethinking "the defaults" so you can focus on what matters every day. Making time isn't about radically overhauling your lifestyle or throwing out your smartphone—it's about making small shifts in your environment to liberate yourself from constant busyness and distraction.
 
-## Availability
+## The Framework
 
-The book remains widely available and relevant in 2026, with continued recommendations from productivity experts and readers worldwide across multiple formats including hardcover, paperback, ebook, and audiobook.
+Make Time consists of a four-step framework repeated every day:
+
+### 1. Highlight
+Choose a single activity to prioritize and protect in your day—the thing you want to make sure gets done.
+
+### 2. Laser
+Beat distraction by creating barriers around your Highlight and implementing tactics to stay focused.
+
+### 3. Energize
+Use the body to recharge the brain through simple habits that keep your physical and mental energy high.
+
+### 4. Reflect
+Before bed, take a few notes on what worked and what didn't to fine-tune your approach.
+
+## Tactics Library
+
+The book is packed with more than 80 tactics that anyone can use to design their day around the things that matter. These are practical, actionable strategies tested by the authors.
+
+## Authors' Background
+
+Jake Knapp and John Zeratsky met while working at Google where they created the popular Google Design Sprint process. They're the authors of the New York Times bestseller "Sprint" and the creators of Time Dorks, a popular newsletter about experiments in time management.
+
+## Key Differentiator
+
+Unlike traditional productivity books, Make Time doesn't propose unrealistic solutions or require extreme lifestyle changes. It focuses on sustainable, small adjustments that compound over time.
+
+## Format
+
+Published book available in hardcover, paperback, ebook, and audiobook formats.
