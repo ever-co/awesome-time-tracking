@@ -32,7 +32,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Mobile Workforce Management (9)](#mobile-workforce-management)
 - [Open Source (10)](#open-source)
 - [resource-scheduling (1)](#resource-scheduling)
-- [Time Management Concept (12)](#time-management-concept)
+- [Time Management Concept (13)](#time-management-concept)
 - [Time Management Tool (17)](#time-management-tool)
 - [time-tracking-overview-resources (13)](#time-tracking-overview-resources)
 - [Accountability Method (1)](#accountability-method)
@@ -54,6 +54,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [cross-platform-time-tracking (5)](#cross-platform-time-tracking)
 - [Desktop Time Tracking Applications (8)](#desktop-time-tracking-applications-1)
 - [developer-time-tracking (1)](#developer-time-tracking-1)
+- [Digital Wellness (2)](#digital-wellness)
 - [Employee Monitoring (34)](#employee-monitoring)
 - [Employee Scheduling (26)](#employee-scheduling)
 - [Equipment & Fleet Time Tracking (3)](#equipment--fleet-time-tracking)
@@ -76,7 +77,9 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Legal Practice Management (2)](#legal-practice-management)
 - [Legal Time Tracking (8)](#legal-time-tracking)
 - [Meeting & Team Time Tracking (26)](#meeting--team-time-tracking)
+- [Mental Health & Productivity (1)](#mental-health--productivity)
 - [Mobile Time Tracking (31)](#mobile-time-tracking-1)
+- [Neuroscience & Productivity (1)](#neuroscience--productivity)
 - [Open Sources (7)](#open-sources)
 - [open-sources (7)](#open-sources-1)
 - [others (22)](#others)
@@ -90,12 +93,14 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Productivity Community (1)](#productivity-community)
 - [Productivity Feature (19)](#productivity-feature)
 - [Productivity Software (5)](#productivity-software)
+- [Productivity Technique (1)](#productivity-technique)
 - [Productivity Tools (81)](#productivity-tools)
 - [Productivity Trend (1)](#productivity-trend)
 - [productivity-tools (1)](#productivity-tools-1)
 - [Project Management (48)](#project-management)
 - [Project Management Practice (1)](#project-management-practice)
 - [Project Time Tracking (3)](#project-time-tracking)
+- [Remote Work Health (1)](#remote-work-health)
 - [Resource Scheduling (13)](#resource-scheduling-1)
 - [Software Category (2)](#software-category)
 - [Student Time Management (1)](#student-time-management)
@@ -104,7 +109,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Blocking (9)](#time-blocking)
 - [Time Blocking & Interval Timers (17)](#time-blocking--interval-timers)
 - [Time Management Policy (5)](#time-management-policy)
-- [Time Management Research (23)](#time-management-research)
+- [Time Management Research (24)](#time-management-research)
 - [Time Tracking Analytics (2)](#time-tracking-analytics)
 - [Time Tracking Apis & Integrations (2)](#time-tracking-apis--integrations)
 - [Time Tracking APIs & Integrations (20)](#time-tracking-apis--integrations-1)
@@ -130,6 +135,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Work Os (1)](#work-os)
 - [Workforce Analytics (1)](#workforce-analytics)
 - [Workforce Management (35)](#workforce-management)
+- [Workplace Research (1)](#workplace-research)
 
 
 ## Time Management Methodology
@@ -468,7 +474,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [18-Minute Plan](https://bregmanpartners.com/18minutes/) - The 18-Minute Plan is a daily productivity ritual created by Peter Bregman consisting of 5 minutes of morning planning, 1 minute of refocus every hour for 8 hours, and 5 minutes of evening review to manage your day and master distraction. ([Read more](/details/18-minute-plan.md)) `Daily Planning` `Focus` `Reflection` `Time Management`
 - [2-List Strategy (Buffett)](https://jamesclear.com/buffett-focus) - Warren Buffett's prioritization method where you list 25 goals, circle the top 5 as your focus, and treat the remaining 20 as items to avoid at all costs until the top 5 are achieved. ([Read more](/details/2-list-strategy-buffett.md)) `Prioritization` `Focus` `Elimination`
 - [2x/3x Rule](https://theknowledge.io/project-planning-with-hofstadters-law-and-the-2x-3x-rule/) - A time estimation guideline suggesting you should double or triple your initial estimate for complex projects to account for unforeseen delays, interruptions, and complications, directly addressing the planning fallacy and Hofstadter's Law. ([Read more](/details/2x3x-rule.md)) `Estimation` `Planning` `Project Management` `Buffer Time`
-- [3-2-1 Rule (Mel Robbins)](https://www.melrobbins.com/podcasts/episode-38) - Evening routine productivity technique by Mel Robbins for better sleep and next-day performance: stop eating/drinking alcohol 3 hours before bed, stop working 2 hours before bed, shut down screens 1 hour before bed. ([Read more](/details/3-2-1-rule-mel-robbins.md)) `evening-routine` `sleep-optimization` `Productivity`
+- [3-2-1 Rule (Mel Robbins)](https://www.melrobbins.com/podcasts/episode-38) - Evening routine productivity technique by Mel Robbins for better sleep and next-day performance: stop eating/drinking alcohol 3 hours before bed, stop working 2 hours before bed, shut down screens 1 hour before bed. ([Read more](/details/3-2-1-rule-mel-robbins.md)) `Evening Routine` `Sleep Optimization` `Productivity`
 - [3-3-3 Method](https://www.inc.com/jessica-stillman/productivity-time-management-oliver-burkeman-333-method.html) - Productivity framework that structures your workday into three hours of deep work, three shorter tasks, and three maintenance activities. Popularized by Oliver Burkeman to align effort with natural energy levels. ([Read more](/details/3-3-3-method.md)) `productivity-method` `Deep Work` `Timeboxing`
 - [4D System](https://www.insightful.io/blog/4d-system-time-tracking) - A time management technique that prioritizes tasks with four actions: Delete, Delegate, Defer, and Do. This system helps filter and manage workload more effectively by categorizing every task into one of these four action categories. ([Read more](/details/4d-system.md)) `Prioritization` `Decision Making` `Workflow`
 - [5-Second Rule](https://www.melrobbins.com/the-5-second-rule/) - Anti-procrastination technique created by Mel Robbins that uses a simple countdown mechanism to overcome hesitation and initiate action. The method involves counting backwards from 5 to 1, then immediately taking physical action before the brain can create excuses or self-doubt. ([Read more](/details/5-second-rule.md)) `Procrastination` `Methodology` `Psychology`
@@ -1624,6 +1630,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Instant Gratification Monkey](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) - A viral procrastination framework by Tim Urban from Wait But Why that personifies the mental struggle of procrastination through three characters: the Rational Decision-Maker, the Instant Gratification Monkey, and the Panic Monster. ([Read more](/details/instant-gratification-monkey.md)) `Procrastination` `Psychology` `Behavior Change`
 - [Maker Schedule Manager Schedule](http://www.paulgraham.com/makersschedule.html) - Time management concept from Paul Graham distinguishing between maker schedule requiring long uninterrupted blocks for creative work and manager schedule built around hourly meetings and appointments. ([Read more](/details/maker-schedule-manager-schedule.md)) `Work Styles` `Scheduling` `Deep Work`
 - [Maker Schedule vs. Manager Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham's concept distinguishing between makers who need long uninterrupted blocks for creative work and managers who work in hour-long appointment slots, highlighting scheduling conflicts. ([Read more](/details/maker-schedule-vs-manager-schedule.md)) `Deep Work` `Scheduling` `Knowledge Work` `Paul Graham` `Productivity Philosophy`
+- [Revenge Bedtime Procrastination](https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination) - The phenomenon of delaying sleep for leisure activities missed during the day, stemming from a lack of free time and an attempt to reclaim personal time. This Chinese-origin concept describes staying up late despite knowing you need sleep, representing an assertion of control over one's time in response to demanding schedules. ([Read more](/details/revenge-bedtime-procrastination.md)) `Sleep` `Work Life Balance` `Time Management` `Wellbeing`
 - [Spoon Theory](https://en.wikipedia.org/wiki/Spoon_theory) - Energy management concept using spoons as a metaphor for daily available mental and physical energy, helping people with chronic illness, chronic pain, or disability visualize and prioritize activities throughout the day based on limited energy reserves. ([Read more](/details/spoon-theory.md)) `Energy Management` `Chronic Illness` `Self Pacing`
 - [Task Completion Bias Awareness](https://hbr.org/2015/03/why-we-choose-tasks-that-are-urgent-over-important) - Recognition of psychological tendency to prioritize completing easy, quick tasks over important, difficult ones. Understanding this bias enables conscious prioritization of impact over completion quantity, preventing productivity theater where busy doesn't equal effective. ([Read more](/details/task-completion-bias-awareness.md)) `Psychology` `Bias` `Prioritization` `Awareness`
 - [Time Blocking vs. Timeboxing](https://super-productivity.com/guides/time-boxing-method/) - Comparison framework explaining the distinction between time blocking (reserving calendar slots for work categories) and timeboxing (assigning fixed durations to specific tasks). They work best together for complete scheduling control. ([Read more](/details/time-blocking-vs-timeboxing.md)) `Time Blocking` `Timeboxing` `Productivity`
@@ -1859,6 +1866,11 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [DueFocus](https://duefocus.com/) - DueFocus is a time tracking and productivity tool tailored for developers and software teams, offering task-focused tracking and coding analytics. Its GitHub integration allows users to link time entries to specific issues and commits, helping teams understand where development time is spent and improve project planning. ([Read more](/details/duefocus.md)) `Developers` `Analytics` `Teams`
 
+## Digital Wellness
+
+- [Digital Sunset](https://functionalself.co.uk/blog/how-to-create-a-digital-sunset-for-deeper-sleep-and-a-calmer-mind) - The practice of intentionally ending all screen-based activities at a specific time each day, typically 60-90 minutes before bedtime, to improve sleep quality and next-day productivity. A 2024 study linked consistent digital sunsets to 28% higher next-day focus scores and 18% fewer reactive decisions. ([Read more](/details/digital-sunset.md)) `Sleep Optimization` `Evening Routine` `Screen Time` `Productivity`
+- [Notification Fatigue](https://www.spikenow.com/blog/inbox-management/notification-fatigue/) - The state of mental exhaustion and decreased responsiveness caused by constant notifications overwhelming attention and fragmenting focus. In 2026, this phenomenon costs U.S. businesses an estimated $588 billion annually in lost productivity, with 68% of Americans reporting that notification frequency interferes with their work. ([Read more](/details/notification-fatigue.md)) `Productivity` `Digital Wellbeing` `Attention Management` `Workplace Health`
+
 ## Employee Monitoring
 
 - [AMGtime](https://amgtime.com/) - Biometric time clock systems and employee attendance tracking solutions offering fingerprint readers, facial recognition, and cloud-based workforce management for accurate time tracking. ([Read more](/details/amgtime.md)) `Biometric` `Fingerprint` `Attendance`
@@ -2018,7 +2030,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Blink Eye](https://blinkeye.vercel.app/en) - Minimalist open-source eye care and break reminder app for Windows, macOS, and Linux that prevents eye strain, RSI, and Computer Vision Syndrome with customizable timers, full-screen break notifications, and built-in TODO functionality. ([Read more](/details/blink-eye.md)) `Open Source` `eye-care` `Cross Platform` `Health`
 - [Enso Retreat](https://gchristensen.github.io/retreat/) - Simple break reminder program that periodically blocks your computer to force rest, with transparent interface, ability to skip breaks when certain programs are running, and customizable wallpapers during lock periods. ([Read more](/details/enso-retreat.md)) `Break Reminder` `forced-breaks` `Open Source` `Windows`
 - [HRV4Training](https://www.hrv4training.com/) - Heart rate variability training app that helps athletes and professionals optimize performance and recovery by tracking HRV, stress, and providing personalized training recommendations. ([Read more](/details/hrv4training.md)) `hrv` `Fitness` `Recovery`
-- [Intently](https://liveintently.app/) - Privacy-focused digital wellbeing app that uses mindful interventions instead of hard blocking, presenting full-screen awareness prompts when opening tracked apps to help users consciously decide whether to proceed, with all data stored locally on the device. ([Read more](/details/intently.md)) `digital-wellbeing` `Mindfulness` `Privacy Focused` `Screen Time`
+- [Intently](https://liveintently.app/) - Privacy-focused digital wellbeing app that uses mindful interventions instead of hard blocking, presenting full-screen awareness prompts when opening tracked apps to help users consciously decide whether to proceed, with all data stored locally on the device. ([Read more](/details/intently.md)) `Digital Wellbeing` `Mindfulness` `Privacy Focused` `Screen Time`
 - [Rest Time](https://www.publicspace.net/RestTime/index.html) - Simple, elegant, and unobtrusive macOS break timer that intelligently schedules breaks, automatically detects when you've taken a break, and takes over the screen with relaxing animations during break time. ([Read more](/details/rest-time.md)) `Macos` `Break Reminder` `Health` `Privacy`
 - [RSIGuard](https://www.rsiguard.com/) - Comprehensive RSI prevention software that monitors computer use and enforces microbreaks and rest breaks. Recommended ForgetMeNots (microbreaks) every 10-30 minutes with 15 minutes being optimal for most users to prevent repetitive strain injuries and promote healthy computing habits. ([Read more](/details/rsiguard.md)) `Rsi Prevention` `microbreaks` `Health`
 - [Wellnomics](https://wellnomics.com/) - Office stretch break coaching app that monitors computer use and provides reminders for desk stretches and microbreaks. Helps prevent repetitive strain injuries (RSI) with guided stretching exercises and ergonomic coaching to allow muscles to relax and rejuvenate during workdays. ([Read more](/details/wellnomics.md)) `Rsi Prevention` `Ergonomics` `Wellness`
@@ -2130,6 +2142,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [tl;dv](https://tldv.io) - AI-driven meeting recorder providing unlimited recordings, storage, and transcriptions in 30+ languages with 96% accuracy, automatically generating video recordings, translatable transcripts, and shareable summaries for Zoom, Teams, and Google Meet - completely free forever. ([Read more](/details/tldv.md)) `AI` `Meeting Recording` `Free`
 - [Wudpecker](https://www.wudpecker.io) - AI meeting assistant using ChatGPT technology to create personalized, tailored notes for Zoom, Google Meet, and Microsoft Teams, with MeetingGPT feature for customizable note structures, multilingual support, and integrations with HubSpot, Salesforce, Notion, and Slack. ([Read more](/details/wudpecker.md)) `AI` `ChatGPT` `Personalized`
 
+## Mental Health & Productivity
+
+- [Productivity Shame](https://clockify.me/blog/productivity/productivity-guilt/) - The feeling of anxiety, guilt, or self-judgment when not being productive, often stemming from unrealistic expectations, perfectionism, and toxic work culture. This phenomenon leads to burnout, decreased mental health, and paradoxically, reduced actual productivity, requiring mindset shifts toward gentle productivity and self-compassion. ([Read more](/details/productivity-shame.md)) `Mental Health` `Wellbeing` `Burnout Prevention` `Self Compassion`
+
 ## Mobile Time Tracking
 
 - [Align App](https://align.day/) - Ultimate iOS time blocking planner and visual schedule maker that turns daily task lists into beautiful, resizable time blocks with smart overlap prevention and iCloud sync. ([Read more](/details/align-app.md)) `Ios` `Time Blocking` `Visual` `icloud`
@@ -2163,6 +2179,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [TimesheetMobile](https://www.timesheetmobile.com/) - GPS-enabled time clock app for contractors and construction workers with geofencing, job costing, and integration with major payroll and accounting systems. ([Read more](/details/timesheetmobile.md)) `Construction` `Contractors` `Gps Tracking` `Mobile` `Geofencing`
 - [Timetrack Minimalist](https://apps.apple.com/us/app/timetrack-minimalist/id1571765507) - Minimalist iOS time tracking app focusing on today's tasks with beautiful interactive diagrams, homescreen widgets, and no ads or subscriptions. Features pure time in a timeless design. ([Read more](/details/timetrack-minimalist.md)) `Ios` `Minimalist` `Privacy` `widgets`
 - [WorkHours Time Tracker](https://www.whtracker.com/) - Personal time tracking app for iPhone and Apple Watch that helps track time across projects, calculate earnings with automatic overtime, and manage work with interactive Live Activities and watch complications. ([Read more](/details/workhours-time-tracker.md)) `Ios` `Apple Watch` `personal` `earnings`
+
+## Neuroscience & Productivity
+
+- [Time Perception Distortion](https://fastercapital.com/content/Time-Consciousness--Time-Perception-Distortion--The-Phenomenon-of-Time-Perception-Distortion.html) - The phenomenon where subjective experience of time's passage differs dramatically from objective clock time, influenced by factors like flow states, dopamine levels, mental engagement, and arousal. Understanding these mechanisms helps optimize work scheduling and task management for maximum productivity and wellbeing. ([Read more](/details/time-perception-distortion.md)) `Neuroscience` `Flow State` `Cognitive Science` `Time Management`
 
 ## Open Sources
 
@@ -2344,6 +2364,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Window Focus](https://fiplab.com/apps/window-focus-for-mac) - macOS menubar app by FIPLAB that highlights the active window and dims all background apps to help you concentrate on tasks at hand, with customizable tint colors and opacity levels. ([Read more](/details/window-focus.md)) `Macos` `Focus` `window-management` `Productivity`
 - [WorkFlowy for Time Management](https://workflowy.com/systems/time-blocking/) - Minimalist outliner application adapted for time management through nested bullet lists. Supports time blocking, Pomodoro tracking, and task management with infinite hierarchies. Features tagging system and timeline views for organizing temporal workflows in a distraction-free interface. ([Read more](/details/workflowy-for-time-management.md)) `outliner` `Minimalist` `Time Blocking` `Task Management`
 
+## Productivity Technique
+
+- [Dopamine Fasting](https://silverscoopblog.com/dopamine-fast-2-digital-boredom-productivity/) - A productivity protocol focused on reducing digital hyper-stimulation to recalibrate the brain's focus and creativity systems. The 2026 evolution, known as Dopamine Fast 2.0, targets social media, AI notifications, and infinite scrolling to activate the brain's Default Mode Network and restore capacity for deep work. ([Read more](/details/dopamine-fasting.md)) `Digital Wellness` `Focus` `Productivity` `Deep Work`
+
 ## Productivity Tools
 
 - [1Focus](https://onefocusapp.com/) - A Mac productivity application that blocks distracting websites and apps to help maintain focus during work sessions. Features customizable block lists, scheduling, and time management techniques to support deep work and reduce digital distractions. ([Read more](/details/1focus.md)) `Mac` `Focus` `Distraction Blocking`
@@ -2389,7 +2413,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [LookAway](https://lookaway.com/) - Break reminder app for Mac designed to reduce digital eye strain, prevent burnout, and improve productivity with customizable break schedules and gentle reminders. Intelligently detects and pauses automatically during idle time, meetings, video playback, and games. ([Read more](/details/lookaway.md)) `macOS` `Health` `Break Reminder`
 - [Magical Text Expander](https://www.getmagical.com/) - Free Chrome extension and AI-powered text expander that automates repetitive typing, autofills forms with personalized information, and works across 10 million+ apps without requiring setup. ([Read more](/details/magical-text-expander.md)) `text-expander` `Automation` `chrome-extension` `Workflow`
 - [Mindful Tracker](https://apps.apple.com/us/app/mindful-tracker/id6478161284) - Simple meditation timer app made solely to time unguided meditation sessions and save them as Mindful Minutes in Apple Health. Set timers for specific durations or use a stopwatch for open-ended meditation practice. ([Read more](/details/mindful-tracker.md)) `Meditation` `Mindfulness` `health-integration`
-- [minimalist phone](https://www.minimalistphone.com/) - Mobile launcher app designed for digital wellbeing that transforms your phone into a minimalist, icon-free interface to reduce screen time, eliminate mindless scrolling, and promote intentional phone usage. ([Read more](/details/minimalist-phone.md)) `digital-wellbeing` `Screen Time` `Mobile` `app-blocker`
+- [minimalist phone](https://www.minimalistphone.com/) - Mobile launcher app designed for digital wellbeing that transforms your phone into a minimalist, icon-free interface to reduce screen time, eliminate mindless scrolling, and promote intentional phone usage. ([Read more](/details/minimalist-phone.md)) `Digital Wellbeing` `Screen Time` `Mobile` `app-blocker`
 - [Motion](https://www.usemotion.com/) - AI-powered productivity platform that automatically schedules tasks, meetings, and projects based on priorities and deadlines. Features real-time adjustments and intelligent prioritization for busy professionals. ([Read more](/details/motion-app.md)) `AI` `Calendar` `Automation` `Task Management`
 - [myNoise](https://mynoise.net/) - Free ambient sound generator offering a vast library of high-quality soundscapes and background noises designed to enhance concentration, minimize distractions, and create consistent auditory environments for improved productivity. ([Read more](/details/mynoise.md)) `ambient-sounds` `Free` `Customizable`
 - [Neural Entrainment Music](https://www.brain.fm/) - Category of scientifically-designed audio that uses specific acoustic features to influence brainwave patterns and enhance focus, productivity, or relaxation. Used by services like Brain.fm and based on neuroscience research. ([Read more](/details/neural-entrainment-music.md)) `Neuroscience` `Focus Music` `science-based`
@@ -2423,7 +2447,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Etc](https://web.timeetc.com/) - Virtual assistant service that helps professionals reclaim time by delegating administrative tasks. Time Etc matches busy professionals with experienced assistants to handle time-consuming routine work. ([Read more](/details/time-etc.md)) `virtual-assistant` `Delegation` `outsourcing`
 - [TimeFinder](https://timefinder.app/) - Time blocking and planning app that helps turn your to-do list into a realistic daily plan with drag, drop, and adjust functionality. Designed as an asset for users with ADHD, autism, dyslexia, and other neurodevelopmental disorders. ([Read more](/details/timefinder.md)) `Time Blocking` `Planning` `Accessibility`
 - [Timefully Meditation Timer](https://www.timefully.co/) - The #1 meditation timer and tracker app for serious practitioners, perfect for unguided practice like Transcendental Meditation, Zen, or Mindfulness. Designed specifically for committed meditators who practice daily and need a reliable, distraction-free timing tool. ([Read more](/details/timefully-meditation-timer.md)) `Meditation` `Mindfulness` `Timer`
-- [Timeshifter](https://www.timeshifter.com/) - App that uses circadian neuroscience to reduce jet lag and manage shift work disruption. Provides personalized advice on light exposure, melatonin, caffeine, and naps based on your sleep pattern, chronotype, and itinerary to control your circadian rhythms. ([Read more](/details/timeshifter.md)) `Circadian Rhythm` `jet-lag` `sleep`
+- [Timeshifter](https://www.timeshifter.com/) - App that uses circadian neuroscience to reduce jet lag and manage shift work disruption. Provides personalized advice on light exposure, melatonin, caffeine, and naps based on your sleep pattern, chronotype, and itinerary to control your circadian rhythms. ([Read more](/details/timeshifter.md)) `Circadian Rhythm` `jet-lag` `Sleep`
 - [Tweek Calendar](https://tweek.so/) - A minimalist calendar and time blocking application that provides a simple, visual approach to weekly planning. Combines task management with calendar functionality, offering an elegant interface for organizing time and priorities through weekly time blocking. ([Read more](/details/tweek-calendar.md)) `Time Blocking` `Calendar` `Minimalist`
 - [Upbase](https://upbase.io/) - Fully-featured productivity app for agencies and service businesses combining timeboxing, time blocking, Pomodoro timer, task management, and daily journaling in one platform without juggling multiple tools. ([Read more](/details/upbase.md)) `Timeboxing` `Project Management` `Teams` `Pomodoro`
 - [Workflowy](https://workflowy.com/) - Powerful online outliner app that lets you organize your thoughts, notes, and projects in infinitely nested lists. Simple to use but incredibly powerful for note-taking, project management, and task organization. ([Read more](/details/workflowy.md)) `outliner` `Note Taking` `Organization`
@@ -2496,6 +2520,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [awork](https://www.awork.com) - Work management platform with comprehensive time tracking and time entry features, offering both manual time entry and timer-based tracking integrated with project management capabilities. ([Read more](/details/awork.md)) `Project Management` `Time Tracking` `Team Collaboration`
 - [elapseit](https://elapseit.com/) - Online project management software with resource planning, time tracking, ticketing, granular user access, availability and invoicing capabilities, helping startups and SMBs manage projects from kick-start to invoice. ([Read more](/details/elapseit.md)) `Resource Planning` `Invoicing` `Project Management`
 - [JustCall](https://justcall.io/) - Business phone system with comprehensive call tracking, analytics, and performance monitoring for sales teams, featuring power dialers, conversation intelligence, and CRM integrations. ([Read more](/details/justcall.md)) `call-tracking` `sales` `Analytics` `crm-integration`
+
+## Remote Work Health
+
+- [Zoom Fatigue](https://asanify.com/glossary/zoom-fatigue/) - Mental, emotional, and physical exhaustion resulting from extended or frequent use of video conferencing platforms. First identified during the 2020 shift to remote work, this phenomenon affects workplace productivity, employee wellbeing, and organizational communication, manifesting as eye strain, mental exhaustion, difficulty concentrating, and reduced job satisfaction. ([Read more](/details/zoom-fatigue.md)) `Video Conferencing` `Remote Work` `Mental Health` `Workplace Wellness`
 
 ## Resource Scheduling
 
@@ -2614,6 +2642,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Productivity Microbiome Model (2026)](https://ajpojournals.org/journals/AJP/article/view/2880) - A 2026 systems-based approach to productivity incorporating biological, psychological, and ecological elements with eight co-occurring variables for holistic performance optimization. ([Read more](/details/productivity-microbiome-model-2026.md)) `Research` `Productivity Study` `Holistic` `Systems Thinking` `2026`
 - [Temporal Affective Pattern](https://www.danpink.com/books/when/) - The scientifically observed daily pattern where energy and mood rise in the morning, dip in the afternoon trough, and recover in the evening, informing optimal task scheduling strategies. ([Read more](/details/temporal-affective-pattern.md)) `Science` `Energy Management` `Circadian Rhythms`
 - [Time Management System Adoption Statistics](https://asana.com/resources/time-management-tips) - Research finding that 82% of people lack a clear time management system, highlighting the gap between knowing time management is important and actually implementing systems. ([Read more](/details/time-management-system-adoption-statistics.md)) `Research` `Statistics` `Time Management`
+- [Time Poverty](https://en.wikipedia.org/wiki/Time_poverty) - The acute feeling of having too much to do and not enough time to do it, also termed time scarcity, time famine, or busyness. This phenomenon affects over 80% of employed Americans and has serious implications for health, wellbeing, and productivity, particularly impacting women who perform disproportionate amounts of unpaid household labor. ([Read more](/details/time-poverty.md)) `Work Life Balance` `Wellbeing` `Stress Management` `Research`
 - [When: The Scientific Secrets of Perfect Timing](https://www.danpink.com/books/when) - Daniel Pink's research-based book on chronobiology and timing that explores how chronotypes, daily energy patterns, and circadian rhythms impact productivity, demonstrating that when you do something can be as important as what you do. ([Read more](/details/when-the-scientific-secrets-of-perfect-timing.md)) `Chronotype` `Energy Management` `Science`
 - [Zeigarnik Effect](https://www.psychologytoday.com/us/blog/between-cultures/202101/the-zeigarnik-effect-and-the-to-do-list) - A psychological phenomenon where people remember incomplete or interrupted tasks better than completed ones, which can be leveraged for productivity or cause mental burden from unfinished work. ([Read more](/details/zeigarnik-effect.md)) `Psychology` `Cognitive Science` `Task Completion` `Memory` `Productivity Research`
 
@@ -3056,6 +3085,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Workday Scheduling and Labor Optimization](https://www.workday.com/) - Enterprise workforce management feature announced by Workday in January 2026 offering demand forecasting, AI-powered scheduling, and frontline workforce optimization for retail and hospitality. Enables 67% faster weekly scheduling and up to 90% reduction in staffing-change time for deskless workers. ([Read more](/details/workday-scheduling-and-labor-optimization.md)) `Enterprise` `Ai Powered` `Scheduling` `Retail` `Hospitality`
 - [Workday Time & Attendance](https://www.workday.com/en-us/products/workforce-management/time.html) - Enterprise-grade time and attendance module within Workday's unified HCM platform, providing mobile-first time tracking, automated timesheets, and geofencing capabilities integrated seamlessly with HR, payroll, and analytics for global organizations. ([Read more](/details/workday-time-attendance.md)) `Enterprise` `Cloud Based` `Mobile` `Geofencing` `Hcm`
 - [ZoomShift](https://www.zoomshift.com/) - Employee scheduling software designed for shift-based organizations including restaurants, retail stores, and healthcare facilities, offering schedule creation, time tracking, and team communication tools. ([Read more](/details/zoomshift.md)) `Scheduling` `Shift Work` `Restaurants`
+
+## Workplace Research
+
+- [Meeting Recovery Syndrome](https://clickup.com/blog/meeting-recovery-syndrome/) - A phenomenon where employees experience significant fatigue and productivity decline after attending meetings, particularly unproductive or back-to-back ones. Research shows that affected individuals need at least 45 minutes to recover before resuming productive work, with 90% of workers reporting experiencing a 'meeting hangover'. ([Read more](/details/meeting-recovery-syndrome.md)) `Meetings` `Productivity` `Workplace Health` `Calendar Management`
 
 
 ## 🍺 Contribute
