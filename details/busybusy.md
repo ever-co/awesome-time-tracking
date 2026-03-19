@@ -1,24 +1,28 @@
 ## Overview
 
-BusyBusy is a construction time tracking and equipment management solution that stands out by offering a genuinely free plan with unlimited users, making it accessible to contractors and construction companies of all sizes.
+BusyBusy is a GPS time tracking and scheduling solution designed specifically for construction and field service companies. The app provides simple mobile time clocks with built-in GPS verification, job costing capabilities, and compliance features for the construction industry.
 
 ## Features
 
-- **Free Unlimited Users**: No per-user charges on the basic plan
-- **Time Tracking**: GPS-enabled clock-in/out for field workers
-- **Job Codes**: Track time against specific jobs, phases, and cost codes
-- **Equipment Tracking**: Monitor equipment location, usage hours, and maintenance schedules
-- **Mobile App**: iOS and Android apps for on-the-go time tracking
-- **Geofencing**: Automatic alerts when workers enter or leave job sites
-- **Reporting**: Labor and equipment reports for job costing analysis
-- **Payroll Integration**: Export timesheet data to payroll systems
-- **Photo Documentation**: Attach photos to time entries for job documentation
+- **GPS Time Clock**: Mobile time tracking with automatic GPS location verification
+- **Job Costing**: Track labor costs by job, phase, and cost code
+- **Scheduling**: Plan and assign work schedules for field crews
+- **Certified Payroll**: Generate certified payroll reports for prevailing wage projects
+- **Offline Functionality**: Track time even without cellular or WiFi connection
+- **Equipment Tracking**: Monitor equipment usage and location
+- **Photo Documentation**: Capture and attach photos to timecards and jobs
+- **Geofencing**: Set up job site boundaries for automatic clock in/out
+- **Integration**: Sync with QuickBooks, Sage, and other accounting platforms
+- **Reporting**: Comprehensive reports on labor, jobs, and productivity
 
-## Unique Value
+## Use Cases
 
-BusyBusy is the only time-tracking app that promises comprehensive equipment management tools alongside worker time tracking, making it particularly valuable for construction firms that need to track both labor and equipment costs.
+- General contractors
+- Subcontractors
+- Construction companies
+- Electrical and plumbing contractors
+- Landscaping and excavation businesses
 
 ## Pricing
 
-- **Free Plan**: Unlimited users with core time tracking, job codes, and equipment location tracking
-- **Paid Plans**: Additional features available at competitive per-user pricing
+BusyBusy offers simple per-user pricing starting at around $8-10 per user per month with discounts for annual subscriptions.

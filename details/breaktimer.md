@@ -1,66 +1,43 @@
 ## Overview
 
-BreakTimer is an open-source break reminder application for Mac that provides highly customizable break reminders to help prevent eye strain, repetitive strain injury (RSI), and burnout from extended computer use.
+BreakTimer is a free, open-source break reminder application designed to help computer users maintain healthy work habits by prompting regular breaks. Available for Windows, macOS, and Linux, it helps prevent repetitive strain injury, eye strain, and burnout through customizable break schedules.
 
 ## Features
 
-### Highly Customizable
-- Adjust break duration to your needs
-- Configure break frequency
-- Set different break types (micro and longer breaks)
-- Customize reminder notifications
-- Flexible scheduling options
+- **Cross-Platform**: Works on Windows, macOS, and Linux
+- **Customizable Breaks**: Set your own break frequencies and durations
+- **Multiple Break Types**: Support for microbreaks and longer rest periods
+- **Gentle Notifications**: Non-disruptive reminders when breaks are due
+- **Skip & Postpone**: Flexibility to delay breaks when needed
+- **Activity Suggestions**: Ideas for what to do during breaks
+- **Statistics Tracking**: Monitor your break compliance over time
+- **Idle Detection**: Pauses timing when away from computer
+- **System Tray Integration**: Runs quietly in background
+- **Open Source**: Community-developed and transparent code
 
-### Break Management
-- Multiple break types with different schedules
-- Skip or postpone breaks when needed
-- Idle detection (pauses when you're away)
-- Visual countdown to next break
-- Full-screen break reminders
+## Common Break Configurations
 
-### Health Benefits
-- Prevents digital eye strain
-- Reduces risk of repetitive strain injury
-- Encourages regular movement
-- Improves focus and productivity
-- Prevents burnout from continuous work
+- **20-20-20 Rule**: Every 20 minutes, look at something 20 feet away for 20 seconds
+- **Pomodoro**: 5-minute breaks every 25 minutes
+- **Traditional**: 10-15 minute breaks every hour
+- **Custom**: Set any timing that works for your workflow
 
-### Open Source
-- Free and open-source software
-- Community-driven development
-- Transparent codebase
-- Regular updates and improvements
-- No telemetry or tracking
+## Health Benefits
 
-## Platform
+- Prevents Repetitive Strain Injury (RSI)
+- Reduces eye strain and digital eye fatigue
+- Improves circulation and reduces muscle tension
+- Maintains mental clarity and focus
+- Prevents burnout from extended work sessions
 
-- macOS only
-- Native Mac application
-- Lightweight and efficient
+## Use Cases
 
-## Benefits
+- Software developers and programmers
+- Writers and content creators
+- Office workers
+- Students studying for extended periods
+- Anyone spending long hours at a computer
 
-- **Completely Free**: Open-source with no cost
-- **Full Control**: Highly customizable to fit any workflow
-- **Privacy**: No data collection or tracking
-- **Active Development**: Regular updates from community
-- **Mac Native**: Built specifically for macOS
+## Pricing
 
-## Ideal For
-
-- Mac users who want free, open-source software
-- Users who need highly customizable break schedules
-- Privacy-conscious individuals
-- Anyone experiencing eye strain or RSI from computer work
-- Users who want to support open-source projects
-
-## Customization Examples
-
-- Set 20-second micro breaks every 20 minutes for eye rest (20-20-20 rule)
-- Configure 5-minute breaks every hour for movement
-- Create custom schedules for different work patterns
-- Adjust reminder styles and notifications
-
-## Download
-
-Free download available from the official website at breaktimer.app
+**Free and open-source** under the GPL license, available for download on all major platforms.

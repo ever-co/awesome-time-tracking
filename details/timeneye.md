@@ -1,28 +1,47 @@
 ## Overview
 
-Timeneye is a time tracking platform that emphasizes visual representation of time through calendar integration and timeline views. The software combines automatic tracking capabilities with manual time entry and project budgeting features.
+Timeneye is a time tracking platform specifically designed for remote teams working across different time zones and borders. It provides clarity and control over project time through intuitive tracking, calendar integration, and comprehensive reporting capabilities.
 
 ## Features
 
-- **Calendar View**: See tracked time overlaid on your calendar
-- **Visual Timeline**: Graphic representation of how time is distributed
-- **Automatic Tracking**: Desktop app captures application and website usage
-- **Manual Time Entry**: Add time retroactively or use start/stop timers
-- **Project Budgeting**: Set time and cost budgets, monitor progress
-- **Team Management**: Track team time across projects and clients
-- **Billable Hours**: Mark time as billable or non-billable
-- **Time Estimates**: Compare actual time to estimates
-- **Calendar Integration**: Sync with Google Calendar, Outlook, Apple Calendar
-- **Suggestions**: AI-powered suggestions based on calendar events
-- **Reports**: Detailed time reports, project profitability, utilization
-- **Integrations**: Asana, Trello, Jira, Slack, and more
-- **Browser Extension**: Track time directly from project management tools
-- **Mobile Apps**: iOS and Android for mobile time tracking
-- **Export Options**: Export data to Excel, CSV, PDF
+- **Simple Time Tracking**: Easy-to-use timers and manual time entry
+- **Calendar Integration**: Sync with Google Calendar, Outlook, and other calendar apps
+- **Project Management**: Organize time by projects, clients, and tasks
+- **Team Collaboration**: Share projects and view team members' time entries
+- **Cross-Timezone Support**: Designed for international distributed teams
+- **Automatic Suggestions**: AI-powered time entry suggestions based on patterns
+- **Budget Tracking**: Monitor project budgets and time allocations
+- **Detailed Reporting**: Comprehensive reports on time, projects, and team productivity
+- **Billing & Invoicing**: Generate invoices based on tracked time
+- **Integration**: Connect with project management tools and calendars
+
+## Key Differentiators
+
+- **Border-Crossing Teams**: Built specifically for international remote teams
+- **Calendar-First Approach**: Strong integration with existing calendar workflows
+- **Simplicity**: Intuitive interface that doesn't require extensive training
+- **Privacy Focus**: Respects employee privacy while providing necessary insights
+
+## Use Cases
+
+- International consulting firms
+- Remote software development teams
+- Digital agencies with global clients
+- Distributed marketing teams
+- Any business with employees across multiple countries
+
+## Benefits for Remote Teams
+
+- Clear visibility into project progress across time zones
+- Easy coordination despite geographic distance
+- Accurate billing for international clients
+- Compliance with local labor laws
+- Fair workload distribution across global teams
 
 ## Pricing
 
-- **Free**: 1 user, unlimited projects, basic features
-- **Starter**: €6 per user/month - Team features, integrations
-- **Premium**: €9 per user/month - Advanced reporting, budgets
-- **Enterprise**: Custom pricing - White-label, API, dedicated support
+Timeneye offers tiered pricing:
+- **Free Plan**: Basic features for small teams
+- **Starter**: Starting around $7 per user per month
+- **Premium**: Advanced features for growing teams
+- **Enterprise**: Custom pricing with advanced security and support

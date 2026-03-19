@@ -1,263 +1,55 @@
 ## Overview
 
-Personal Kanban is a productivity system that adapts the Kanban method from manufacturing and software development for individual use. It provides a visual way to manage your work, limit work-in-progress, and optimize your personal workflow.
+Personal Kanban is a time management system that adapts the Kanban methodology from Japanese manufacturing (originally developed by Toyota in the 1950s) for individual productivity. It works on two fundamental principles: visualize your work and limit your work-in-progress (WIP).
 
-## Two Core Rules
+## Core Principles
 
 ### 1. Visualize Your Work
-Make all your tasks visible on a board so you can see:
-- What you're working on
-- What's waiting
-- What's been completed
-- How work flows through your system
 
-### 2. Limit Your Work-in-Progress (WIP)
-Restrict how many tasks you work on simultaneously to:
-- Reduce context switching
-- Complete tasks faster
-- Reduce stress and overwhelm
-- Improve focus and quality
+Create a visual board (physical or digital) with columns representing different stages of work. The basic setup includes:
+- **Options/Backlog**: All tasks you could work on
+- **Doing/In Progress**: Tasks you're currently working on
+- **Done**: Completed tasks
 
-## Basic Setup
+### 2. Limit Work-in-Progress
 
-### The Board
-Create three columns:
-
-**TO DO** | **DOING** | **DONE**
-- Backlog of tasks | Active work | Completed items
-- Unlimited items | WIP limit (typically 3) | Archive periodically
-
-### Task Cards
-Each task becomes a card with:
-- Brief description
-- Estimated effort (optional)
-- Due date (if applicable)
-- Category or project tag
-
-## Advanced Columns
-
-Expand based on your workflow:
-
-**BACKLOG** | **READY** | **IN PROGRESS** | **REVIEW** | **DONE**
-- All possible tasks | Prioritized & ready | Active work (WIP limited) | Awaiting feedback | Complete
-
-### Optional Columns
-- **WAITING**: Tasks blocked or awaiting others
-- **THIS WEEK**: Items prioritized for current week
-- **TODAY**: Daily focus items
-- **SOMEDAY**: Ideas for future consideration
-
-## Determining WIP Limits
-
-### Start Conservative
-Begin with 3 items in DOING column
-
-### Adjust Based on Observation
-- **Too many items piling up in DOING?** Reduce WIP limit
-- **Frequently idle with nothing to do?** Increase WIP limit
-- **Lots of context switching?** Reduce WIP limit
-
-### Context Matters
-- Deep work: WIP limit of 1-2
-- Mixed work: WIP limit of 3-5
-- Coordination-heavy: WIP limit of 5-7
-
-## Workflow Process
-
-### Daily Ritual
-
-**Morning:**
-1. Review DONE column from yesterday
-2. Move completed items from DOING to DONE
-3. Check WIP limit
-4. Pull new items from TO DO to DOING (if under limit)
-5. Prioritize items in DOING
-
-**Throughout Day:**
-1. Work on items in DOING column
-2. Move completed items to DONE
-3. Only pull new work if under WIP limit
-
-**Evening:**
-1. Move finished work to DONE
-2. Review what's in progress
-3. Plan tomorrow's priorities
-
-### Weekly Review
-1. Clear DONE column (archive or delete)
-2. Review and prioritize TO DO column
-3. Identify and remove stale items
-4. Assess WIP limit effectiveness
-5. Adjust system as needed
+From your Options column, choose no more than three tasks to move into the "Doing" column. This constraint forces prioritization and prevents the productivity loss from multitasking.
 
 ## Benefits
 
-### Visual Clarity
-- See all work at a glance
-- Identify bottlenecks visually
-- Recognize patterns in workflow
-- Satisfaction from moving cards to DONE
+- **Reduced Stress**: Visual representation of all work reduces mental load
+- **Increased Efficiency**: WIP limits minimize context switching and multitasking
+- **Improved Focus**: Concentration on fewer tasks at once improves completion rates
+- **Better Prioritization**: Visual system makes it easier to identify what matters most
+- **Clear Progress**: Moving tasks to "Done" provides visible accomplishment
 
-### Reduced Overwhelm
-- Limited work in progress reduces stress
-- Clear what you're working on right now
-- Everything else waits its turn
-
-### Better Focus
-- Fewer active tasks = deeper focus
-- Less context switching
-- Complete tasks faster
-- Higher quality work
-
-### Flexibility
-- Adapt to changing priorities easily
-- No rigid planning required
-- Pull new work as capacity permits
-- Works with any methodology
-
-## Implementation Options
+## Implementation
 
 ### Physical Board
-**Materials:**
-- Whiteboard or corkboard
-- Sticky notes or index cards
-- Markers
-
-**Pros:**
-- Tactile satisfaction
-- Always visible
-- No digital distractions
-- Easy to modify
-
-**Cons:**
-- Not portable
-- No automatic tracking
-- Can't integrate with digital tools
+- Use a whiteboard or wall with sticky notes
+- Create three columns: Options, Doing (max 3 items), Done
+- Move tasks left to right as they progress
 
 ### Digital Tools
+- Trello, KanbanFlow, or any digital board tool
+- Set WIP limits on your "Doing" column
+- Review and update daily
 
-**Trello**
-- Visual kanban boards
-- Cards, lists, labels
-- Mobile and web
-- Free tier available
+## Time Management Integration
 
-**Notion**
-- Flexible board views
-- Database properties
-- Templates available
+**Time Blocking + Kanban**: Allocate specific time blocks to tasks in your "Doing" column, combining visual task management with dedicated focus periods.
 
-**KanbanFlow**
-- Built-in Pomodoro timer
-- Time tracking
-- Focus on personal use
+**Weekly Planning**: Use Sunday or Monday to populate your Options column for the week, then pull tasks into Doing as capacity allows.
 
-**Physical + Digital Hybrid**
-- Physical board at home office
-- Digital board for mobile access
-- Sync manually
+**Morning Briefing**: Start each day by reviewing your board and selecting priorities.
 
-## Customization Ideas
+## Common Variations
 
-### Color Coding
-- By project
-- By energy level required
-- By priority
-- By type of work (creative, admin, learning)
+- Add a "Waiting" column for tasks blocked by others
+- Include "Today" and "This Week" columns for time-based organization
+- Use color coding for different project types or urgency levels
+- Add swimlanes for work vs. personal tasks
 
-### Swim Lanes
-Horizontal rows for:
-- Different projects
-- Work vs. personal
-- Different life areas
+## Research Support
 
-### Card Details
-- Estimated time
-- Actual time spent
-- Due dates
-- Notes and links
-- Subtasks
-
-## Common Mistakes
-
-### No WIP Limit
-Defeat the purpose without limiting active work
-
-### Too High WIP Limit
-Might as well not have a limit
-
-### Not Moving Cards
-Leaving completed work in DOING creates false pressure
-
-### Over-Engineering
-Keeping it simple is key - don't overcomplicate
-
-### Ignoring the System
-Only works if you actually use it daily
-
-## Integration with Other Methods
-
-### With GTD
-- Kanban board for active projects
-- GTD lists feed the TO DO column
-- Weekly Review aligns both systems
-
-### With Pomodoro
-- Cards in DOING get Pomodoro sessions
-- Track Pomodoros per card
-- Use for time estimation improvement
-
-### With Time Blocking
-- Schedule time for cards in DOING
-- Block calendar based on kanban priorities
-- Visual board + time structure
-
-## Success Metrics
-
-### Lead Time
-Time from card creation to completion
-- Track and try to reduce
-- Identifies efficiency improvements
-
-### Throughput
-Cards completed per week
-- Measure productivity
-- Set realistic expectations
-
-### WIP Age
-How long cards sit in DOING
-- Long aging indicates WIP too high or tasks too large
-
-### Blocked Time
-Time cards spend in WAITING
-- Identify dependency issues
-- Improve workflow
-
-## For Different Use Cases
-
-### Job Search
-- TO DO: Companies to research
-- DOING: Active applications
-- WAITING: Awaiting responses
-- DONE: Completed interviews/offers
-
-### Creative Projects
-- BACKLOG: Ideas
-- RESEARCH: Gathering info
-- DRAFTING: Active creation
-- EDITING: Refinement
-- PUBLISHED: Complete
-
-### Home Projects
-- SOMEDAY: Future projects
-- THIS MONTH: Prioritized
-- IN PROGRESS: Active (WIP: 2)
-- DONE: Completed
-
-## Key Principles
-
-Start simple, evolve as needed
-Visualization creates awareness
-Limits create focus
-Flow beats perfection
-Adapt to your reality
+Personal Kanban has been praised for making the "myth of multitasking" visible - when your board shows seven tasks in progress, you can physically see the problem and take action to reduce WIP.

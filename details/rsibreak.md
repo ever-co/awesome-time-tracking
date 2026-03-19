@@ -1,44 +1,36 @@
 ## Overview
 
-RSIBreak helps prevent repetitive strain injuries (RSI) by keeping track of usage patterns and periodically informing users to take breaks. Repetitive Strain Injury is an illness which can occur as a result of working with a mouse and keyboard.
+RSIBreak is a free, open-source utility designed to remind computer users to take regular breaks to prevent Repetitive Strain Injury (RSI). It monitors your keyboard and mouse activity and prompts you to take microbreaks and longer rest periods at appropriate intervals.
 
-## Key Features
+## Features
 
-### Usage Pattern Tracking
-- Monitors keyboard and mouse activity
-- Tracks usage patterns to determine optimal break times
-- Automatically schedules break reminders based on actual usage
+- **Automatic Break Reminders**: Configurable intervals for microbreaks and longer breaks
+- **Activity Monitoring**: Tracks keyboard and mouse usage to determine when breaks are needed
+- **Customizable Timings**: Adjust break frequency and duration to your preferences
+- **Break Statistics**: Track how many breaks you've taken, skipped, or postponed
+- **Unobtrusive Design**: Runs quietly in system tray until break time
+- **Cross-Platform**: Available for Linux and other Unix-like systems
+- **Flexible Break Types**: Support for multiple break categories (micro, short, long)
+- **Idle Detection**: Pauses timing when you're away from computer
 
-### Flexible Break Modes
+## Default Settings
 
-During break periods, RSIBreak can:
-- **Unobtrusive Message**: Show a gentle reminder to take a break
-- **Lock Screen**: Completely lock the screen to enforce break time
-- **Slideshow**: Present a relaxing slideshow from a configurable collection
+- **Microbreak**: 30 seconds every 3 minutes
+- **Short Break**: 5 minutes every 30 minutes
+- **Configurable**: All timings can be customized
 
-### Customization
-- Configure break duration and frequency
-- Set up custom image collections for slideshows
-- Choose your preferred break enforcement method
-- Adjust timing based on your work patterns
+## Health Benefits
 
-## Platform
+- Reduces risk of Repetitive Strain Injury
+- Prevents eye strain and fatigue
+- Decreases muscle tension in hands, wrists, and shoulders
+- Improves circulation
+- Maintains productivity by preventing burnout
 
-Linux (KDE desktop environment)
+## Alternatives
 
-## Availability
+Other similar tools include Workrave, Stretchly, Time Out (macOS), and BreakTimer, all focusing on protecting user health during extended computer use.
 
-- Official KDE Apps website: apps.kde.org/rsibreak/
-- KDE GitLab repository: invent.kde.org/utilities/rsibreak
-- GitHub mirror: github.com/KDE/rsibreak
+## Pricing
 
-## Open Source
-
-Free and open-source software maintained by the KDE community.
-
-## Use Cases
-
-- Preventing repetitive strain injuries for heavy computer users
-- Reminding programmers and writers to take regular breaks
-- Enforcing breaks for users with existing RSI issues
-- Promoting healthier computer usage habits
+Free and open-source under the GPL license.

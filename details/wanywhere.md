@@ -1,34 +1,26 @@
 ## Overview
 
-wAnywhere is a comprehensive workforce analytics platform designed to help organizations optimize productivity across remote, hybrid, and in-office teams. The platform emphasizes data-driven insights and proactive performance management through AI-powered analytics.
+wAnywhere is an AI-powered employee monitoring and time tracking platform that transforms work data into actionable insights for managing remote and hybrid teams. The platform combines advanced monitoring capabilities with compliance features to help organizations balance productivity with employee privacy.
 
 ## Features
 
-- **Granular Workforce Analytics**: Detailed insights at department, team, and individual levels
-- **Productivity Comparison Reports**: Benchmark performance across different organizational units
-- **AI-Driven Insights**: Machine learning algorithms identify patterns and optimization opportunities
-- **Bottleneck Identification**: Proactive detection of workflow impediments before they impact delivery
-- **Time Tracking**: Accurate logging of work hours across projects and tasks
-- **Activity Monitoring**: Track application and website usage to understand work patterns
-- **Real-Time Dashboards**: Live visibility into team activities and productivity metrics
-- **Automated Reports**: Scheduled delivery of productivity and utilization reports
-
-## Key Benefits
-
-- Act proactively on performance issues rather than reactively
-- Identify training needs and skill gaps through activity analysis
-- Optimize resource allocation based on actual work patterns
-- Make data-informed decisions about team structure and processes
-- Balance workloads equitably across teams
+- **AI-Powered Monitoring**: Intelligent tracking that monitors employee productivity using artificial intelligence
+- **Real-Time Dashboard**: Live data visualization showing team productivity metrics and activity levels
+- **Compliance Management**: Built-in features to ensure adherence to labor laws and company policies
+- **Activity Tracking**: Monitor application usage, websites visited, and active work time
+- **Productivity Scoring**: Automated scoring system to measure individual and team productivity
+- **Screenshot Capture**: Optional screenshot functionality for activity verification
+- **Detailed Reporting**: Comprehensive reports for performance reviews and project analysis
+- **Attendance Tracking**: Monitor employee login times, breaks, and total work hours
 
 ## Use Cases
 
-- Remote team management and accountability
-- Hybrid workforce optimization
-- Project resource planning
-- Productivity trend analysis
-- Compliance and audit requirements
+- Remote team management
+- Hybrid workforce coordination
+- Compliance monitoring
+- Project time allocation
+- Productivity optimization
 
 ## Pricing
 
-Positioned as a cost-effective alternative to Time Doctor, offering unlimited features at approximately 65% lower cost.
+Pricing is available upon request and varies based on team size and features required.

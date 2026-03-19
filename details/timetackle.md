@@ -1,70 +1,56 @@
 ## Overview
 
-TimeTackle (also referred to as "Tackle") is an AI-powered time tracking software that automatically captures activities by connecting to Google/Outlook calendars and CRM systems. It completely automates time tracking and reporting with workflow builder and AI integration.
+TimeTackle is a time tracking platform that distinguishes itself by not only providing software tools but also comprehensive guidance on time tracking best practices. The platform offers 30 time tracking best practices for both individuals and teams, making it educational as well as functional.
 
-## Key Features
+## Features
 
-### Automatic Time Tracking
-- Automatically captures activities by connecting to Google/Outlook calendars and CRM systems
-- Uses automatic time tracking software to help teams identify trends and uncover insights into their time management skills
-- Eliminates manual time entry through intelligent automation
+- **Time Tracking**: Simple timer and manual time entry options
+- **Project Management**: Organize time by projects and tasks
+- **Team Collaboration**: Share projects and collaborate with team members
+- **Reporting**: Detailed time reports and analytics
+- **Best Practices Library**: 30 documented best practices for effective time tracking
+- **Methodology Guidance**: Educational resources on time management
+- **Mobile Access**: Track time from mobile devices
+- **Integration**: Connect with popular business tools
 
-### Calendar Integration
-- Seamless integration with Google Calendar and Outlook
-- Automatically creates time entries from calendar events
-- Syncs across all connected platforms
+## 30 Time Tracking Best Practices
 
-### Analytics & Reporting
-- Dynamic dashboards to measure progress
-- Export options to Excel/CSV
-- Custom reporting features for detailed insights
-- Identifies patterns in time usage and productivity
+TimeTackle provides comprehensive guidance including:
 
-### Habit Tracking Integration
-- Works alongside habit tracker apps to reveal patterns
-- Cuts guesswork and makes creating routines easier
-- No extra logging required
-- Helps build simple, powerful habits by weaving time tracking into the fabric of your workday
+### For Individuals
+- Track time in real-time rather than retrospectively
+- Set clear daily time tracking goals
+- Review your time data weekly
+- Identify and eliminate time wasters
+- Use time data to improve estimates
+- Block time for focused work
+- Track all work, not just billable hours
 
-### Goal Alignment
-- Aligns team's day-to-day activities with big picture goals
-- Helps identify key goals to track in time management to improve efficiency and forecasting
-- Measures progress against strategic objectives
+### For Teams
+- Establish clear time tracking policies
+- Make time tracking as easy as possible
+- Lead by example with consistent tracking
+- Use time data for capacity planning
+- Respect employee privacy
+- Focus on improvement, not surveillance
+- Provide regular feedback based on time data
 
-## Target Users
+## Educational Approach
 
-TimeTackle is particularly useful for:
-- Agencies
-- Consultancies
-- Executives
-- Customer-facing teams
-- Teams looking to optimize resource utilization
-- Organizations wanting to align everyday activities with strategic objectives
-
-## Benefits
-
-**Time Savings**: Eliminates manual timesheet entry through automation
-
-**Improved Accuracy**: Automatic capture ensures no billable hours are missed
-
-**Better Insights**: Analytics reveal time usage patterns and productivity trends
-
-**Strategic Alignment**: Connects daily work to larger organizational goals
-
-**Habit Formation**: Integrated approach to building productive time tracking routines
-
-## Integration Capabilities
-
-- Google Calendar
-- Outlook Calendar
-- CRM systems
-- Export to Excel/CSV
-- Workflow builders for custom automations
+Unlike many time tracking tools that only provide software, TimeTackle emphasizes teaching users how to effectively use time tracking data for:
+- Personal productivity improvement
+- Better project estimation
+- Resource allocation
+- Identifying bottlenecks
+- Improving work-life balance
 
 ## Use Cases
 
-- Consultant time tracking with client billing
-- Team productivity analysis
-- Resource utilization optimization
-- Project time estimation and forecasting
-- Identifying time-consuming but low-value activities
+- Freelancers learning time management
+- Teams implementing time tracking for first time
+- Organizations seeking to improve time tracking adoption
+- Individuals wanting to optimize their productivity
+
+## Pricing
+
+Contact TimeTackle for pricing information on their software and consulting services.

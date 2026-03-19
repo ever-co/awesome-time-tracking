@@ -1,43 +1,26 @@
 ## Overview
 
-Bilr is an intelligent legal billing platform that leverages artificial intelligence to automate the time-consuming process of reviewing and editing legal invoices, ensuring compliance with client billing guidelines while reducing the administrative burden on attorneys and billing staff.
+Bilr is a cloud-based legal billing platform that leverages artificial intelligence to automate much of the time tracking and billing process for law firms. The platform uses its proprietary QuarkAI engine to streamline invoice creation, improve billing accuracy, and ensure compliance with legal industry standards.
 
 ## Features
 
-- **QuarkAI Engine**: Proprietary AI that learns from billing patterns and client requirements
-- **Automated Invoice Review**: AI scans invoices for potential issues before submission
-- **Error Detection**: Flags common billing errors, duplicate entries, and unusual patterns
-- **Guidelines Compliance**: Checks invoices against specific client billing guidelines
-- **Narrative Enhancement**: Suggests improvements to time entry descriptions
-- **Rate Validation**: Ensures correct billing rates are applied per client agreement
-- **Block Billing Detection**: Identifies and flags block billing that may violate guidelines
-- **Task Code Verification**: Confirms proper UTBMS or client-specific task codes
-- **Historical Learning**: AI improves recommendations based on past approvals and rejections
-- **Integration**: Works with major legal practice management and time tracking systems
-- **Reporting**: Analytics on billing patterns, realization rates, and common issues
-- **Bulk Processing**: Review multiple invoices simultaneously
+- **AI-Powered Time Tracking**: QuarkAI technology automatically suggests time entries based on activity
+- **Automated Billing**: Generate invoices quickly with AI-assisted descriptions and coding
+- **Compliance Management**: Built-in features to ensure adherence to legal billing requirements
+- **Client Management**: Track client matters, trust accounts, and billing arrangements
+- **Expense Tracking**: Log and bill client expenses with receipt capture
+- **Trust Accounting**: Manage IOLTA and client trust accounts with compliance features
+- **Reporting**: Detailed reports on billable time, realization rates, and firm performance
+- **Mobile App**: Track time and expenses on the go with mobile applications
+- **Integration**: Connect with QuickBooks, practice management software, and payment processors
 
 ## Benefits
 
-### Time Savings
-- Reduces invoice review time by up to 80%
-- Automates repetitive compliance checking
-- Catches errors before submission to clients
-
-### Reduced Write-Offs
-- Identifies billing that's likely to be rejected
-- Ensures compliance to minimize client disputes
-- Improves realization rates
-
-### Consistency
-- Applies guidelines consistently across all matters
-- Reduces human error and oversights
-- Standardizes billing practices firm-wide
-
-## Target Audience
-
-Law firms of all sizes that submit invoices to corporate clients with detailed billing guidelines, particularly those handling high-volume billing across multiple matters.
+- Reduces time spent on administrative billing tasks
+- Improves billing accuracy and completeness
+- Ensures compliance with legal industry requirements
+- Accelerates invoice generation and payment collection
 
 ## Pricing
 
-Subscription-based pricing typically based on number of users or invoice volume. Contact Bilr for detailed pricing.
+Pricing is available upon request and varies based on firm size and features required.

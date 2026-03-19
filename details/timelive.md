@@ -1,67 +1,54 @@
 ## Overview
 
-TimeLive by Livetecs is an online web-based integrated suite for Time Tracking, Time Off, Expense Tracking, Attendance, Billing, and Project Management targeting small to large-scale enterprises across consulting, software development, travel, technology, manufacturing, retail, and marketing industries.
+TimeLive by LiveTecs is a comprehensive timesheet and project management solution designed for professional services organizations. The platform combines time tracking with expense management, project oversight, and billing capabilities to provide end-to-end project lifecycle management.
 
 ## Features
 
-### Time Tracking & Attendance
-- Real-time time tracking for projects and tasks
-- Attendance management
-- Time off request and approval workflows
-- Timesheet generation and approval
-- Multiple timezone support
-
-### Financial Management
-- Billing and invoicing capabilities
-- Expense tracking and reporting
-- Multiple currency support
-- Budget tracking per project
+### Time Tracking
+- **Online Timesheets**: Web-based timesheet entry and approval
+- **Mobile Time Tracking**: iOS and Android apps for time capture on the go
+- **Timer Functionality**: Start/stop timers for real-time tracking
+- **Calendar Integration**: Import time from calendar events
+- **Offline Time Entry**: Track time without internet connection
 
 ### Project Management
-- Task and project management
-- Resource allocation
-- Project budgeting
-- Progress tracking
-- Collaboration tools
+- **Project Planning**: Create project structures with tasks and milestones
+- **Resource Allocation**: Assign team members to projects and tasks
+- **Project Budgets**: Set and monitor time and cost budgets
+- **Gantt Charts**: Visualize project timelines and dependencies
+- **Progress Tracking**: Monitor project completion and milestones
 
-## Deployment Options
+### Expense Management
+- **Expense Tracking**: Log and categorize project expenses
+- **Receipt Capture**: Attach receipts to expense entries
+- **Mileage Tracking**: Track travel expenses
+- **Expense Approval**: Multi-level approval workflows
+- **Reimbursement Processing**: Manage employee reimbursements
 
-- Cloud-based SaaS solution
-- On-premise deployment available
-- Mobile applications for iOS and Android
-- Web-based access from any browser
+### Billing & Invoicing
+- **Time-Based Billing**: Generate invoices from tracked time
+- **Expense Billing**: Include expenses in client invoices
+- **Multiple Billing Rates**: Support different rates by role or client
+- **Invoice Templates**: Customizable invoice formats
+- **Payment Tracking**: Monitor invoice status and payments
 
-## Integrations
+### Remote Team Management
 
-### Direct Integrations
-- QuickBooks for accounting
-- Xero for financial management
-- JIRA for project tracking
+TimeLive provides specific guidance on tracking remote employees:
+- Set clear expectations and policies
+- Use appropriate tracking methods for work type
+- Focus on outcomes, not just hours
+- Maintain trust through transparency
+- Respect employee privacy and autonomy
 
-### Via Zapier (1000+ Apps)
-- FreshBooks
-- Salesforce
-- Zoho
-- FreshDesk
-- Google Docs
-- Google Calendar
-- And many more third-party applications
+## Use Cases
 
-## Language Support
-
-Available in several different languages to support international teams and global organizations.
+- Consulting firms
+- IT services companies
+- Engineering firms
+- Marketing agencies
+- Any professional services organization
 
 ## Pricing
 
-Pricing starts at $3.00 per user per month, making it an affordable option for businesses of all sizes.
-
-## Target Industries
-
-- Consulting firms
-- Software development companies
-- Travel and tourism
-- Technology companies
-- Manufacturing
-- Retail
-- Marketing agencies
-- Professional services
+TimeLive offers flexible pricing based on features and number of users. Contact LiveTecs for specific pricing details.

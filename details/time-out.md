@@ -1,49 +1,43 @@
 ## Overview
 
-Time Out is a break reminder application designed to improve health and wellness for computer users by prompting periodic breaks during work sessions. It's a straightforward tool for macOS that helps prevent computer-related repetitive strain injuries (RSI) and mental fatigue.
+Time Out is a free break reminder application for macOS that helps users maintain healthy computing habits by prompting them to take regular breaks. The app aims to prevent eye strain, headaches, repetitive strain injuries, and other health problems associated with prolonged computer use.
 
-## How It Works
+## Features
 
-Time Out runs quietly in the background and displays reminder windows at set intervals, encouraging users to take short breaks from their computer work. It's designed for users who know what exercises or activities to do during breaks and simply need reminders.
+- **Normal Breaks**: Configurable longer breaks (default 10 minutes every hour)
+- **Micro Breaks**: Quick 15-second breaks to look away from screen
+- **Flexible Scheduling**: Customize break frequency and duration
+- **Gentle Reminders**: Non-intrusive notifications when breaks are due
+- **Skip & Postpone**: Option to delay breaks when in the middle of important work
+- **Idle Detection**: Automatically adjusts when you're away from computer
+- **Native macOS Design**: Integrates seamlessly with macOS interface
+- **Menu Bar Access**: Quick access to settings and break status
+- **Break Activities**: Suggestions for what to do during breaks
+- **Themes**: Multiple visual themes for break screens
 
-## Key Features
+## Default Break Schedule
 
-- **Customizable Intervals**: Set your own break frequency
-- **Multiple Break Types**: Support for both micro-breaks and longer rest periods
-- **Gentle Reminders**: Non-intrusive notifications
-- **macOS Native**: Designed specifically for Mac users
-- **Simple Interface**: Minimal configuration required
-- **Background Operation**: Runs without cluttering your workspace
+- **Micro Break**: 15 seconds every 10 minutes
+- **Normal Break**: 10 minutes every 50-60 minutes
+- **Fully Customizable**: Adjust all timings to your preferences
 
-## Break Types
+## Health Benefits
 
-- **Micro-breaks**: Short 20-second breaks every 20 minutes
-- **Regular Breaks**: Longer 5-10 minute breaks every hour
-- **Customizable**: Set your own intervals based on needs
-
-## Benefits
-
-- **Prevents RSI**: Regular breaks reduce repetitive strain injury risk
-- **Reduces Eye Strain**: Following the 20-20-20 rule for eye health
-- **Improves Focus**: Short breaks enhance overall concentration
-- **Promotes Movement**: Encourages getting up from desk
-- **Simple Solution**: No complex features or overwhelming options
-
-## Comparison to Other Break Reminder Tools
-
-Time Out is best suited for users who know what to do during breaks and just need simple reminders. Unlike tools like Stretchly that provide exercise suggestions, Time Out focuses purely on notification timing.
-
-## Target Audience
-
-- Mac users spending extended hours at their computer
-- Developers and knowledge workers
-- Anyone concerned about repetitive strain injuries
-- Users who prefer simple, focused tools
+- Reduces eye strain and computer vision syndrome
+- Prevents repetitive strain injuries
+- Decreases risk of headaches and migraines
+- Improves posture awareness
+- Maintains mental freshness and focus
+- Promotes better work-life balance
 
 ## Use Cases
 
-- Preventing carpal tunnel syndrome
-- Implementing the Pomodoro Technique
-- Following medical recommendations for breaks
-- Maintaining healthy work habits
-- Improving posture awareness
+- Developers and programmers working long hours
+- Writers and content creators
+- Designers and creative professionals
+- Anyone spending extended time at computer
+- Remote workers without natural break triggers
+
+## Pricing
+
+Time Out is **completely free** for macOS users, making it an accessible tool for anyone wanting to improve their computing health.

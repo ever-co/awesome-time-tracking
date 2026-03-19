@@ -1,57 +1,34 @@
 ## Overview
 
-Wrike is a comprehensive work management platform used by 20,000+ global organizations to streamline collaboration, project planning, and task execution. It centralizes all work-related activities in one accessible location with enterprise-grade security and scalability.
+Wrike is a powerful work management platform that combines project management, collaboration, and time tracking in a scalable solution designed for enterprise teams. The platform offers advanced features for managing complex projects, automating workflows, and tracking team time and productivity.
 
-## Time Tracking Features
+## Features
 
-- **Built-in time tracking** - Available from Business plan onwards
-- **Hour tracking** - Monitor hours for client billing, project accounting, or productivity analysis
-- **Timesheet aggregation** - Individual time entries roll up into timesheets for reporting and approval
-- **Resource management** - Combined with Gantt charts to help teams ship products on time
-- **Budget monitoring** - Track time against project budgets
-
-## Project Management
-
-- **Multiple views** - List, Board, Gantt, Calendar, Table, and custom views
-- **Gantt charts** - Visual project timelines with dependencies
-- **Task management** - Create, assign, and track tasks with subtasks and dependencies
-- **Custom workflows** - Define statuses and processes specific to your team
-- **Automation** - Set up rules to automatically assign tasks, update statuses, or trigger notifications
-- **Portfolio management** - Track multiple projects across the organization
-
-## Collaboration Features
-
-- **Real-time communication** - Comment within tasks, tag teammates, and share files in context
-- **File sharing** - Centralized document storage with version control
-- **Proofing & approvals** - Review and approve creative work directly in Wrike
-- **@mentions** - Tag team members for instant notifications
-
-## Enterprise Features
-
-- **400+ integrations** - Connect with Salesforce, Microsoft 365, Google Workspace, Slack, Adobe Creative Cloud, and development platforms
-- **Enterprise security** - Role-based access control, 99.9% uptime, and secure encryption
-- **Unlimited users** - No per-user limits on enterprise plans
-- **Advanced reporting** - Custom dashboards and analytics
-- **Two-way syncs** - Keep information flowing across integrated platforms
+- **Time Tracking**: Built-in time tracking with timers and manual time entry
+- **Project Management**: Comprehensive project planning with Gantt charts, Kanban boards, and calendars
+- **Resource Management**: Allocate resources and manage team workloads
+- **Workflow Automation**: Automate repetitive tasks and processes with custom rules
+- **Custom Dashboards**: Create personalized views of projects and time data
+- **Collaboration Tools**: Real-time editing, @mentions, and threaded discussions
+- **Reporting & Analytics**: Advanced reporting on time, project progress, and team performance
+- **Proofing & Approvals**: Built-in review and approval workflows for deliverables
+- **Integrations**: Connect with 400+ apps including Salesforce, Adobe Creative Cloud, Microsoft Teams, and Slack
+- **Mobile Apps**: Full-featured iOS and Android apps
 
 ## Use Cases
 
-- Cross-functional teams in mid-sized to large organizations
-- Marketing teams managing campaigns across channels
-- Creative agencies coordinating client projects
-- Product development teams tracking releases
-- Professional services managing client engagements
-- Enterprise teams with complex project dependencies
+- Marketing teams managing campaigns
+- Creative agencies
+- IT and software development teams
+- Professional services firms
+- Enterprise project management offices
 
 ## Pricing
 
-- **Free**: Basic features for small teams
-- **Team**: $9.80/user/month - Gantt charts, calendars, and integrations
-- **Business**: Starting at higher tier - Time tracking, custom fields, and automation (required for time tracking)
-- **Enterprise**: Custom pricing - Advanced security, unlimited users, and dedicated support
+Wrike offers tiered pricing:
 
-## Recognition
-
-Wrike is recognized as industry-leading enterprise work management software with a long history of data protection and security. Continued enhancements to automation and workflow management help teams standardize processes and reduce manual work.
-
-Wrike is ideal for large companies with many teams and complex projects requiring enterprise-grade security, extensive integrations, and advanced collaboration features.
+- **Free Plan**: Basic features for small teams
+- **Professional**: Starting around $9.80 per user per month
+- **Business**: Enhanced features for growing teams
+- **Enterprise**: Custom pricing with advanced security and support
+- **Pinnacle**: Premium tier with maximum customization

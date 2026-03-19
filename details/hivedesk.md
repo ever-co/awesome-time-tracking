@@ -1,25 +1,18 @@
 ## Overview
 
-HiveDesk is a comprehensive workforce management solution built for contact centers and remote teams. It combines time tracking with productivity monitoring to provide insights into team performance.
+HiveDesk is a time tracking and workforce management software solution that provides comprehensive employee monitoring and productivity tracking capabilities at an accessible price point of $5 per user per month. The platform is designed to help businesses manage remote and hybrid teams effectively.
 
 ## Features
 
-- Automatic time tracking with screenshots
-- Employee productivity monitoring
-- Activity levels and application tracking
-- Timesheet management and approval
-- Project and task time allocation
-- Detailed productivity reports
-- Screenshot capture at configurable intervals
-- Idle time detection
-- Integration with payroll systems
-- Remote worker management
+- **Automatic Time Tracking**: Track employee work hours automatically without manual input
+- **Screenshot Monitoring**: Optional screenshot capture for activity verification
+- **Productivity Analysis**: Detailed reports on employee productivity and time usage
+- **Project Time Tracking**: Track time spent on specific projects and tasks
+- **Attendance Management**: Monitor employee attendance and work schedules
+- **Activity Levels**: Monitor keyboard and mouse activity to gauge engagement
+- **Integrations**: Connect with popular project management and business tools
+- **Detailed Reports**: Generate comprehensive reports for payroll and billing
 
 ## Pricing
 
-HiveDesk offers tiered pricing plans:
-- Basic plan with core time tracking features
-- Professional plan with advanced monitoring
-- Enterprise plan with custom features
-
-Pricing starts at competitive rates per user per month.
+HiveDesk offers straightforward pricing at **$5 per user per month** with all features included, making it one of the most affordable comprehensive time tracking solutions on the market.
