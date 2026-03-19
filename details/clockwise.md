@@ -1,40 +1,50 @@
 ## Overview
 
-Clockwise is an AI-powered time management tool that works with your existing calendar to optimize schedules for entire teams. By intelligently moving flexible meetings and creating Focus Time blocks, Clockwise helps individuals and organizations reclaim time for deep work while still accommodating necessary collaboration.
+Clockwise is an AI-powered calendar management platform that automatically reorganizes meetings to create longer blocks of uninterrupted focus time. It works across team calendars to find optimal meeting times that maximize everyone's productivity.
 
-## Features
+## Key Features
 
-- **AI Meeting Optimization**: Automatically reschedules flexible meetings to create longer focus blocks
-- **Focus Time**: Schedules uninterrupted blocks for deep work, marking them as busy on your calendar
-- **Team Scheduling**: Finds optimal meeting times considering everyone's calendar and focus time preferences
-- **Smart Breaks**: Automatically adds buffer time between back-to-back meetings
-- **Flexible Meetings**: Mark meetings as flexible and let Clockwise move them to better times
-- **Calendar Stats**: Analytics on meeting time, focus time, and calendar health
-- **Meeting Autopilot**: Automatically decline, accept, or propose alternative times for meetings
-- **Slack Integration**: Sync Slack status with calendar events and focus time
-- **Time Protection**: Defend personal time boundaries like lunch breaks and end-of-day
-- **Team Insights**: Visibility into team meeting load and focus time availability
-- **Personal Meeting Links**: Smart scheduling links that respect focus time and preferences
+- **Focus Time Creation**: AI moves flexible meetings to create focus blocks
+- **Team Coordination**: Optimizes across multiple team member calendars
+- **Flexible Meetings**: Marks which meetings can be moved
+- **Auto-Rescheduling**: Continuously optimizes as schedules change
+- **Meeting Analytics**: Insights into meeting time and focus time
+- **Slack Integration**: Calendar updates through Slack
+- **Time Zone Intelligence**: Handles distributed teams
 - **Calendar Sync**: Works with Google Calendar and Microsoft Outlook
-- **No-Meeting Days**: Help teams establish meeting-free days for deep work
 
-## How Clockwise Works
+## How It Works
 
-1. Connect your work calendar (Google or Outlook)
-2. Set preferences for focus time, work hours, and meeting flexibility
-3. Mark meetings as flexible when scheduling
-4. Clockwise's AI continuously optimizes your schedule throughout the day
-5. Focus Time blocks automatically appear when optimal windows emerge
-6. Analytics help you understand and improve your time allocation
+1. **Connect Calendar**: Link your Google or Microsoft calendar
+2. **Mark Flexibility**: Indicate which meetings are flexible
+3. **AI Optimization**: Clockwise rearranges to create focus time
+4. **Continuous Adjustment**: Re-optimizes as schedules change
+5. **Team Benefits**: Everyone gets more focus time
 
-## Team Benefits
+## Focus Time Protection
 
-For teams, Clockwise provides:
-- Coordinated focus time across the team
-- Reduced meeting conflicts and fragmentation
-- Data on team meeting culture and time usage
-- Automatic scheduling that respects everyone's preferences
+- Automatically blocks focus time on calendar
+- Defends these blocks from new meeting requests
+- Moves flexible meetings away from focus blocks
+- Creates longer stretches of uninterrupted time
+- Syncs focus time across team
+
+## Benefits
+
+- **More Focus Time**: Average 20% increase in uninterrupted blocks
+- **Reduced Meeting Overload**: Consolidates meetings efficiently
+- **Better Team Coordination**: Everyone's needs considered
+- **Less Manual Scheduling**: Automation handles optimization
+- **Improved Productivity**: More deep work time available
+
+## Target Audience
+
+- Teams with heavy meeting schedules
+- Distributed teams across time zones
+- Knowledge workers needing focus time
+- Managers coordinating multiple calendars
+- Companies prioritizing deep work
 
 ## Pricing
 
-Clockwise offers a free individual plan with core features. Teams plan starts at $6.75 per user per month (annual billing), and Business plan at $11.50 per user per month with advanced team features.
+Offers free tier with basic features and paid plans for teams with advanced optimization and analytics.

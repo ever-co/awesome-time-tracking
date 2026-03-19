@@ -1,74 +1,49 @@
 ## Overview
 
-Time Out is a macOS application designed to promote healthier computing habits by reminding users to take regular breaks, helping prevent repetitive strain injury (RSI), eye strain, and mental fatigue.
+Time Out is a break reminder application designed to improve health and wellness for computer users by prompting periodic breaks during work sessions. It's a straightforward tool for macOS that helps prevent computer-related repetitive strain injuries (RSI) and mental fatigue.
 
-## Features
+## How It Works
 
-### Break Types
+Time Out runs quietly in the background and displays reminder windows at set intervals, encouraging users to take short breaks from their computer work. It's designed for users who know what exercises or activities to do during breaks and simply need reminders.
 
-**Normal Breaks**:
-- Longer breaks (typically 10 minutes)
-- Recommended every hour
-- Full-screen break screen
-- Stretch and move away from computer
+## Key Features
 
-**Micro Breaks**:
-- Short breaks (typically 15-30 seconds)
-- Every 10-15 minutes
-- Quick eye rest and posture check
-- Minimal workflow interruption
+- **Customizable Intervals**: Set your own break frequency
+- **Multiple Break Types**: Support for both micro-breaks and longer rest periods
+- **Gentle Reminders**: Non-intrusive notifications
+- **macOS Native**: Designed specifically for Mac users
+- **Simple Interface**: Minimal configuration required
+- **Background Operation**: Runs without cluttering your workspace
 
-### Customization
-- Adjustable break frequency
-- Customizable break duration
-- Personalized break messages
-- Flexible schedule options
+## Break Types
 
-### Break Enforcement
-- **Full-screen mode**: Blocks screen during break
-- **Semi-transparent mode**: Gentle reminder without blocking
-- **Postpone option**: Delay break if in critical task
-- **Skip option**: Skip breaks when needed
+- **Micro-breaks**: Short 20-second breaks every 20 minutes
+- **Regular Breaks**: Longer 5-10 minute breaks every hour
+- **Customizable**: Set your own intervals based on needs
 
-### Smart Scheduling
-- Automatic pause when computer is idle
-- Doesn't count idle time toward break timer
-- Adjusts to your actual usage patterns
-- Can sync with calendar for meeting awareness
+## Benefits
 
-## Key Benefits
+- **Prevents RSI**: Regular breaks reduce repetitive strain injury risk
+- **Reduces Eye Strain**: Following the 20-20-20 rule for eye health
+- **Improves Focus**: Short breaks enhance overall concentration
+- **Promotes Movement**: Encourages getting up from desk
+- **Simple Solution**: No complex features or overwhelming options
 
-### Health
-- Reduces risk of RSI
-- Prevents eye strain and fatigue
-- Encourages movement and stretching
-- Promotes better posture awareness
+## Comparison to Other Break Reminder Tools
 
-### Productivity
-- Mental reset improves focus
-- Prevents burnout during long sessions
-- Maintains energy throughout day
-- Better long-term performance
+Time Out is best suited for users who know what to do during breaks and just need simple reminders. Unlike tools like Stretchly that provide exercise suggestions, Time Out focuses purely on notification timing.
 
-### Flexibility
-- Unobtrusive when breaks aren't needed
-- Adapts to work patterns
-- Can be temporarily disabled
-- Respects user control
+## Target Audience
 
-## Platform
+- Mac users spending extended hours at their computer
+- Developers and knowledge workers
+- Anyone concerned about repetitive strain injuries
+- Users who prefer simple, focused tools
 
-macOS exclusive
+## Use Cases
 
-## Pricing
-
-Free version available with core features
-Pro version for advanced customization
-
-## Ideal For
-
-- Mac users spending long hours at computer
-- Developers and designers
-- Writers and content creators
-- Anyone experiencing RSI symptoms
-- Remote workers maintaining healthy habits
+- Preventing carpal tunnel syndrome
+- Implementing the Pomodoro Technique
+- Following medical recommendations for breaks
+- Maintaining healthy work habits
+- Improving posture awareness
