@@ -1,62 +1,69 @@
 ## Overview
 
-The Ultradian Rhythm Method is a productivity approach based on the natural 90-120 minute biological cycles that govern human alertness and focus throughout the day. By aligning work sessions with these rhythms, you can optimize performance and maintain energy.
+The Ultradian Rhythm Method is a productivity approach based on the body's natural 90-120 minute cycles of alertness that repeat throughout the day and night. By aligning work sessions with these biological rhythms, individuals can optimize performance and avoid burnout.
 
-## Understanding Ultradian Rhythms
+## The Science
 
 ### What Are Ultradian Rhythms?
-Ultradian rhythms are biological cycles that occur throughout the day, repeating every 90-120 minutes. During each cycle:
-- **90 minutes** - Period of high alertness and focus
-- **20 minutes** - Natural dip in energy and attention
+Ultradian rhythms are biological cycles that occur multiple times within a 24-hour period, unlike circadian rhythms which occur once per day. The most relevant for productivity is the Basic Rest-Activity Cycle (BRAC), which alternates between periods of high alertness and lower alertness approximately every 90-120 minutes.
 
-### Scientific Basis
-- Discovered by sleep researcher Nathaniel Kleitman
-- Same 90-minute cycles that govern sleep stages continue during waking hours
-- Brain alternates between high and low energy states
-- Fighting against these rhythms leads to diminished performance
+### Neurobiological Basis
+Research from Andrew Huberman and others shows that the brain can maintain peak focus for approximately 90 minutes before needing rest. After this period, cognitive performance naturally declines until a rest period allows for recovery.
 
-## The Method
+## How to Apply the Method
 
-### Work in 90-Minute Blocks
-1. **Start Fresh** - Begin work session when energy is naturally high
-2. **Focus Deeply** - Work on one important task for 90 minutes
-3. **No Interruptions** - Minimize distractions during the cycle
-4. **Natural Flow** - Ride the wave of natural alertness
-5. **Honor the End** - Stop around 90 minutes even if engaged
+### 1. 90-Minute Work Blocks
+Structure deep work sessions to last approximately 90 minutes, aligning with natural alertness peaks.
 
-### Take 20-Minute Breaks
-1. **Complete Break** - Step away from work entirely
-2. **Physical Movement** - Walk, stretch, or light exercise
-3. **Mental Rest** - Avoid screens and work-related thinking
-4. **Renewal Activities** - Nap, meditate, socialize, or eat
-5. **Return Refreshed** - Begin next cycle with renewed energy
+### 2. Strategic Rest Periods
+Follow each 90-minute work block with a 15-20 minute break to allow for mental and physical recovery.
 
-## Implementation
+### 3. Recognize Your Pattern
+Track your energy levels throughout the day to identify when your personal ultradian peaks occur (some people have stronger rhythms at certain times).
 
-### Daily Structure
-- **Morning:** 2-3 ultradian cycles for deep work (most productive time)
-- **Afternoon:** 1-2 cycles for lighter work as energy naturally dips
-- **Breaks:** Full 20-minute breaks between each cycle
-- **Total:** 3-5 focused work blocks per day maximum
+### 4. Protect the Rhythm
+Avoid interruptions during the 90-minute work blocks, and actually rest during break periods (no email checking or "productive" break activities).
 
-### Best Practices
-- Don't skip breaks (leads to diminishing returns)
-- Match most important work to morning cycles
-- Use afternoons for less demanding tasks
-- Listen to your body's energy signals
-- Track energy levels to find your personal patterns
+## Recommended Activities
+
+### During Work Blocks (90 minutes)
+- Deep work requiring sustained focus
+- Complex problem-solving
+- Creative work
+- Strategic planning
+- Writing or coding
+
+### During Rest Periods (15-20 minutes)
+- Walking
+- Light stretching or movement
+- Meditation or breathing exercises
+- Genuine rest (not screen time)
+- Social interaction
+
+## Research Support
+
+### 2026 Studies
+Recent research has confirmed that working in 90-minute focus sessions aligned with ultradian rhythms produces:
+- Higher quality work output
+- Sustained energy throughout the day
+- Reduced mental fatigue
+- Better work-life balance
+
+### Andrew Huberman's Recommendation
+Neuroscientist Andrew Huberman recommends 90-minute focused work blocks as the ideal length for demanding cognitive tasks, based on neurobiological research.
+
+## Common Mistakes
+
+- Skipping rest periods to "power through"
+- Working beyond the 90-minute mark when focus naturally wanes
+- Filling break time with shallow work or screen time
+- Ignoring personal variation in rhythm timing
+- Starting a 90-minute block late in the day when energy is naturally lower
 
 ## Benefits
 
-- **Sustainable Performance** - Work with your biology, not against it
-- **Prevented Burnout** - Regular breaks prevent exhaustion
-- **Higher Quality Work** - Full focus during work blocks
-- **Better Recovery** - Adequate rest between intense efforts
-- **Increased Productivity** - More accomplished in less total time
-
-## Related Concepts
-
-- Similar to 52/17 Rule but based on biology
-- Aligns with Pomodoro but uses longer, rhythm-based intervals
-- Supports Deep Work practices
-- Natural time blocking framework
+- Sustainable productivity without burnout
+- Higher quality work during focus periods
+- Better energy management throughout the day
+- Improved recovery and long-term performance
+- Natural structure for deep work practice

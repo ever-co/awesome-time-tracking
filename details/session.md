@@ -1,29 +1,28 @@
 ## Overview
 
-Session is an elegant Pomodoro timer and focus app for Mac that helps you maintain productive work sessions. It combines beautiful design with practical features for managing focus time and breaks.
+Session is a focus and mindfulness app that helps users work in timed bursts with regular breaks while blocking distractions and providing deep analytics on work patterns. What makes Session stand out is its huge focus on analytics - it not only helps get things done but also enables reflection on work and progress tracking over time.
 
 ## Features
 
-- **Customizable Timers**: Adjust work and break durations
-- **Menu Bar Integration**: Quick access from menu bar
-- **Notifications**: Break and session end alerts
-- **Statistics**: Track daily and weekly productivity
-- **Goals**: Set daily focus time targets
-- **Do Not Disturb**: Auto-enable during sessions
-- **Spotify Integration**: Auto-play focus music
-- **Keyboard Shortcuts**: Control without mouse
-- **Dark Mode**: Beautiful dark interface
-- **Minimal Design**: Clean, distraction-free
+- **Pomodoro Timer**: Start momentum by focusing in 25-minute sessions (customizable)
+- **Distraction Blocking**: Automatically blocks chosen apps and websites during focus sessions, restoring them when the session ends
+- **Comprehensive Analytics**: Track progress over time with detailed insights into focus patterns and productivity
+- **Custom Timed Intervals**: Customize work intervals to match personal work rhythm
+- **Pause Capability**: Pause sessions whenever needed for flexibility
+- **Browser Compatibility**: Works on Safari, Chrome, Brave, and Microsoft Edge
+- **Cross-Device Sync**: Syncs across Mac, iPhone, and iPad
 
-## Session Types
+## Benefits
 
-- Pomodoro (25/5 minutes)
-- Short Break (5 minutes)
-- Long Break (15 minutes)
-- Custom durations
+Session helps refine focus by working in timed bursts with regular breaks. The app's analytics features enable users to reflect on their work patterns and make data-driven improvements to their productivity habits.
+
+## Platform Availability
+
+- Mac (available on Setapp)
+- iPhone
+- iPad
+- iOS via App Store
 
 ## Pricing
 
-- Free basic version
-- $4.99/month or $29.99/year for Pro features
-- macOS only
+Available with Setapp membership (single subscription covers Mac, iPhone, and iPad)

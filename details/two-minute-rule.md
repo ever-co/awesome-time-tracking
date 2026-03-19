@@ -1,215 +1,51 @@
 ## Overview
 
-The Two-Minute Rule is a simple but powerful productivity principle from David Allen's Getting Things Done (GTD) methodology. The rule states: If an action will take less than two minutes, do it immediately instead of adding it to your to-do list. This prevents small tasks from accumulating and cluttering your system while reducing the mental overhead of tracking them.
+The Two-Minute Rule is a productivity technique with two main interpretations, both designed to reduce procrastination and increase productivity by lowering the barrier to action.
 
-## The Core Principle
+## Two Versions
 
-**If it takes less than 2 minutes, do it now.**
+### David Allen's Original (GTD)
+"If an action will take less than two minutes, it should be done at the moment it's defined."
 
-The reasoning:
-- **Overhead Cost**: Adding task to list, reviewing it later, and deciding when to do it takes nearly as long as doing it
-- **Mental Load**: Every task on your list occupies mental space
-- **Momentum**: Quick wins create forward motion
-- **Clutter Prevention**: Keeps systems clean and manageable
+The rationale is that it's roughly the point where it starts taking longer to store and track an item than to deal with it the first time it's in your hands.
 
-## How to Apply the Two-Minute Rule
+### James Clear's Variation (Habit Formation)
+"When you start a new habit, it should take less than two minutes to do."
 
-### During Task Capture
-When processing inbox (email, messages, notes):
-1. **Read/Review** the item
-2. **Assess** if action required
-3. **Estimate** time needed
-4. **If under 2 minutes**: Do it immediately
-5. **If over 2 minutes**: Schedule, delegate, or add to appropriate list
+This version focuses on making new habits as easy as possible to start, reducing resistance to beginning.
 
-### Examples of Two-Minute Tasks
-- Respond to simple email
-- File a document
-- Add event to calendar
-- Make quick phone call
-- Water office plant
-- Schedule meeting
-- Archive completed task
-- Reply to text message
-- Update project status
-- Submit expense receipt
+## Key Benefits
 
-## Why Two Minutes?
+### Reduces Mental Clutter
+Handling short tasks immediately keeps your mind clear and focused, reducing mental clutter from remembering small tasks.
 
-### The Mathematics
-**Time to Manage** = Capture (30s) + Review (30s) + Decide when (1min) + Do later (2min) = 4 minutes total
+### Prevents Task Pile-Up
+Tackling two-minute tasks immediately prevents them from accumulating and becoming overwhelming.
 
-**Time to Do Now** = Do immediately (2min) = 2 minutes total
+### Lowers Activation Energy
+For habit formation, the two-minute version makes starting so easy that you can't say no.
 
-Doing it now actually saves time!
+### Quick Wins
+Completing small tasks provides immediate satisfaction and momentum.
 
-### The Psychology
-- **Decision Fatigue**: Eliminates future decision about when to do it
-- **Completion Satisfaction**: Immediate progress feels good
-- **Reduces Anxiety**: One less thing on your mind
-- **Builds Momentum**: Small wins energize
+## How It Works
 
-## Context and Exceptions
+When you encounter a task, ask: "Will this take less than two minutes?" If yes, do it immediately. If no, add it to your task management system for later.
 
-### When NOT to Use Two-Minute Rule
+## Potential Pitfalls
 
-**Deep Work Sessions**:
-- During focused work blocks, don't break flow for 2-minute tasks
-- Batch them for later processing time
-- Exception: If task is directly related to current deep work
+### Context Switching Risk
+Constantly prioritizing all two-minute tasks over substantial work can lead to context switching and fragmented focus.
 
-**Low Energy Times**:
-- If exhausted, even 2-minute tasks may be poor use of energy
-- Better to rest or do meaningful work you're capable of
+### Productivity Theater
+You may complete many small tasks while your most important work remains untouched.
 
-**Someone Else Should Do It**:
-- If task should be delegated, delegate it (even if quick)
-- Don't do others' work just because it's fast
+### When to Avoid
+When you're in deep work or flow state, don't interrupt yourself for two-minute tasks—batch them for later.
 
-**It's Not Your Priority**:
-- Quick doesn't mean important
-- Don't let 2-minute tasks derail important work
+## Best Practices
 
-### Adjust the Time Limit
-
-Some practitioners modify the rule:
-- **5-Minute Rule**: For those with more time flexibility
-- **1-Minute Rule**: For extremely busy periods
-- **Context-Dependent**: Different limits for different situations
-
-## Integration with GTD
-
-The Two-Minute Rule fits into the GTD workflow:
-
-1. **Capture**: Collect everything that has attention
-2. **Clarify**: Process what each item means
-   - **Here's where 2-minute rule applies**
-   - Actionable + under 2 min = Do it
-   - Actionable + over 2 min = Schedule/Delegate/List
-   - Not actionable = Reference/Trash/Someday
-3. **Organize**: Put items in appropriate places
-4. **Reflect**: Review system regularly
-5. **Engage**: Do the work
-
-## Benefits
-
-### Efficiency
-- Eliminates task management overhead for small items
-- Reduces context switching later
-- Clears small obstacles quickly
-- Maintains flow through work
-
-### Mental Clarity
-- Fewer items competing for attention
-- Reduced cognitive load
-- Cleaner, more focused to-do lists
-- Less anxiety about accumulated small tasks
-
-### Momentum
-- Quick completions build confidence
-- Creates sense of progress
-- Reduces procrastination on small tasks
-- Energizes for larger work
-
-## Common Mistakes
-
-### The "2-Minute Task" Trap
-**Problem**: Spending entire day on 2-minute tasks, never getting to deep work
-**Solution**: 
-- Batch 2-minute tasks into processing sessions
-- Protect deep work time from interruptions
-- Set boundaries on email/message checking
-
-### Over-Estimating
-**Problem**: Task actually takes 10 minutes, not 2
-**Solution**:
-- Get better at time estimation through practice
-- Set hard 2-minute timer; stop if not done
-- Learn which task types take longer than expected
-
-### Perfectionism
-**Problem**: Spending 10 minutes to do "2-minute" task perfectly
-**Solution**:
-- Accept "good enough" for quick tasks
-- Don't let small tasks become projects
-- If it needs quality time, schedule it properly
-
-### Ignoring Priority
-**Problem**: Doing urgent but unimportant 2-minute tasks
-**Solution**:
-- Quick doesn't mean important
-- Can still defer/delegate if not your priority
-- Focus on tasks that matter
-
-## Practical Applications
-
-### Email Management
-**Apply 2-Minute Rule during processing**:
-- Quick replies: Do immediately
-- Requires thought: Move to action list
-- FYI only: Archive or file
-- Delegation: Forward with note
-
-### Meeting Follow-Up
-**Immediately after meetings**:
-- Send promised information (if under 2 min)
-- Schedule follow-up meetings
-- Add action items to task list
-- File meeting notes
-
-### Workspace Organization
-**Throughout the day**:
-- File papers as they accumulate
-- Clear desk before leaving
-- Put tools away after use
-- Archive completed tasks
-
-### Communication
-**When requests come in**:
-- Quick clarifications: Respond now
-- Simple approvals: Do immediately
-- Calendar invites: Accept/decline now
-- Brief status updates: Send immediately
-
-## Habit Formation
-
-Building the Two-Minute Rule habit:
-
-1. **Awareness**: Start noticing 2-minute tasks
-2. **Practice**: Consciously apply rule for one week
-3. **Track**: Note how many you complete immediately
-4. **Reflect**: Notice impact on task list size and mental clarity
-5. **Adjust**: Fine-tune your personal time threshold
-6. **Automate**: Make it instinctive
-
-## Measurement
-
-Track effectiveness:
-- **Task List Size**: Should decrease over time
-- **Processing Speed**: Faster inbox clearing
-- **Mental Load**: Subjective feeling of clarity
-- **Completion Rate**: More tasks fully completed daily
-
-## Variations and Extensions
-
-### The One-Touch Rule
-Combine with: "Handle each item only once"
-- When you touch email/paper/item, deal with it completely
-- No returning to same item multiple times
-
-### The Four D's
-When processing, every item must be:
-- **Do** (if under 2 minutes)
-- **Defer** (schedule for later)
-- **Delegate** (assign to someone else)
-- **Delete** (trash/archive if not needed)
-
-### Batch Processing
-Modified version:
-- Set aside 3 processing sessions daily
-- Apply 2-minute rule during these sessions only
-- Protect deep work time from any interruptions
-
-## Ideal For
-
-Knowledge workers with many small requests, people with email overload, individuals whose to-do lists keep growing, those feeling overwhelmed by small tasks, teams with lots of quick collaboration needs, and anyone using Getting Things Done methodology.
+- Use during task processing/review time, not during deep work
+- Batch two-minute tasks together when possible
+- Distinguish between urgent and important two-minute tasks
+- Don't let two-minute tasks derail focus on high-priority work
