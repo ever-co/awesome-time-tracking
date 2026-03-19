@@ -128,7 +128,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Work Management (1)](#work-management)
 - [Work Os (1)](#work-os)
 - [Workforce Analytics (1)](#workforce-analytics)
-- [Workforce Management (34)](#workforce-management)
+- [Workforce Management (35)](#workforce-management)
 
 
 ## Practices
@@ -2987,6 +2987,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Sling](https://getsling.com/) - Free employee scheduling and shift planning software designed for restaurants and retail, offering schedule creation, time clock, task management, and team communication tools. ([Read more](/details/sling.md)) `Free` `Scheduling` `Shift Work`
 - [Smart Square](https://www.api-healthcare.com/products/scheduling-solution/) - Smart Square is healthcare workforce management software that enables healthcare provider organizations to determine labor needs based on forecasted demand, optimizing nurse scheduling and staffing levels. ([Read more](/details/smart-square.md)) `Healthcare` `Scheduling` `Workforce Analytics`
 - [SpotOn Labor & Scheduling](https://www.spoton.com/solutions/labor-and-scheduling/) - Restaurant labor management and scheduling software integrated with SpotOn POS, offering demand-based scheduling, labor cost optimization, and real-time reporting for restaurant operations. ([Read more](/details/spoton-labor-scheduling.md)) `Restaurant` `Pos Integration` `Labor Management`
+- [Tanda Workforce Management](https://www.tanda.com.au/) - Australian workforce management software with specialized compliance features for Fair Work requirements and Modern Award pay rates, helping businesses create efficient rosters, improve compliance, and increase profitability through automated award interpretation. ([Read more](/details/tanda-workforce-management.md)) `Compliance` `Australian` `Rostering`
 - [TCP Software Time & Attendance](https://tcpsoftware.com/) - Enterprise-grade workforce management platform providing time and attendance tracking, scheduling, and labor analytics for healthcare, retail, and hospitality industries. ([Read more](/details/tcp-software-time-attendance.md)) `Enterprise` `Healthcare` `Compliance`
 - [TimeFleX Solutions](https://www.timeflex.de/en/) - A German-based comprehensive scheduling software platform that integrates with Microsoft Exchange and HCL Notes, offering modular solutions for group calendaring, desk sharing, room management, and meeting coordination for organizations. ([Read more](/details/timeflex-solutions.md)) `Scheduling` `German` `Microsoft 365` `Desk Sharing` `Room Management`
 - [TimeForge](https://timeforge.com) - Restaurant and hospitality workforce management software providing employee scheduling, shift management, and labor forecasting to help overcome staffing challenges. ([Read more](/details/timeforge.md)) `Restaurant` `Scheduling` `Hospitality`
