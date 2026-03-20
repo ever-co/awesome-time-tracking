@@ -1,19 +1,27 @@
 ## Overview
 
-Timely is an AI-driven time tracking solution that automates the entire time tracking process using machine learning to understand and record work patterns.
+Timely's AI-powered time tracking software helps teams track their time accurately to report client, project, and work hours easily. The automatic time tracking software captures work activities in the background without requiring manual input, reducing administrative burden and allowing employees to focus on core tasks.
 
 ## Features
 
-- **AI Memory Tracker**: Tracks activities and remembers duration automatically
-- **Private Tracking**: Memory app runs privately on your device
-- **Auto-Generated Timesheets**: AI creates timesheets based on tracked time
-- **Meeting Tracking**: Automatically logs time spent in meetings
-- **Email Tracking**: Monitors time spent on email communication
-- **Browser Tab Tracking**: Records time across different browser activities
-- **Project-Based Tracking**: Automatic categorization by project
-- **Billing Features**: Manage client work and generate reports
-- **Learning System**: AI learns work patterns over time for improved accuracy
+### Memory Tracker
+Timely's Memory Tracker runs quietly in the background, capturing every minute spent on digital tasks. It tracks:
+- Web & desktop applications
+- Client meetings
+- GPS locations
+- Documents
+- Browsers
+- Emails
+
+### AI-Assisted Logging
+AI does the heavy lifting, allowing teams to complete timesheets in under 2 minutes. The system syncs with calendars, project management tools, and email to pull in schedules and tasks, filling timesheets automatically.
+
+### Privacy & Trust
+No spying. No keystroke logging. No screenshots. No creepy surveillance. Only user-approved entries are shared, maintaining complete privacy protection.
+
+### Platform Availability
+Available on all devices – Mac, Windows, iOS and Android.
 
 ## Pricing
 
-No free plan available. Paid plans with various features based on team size.
+Free 14-day trial available. After trial ends, the app continues to work but with limited functionality. No billing occurs during trial.
