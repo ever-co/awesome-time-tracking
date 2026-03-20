@@ -1,36 +1,31 @@
 ## Overview
 
-Timesheets.com is a web-based timesheet and employee scheduling software designed for businesses that need straightforward time tracking without complexity. The platform combines timesheets, scheduling, time-off management, and expense tracking in an affordable, easy-to-use solution.
+Timesheets.com is a cloud-based employee time tracking, scheduling, and expense management system specifically designed for small businesses. Founded to provide affordable yet powerful time tracking, the platform serves thousands of companies across various service-oriented industries.
 
 ## Features
 
-- **Digital Timesheets**: Employees enter time online, via mobile app, or SMS
-- **GPS Mobile Time Tracking**: Track employee location when clocking in/out on mobile devices
-- **Employee Scheduling**: Create and share work schedules with drag-and-drop interface
-- **Time Off Management**: Request, approve, and track vacation, sick days, and PTO
-- **Expense Tracking**: Log business expenses with receipt photo capture
-- **Project/Job Tracking**: Assign time to specific projects, jobs, or clients
-- **Timesheet Approvals**: Manager review and approval workflow for submitted hours
-- **Overtime Calculation**: Automatic overtime tracking based on company policies
-- **Reporting**: Generate reports on hours worked, labor costs, and project time
-- **Payroll Export**: Export timesheet data to QuickBooks, ADP, Paychex, and other payroll systems
-- **Client Invoicing**: Create invoices based on tracked billable hours
-- **Email Notifications**: Automatic reminders for timesheet submission and approvals
-- **Mobile Apps**: iOS and Android apps for employees and managers
-- **Kiosk Mode**: Turn any device into a shared clock-in station
-- **Geofencing**: Set location boundaries for valid mobile clock-ins
+- Real-time cloud-based time tracking
+- Multiple entry methods (forms, timers, week view grid, mobile)
+- Expense tracking and reporting
+- Employee scheduling
+- Detailed audit trail for all time entries
+- QuickBooks integration (desktop and online)
+- Payroll export to Gusto, Paychex, ADP, and other systems
+- Custom reports and dashboards
+- Mobile apps for iOS and Android
+- Automated timesheet reminders
+- Approval workflows
+- PTO and time-off management
+- GPS location tracking (mobile)
 
-## Use Cases
+## Cloud Storage & Accessibility
 
-Timesheets.com serves field service businesses, construction companies, consulting firms, IT services, healthcare providers, and other organizations needing mobile time tracking with basic project management.
-
-## Ideal For
-
-- Small to medium-sized businesses
-- Mobile workforces and field service teams
-- Companies needing simple time tracking without complex features
-- Businesses seeking affordable timesheet solutions
+All time and expense data is stored securely in the cloud and becomes immediately available in reports once saved. This eliminates the need for manual data compilation and ensures real-time visibility into labor costs and project spending.
 
 ## Pricing
 
-Timesheets.com offers a 30-day free trial. Paid plans start at $5 per user per month with annual billing, or $6 per user per month billed monthly. All plans include unlimited time tracking, scheduling, and expense management.
+Timesheets.com offers straightforward pricing at $5.50 per user per month—well below the SMB industry average of $50 per user per month. The pricing is flat with no setup fees, cancellation fees, or hidden costs. Billing scales only according to the number of active users.
+
+## Ideal Use Cases
+
+Most commonly used by administrative teams in service-heavy sectors including consulting, construction, healthcare, and professional services. The platform is particularly well-suited for small businesses (5-100 employees) that need robust time tracking without enterprise-level complexity or pricing.

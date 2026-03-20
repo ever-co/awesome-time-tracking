@@ -1,120 +1,102 @@
 ## Overview
 
-Keyboard shortcuts for time tracking enable professionals to start, stop, switch, and log time without interrupting their workflow by clicking through interfaces. Global hotkeys work across all applications, allowing instant timer control with a simple key combination, significantly increasing time tracking compliance and accuracy.
+Keyboard shortcuts eliminate the friction of time tracking by enabling timer control without breaking focus or reaching for the mouse.
 
-## Common Implementations
+## Common Shortcuts
 
-### EARLY (formerly Timeular)
-- **CMD/CTRL+E** - Start/stop tracking
-- **Global shortcut** - Brings up QuickTrack Popup to pick tasks
-- **Custom shortcuts** - User-definable key combinations
+### Universal Actions
+- `Ctrl/Cmd + Alt + S`: Start/Stop timer
+- `Ctrl/Cmd + Alt + N`: New time entry
+- `Ctrl/Cmd + Alt + D`: Show today's entries
+- `Ctrl/Cmd + Alt + R`: Restart last timer
+- `Ctrl/Cmd + Alt + P`: Quick project selector
 
-### Harvest for Windows
-- **Ctrl+Alt+N** - Start a new timer (customizable)
-- **Ctrl+Alt+H** - Show/hide the timesheet window
-- **Ctrl+Alt+F** - Show favorites
-- **Ctrl+S** - Stop selected timer or start timer for selected entry
+### Navigation
+- `Tab`: Move between fields
+- `Enter`: Confirm/Save
+- `Esc`: Cancel/Close
+- `Arrow Keys`: Navigate entries
 
-### Toggl Track
-- **Shift + ?** - Show all available shortcuts
-- **S** - Stop the current running time entry
-- **N** - Switch to timer mode and start new entry
-- **C** - Continue the last time entry
-- **1, 2, 3, 4...** - Start Favorite time entry from Favorites bar
+## Power User Workflows
 
-### Super Productivity
-- **Ctrl+Shift+T** - Toggle time tracking for current task
-- **Customizable hotkeys** - User-defined shortcuts for frequent actions
+### Instant Start
+1. `Ctrl+Alt+S` (start timer)
+2. Type project name
+3. `Enter` (confirm)
+**Total: 3 seconds**
 
-## Benefits of Keyboard-Driven Time Tracking
+### Quick Switch
+1. `Ctrl+Alt+S` (stop current)
+2. `Ctrl+Alt+R` (restart recent)
+3. Select from list
+**Total: 2 seconds**
 
-- **Reduced friction** - No need to switch applications or find timer buttons
-- **Faster execution** - Keyboard shortcuts are faster than mouse navigation
-- **Better compliance** - Lower barrier increases likelihood of consistent tracking
-- **Maintained focus** - Minimal interruption to current work
-- **Muscle memory** - Repeated shortcuts become automatic
-- **Accessibility** - Helps users who prefer or require keyboard navigation
-- **Power user efficiency** - Enables tracking dozens of entries per day with ease
+### Batch Entry
+1. `Ctrl+Alt+D` (show today)
+2. `Arrow keys` (navigate)
+3. Edit as needed
+4. `Enter` (save each)
 
-## Quick Capture Patterns
+## Time Savings
 
-### Global Overlay Approach
-A global hotkey triggers a quick-capture overlay that appears on top of any application. User types project name or selects from recent tasks, hits enter, and overlay disappears. Timer starts without leaving current application.
+**Without Shortcuts**:
+- Click app icon (2 sec)
+- Find start button (2 sec)
+- Click start (1 sec)
+- Select project dropdown (3 sec)
+- Click project (2 sec)
+- **Total: 10 seconds per entry**
+- 20 entries/day = 3.3 minutes
 
-### Floating Timer Widget
-Small, always-visible timer widget shows current task and elapsed time. Hotkeys control widget functions without bringing it to focus. Can be positioned in screen corner or secondary monitor.
+**With Shortcuts**:
+- `Ctrl+Alt+S` (1 sec)
+- Type project (1 sec)
+- **Total: 2 seconds per entry**
+- 20 entries/day = 40 seconds
+- **Saves 2.7 minutes daily = 11 hours/year**
 
-### Menu Bar / System Tray Integration
-Time tracking controls accessible via menu bar (Mac) or system tray (Windows/Linux). Keyboard shortcuts trigger menu bar actions without clicking.
+## Customization
 
-## Implementation Best Practices
+### User-Defined Shortcuts
+Most tools allow custom hotkey assignment:
+- Assign personal preferences
+- Avoid conflicts with other software
+- Muscle memory development
 
-1. **Use non-conflicting keys** - Avoid shortcuts already used by common applications
-2. **Make shortcuts memorable** - Mnemonic combinations (T for timer, S for stop)
-3. **Allow customization** - Users can adapt to their existing workflow
-4. **Provide defaults** - Sensible out-of-box shortcuts for immediate use
-5. **Show shortcuts in UI** - Display hotkeys next to menu items and buttons
-6. **Support multi-OS** - Ctrl on Windows/Linux, Command on Mac
-7. **Test across apps** - Ensure global shortcuts work in all target environments
+### Application-Specific
+- Different shortcuts per IDE
+- Browser extension hotkeys
+- Operating system global hotkeys
 
-## Advanced Shortcuts
+## Tools with Best Shortcuts
 
-### Project Switching
-- Recent projects list with number keys (1-9)
-- Autocomplete project names with typing
-- Favorites system with dedicated shortcuts
+- **Toggl Track**: Comprehensive global hotkeys
+- **Clockify**: Desktop app shortcuts
+- **Harvest**: Timer control hotkeys
+- **Time Doctor**: Quick start/stop
+- **RescueTime**: Minimal (auto-tracking focus)
 
-### Time Entry Creation
-- Quick entry with predefined duration
-- Copy/duplicate previous entry
-- Create entry in specific date/time
+## Learning Curve
 
-### Reporting and Review
-- Show today's total time
-- Open current week summary
-- Export time entries
+### Week 1: Discovery
+- Print shortcut cheat sheet
+- Keep visible on desk
+- Try one shortcut daily
 
-## Workflow Examples
+### Week 2-3: Practice
+- Force yourself to use shortcuts
+- Slower initially, faster soon
+- Muscle memory developing
 
-### Developer's Flow
-1. Working in IDE, receives Slack message about bug
-2. Hits **Ctrl+Alt+T** to stop current "Feature Development" timer
-3. Types "bug" and autocomplete suggests "Bug Fixing - ProjectX"
-4. Hits **Enter**, timer starts, returns to IDE
-5. Total time away from code: 2 seconds
+### Week 4+: Automatic
+- No thinking required
+- Faster than mouse
+- Integrated into workflow
 
-### Consultant's Day
-1. Morning standup starts, hits **Cmd+Shift+1** for "Meetings - ClientA"
-2. Standup ends, hits **Cmd+Shift+2** for "Strategy - ClientA"
-3. Lunch break, hits **Cmd+S** to stop timer
-4. Afternoon client call, hits **Cmd+Shift+3** for "Meetings - ClientB"
-5. Zero mouse clicks, zero application switches
+## Best Practices
 
-## Considerations
-
-### Learning Curve
-Users must learn and remember shortcuts. Consider:
-- Cheat sheet or quick reference card
-- Gradual introduction (start with 2-3 shortcuts)
-- On-screen reminder of available shortcuts
-
-### Platform Limitations
-Some environments restrict global hotkeys:
-- Corporate security policies
-- Virtual desktop infrastructure (VDI)
-- Remote desktop sessions
-- Web-only applications
-
-### Shortcut Conflicts
-Global shortcuts may conflict with:
-- IDE or editor shortcuts
-- Operating system shortcuts
-- Other productivity tools
-- Gaming software
-
-## Future Directions
-
-- **AI-suggested shortcuts** based on usage patterns
-- **Context-aware shortcuts** that adapt to current application
-- **Voice-activated shortcuts** combining hotkeys with voice commands
-- **Gesture control** for devices with touch screens or trackpads
+1. **Start with One**: Master start/stop first
+2. **Use Consistently**: Build muscle memory
+3. **Avoid Conflicts**: Check existing shortcuts
+4. **Create Cheat Sheet**: Until memorized
+5. **Share with Team**: Standardize across organization
