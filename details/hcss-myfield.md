@@ -1,20 +1,22 @@
 ## Overview
 
-HCSS myField is construction time tracking software designed for heavy civil construction projects, enabling workers to submit hours along with detailed work information.
+HCSS myField is comprehensive construction time tracking software designed for the field. It captures labor hours, equipment usage, materials, and detailed work information to support accurate job costing and payroll.
 
 ## Features
 
-- **Detailed Time Capture** - Submit hours with breaks taken, supervisor, equipment used, cost codes, and detailed notes
-- **Equipment Tracking** - Track equipment usage alongside worker time
-- **Cost Code Management** - Assign time to specific cost codes for accurate job costing
-- **Supervisor Workflows** - Track supervisor assignments and approvals
-- **Mobile Data Collection** - Collect field data on mobile devices without internet connectivity
-- **Heavy Civil Focus** - Designed specifically for heavy civil construction projects
-
-## Use Cases
-
-Built for heavy civil construction companies, infrastructure contractors, and large-scale construction projects requiring detailed time and equipment tracking.
+- Mobile time tracking for field crews
+- Detailed work information capture (breaks, supervisor, equipment, cost codes)
+- Equipment time tracking
+- Material usage logging
+- Daily field reports
+- Photo documentation
+- GPS location verification
+- Offline mode for remote job sites
+- Integration with HCSS Heavy Job for job costing
+- Real-time data sync
+- Crew productivity tracking
+- Safety documentation
 
 ## Pricing
 
-Contact HCSS for enterprise pricing based on project size and user count.
+Custom pricing based on company size and integration needs. Contact HCSS for quote.

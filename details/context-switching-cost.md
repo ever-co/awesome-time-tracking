@@ -1,59 +1,55 @@
 ## Overview
 
-Context switching refers to the act of shifting attention between different tasks, projects, or types of work. While it seems harmless, the cognitive costs are enormous and measurable, making it one of the most significant productivity killers in modern knowledge work.
+Context switching cost refers to the time and mental energy lost when transitioning between different tasks or types of work. Research shows this can consume up to 40% of productive time, making it one of the biggest drains on knowledge worker productivity.
 
-## Key Statistics
+## The Costs
 
-### Financial Impact
-- **$450 Billion Annual Cost**: The total economic cost of context switching to organizations annually
-- **23-Minute Recovery Time**: Average time required to fully refocus after an interruption or context switch
-- **1,200 Daily App Switches**: Average knowledge worker switches between apps this many times per day
-- **10 IQ Point Drop**: Heavy multitasking has been shown to reduce cognitive function equivalent to losing 10 IQ points
-- **2.5% Supertaskers**: Only 2.5% of people can effectively multitask without performance degradation
+**Time Cost:**
+- Physical time to switch tools/applications
+- Time to remember context of new task
+- Time to rebuild concentration
+- Time to locate where you left off
 
-## The Science Behind Context Switching
+Typically 15-30 minutes per switch to regain peak productivity.
 
-### Attention Residue
-When you switch tasks, attention doesn't immediately follow—part of your attention remains "stuck" on the previous task. This phenomenon, called "attention residue," significantly degrades performance on the new task.
+**Cognitive Cost:**
+- Mental fatigue from repeated refocusing
+- Attention residue from previous task
+- Increased error rates
+- Reduced creative capacity
+- Decision fatigue
 
-### Cognitive Load
-Each context switch requires your brain to:
-1. Disengage from the current task
-2. Clear short-term memory
-3. Load new task context and rules
-4. Re-establish focus and flow
+## Research Findings
 
-This process consumes mental energy and time, even if the switch seems instantaneous.
+- American Psychological Association: Switching tasks can cost up to 40% of productive time
+- University of California Irvine: Takes average of 23 minutes to regain focus after interruption
+- Microsoft Research: Workers switch contexts every 3 minutes on average
 
-## Common Causes
+## Common Triggers
 
-- Notifications from multiple communication channels (email, Slack, Teams)
-- Switching between projects without dedicated time blocks
-- Interruptions from colleagues
-- Poorly designed workflows that require tool switching
-- Trying to make progress on too many priorities simultaneously
+- Email and messaging notifications
+- Unscheduled meetings
+- Phone calls
+- Switching between projects
+- Moving between work and personal tasks
+- Multi-tasking attempts
 
-## Mitigation Strategies
+## Reducing Context Switching
 
-### Time Blocking
-Dedicate specific blocks of time to single tasks or projects, eliminating the option to switch.
+**Batch Similar Work:**
+Group similar tasks together (all calls, all email)
 
-### Batch Similar Tasks
-Group similar types of work (emails, meetings, creative work) to minimize cognitive load shifts.
+**Time Blocking:**
+Dedicate uninterrupted blocks to single task types
 
-### Communication Boundaries
-Set specific times for checking email and messages rather than responding immediately.
+**Disable Notifications:**
+Turn off all non-critical alerts during focused work
 
-### Single-Tasking
-Commit to completing one task before starting another, accepting that some things must wait.
+**Set Communication Hours:**
+Designate specific times for responsive communication
 
-### Deep Work Blocks
-Protect extended periods (90+ minutes) for cognitively demanding work without any interruptions.
+**Complete Before Switching:**
+Finish tasks or reach clear stopping points
 
-## 2026 Recognition
-
-As of 2026, context switching is widely recognized as a critical factor in productivity. Modern time management tools and methodologies explicitly address it, with features like:
-- Distraction blocking during focus sessions
-- Single-task views that hide other work
-- Smart notifications that respect focus time
-- Analytics showing context switching patterns
+**Use Transition Rituals:**
+Create brief pauses between different work modes

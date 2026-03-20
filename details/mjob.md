@@ -1,21 +1,24 @@
 ## Overview
 
-mJob is construction-specific time tracking and field management software that helps contractors track crew time, manage jobs, and control costs. It provides GPS-verified time tracking, job costing, and scheduling in one mobile-friendly platform.
+mJob is construction-focused time tracking and field management software with over 30 years of experience serving the construction industry. It's 100% built for construction, handling labor, equipment, materials, and comprehensive field reporting.
 
 ## Features
 
-- **GPS Time Clock**: Employees clock in/out with GPS location verification
-- **Job Costing**: Real-time labor cost tracking by job and task
-- **Crew Scheduling**: Schedule crews and equipment across multiple jobs
-- **Equipment Tracking**: Track equipment usage and costs
-- **Mobile App**: Field crews can track time and view schedules on mobile
-- **Photo Documentation**: Attach photos to time entries and job reports
-- **Geofencing**: Auto clock-in/out when entering job sites
-- **Timesheet Approvals**: Supervisor review and approval workflow
-- **Payroll Integration**: Export timesheets to payroll systems
-- **Job Reports**: Daily job reports with time, materials, and progress
-- **Offline Mode**: Works without internet connection
+- Mobile-first time clock for field crews
+- Labor time tracking by cost code
+- Equipment hour tracking
+- Material quantity tracking
+- Daily field reports
+- Job costing integration
+- Photo and document capture
+- GPS location tracking
+- Offline functionality
+- Payroll integration
+- Customizable forms and workflows
+- Real-time project visibility
+- Multi-trade support
+- Compliance documentation
 
 ## Pricing
 
-Pricing starts at $10/user/month with volume discounts available. Includes unlimited jobs and GPS tracking. Free demo and trial available.
+Pricing available upon request. Platform is specifically designed for construction contractors of all sizes.

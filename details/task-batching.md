@@ -1,50 +1,45 @@
 ## Overview
 
-Task batching is a time management technique where you group similar tasks and complete them in one focused session. By clustering related tasks and handling them all at the same time, you minimize context switching and maximize efficiency.
+Task batching is a productivity technique where you group similar tasks together and complete them all in one dedicated time block. This minimizes context switching and allows you to work more efficiently by staying in one mental mode.
 
-## How It Works
+## Common Batches
 
-1. Identify tasks that share similar cognitive requirements
-2. Group these tasks into batches
+- **Email Processing** - Check and respond to all emails in 2-3 dedicated sessions daily
+- **Content Creation** - Write multiple blog posts or social media content in one session
+- **Phone Calls** - Make all your calls back-to-back
+- **Administrative Tasks** - Handle all paperwork, filing, and admin together
+- **Meetings** - Schedule all meetings on specific days
+- **Social Media** - Check and respond to all platforms once or twice daily
+
+## Why It Works
+
+- Reduces context switching penalty (up to 40% productivity loss)
+- Maintains cognitive focus and flow
+- Builds momentum with repetitive tasks
+- Reduces decision fatigue
+- Leverages muscle memory and routine
+- Makes efficient use of tools and resources
+
+## Implementation Steps
+
+1. Identify recurring similar tasks
+2. Group them by type or mental mode required
 3. Schedule dedicated time blocks for each batch
-4. Complete all tasks in the batch during that block
-5. Move to the next batch type
-
-## Common Task Batches
-
-- **Email Processing**: Check and respond to all emails at set times
-- **Phone Calls**: Make all calls in one session
-- **Content Creation**: Write multiple blog posts or documents consecutively
-- **Administrative Tasks**: Expense reports, filing, data entry together
-- **Meetings**: Schedule back-to-back rather than scattered throughout day
-- **Social Media**: Create and schedule multiple posts at once
-
-## Benefits
-
-- Reduces mental switching costs (studies show 23 minutes to fully refocus)
-- Increases efficiency through momentum
-- Decreases decision fatigue
-- Creates deeper focus periods
-- Makes time for deep work
-- Reduces stress from task fragmentation
-
-## Context Switching Cost
-
-- In 2026, professionals lose nearly 6 hours per week to context switching
-- It takes an average of 9.5 minutes to regain focus after switching between apps
-- Context switching can reduce productivity by up to 40%
+4. Eliminate distractions during batch processing
+5. Complete entire batch before moving on
 
 ## Best Practices
 
-- Batch similar cognitive tasks (e.g., all creative work together)
-- Schedule batches during appropriate energy levels
-- Set clear boundaries (no email outside email time)
-- Use tools to support batching (email filters, scheduling apps)
-- Start with daily batches, then move to weekly for some tasks
+- Batch during appropriate energy levels for task type
+- Set clear start and end times
+- Turn off notifications during batches
+- Keep batch list visible while working
+- Review batch effectiveness and adjust
 
-## Not Suitable For
+## Benefits
 
-- Urgent customer service issues
-- Real-time collaboration
-- Crisis management
-- Tasks requiring immediate response
+- 25-50% efficiency improvement
+- Reduced mental fatigue
+- Fewer interruptions
+- Better quality output
+- More free time

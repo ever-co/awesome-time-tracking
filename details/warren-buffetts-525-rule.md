@@ -1,31 +1,40 @@
 ## Overview
 
-The 5/25 rule is a productivity strategy focused on ruthless prioritization of goals. It involves creating a list of 25 career goals, circling the top 5 most important, and marking the remaining 20 as an "Avoid-At-All-Cost-List."
+Warren Buffett's 5/25 Rule is a prioritization strategy that helps you focus on what truly matters by actively avoiding good but not great opportunities. It was taught by Buffett to his personal pilot.
 
-## Origin Story
+## The Exercise
 
-The rule originated from a conversation Warren Buffett had with his pilot, Mike Flint. Buffett asked Flint to write down 25 professional priorities and then circle the top five to focus on. When Flint said he would commit secondary time to the remaining twenty, Buffett shut down that idea, stating the twenty should be avoided at all cost.
+**Step 1:** Write down your top 25 career goals or tasks.
 
-## How to Apply the 5/25 Rule
+**Step 2:** Review the list and circle your top 5 goals—the ones that matter most to you.
 
-The rule is based on three simple steps:
+**Step 3:** You now have two lists:
+- List A: Your top 5 goals
+- List B: The remaining 20 goals
 
-1. **List**: Write down your top 25 career goals
-2. **Circle**: Circle the 5 most important goals that truly speak to you
-3. **Avoid**: Spend all your time and energy on the top five and actively avoid giving any attention to the remaining 20
+**Step 4:** Here's the key insight—List B isn't your secondary priority list. It's your "Avoid-At-All-Cost" list. Do not work on these until you've achieved your top 5.
 
-## Important Note on Attribution
+## Why It Works
 
-Many sources attribute the 5/25 Rule to Warren Buffett, but recent insights show that Buffett himself never shared this specific strategy and has expressed skepticism about it. However, the essence of the rule aligns with his philosophy on prioritization and focus.
+The items on List B aren't bad goals—they're often good goals. But they're the most dangerous because they divide your attention from what matters most. These are good distractions disguised as priorities.
 
 ## Key Insight
 
-The critical lesson is that it's not what you do but what you don't do that drives your productivity and performance. The items 6-25 on your list can be just as distracting as obviously bad habits—they're things you care about and want to do, but they prevent you from dedicating full attention to what matters most.
+Success comes not just from doing the right things, but from NOT doing the wrong things—and the wrong things often look like good opportunities.
+
+## Buffett's Advice
+
+"The difference between successful people and really successful people is that really successful people say no to almost everything."
 
 ## Benefits
 
-- Prevents spreading attention too thin
-- Eliminates "good but not great" goals that dilute focus
-- Creates clarity on what truly matters
-- Reduces decision fatigue
-- Maximizes impact on highest-priority goals
+- Extreme focus on highest priorities
+- Elimination of good distractions
+- Faster progress on what truly matters
+- Reduced decision fatigue
+- Clear boundaries on commitments
+- Protection against opportunity overload
+
+## Application
+
+Use annually for career planning, quarterly for business goals, or monthly for project prioritization.

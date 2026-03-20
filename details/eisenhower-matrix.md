@@ -1,88 +1,42 @@
 ## Overview
 
-The Eisenhower Matrix (also called the Urgent-Important Matrix) is a time management framework that helps prioritize tasks by categorizing them based on urgency and importance. Named after President Dwight D. Eisenhower, who was known for incredible productivity.
+The Eisenhower Matrix, also known as the Urgent-Important Matrix, is a time management tool for prioritizing tasks. Named after President Dwight D. Eisenhower, it categorizes tasks into four quadrants based on urgency and importance.
 
 ## The Four Quadrants
 
-### Quadrant 1: Urgent & Important (Do First)
+**Quadrant 1: Urgent & Important** (Do First)
 - Crises and emergencies
-- Pressing problems
 - Deadline-driven projects
-- **Action**: Do immediately
-- **Goal**: Minimize time here through prevention
+- Critical problems
+*Action: Do immediately*
 
-### Quadrant 2: Not Urgent & Important (Schedule)
+**Quadrant 2: Not Urgent & Important** (Schedule)
 - Strategic planning
 - Relationship building
-- Long-term development
-- Prevention activities
-- **Action**: Schedule dedicated time
-- **Goal**: Spend most time here for success
+- Prevention and improvement
+- Learning and development
+*Action: Schedule dedicated time*
 
-### Quadrant 3: Urgent & Not Important (Delegate)
+**Quadrant 3: Urgent & Not Important** (Delegate)
 - Interruptions
-- Some meetings
+- Some calls, emails, meetings
 - Other people's priorities
-- **Action**: Delegate if possible
-- **Goal**: Minimize or eliminate
+*Action: Delegate if possible*
 
-### Quadrant 4: Not Urgent & Not Important (Eliminate)
+**Quadrant 4: Not Urgent & Not Important** (Eliminate)
 - Time wasters
 - Busy work
-- Excessive entertainment
-- **Action**: Eliminate these activities
-- **Goal**: Avoid entirely
+- Trivial tasks
+*Action: Eliminate or minimize*
 
-## Eisenhower's Principle
+## Key Insight
 
-> "What is important is seldom urgent, and what is urgent is seldom important."
-
-The most valuable work happens in Quadrant 2 (Important but Not Urgent), yet most people spend time in Quadrants 1 and 3.
-
-## How to Use It
-
-1. **List all tasks**: Write everything you need to do
-2. **Categorize**: Place each task in appropriate quadrant
-3. **Urgent-Important**: Handle immediately
-4. **Important-Not Urgent**: Schedule specific time blocks
-5. **Urgent-Not Important**: Delegate or defer
-6. **Neither**: Eliminate from your list
+Most impactful work happens in Quadrant 2—important but not urgent activities. Successful people spend more time here on prevention, planning, and capability development.
 
 ## Benefits
 
-- Clarifies true priorities
-- Reduces time on low-value work
-- Prevents crisis firefighting
-- Increases focus on strategic work
-- Improves long-term outcomes
-- Reduces stress and urgency addiction
-
-## Common Pitfalls
-
-- Confusing urgent with important
-- Spending too much time in Quadrant 1 (crisis mode)
-- Neglecting Quadrant 2 (strategic work)
-- Inability to say no to Quadrant 3 tasks
-- Not eliminating Quadrant 4 completely
-
-## 2026 Applications
-
-- Digital tools automate categorization
-- AI suggests quadrant placement
-- Calendar apps highlight Quadrant 2 time
-- Team dashboards show collective priorities
-
-## Integration with Other Methods
-
-- **Time Blocking**: Schedule Quadrant 2 tasks
-- **GTD**: Quadrant 2 contains most "Projects"
-- **Deep Work**: Quadrant 2 enables deep work
-- **Eat the Frog**: Quadrant 1 tasks are the "frog"
-
-## Weekly Review
-
-Review your week:
-- How much time in each quadrant?
-- Is Quadrant 2 getting enough attention?
-- What Quadrant 1 items could have been prevented?
-- What can you eliminate or delegate?
+- Clear prioritization framework
+- Focuses energy on important work
+- Reduces time on urgent but unimportant tasks
+- Encourages strategic thinking
+- Helps prevent crises through prevention

@@ -1,109 +1,51 @@
 ## Overview
 
-Attention Residue is a cognitive phenomenon discovered by business professor Sophie Leroy. It refers to the finding that when you switch from Task A to Task B, your attention doesn't immediately follow - a residue of your attention remains stuck thinking about Task A.
+Attention Residue, identified by researcher Sophie Leroy, is the cognitive phenomenon where your attention doesn't immediately and fully shift when you switch tasks. Part of your mind remains thinking about the previous task, reducing performance on the current one.
 
 ## The Research
 
-Sophie Leroy's studies found:
-- **Performance decreases** when switching between tasks
-- **Residue persists longer** when Task A is incomplete or unresolved
-- **High-priority interrupted tasks** leave more residue
-- **Boundary creation** helps reduce residue effects
-- **Deep work suffers most** from attention residue
+Leroy's studies found that when people switch tasks, especially when the previous task is incomplete or important, their attention remains divided. This "residue" significantly impairs performance on the subsequent task.
 
-## How It Works
+## Why It Happens
 
-### The Mechanism
-1. Working on Task A
-2. Switch to Task B
-3. Part of mind still processing Task A
-4. Reduced cognitive capacity for Task B
-5. Lower quality work and slower performance
+- Brain doesn't instantly reset between tasks
+- Incomplete tasks create intrusive thoughts
+- Worry about unfinished work competes for attention
+- Neural pathways remain partially activated
+- More severe when previous task was important or unfinished
 
-### Duration
-Research shows:
-- **9.5 minutes average** to regain full focus after app switching
-- **23 minutes** to recover from significant interruptions
-- **Even longer** if previous task was left unresolved
+## Impact on Productivity
 
-## Implications for Time Management
+- Reduced performance on new task (up to 40% decrease)
+- Longer time to reach peak productivity
+- More errors and lower quality work
+- Increased mental fatigue
+- Cumulative effect across multiple switches
 
-### Context Switching Cost
-- Every meeting-to-deep-work switch incurs residue
-- Calendar fragmentation multiplies the effect
-- "Just checking email" leaves residue for 10+ minutes
-- Multitasking essentially ensures constant residue
+## Minimizing Attention Residue
 
-### Time Confetti Amplification
-- Small calendar gaps become even less useful
-- Residue from previous meeting + residue to next meeting
-- 30-minute gaps might provide only 10 minutes of quality focus
+**Finish Before Switching:**
+Complete tasks or reach natural stopping points.
 
-## Strategies to Minimize
+**Time Blocking:**
+Schedule dedicated blocks for single tasks.
 
-### 1. Task Completion
-- Finish tasks before switching when possible
-- Create clear stopping points
-- Document next steps before switching
-- Achieve micro-completions within work sessions
+**Shutdown Rituals:**
+Create clear psychological closure between tasks.
 
-### 2. Transition Rituals
-- **5-minute shutdown ritual** after meetings
-- **Physical movement** between tasks (walk, stretch)
-- **Environmental change** to signal transition
-- **Explicit closure** - write what you'll return to
+**Write Next Steps:**
+Document where you are before switching.
 
-### 3. Time Blocking
-- **Longer blocks** reduce switches
-- **Buffer time** between different task types
-- **Themed days** minimize cross-domain residue
-- **Batch similar tasks** to reduce residue effects
+**Transition Time:**
+Allow buffer time between different task types.
 
-### 4. Minimize Interruptions
-- **Turn off notifications** during focus work
-- **Batch checking** email and messages
-- **Office hours** for ad-hoc requests
-- **Do not disturb** signals for deep work
+**Batch Similar Work:**
+Group similar tasks to reduce switching costs.
 
-### 5. Strategic Sequencing
-- **Deep work first** when mind is fresh
-- **Similar tasks together** to reduce residue
-- **Shallow tasks after meetings** - already have residue
-- **Creative work in isolation** from analytical work
+## Application
 
-## Practical Applications
-
-### Calendar Design
-- Schedule 90+ minute focus blocks
-- Add 15-minute buffers between meetings
-- Cluster meetings together rather than spreading
-- Reserve residue-free time for critical work
-
-### Email Management
-- Batch process at scheduled times
-- Avoid checking between deep work tasks
-- Use "do not disturb" during focus blocks
-- Schedule email processing after, not before, deep work
-
-### Meeting Practices
-- End meetings 5 minutes early for transition time
-- Start meetings 5 minutes late to allow arrival
-- Acknowledge residue in meeting beginnings
-- Build in reflection/processing time
-
-## Measuring Impact
-
-Track:
-- Time between task switches
-- Quality of work after switches
-- Number of context switches per day
-- Duration of uninterrupted blocks
-
-## The Goal
-
-Aim to:
-- **Minimize total switches** per day
-- **Maximize uninterrupted blocks** for important work
-- **Create transition rituals** that clear residue
-- **Accept that some residue is inevitable**
-- **Schedule demanding work** when residue is lowest
+- Avoid checking email between deep work sessions
+- Don't start important work right after meetings
+- Use transition rituals between work and personal time
+- Schedule focused blocks without switching
+- Complete planning before execution begins

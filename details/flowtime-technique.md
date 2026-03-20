@@ -1,26 +1,50 @@
 ## Overview
 
-The Flowtime technique (also known as Flowmodoro) is a flexible time management technique that helps maximize productivity by staying in a creative state of mind. It replaces Pomodoro's rigid 25-minute timers with natural focus blocks — work until focus fades, then take proportional breaks.
+The Flowtime Technique is a flexible productivity method that respects natural flow states rather than interrupting them with artificial time limits like the Pomodoro Technique. You work until concentration naturally breaks, then take proportional breaks.
 
 ## How It Works
 
-- Work in uninterrupted intervals until you naturally need a break
-- Take breaks proportional to work time: 5 min after 25 min, 8 min after 50 min, 10 min after 90+ min
-- Track your work and break patterns to understand your natural rhythms
-- No artificial interruptions when you're in flow state
+1. Choose a task to focus on
+2. Note the start time
+3. Work in flow until your concentration naturally breaks
+4. Record the work duration
+5. Take a break proportional to work time:
+   - <25 minutes work = 5-minute break
+   - 25-50 minutes work = 8-minute break
+   - 50-90 minutes work = 10-minute break
+   - 90+ minutes work = 15-minute break
+6. Track when interruptions occur and note why
+7. Review patterns to optimize focus
+
+## Key Differences from Pomodoro
+
+**Pomodoro:**
+- Fixed 25-minute intervals
+- Timer interrupts flow
+- Rigid structure
+
+**Flowtime:**
+- Variable duration based on natural flow
+- Respects deep concentration
+- Adaptive to task and state
 
 ## Benefits
 
-- Honors natural focus cycles rather than imposing artificial time limits
-- Prevents interruption during peak creative or productive states
-- Reduces context-switching anxiety
-- Adapts to different types of work (creative vs. administrative)
-- Research from 2026 shows it takes 9.5 minutes to regain focus after switching tasks
+- Doesn't interrupt deep flow states
+- Respects natural work rhythms
+- Better for tasks requiring extended focus
+- Develops awareness of concentration patterns
+- More flexible for varying task types
+- Optimizes for quality over arbitrary time limits
 
-## Origins
+## When to Use
 
-Developed by software engineer Dionatan Moura in 2015 as an improvement over the Pomodoro Technique for deep, creative work.
+- Creative work requiring deep immersion
+- Complex problem-solving
+- Writing or coding projects
+- When Pomodoro feels too restrictive
+- Tasks with unpredictable completion times
 
-## Best For
+## Tracking
 
-Creative professionals, programmers, writers, and anyone doing deep work that requires extended focus periods.
+Keep a log of work sessions, noting start time, end time, task, and reason for stopping. Analyze patterns to understand your optimal work duration and common distractors.

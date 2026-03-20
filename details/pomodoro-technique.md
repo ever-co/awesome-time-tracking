@@ -1,36 +1,25 @@
 ## Overview
 
-The Pomodoro Technique is a time management method developed by Francesco Cirillo in the 1980s that uses a timer to break down work into intervals, usually 25 minutes in length, separated by short breaks.
+The Pomodoro Technique is a time management method developed by Francesco Cirillo that uses a kitchen timer to break work into 25-minute intervals called "pomodoros," separated by short breaks. It's designed to improve focus and reduce mental fatigue.
 
 ## How It Works
 
-1. **Choose a task** to work on
-2. **Set timer for 25 minutes** (one Pomodoro)
-3. **Work on the task** until timer rings
-4. **Take a short break** (5 minutes)
-5. **Repeat** for four Pomodoros
-6. **Take a longer break** (15-30 minutes) after four Pomodoros
-
-## Origin
-
-Named after the tomato-shaped kitchen timer ("pomodoro" is Italian for tomato) that Francesco Cirillo used as a university student.
+1. Choose a task to work on
+2. Set a timer for 25 minutes (one pomodoro)
+3. Work on the task with full focus until the timer rings
+4. Take a 5-minute break
+5. After four pomodoros, take a longer 15-30 minute break
 
 ## Benefits
 
-- **Improved Focus**: 25-minute sprints maintain concentration
-- **Reduced Mental Fatigue**: Regular breaks prevent burnout
-- **Better Time Awareness**: Understand how long tasks actually take
-- **Reduced Procrastination**: Short intervals make starting easier
-- **Increased Motivation**: Completing Pomodoros provides sense of progress
+- Reduces the impact of interruptions
+- Improves concentration and focus
+- Makes work time finite and manageable
+- Prevents burnout through regular breaks
+- Creates urgency through time constraints
+- Tracks work accomplishments objectively
+- Builds sustainable work habits
 
-## Modern Adaptations
+## Variations
 
-While 25 minutes is standard, many practitioners adjust timing based on:
-- Task complexity
-- Personal focus capacity
-- Workflow interruptions
-- Energy levels throughout day
-
-## Popular Apps
-
-Countless Pomodoro timer apps exist for every platform, from simple timers to feature-rich productivity systems.
+Many practitioners adjust timing based on personal preference and task type. Common variations include 52/17 (52 minutes work, 17-minute break) and 90-minute deep work sessions for tasks requiring extended focus.

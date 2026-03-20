@@ -1,31 +1,51 @@
 ## Overview
 
-The ONE Thing by Gary Keller helps you discover your most important goal and provides tools to use time productively without sending other aspects of life out of balance.
+The ONE Thing is a focusing philosophy developed by Gary Keller that helps you identify the single most important action that will have the greatest impact. It's based on asking one powerful question.
 
-## Core Philosophy
+## The Focusing Question
 
-Success is built sequentially, one thing at a time. Extraordinary results come from focusing on your ONE Thing and making everything else either a distraction or support for that priority.
+"What's the ONE thing I can do such that by doing it everything else will be easier or unnecessary?"
 
-## Key Concepts
+Apply this question to different timeframes:
+- Right now
+- Today
+- This week
+- This month
+- This year
+- In my life
 
-- **The Focusing Question**: "What's the ONE Thing I can do such that by doing it everything else will be easier or unnecessary?"
-- **The Domino Effect**: Small focused actions can topple increasingly larger challenges
-- **Time Blocking**: Protect time for your ONE Thing
-- **The Myth of Multitasking**: Why trying to do multiple things reduces effectiveness
-- **Living with Priority**: Align daily actions with long-term goals
+## Key Principles
 
-## Time Management Impact
+**Success is Sequential:**
+Extraordinary results come from doing one thing at a time, not multitasking.
 
-By focusing on the single most important priority, you maximize the return on your time investment and avoid the dilution that comes from scattered attention.
+**The Domino Effect:**
+The right action creates a chain reaction, knocking down bigger and bigger challenges.
 
-## Awards & Recognition
+**Live with Purpose:**
+Know your ONE Thing and use it as compass for decisions.
 
-#1 Wall Street Journal bestseller and recommended among top time management books of 2026.
+**Priority vs Priorities:**
+The word "priority" was singular for centuries. Multiple priorities dilute focus.
 
-## Format
+**Saying No:**
+Protecting your ONE Thing requires saying no to almost everything else.
 
-Available in hardcover, paperback, audiobook, and e-book.
+## Time Blocking for ONE Thing
 
-## Authors
+1. **Time Block Your Time Off** - Protect personal time first
+2. **Time Block Your ONE Thing** - Schedule uninterrupted blocks for it
+3. **Time Block Your Planning Time** - Weekly and daily planning sessions
 
-Gary Keller with Jay Papasan.
+## Benefits
+
+- Extraordinary results in less time
+- Reduced overwhelm and stress
+- Clear direction and purpose
+- Better decisions about commitments
+- Faster progress on what matters most
+- Work-life balance through focus
+
+## Application
+
+Use the focusing question at the start of each day, week, and strategic planning session to identify your highest-leverage action.

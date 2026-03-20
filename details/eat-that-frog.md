@@ -1,30 +1,37 @@
 ## Overview
 
-"Eat That Frog!" by Brian Tracy is a classic productivity book based on a Mark Twain quote: if the first thing you do each morning is eat a live frog, you can go through the day knowing the worst is behind you. The "frog" represents your most important and challenging task.
+Eat That Frog is a time management method by Brian Tracy based on a Mark Twain quote: "If it's your job to eat a frog, it's best to do it first thing in the morning." The frog represents your most challenging, important task—the one you're most likely to procrastinate on.
 
-## Core Philosophy
+## Core Principle
 
-Start each day by tackling your biggest, most important task (your "frog") before anything else. This ensures you accomplish what matters most before distractions and lower-priority tasks consume your day.
+Identify your most important task (your "frog") and do it first thing in the morning before anything else. This ensures your most critical work gets done when you have the most energy and willpower.
 
-## The 21 Principles
+## Why It Works
 
-Key techniques include:
+- Morning hours typically offer highest energy and focus
+- Completing difficult task creates momentum
+- Eliminates anxiety from pending difficult work
+- Prevents procrastination on important tasks
+- Ensures critical work doesn't get pushed to tomorrow
+- Builds sense of accomplishment early in day
+- Frees mental space for other work
 
-- **Set the Table** - Decide exactly what you want and write it down
-- **Plan Every Day in Advance** - Create written plans for each day
-- **Apply the 80/20 Rule** - Focus on the 20% of activities that produce 80% of results
-- **Consider the Consequences** - Think long-term about task impact
-- **Practice Creative Procrastination** - Deliberately delay low-value tasks
-- **Use the ABCDE Method** - Categorize tasks by priority
-- **Focus on Key Result Areas** - Identify and excel in critical competencies
-- **Apply the Law of Three** - Identify your three most important tasks
-- **Prepare Thoroughly** - Proper preparation prevents poor performance
-- **Single Handle Every Task** - Work on one thing until complete
+## Implementation Steps
 
-## Based on Research
+1. Identify your most important task for tomorrow
+2. Prepare everything needed the night before
+3. Start work on it immediately upon beginning your day
+4. Work on it until complete or significant progress made
+5. Only then move to other tasks
 
-Draws on over 30 years of time management research and provides actionable, tested strategies.
+## Related Concepts
 
-## Format
+- If you have two frogs, eat the ugliest one first
+- If you have to eat a live frog, don't sit and look at it for too long
 
-Available in hardcover, paperback, audiobook, and e-book formats.
+## Benefits
+
+- Guarantees progress on important work
+- Builds discipline and willpower
+- Reduces procrastination
+- Increases daily productivity

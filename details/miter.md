@@ -1,20 +1,22 @@
 ## Overview
 
-Miter is built specifically for construction teams and unifies time tracking with payroll, job costing, and compliance in a single platform.
+Miter is construction time tracking software that connects labor tracking with payroll and HR for streamlined compliance and accurate job costing. Contractors can choose from multiple time tracking methods to fit different crew workflows.
 
 ## Features
 
-- **Multiple Time Tracking Options** - Choose from more than eight time tracking options: mobile, kiosk, supervisor-entry, and more
-- **Job Costing** - Link time entries to tasks or job records to support payroll and costing
-- **Payroll Integration** - Seamlessly integrate with payroll systems for accurate wage calculations
-- **Compliance Management** - Built-in compliance tracking for construction industry regulations
-- **Field-Friendly** - Designed for construction teams working on job sites
-- **Break Tracking** - Track breaks, supervisor assignments, equipment used, cost codes, and detailed notes
-
-## Use Cases
-
-Perfect for construction contractors, general contractors, and specialty trade contractors who need integrated time tracking and job costing.
+- 8+ time tracking options (mobile app, kiosk, supervisor-entry, text message, phone call, and more)
+- GPS and geofencing capabilities
+- Certified payroll reporting
+- Prevailing wage compliance
+- Fully burdened labor cost tracking
+- Union and non-union payroll support
+- Equipment time tracking
+- Job costing integration
+- Real-time project labor data
+- Automated compliance alerts
+- Multi-state labor law compliance
+- Detailed reporting and analytics
 
 ## Pricing
 
-Contact Miter for pricing information based on team size and features needed.
+Custom pricing based on contractor size and specific needs. Contact for detailed quote.

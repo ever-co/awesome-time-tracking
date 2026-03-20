@@ -1,20 +1,23 @@
 ## Overview
 
-LawBillity is time and billing software built specifically for law firms. It provides easy-to-use time tracking, billing, and practice management features in a cloud-based platform accessible from anywhere.
+LawBillity is time tracking and billing software designed for law firms of all sizes. It offers flexible time tracking options and comprehensive billing features to help legal professionals maximize billable revenue.
 
 ## Features
 
-- **Time Tracking**: Multiple time entry methods including timers, quick entry, and batch entry
-- **Billing & Invoicing**: Flexible billing with hourly, flat fee, contingency, and retainer options
-- **Trust Accounting**: IOLTA/IOLA compliant trust accounting
-- **Case Management**: Track cases, matters, and client information
-- **Document Management**: Store and organize case documents
-- **Calendar**: Built-in calendar with deadline tracking
-- **Expense Tracking**: Track and bill case-related expenses
-- **Reports**: Over 30 standard reports for financial analysis
-- **Client Portal**: Secure client access to case information
-- **Mobile App**: Time tracking and case access on mobile devices
+- Multiple time entry methods (timer, manual entry, quick entry)
+- Matter and client management
+- Expense tracking
+- Professional invoice generation
+- Trust accounting compliance
+- Customizable billing rates
+- Time entry from any device
+- Detailed reporting and analytics
+- Payment processing integration
+- Conflict checking
+- Document storage
+- Calendar integration
+- Mobile apps for iOS and Android
 
 ## Pricing
 
-Starts at $49/user/month with unlimited clients and matters. All plans include full features with no hidden fees. 30-day free trial available.
+Subscription-based pricing with different tiers based on firm size and features needed. Free trial available to test the platform.

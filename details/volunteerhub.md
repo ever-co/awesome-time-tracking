@@ -1,27 +1,22 @@
 ## Overview
 
-VolunteerHub has helped thousands of organizations manage billions of volunteer hours over 20+ years, establishing itself as a trusted platform in the nonprofit volunteer management space.
+VolunteerHub is an all-in-one volunteer management platform that includes powerful time tracking features specifically designed for nonprofits. It helps organizations manage volunteer schedules, track hours, and prove impact to funders.
 
-## Key Features
+## Features
 
-- **Volunteer Hour Tracking**: Comprehensive time tracking specifically designed for volunteer programs
-- **Scheduling & Coordination**: Manage volunteer shifts, events, and recurring opportunities
-- **Impact Measurement**: Track and report on volunteer contributions and organizational impact
-- **Communication Tools**: Built-in messaging and notification systems for volunteer coordination
-- **Grant Support**: Generate reports demonstrating volunteer impact for funding applications
+- Volunteer hour tracking and verification
+- Online volunteer registration and scheduling
+- Automated check-in/check-out
+- Grant-compliant reporting
+- Impact measurement and reporting
+- Volunteer communication tools
+- Customizable volunteer portals
+- Mobile app for volunteers
+- Integration with CRM systems
+- Recognition and retention tools
+- Event management
+- Volunteer database with history
 
-## Why Volunteer Hour Tracking Matters
+## Pricing
 
-Tracking volunteer hours helps organizations:
-- **Strengthen Funding Applications**: Demonstrate quantifiable impact to potential donors and grantmakers
-- **Improve Retention**: Show volunteers the measurable impact of their contributions
-- **Optimize Programs**: Identify which volunteer initiatives are most effective
-- **Meet Compliance Requirements**: Maintain accurate records for regulatory and reporting purposes
-
-## Long-Term Track Record
-
-With over two decades of experience in the volunteer management space, VolunteerHub has refined its platform based on the real-world needs of nonprofit organizations, making it a mature and reliable solution for volunteer time tracking and program management.
-
-## Target Users
-
-Nonprofits of all sizes, community organizations, educational institutions, and any organization that relies on volunteer support to achieve their mission.
+Custom pricing based on organization size and needs. Contact for quote.
