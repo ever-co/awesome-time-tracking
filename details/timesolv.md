@@ -1,64 +1,24 @@
 ## Overview
 
-TimeSolv is a law firm billing and time tracking software designed specifically for attorneys and legal professionals. The platform combines time tracking, expense management, billing, and trust accounting in one system.
+TimeSolv is comprehensive law firm billing and time tracking software that has been serving legal professionals for over 20 years. The platform combines time tracking, billing, trust accounting, and practice management features specifically designed for attorneys and law firms of all sizes.
 
-## Time Tracking Features
+## Features
 
-- **Timers**: Start/stop timers for active work
-- **Manual Entry**: Add time entries retroactively
-- **Activity Codes**: Track time by legal activity type
-- **Billing Increments**: Configurable 6-minute or custom increments
-- **Batch Entry**: Add multiple time entries quickly
-- **Calendar Integration**: Sync with Outlook and Google Calendar
-- **Mobile Apps**: Track time from iOS and Android devices
-- **Browser Extension**: Quick time capture while working
-
-## Billing Features
-
-- **Automated Invoicing**: Generate professional invoices from time and expenses
-- **Trust Accounting**: IOLTA-compliant trust accounting
-- **Expense Tracking**: Bill expenses to clients
-- **Payment Processing**: Accept credit card and ACH payments
-- **Retainer Management**: Track retainer balances and usage
-- **Custom Invoice Templates**: Branded invoice designs
-- **Batch Billing**: Invoice multiple matters at once
-- **Write-offs and Adjustments**: Flexible billing adjustments
-
-## Legal-Specific Features
-
-- Matter management and organization
-- Client conflict checking
-- Document assembly templates
-- Trust ledger reporting
-- Compliance with legal ethics rules
-- LEDES billing format support
-- Contingency fee tracking
-
-## Reporting & Analytics
-
-- Billable hours reports
-- Realization and collection reports
-- Aging receivables
-- Attorney productivity metrics
-- Trust account reconciliation
-- Custom report builder
-
-## Benefits
-
-- Captures 15-20% more billable time on average
-- Reduces billing cycle time from weeks to days
-- Ensures trust accounting compliance
-- Improves cash flow with faster invoicing
-- Provides visibility into firm profitability
-
-## Integrations
-
-- QuickBooks for general ledger
-- PCLaw for practice management
-- Clio and other legal practice management platforms
-- LawPay for payment processing
-- Microsoft Office and Google Workspace
+- **Legal Time Tracking**: Capture billable hours with mobile apps, browser extensions, and desktop timers
+- **Trust Accounting**: Built-in IOLTA-compliant trust accounting with automated safeguards
+- **ABA Task Codes**: Pre-loaded Legal Electronic Data Exchange Standard (LEDES) billing codes
+- **Invoice Generation**: Create professional invoices with customizable templates and automatic late fee calculations
+- **Case Management**: Track matters, clients, contacts, and case-related documents
+- **Expense Tracking**: Log billable expenses and integrate with credit card feeds
+- **Payment Processing**: Accept online payments directly through invoices
+- **Detailed Reporting**: Generate reports on profitability, realization rates, aging receivables, and productivity
+- **Integrations**: Connect with QuickBooks, LawPay, and other legal software
 
 ## Pricing
 
-TimeSolv offers subscription pricing starting at $39.95 per user per month for solo practitioners, with firm plans at higher tiers. 30-day free trial available. Annual billing discounts offered.
+TimeSolv offers tiered pricing plans:
+- **Solo Plan**: $39.95/month for single users
+- **Professional Plan**: $49.95/user/month for small firms
+- **Enterprise Plan**: Custom pricing for larger organizations
+
+All plans include a 30-day free trial with no credit card required.
