@@ -1,30 +1,35 @@
 ## Overview
 
-In December 2025, Homebase introduced Scheduling Assistant, a new AI-powered feature that automates shift creation and conflict resolution. This feature reduces manual scheduling work while keeping teams aligned and properly staffed.
+Homebase is an all-in-one team management platform for small businesses with hourly workers, combining scheduling, time tracking, payroll, HR, messaging, and hiring. The Scheduling Assistant with AI, launched in December 2025, uses artificial intelligence to optimize work schedules.
 
 ## Key Features
 
-- **AI-Optimized Shift Creation**: Automatically generates optimal shift schedules based on business needs, employee availability, and historical data
-- **Automated Conflict Resolution**: Identifies and resolves scheduling conflicts without manual intervention
-- **Team Alignment**: Ensures proper coverage and maintains fairness in shift distribution
-- **Reduced Administrative Time**: Significantly decreases the time managers spend on scheduling tasks
+### AI-Powered Schedule Optimization
+The AI Scheduling Assistant helps create optimal schedules based on:
+- Labor cost constraints
+- Sales forecasts and busy periods
+- Employee availability and preferences
+- Historical staffing patterns
+- Compliance requirements
 
-## Target Industries
+### Time Tracking
+- Employees clock in/out on smartphones, tablets, computers, and POS devices
+- Hours automatically flow into timesheets
+- Managers review for compliant payroll data
+- GPS verification and photo verification available
 
-Designed specifically for:
-- Hospitality businesses
-- Retail stores
-- Service industry companies
-- Any business with shift-based workforces
+### Payroll Integration
+- Seamless flow from time clock to payroll-ready timesheets
+- Auto-calculated wages, taxes, and tips
+- Go from timesheets to paychecks in a few clicks
 
-## Launch Context
+## Business Impact
 
-Released in December 2025 as part of the broader trend toward AI-enhanced workforce management tools, representing one of the first mainstream applications of AI in employee scheduling for small to medium-sized businesses.
+- 100,000+ small businesses use Homebase
+- 3.5 million employees rely on the platform
+- 1.2 billion hours worked tracked in the last year
+- Managers save 20 hours per month on average
 
-## Benefits
+## Pricing
 
-- Reduces scheduling errors and conflicts
-- Saves manager time on administrative tasks
-- Improves employee satisfaction through fairer scheduling
-- Maintains optimal staffing levels
-- Adapts to changing business needs
+Free plan available with core features. Premium plans add advanced capabilities like advanced scheduling, team communication, and hiring tools.

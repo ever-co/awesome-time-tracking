@@ -1,86 +1,53 @@
 ## Overview
 
-Buddy Punch offers facial recognition as one of several secure time clock options designed to prevent buddy punching and time theft. Employees can clock in and out using facial recognition technology through time clock kiosks, mobile devices, or web browsers.
+Buddy Punch's facial recognition time clock feature prevents time theft by requiring employees to take a selfie photo when clocking in and out. This biometric verification ensures the right person is clocking in, eliminating buddy punching and improving time tracking accuracy.
 
 ## How It Works
 
-- Employees register their face during initial setup
-- When clocking in, the system captures and analyzes facial features
-- AI compares the current image to stored facial data
-- System confirms identity and records the punch
-- Works in various lighting conditions and with minor appearance changes
+### Clock-In Process
+1. Employee initiates clock-in via mobile app or tablet kiosk
+2. System prompts for selfie capture
+3. Facial recognition verifies identity
+4. GPS location is recorded (if enabled)
+5. Time entry is created with photo attached
 
-## Clock-In Methods
+### Verification
+Managers can:
+- Review selfies with each time entry
+- Compare photos to detect anomalies
+- Verify employee identity
+- Maintain photo records for compliance
 
-**Kiosk Mode**: Dedicated tablet or computer at workplace entrance
+## Buddy Punching Prevention
 
-**Mobile App**: Employees use their smartphone camera
+Buddy punching (when one employee clocks in for another) costs businesses 16-20% of payroll according to research. Facial recognition makes this practice virtually impossible since:
+- The actual person must be present
+- Photos are timestamped and location-stamped
+- Managers can review all clock-in selfies
+- Attempts to use photos of photos are detectable
 
-**Web Browser**: Webcam-enabled time punching from any computer
+## Additional Security Features
 
-**Alternative Methods** (also supported):
-- PIN codes
-- QR codes
-- Traditional username/password
+### GPS and Geofencing
+- Track employees' exact locations on clock-in
+- Prevent offsite punching with geofences
+- Verify employees are at assigned job sites
 
-## Fraud Prevention
+### PINs and QR Codes
+Alternative authentication methods:
+- Unique employee PINs
+- QR code scanning
+- Combination of methods for added security
 
-**Prevents Buddy Punching**: Cannot have someone else clock in for you
+## Key Benefits
 
-**Location Verification**: Combined with GPS to ensure on-site presence
-
-**Photo Logs**: Visual record of each punch for verification
-
-**Real-Time Alerts**: Managers notified of unusual patterns
-
-## Industry Applications
-
-- Healthcare facilities requiring secure ID verification
-- Retail preventing time theft
-- Restaurants with high staff turnover
-- Call centers tracking attendance
-- Schools and educational institutions
-- Medical practices ensuring HIPAA compliance
-
-## Privacy Considerations
-
-Buddy Punch's facial recognition:
-- Stores biometric data securely
-- Complies with relevant privacy laws
-- Allows employees to opt for alternative methods where legally required
-- Provides transparency about data usage
-
-## Benefits
-
-**For Employers**:
-- Eliminates buddy punching (saves 2-8% of payroll)
-- Accurate attendance records
-- Reduced payroll fraud
-- Automated verification
-
-**For Employees**:
-- Fast, touchless clock-in
-- No cards or PINs to remember
-- Hygienic (no shared devices)
-- Works reliably
-
-## Integration
-
-Facial recognition clock-ins integrate with:
-- Payroll processing (QuickBooks, Gusto, ADP)
-- Scheduling systems
-- Reporting and analytics
-- GPS tracking for field workers
-
-## Implementation
-
-1. Choose hardware (kiosk, mobile, or web)
-2. Enroll employees by capturing facial data
-3. Set clock-in location and rules
-4. Configure alerts and notifications
-5. Train staff on usage
-6. Monitor and adjust as needed
+- Eliminates buddy punching fraud
+- Provides visual proof of attendance
+- Reduces payroll padding
+- Ensures accurate time records
+- Supports compliance and audits
+- Available on mobile and tablet
 
 ## Pricing
 
-Included in Buddy Punch subscriptions with no per-punch fees, making it cost-effective even for high-frequency punching environments.
+Included in Buddy Punch plans, which offer a high-rated time tracking solution with 4.8/5 stars on G2 and Capterra.
