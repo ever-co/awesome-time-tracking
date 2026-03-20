@@ -1,40 +1,35 @@
 ## Overview
 
-Cold Turkey Blocker is a robust distraction-blocking application for Windows and Mac that emphasizes strict enforcement. Unlike other blockers, Cold Turkey makes it extremely difficult to bypass blocks, making it ideal for users who need serious accountability.
+Cold Turkey Blocker is a free website blocker designed for studying or focusing on work that can block distractions like social media, games, apps, YouTube, or even the entire Internet.
+
+## Key Characteristic
+
+**Unbreakable Blocks**: Cold Turkey Blocker makes it almost impossible to stop the block once you lock it, providing the strictest blocking available.
 
 ## Features
 
-- **Website Blocking**: Block specific sites or use wildcard patterns
-- **App Blocking**: Prevent access to applications and games
-- **Scheduled Blocks**: Plan blocking sessions in advance
-- **Frozen Turkey**: Unbreakable locks with no emergency exit
-- **Statistics**: Detailed usage tracking and blocking reports
-- **Exceptions**: Allow specific pages on blocked sites
-- **Break Scheduling**: Force regular breaks from computer
-- **Whitelist Mode**: Allow only specific sites/apps
-- **Text Blocking**: Block sites containing specific words
-- **Redirect Blocking**: Prevent bypassing via search results
-- **Nuclear Option**: Block entire internet
-- **Locked Mode**: No way to disable until timer expires
+- **Website Blocking**: Block time-wasting websites
+- **Application Blocking**: Block distracting desktop applications
+- **Full Internet Block**: Block entire internet access
+- **Scheduled Blocks**: Set up recurring block schedules
+- **Timer Locks**: Create blocks that can't be stopped
+- **System-Wide Blocking**: Works across entire computer
+- **Free Version**: Robust features at no cost
 
-## Advanced Features (Pro)
+## Limitations
 
-- **Password Protection**: Require password to change settings
-- **Random Passwords**: Generate random password for unbreakable blocks
-- **Device Restrictions**: Block at specific times on specific days
-- **Continuous Blocks**: Multi-day or continuous blocking periods
-- **Import/Export**: Share block lists
-- **Stricter Enforcement**: Additional anti-bypass measures
+- **Desktop Only**: Does not support mobile devices
+- **No Mobile Sync**: Can only block on PC (Windows/Mac)
+- **No Cross-Device**: Each device needs separate configuration
 
-## Enforcement Philosophy
+## Best For
 
-Cold Turkey is designed for users who:
-- Need serious accountability, not gentle reminders
-- Want no backdoors or bypass options
-- Struggle with self-control around digital distractions
-- Require unbreakable focus sessions
+- Students during intense study sessions
+- Writers needing distraction-free writing time
+- Professionals with desktop-focused work
+- Anyone needing strict, unbreakable blocking
 
 ## Pricing
 
-- **Free**: Basic blocking features for Windows and Mac
-- **Pro**: $39 one-time purchase - Advanced features, lifetime updates
+- Free version with core features
+- Pro version: $35.00 one-time payment

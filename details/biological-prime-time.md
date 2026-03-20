@@ -1,36 +1,29 @@
 ## Overview
 
-Biological Prime Time refers to the specific hours during the day when your body and mind are naturally at their peak performance. Understanding and aligning work with these periods can significantly boost productivity and reduce fatigue.
+Biological prime time refers to the period when you feel most focused and energized, a concept coined by Sam Carpenter in "Work the System." It's driven by the body's ultradian rhythms.
 
-## Key Principles
+## How It Works
 
-- Everyone has different peak performance windows (chronotypes)
-- Energy levels fluctuate naturally throughout the day
-- Align most important work with highest energy periods
-- Schedule administrative tasks during low-energy windows
-- Respect natural ultradian rhythms (90-120 minute cycles)
+Ultradian rhythms are cycles that repeat throughout a 24-hour period, during which we experience:
+- **Peaks**: Highly-focused, energized periods
+- **Dips**: Sleepy, distracted periods
 
-## Research Findings (2026)
+## How to Calculate Your Biological Prime Time
 
-- Aligning work with biological prime time can boost productivity by 20-40%
-- Can reduce errors by as much as 50%
-- Decreases reported fatigue by 30%
-- Most people have 2-3 peak productivity windows per day
+1. **Eliminate Variables**: Cut out caffeine, alcohol, and mood enhancers for accurate reading
+2. **Track Energy Levels**: Record energy at various points throughout day for at least 3 weeks
+3. **Use Rating Scale**: Rate energy levels 1-5 to quantify patterns
+4. **Identify Patterns**: Analyze when energy peaks and dips occur
+5. **Schedule Accordingly**: Place demanding work during peak energy phases
 
-## Implementation
+## Productivity Benefits
 
-1. Track your energy levels hourly for 1-2 weeks
-2. Identify patterns in focus, creativity, and energy
-3. Schedule deep work during peak windows
-4. Reserve meetings and admin work for lower-energy times
-5. Protect your prime time from interruptions
+- **20-40% Productivity Boost**: When aligning work with peak hours
+- **Enhanced Focus**: Better concentration during energy peaks
+- **Improved Creativity**: Higher creative output during prime time
+- **Better Problem-Solving**: Enhanced cognitive function at peak energy
+- **Reduced Fatigue**: Reserve low-energy periods for routine tasks
 
-## Chronotypes
+## Key Principle
 
-- **Morning Larks**: Peak performance in early morning
-- **Night Owls**: Peak performance in evening/night
-- **Intermediate**: Flexible peaks throughout the day
-
-## 2026 Workplace Impact
-
-Forward-thinking companies now allow flexible schedules based on employee chronotypes, recognizing that forcing everyone into 9-5 schedules undermines performance.
+Productivity isn't only about managing time but also managing energy.

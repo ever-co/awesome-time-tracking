@@ -1,33 +1,38 @@
 ## Overview
 
-Akiflow unifies your calendar and tasks in one interface optimized for quick daily planning. It pulls tasks from multiple tools (Todoist, Asana, Notion) and helps you schedule them into your day through intuitive time blocking.
+Akiflow consolidates calendar, tasks, inbox, and AI into one seamless flow, designed for founders, operators, and obsessed doers.
 
 ## Key Features
 
-- Unified inbox for all tasks
-- Calendar integration (Google, Outlook)
-- Command bar for quick actions
-- Time blocking interface
-- Integrations with 20+ productivity tools
-- Focus mode
-- Keyboard shortcuts
-- Mobile apps
+### Unified Inbox
+- **3,000+ App Integrations**: Imports tasks from Gmail, Slack, Trello, Asana, and more
+- **Centralized Management**: All tasks in single location
+- **No Missed Tasks**: Comprehensive task capture
 
-## Workflow
+### Time Blocking
+- **Drag & Drop**: Tasks move directly from inbox to calendar
+- **Intentional Planning**: Schedule specific time slots
+- **Focused Work Sessions**: Promote concentrated effort
 
-1. Import tasks from connected apps
-2. Review in unified inbox
-3. Drag tasks onto calendar to time block
-4. Adjust schedule as day progresses
-5. Mark complete or reschedule
+### Calendar Integration
+- **Two-Way Sync**: Robust synchronization with Google Calendar and Outlook
+- **Real-Time Updates**: Changes reflect across platforms
 
-## Integrations
+### Command Bar
+- **Keyboard Shortcuts**: Quick task creation and navigation
+- **Fast Workflow**: Keyboard-first design for efficiency
+- **Integration Management**: Rapid access to connected apps
 
-- Todoist, Asana, Notion
-- Gmail, Slack
-- Linear, Jira
-- Google Calendar, Outlook
+### AI Assistant (Aki)
+- **Task Automation**: Automates routine tasks
+- **Conflict Resolution**: Reschedules conflicts automatically
+- **Proactive Suggestions**: Prevents overload with smart recommendations
+- **Productivity Enhancement**: Learns and adapts to work patterns
+
+## Target Audience
+
+Ideal for busy professionals, executives, founders, and anyone looking to gain control over their schedule.
 
 ## Pricing
 
-Approximately $20-30/month for individual plan.
+No free forever version. 7-day trial available, then requires paid subscription.

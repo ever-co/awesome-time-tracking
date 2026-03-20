@@ -1,24 +1,19 @@
 ## Overview
 
-Forest combines the Pomodoro technique with a unique gamified experience, where you plant virtual trees that grow as you stay focused. This visual metaphor creates a powerful incentive to avoid phone distractions and maintain concentration.
+Forest is a unique productivity app that gamifies the focus experience by having users plant virtual trees that grow while they stay concentrated on their work.
 
 ## Features
 
-- **Virtual Tree Growing**: Plant a seed when starting a focus session; it grows into a tree if you stay focused
-- **Gamification**: Build a forest of trees representing your focused work sessions
-- **Real-World Impact**: Partner with Trees for the Future to plant real trees based on virtual coins earned
-- **Phone Blocking**: Prevents you from leaving the app and using distracting apps during focus sessions
-- **Customizable Timers**: Set focus duration from 10 minutes to 2 hours
-- **Tree Species Variety**: Unlock different tree types as you complete more focus sessions
-- **Statistics & Insights**: Track your focus patterns and productivity trends over time
-- **Forest Together**: Synchronize focus sessions with friends or teammates
-- **Whitelist**: Allow specific apps (like music players) during focus sessions
-
-## Environmental Impact
-
-Forest has partnered with real tree-planting organizations. Users have collectively helped plant over 1.5 million real trees worldwide.
+- **Virtual Tree Planting**: Plant a seed that grows into a tree while you stay focused
+- **Phone Lock**: Tree withers if you leave the app or use your phone
+- **Gamification**: Build a virtual forest as you complete focus sessions
+- **Real Tree Planting**: Partnership with tree-planting organizations to plant real trees
+- **44 Million Downloads**: Widely adopted productivity solution
+- **Focus Statistics**: Track your focused time and patterns
+- **Whitelist**: Allow specific apps during focus sessions
+- **Social Features**: Compare forests with friends for accountability
+- **Rewards System**: Earn coins to unlock different tree species
 
 ## Pricing
 
-iOS: $3.99 one-time purchase
-Android: Free with in-app purchases
+One-time purchase on iOS and Android app stores.

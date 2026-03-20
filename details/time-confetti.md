@@ -1,157 +1,43 @@
 ## Overview
 
-Time Confetti, a term coined by researcher Brigid Schulte, refers to the small, scattered bits of time throughout your day—a few minutes here, a few there—created by constant interruptions and task switching.
+Time confetti is a concept coined by Brigid Schulte, author of "Overwhelmed: How to Work, Love & Play When No One Has the Time," describing the breaking up and interruption of time into small, fragmented moments - like confetti.
 
-## The Problem
+## What It Describes
 
-### What Creates Time Confetti
+The human behavior of using free time to do little bits of seemingly inconsequential tasks, with little bits of seconds and minutes lost to unproductive multitasking.
 
-- Checking phone between tasks (2 minutes)
-- Quick email responses (3 minutes)
-- Slack notifications (1 minute)
-- Brief conversations (5 minutes)
-- Social media glances (2 minutes)
-- Calendar checking (1 minute)
+## Impact on Productivity
 
-These fragments add up but feel too small to use productively.
+### Research Findings
+- **23-Minute Recovery**: University of California study shows it takes up to 23 minutes to return to original task after interruption
+- **6-Minute Switching**: Average desk worker changes desktop applications every six minutes
+- **Reduced Productivity**: Collectively, all that confetti adds up to significant productivity loss
 
-### The Cost
+### Cognitive Effects
+- Makes us less productive at work
+- Increases vulnerability to burnout and fatigue
+- Reduces enjoyment of free time
+- Creates feeling of time poverty
 
-**Lost Productivity**:
-- Can't enter flow state in 5-minute blocks
-- Meaningful work requires sustained attention
-- Context switching reduces efficiency by 40%
-- Fragments feel like free time but aren't useful
+## Perception vs Reality
 
-**Psychological Impact**:
-- Feeling busy but not productive
-- Exhausted without accomplishment
-- Fragmented attention becomes habit
-- Reduced capacity for deep work
-
-## Research Findings
-
-Studies show:
-- Average worker switches tasks every 3 minutes
-- Takes 23 minutes to regain full focus after interruption
-- Most people have only 2-3 hours of solid, uninterrupted time daily
-- Majority of day is time confetti
+When asked to reflect on their time, people:
+- Enjoy free time less
+- Estimate they had less free time than they actually did
+- Feel even more time impoverished than they are
 
 ## Solutions
 
-### Consolidate Time
+### Time Blocking
+The primary way to combat time confetti:
+- Block out time for uninterrupted work
+- Be intentional about limited time at work
+- Protect deep focus periods
+- Consolidate similar tasks
 
-**Time Blocking**:
-- Protect 90-120 minute blocks
-- No interruptions allowed
-- Deep work on single task
-- Create "time blocks" not "time confetti"
-
-**Batch Processing**:
-- Group similar small tasks
-- Email twice daily (30 min blocks)
-- Calls in dedicated slots
-- Turn confetti into intentional chunks
-
-### Prevent Fragmentation
-
-**Reduce Interruptions**:
-- Turn off notifications
-- Use Do Not Disturb
-- Set office hours for questions
-- Close email/Slack during focus work
-
-**Single-Task Commitment**:
-- Work on one thing at a time
-- Complete before switching
-- Resist multi-tasking urge
-- Protect attention
-
-### Reclaim Fragments
-
-**Intentional Use**:
-- 5-minute fragments: email triage, not replies
-- 10-minute blocks: quick planning, not execution
-- 15-minute windows: reading, not writing
-- Know what fits in short blocks
-
-**Or Embrace Rest**:
-- Short breaks between tasks are OK
-- Not every moment needs productivity
-- Recovery time is valuable
-- Guilt-free breathing room
-
-## Measuring Your Confetti
-
-### Track for One Week
-
-1. Note every task switch
-2. Record duration of focus blocks
-3. Count interruptions
-4. Calculate total confetti time
-5. Identify biggest causes
-
-### Typical Findings
-
-- 50-70% of day is confetti for knowledge workers
-- Only 20-30% is solid blocks
-- Most confetti is self-created (checking phone, email)
-- Some is external (colleagues, meetings)
-
-## The Goal
-
-**Flip the Ratio**:
-- From 70% confetti / 30% blocks
-- To 30% confetti / 70% blocks
-- Protect large chunks for important work
-- Accept some confetti as necessary
-- Minimize unnecessary fragmentation
-
-## Connection to Other Concepts
-
-### Deep Work (Cal Newport)
-- Requires blocks, not confetti
-- Time confetti is the enemy of deep work
-- Reducing confetti enables depth
-
-### Flow State
-- Impossible to achieve in confetti time
-- Needs 30+ minutes of uninterrupted focus
-- Confetti prevents optimal performance
-
-### Maker vs Manager Schedule (Paul Graham)
-- Maker schedule needs blocks
-- Manager schedule creates confetti
-- Knowledge workers need maker time
-
-## Practical Actions
-
-### Immediate Steps
-
-1. **Morning Block**: Protect first 90 minutes daily
-2. **Notification Audit**: Disable non-essential alerts
-3. **Email Schedule**: Check 2-3 times daily, not constantly
-4. **Meeting Consolidation**: Batch meetings to specific days
-5. **Phone Management**: Keep in drawer during focus work
-
-### Long-term Changes
-
-1. **Cultural Shift**: Team norms around interruptions
-2. **Communication Protocols**: Response time expectations
-3. **Tool Optimization**: Reduce notification-heavy apps
-4. **Workspace Design**: Physical setup supporting focus
-5. **Calendar Defense**: Block focus time proactively
-
-## The Awareness Exercise
-
-For one day:
-- Set timer for every task switch
-- Note the interruption trigger
-- Calculate average focus block duration
-- Feel the fragmentation
-
-Often, awareness alone motivates change.
-
-## Bottom Line
-
-Time confetti makes you feel busy without being productive. The solution isn't finding ways to use 3-minute fragments better—it's preventing those fragments from happening in the first place by protecting larger blocks of uninterrupted time.
+### Other Strategies
+- Minimize task switching
+- Turn off notifications during focus time
+- Schedule specific times for email and messages
+- Practice single-tasking
+- Create buffer time between commitments

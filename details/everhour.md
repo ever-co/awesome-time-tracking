@@ -1,40 +1,19 @@
 ## Overview
 
-Everhour's differentiator is deep integration with popular project management tools. Instead of a separate time tracking app, Everhour embeds timers directly into Asana tasks, Trello cards, ClickUp tasks, etc.
-
-## Key Integrations
-
-- Asana
-- Trello
-- ClickUp
-- Monday.com
-- Basecamp
-- Jira
-- GitHub
-- GitLab
-- Notion
+Everhour is designed for teams looking to track time, tasks, and project progress all in one place, with deep integrations for popular project management tools.
 
 ## Features
 
-- In-app time tracking
-- Browser extension
-- Mobile apps
-- Budget tracking
-- Invoicing
-- Reporting and analytics
-- Team scheduling
-- Leave management
-- Approval workflows
-
-## How It Works
-
-1. Install Everhour integration in your PM tool
-2. Timer appears on tasks/cards
-3. Track time without context switching
-4. Data syncs to Everhour for reporting
-5. Generate invoices from tracked time
+- **Embedded Time Tracking**: Controls embed directly inside existing project management tools
+- **Start Timers In-App**: Track time without switching tabs
+- **Budget Tracking**: View budgets and time allocation in real-time
+- **Project Management Integrations**: Seamless integration with Asana, Trello, Basecamp, and more
+- **Reporting**: Comprehensive time tracking reports
+- **Invoicing**: Generate invoices based on tracked time
+- **Team Collaboration**: Track team time and project progress
+- **Task Management**: Integrated task tracking alongside time tracking
 
 ## Pricing
 
-$8.50/user/month (5+ users)
-Free for solo users
+- Starting from $5 per user per month
+- Free version available

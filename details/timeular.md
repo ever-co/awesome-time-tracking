@@ -1,41 +1,20 @@
 ## Overview
 
-Timeular combines a physical 8-sided tracking dice ("The Tracker") with time tracking software to make time tracking as simple as flipping a physical object. Each face of the dice represents a different activity - just flip it to the relevant face to start tracking.
+Timeular is a timesheet software that combines physical and digital time tracking. The platform features the Timeular Tracker, an eight-sided dice where each side can be designated for a specific activity.
 
 ## Features
 
-### The Physical Tracker
-- **8-Sided Dice**: Each face represents one activity/project
-- **Bluetooth Connected**: Syncs wirelessly with computer and phone
-- **LED Lights**: Visual feedback showing tracking status
-- **Customizable Stickers**: Label each face with your activities
-- **Battery Powered**: USB rechargeable, weeks of battery life
-- **Desk Presence**: Always visible reminder to track time
-
-### Software Features
-- **Automatic Tracking**: Time starts when you flip the Tracker
-- **Manual Entry**: Add time retroactively via app
-- **Activity Reports**: Detailed analytics of time distribution
-- **Shared Activities**: Team members can track same activities
-- **Billable Hours**: Mark activities as billable
-- **Calendar Integration**: Sync with Google Calendar, Outlook
-- **Goals**: Set time goals for activities
-- **Tags**: Additional categorization beyond the 8 faces
-- **Notes**: Add context to time entries
-- **Export**: PDF, Excel, CSV reports
-- **Integrations**: Connect with project management tools
-
-## Benefits of Physical Tracking
-
-- **Zero Friction**: Physical action easier than opening app
-- **Visual Reminder**: Dice on desk prompts tracking
-- **Tactile Satisfaction**: Physical flip provides completion feeling
-- **No Screen Time**: Track without needing device
-- **Always Accessible**: No need to unlock phone or computer
+- **Physical Tracker**: Eight-sided dice that tracks hours automatically when flipped
+- **Bluetooth Connectivity**: Pairs with computer or smartphone via Bluetooth
+- **Visual Interface**: Beautiful color-block interface for easy time visualization
+- **Automatic & Manual Tracking**: Support for both tracking methods
+- **Multi-Platform**: Available on desktop and mobile devices
+- **Project Integration**: Connect tracked time to specific projects and tasks
+- **Reports & Analytics**: Comprehensive reporting on time allocation
+- **Team Features**: Collaboration tools for team time tracking
 
 ## Pricing
 
-- **Hardware**: €59 (one-time) for the Tracker device
-- **Software Free**: Basic app features included
-- **Pro**: €6.30 per user/month - Advanced features, team collaboration
-- **Team**: €9 per user/month - Team dashboards, admin controls
+- Personal Plan: Starting from $7.50 per month
+- Team Plan: $15.80 per 10 users per month
+- Physical Timeular Tracker device sold separately

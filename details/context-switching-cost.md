@@ -1,55 +1,30 @@
 ## Overview
 
-Context switching cost refers to the time and mental energy lost when transitioning between different tasks or types of work. Research shows this can consume up to 40% of productive time, making it one of the biggest drains on knowledge worker productivity.
+Context switching cost refers to the productivity loss and time required to refocus when switching between tasks or applications.
 
-## The Costs
+## Major Research Findings
 
-**Time Cost:**
-- Physical time to switch tools/applications
-- Time to remember context of new task
-- Time to rebuild concentration
-- Time to locate where you left off
+### Productivity Loss
+- **20-40% Loss**: Average person loses 20-40% productivity from task switching (Journal of Experimental Psychology)
+- **80% Reduction**: Gerald Wineberg found context switching can reduce productivity by 80%
+- **20% Per Task**: 20% of productivity power lost with each simultaneously juggled task
+- **40% Daily Drain**: Multitasking or switching could drain 40% of productivity daily (Psychology Today)
 
-Typically 15-30 minutes per switch to regain peak productivity.
+### Recovery Time
+- **23 Minutes 15 Seconds**: Average time to fully refocus after distraction (Gloria Mark, UC Irvine)
+- **Attention Residue**: Performance impaired after task switch as part of attention stays stuck on previous task (Sophie Leroy)
 
-**Cognitive Cost:**
-- Mental fatigue from repeated refocusing
-- Attention residue from previous task
-- Increased error rates
-- Reduced creative capacity
-- Decision fatigue
+### Frequency of Interruptions
+- **6-12 Minutes**: Knowledge workers interrupted every 6-12 minutes on average
+- **3 Minutes**: Workers switch tasks every 3 minutes on average
+- **11 Minutes**: Significant interruptions occur every 11 minutes
+- **1,200 Daily**: Digital workers toggle between apps nearly 1,200 times per day (Harvard Business Review 2022)
 
-## Research Findings
+### Economic Impact
+- **$450 Billion**: Annual cost of lost productivity in US (Gallup)
+- **4 Hours Weekly**: Spent reorienting after app switching
+- **9% Annual Time**: Five working weeks per year lost to context switching
 
-- American Psychological Association: Switching tasks can cost up to 40% of productive time
-- University of California Irvine: Takes average of 23 minutes to regain focus after interruption
-- Microsoft Research: Workers switch contexts every 3 minutes on average
+## Implications
 
-## Common Triggers
-
-- Email and messaging notifications
-- Unscheduled meetings
-- Phone calls
-- Switching between projects
-- Moving between work and personal tasks
-- Multi-tasking attempts
-
-## Reducing Context Switching
-
-**Batch Similar Work:**
-Group similar tasks together (all calls, all email)
-
-**Time Blocking:**
-Dedicate uninterrupted blocks to single task types
-
-**Disable Notifications:**
-Turn off all non-critical alerts during focused work
-
-**Set Communication Hours:**
-Designate specific times for responsive communication
-
-**Complete Before Switching:**
-Finish tasks or reach clear stopping points
-
-**Use Transition Rituals:**
-Create brief pauses between different work modes
+Context switching represents one of the most significant yet hidden costs to modern workplace productivity.

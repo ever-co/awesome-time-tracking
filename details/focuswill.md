@@ -1,42 +1,28 @@
 ## Overview
 
-Focus@Will is a productivity tool that uses neuroscience-based music to help you focus and be more productive. The service provides specially designed music tracks that are engineered to reduce distractions and improve concentration.
+Focus@Will uses curated human-composed music across multiple channels with a productivity tracker, based on research showing specific music types work for specific people.
+
+## Scientific Foundation
+
+- **2-4x Focus Time Increase**: Studies reveal productivity boost with most active users
+- **Personalized Channels**: Specific music types matched to individual productivity profiles
+- **Neuroscience-Based**: Music selection based on attention research
 
 ## Features
 
-- **Scientifically Designed Music**: Tracks engineered for focus
-- **Multiple Channels**: Various music genres and styles
-- **Focus Timer**: Built-in Pomodoro-style timer
-- **Productivity Tracking**: Track focus sessions and improvements
-- **Energy Level Selection**: Match music to your current energy
-- **Personalization**: AI learns your preferences
-- **No Vocals**: Music without lyrics to prevent distraction
-- **Cross-Platform**: Web, iOS, Android, desktop apps
-- **Offline Mode**: Download tracks for offline listening
-- **Integration**: Works with task managers and calendars
-
-## Music Channels
-
-- Classical
-- Ambient
-- Up tempo
-- Alpha chill
-- Acoustical
-- Focus spa
-- Water
-- ADHD Type 1 & 2
+- **Multiple Music Channels**: Various genres optimized for focus
+- **Productivity Tracker**: Monitor focus time and patterns
+- **Session Timer**: Set work session durations
+- **Energy Level Selector**: Choose music based on current energy
+- **Offline Listening**: Download music for offline use
+- **Cross-Platform**: Available on web, mobile, and desktop
 
 ## How It Works
 
-Based on 15+ years of neuroscience research:
-1. Music is specifically engineered to engage your brain's limbic system
-2. Reduces distractions by creating optimal acoustic environment
-3. Maintains attention without being distracting itself
-4. Adapts to your personality type and preferences
+Focus@Will's science states there is a specific type of music that works for specific people to amplify productivity. The service helps identify which channel works best for each individual.
 
 ## Pricing
 
-- **Monthly**: $9.95/month
-- **Yearly**: $52.50/year
-- **2-Year**: $84/2 years
-- Free trial available
+- $7.49/month
+- Annual plans available
+- Free trial offered

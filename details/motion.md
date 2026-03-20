@@ -1,17 +1,35 @@
 ## Overview
 
-Motion is a project management software with a calendar at its core that was built to be your team's project management software and AI calendar. Motion is the only daily planner that actually leverages AI to plan your day for you, rather than requiring manual time blocking.
+Motion is a smart productivity tool that automatically schedules tasks, meetings, and projects using AI, positioning itself as an AI-powered executive assistant.
 
-## Features
+## Key Features
 
-- **AI Auto-Scheduling**: Automatically schedules tasks to your calendar based on priority, deadlines, and available time
-- **Project Management**: Full-featured project management with task dependencies and team collaboration
-- **Meeting Scheduler**: Intelligent meeting booking that finds optimal times
-- **Calendar Integration**: Connects with Google Calendar and Outlook
-- **Task Prioritization**: AI-driven prioritization based on deadlines and importance
-- **Time Blocking**: Automatic time blocking without manual effort
-- **Team Coordination**: Helps teams coordinate schedules and workloads
+### Automated Scheduling
+- **AI Optimization**: Takes all projects and tasks, prioritizes and timeblocks them automatically
+- **Dynamic Optimization**: Updates schedule dozens of times per day
+- **Intelligent Placement**: Finds best time for each task balancing deadlines and priorities
+
+### AI Task Manager
+- **Auto-Scheduling**: Schedules tasks based on priorities and deadlines
+- **Real-Time Adaptation**: Adjusts when plans change
+- **Deadline Protection**: Never miss deadlines through automatic management
+
+### Dynamic Rescheduling
+- **Instant Reshuffling**: When meetings run long or emergencies arise
+- **Week-Wide Reorganization**: Adjusts entire day and week in seconds
+- **Mental Bandwidth Protection**: Eliminates manual reorganization
+
+### Smart Time Blocking
+- **Deep Work Allocation**: Focuses time while balancing meetings
+- **Task Chunking**: Breaks larger tasks into smaller time blocks
+- **Context Consideration**: Factors availability, duration, deadlines, priorities
+
+## User Benefits
+
+- Save 2-5 hours weekly
+- Significantly reduced feeling of overwhelm
+- Eliminates mental overhead of manual scheduling
 
 ## Pricing
 
-Motion costs $19/month on an annual plan or $34/month when billed monthly. There is a 7-day free trial available.
+Individual Plan: $19/month

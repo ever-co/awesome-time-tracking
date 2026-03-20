@@ -1,36 +1,28 @@
 ## Overview
 
-Endel is an AI-powered app that creates personalized soundscapes to help you focus, relax, and sleep. The soundscapes adapt in real-time based on various environmental and physiological inputs.
+Endel is a standalone subscription service that uses AI to create ever-shifting "wellness soundscapes" that adapt to environmental and personal factors.
 
-## Key Technology
+## Unique Features
 
-Endel uses circadian rhythms, pentatonic scale, and sound masking to create soundscapes that react to inputs like:
-- Time of day
-- Weather conditions
-- Heart rate (via wearables)
-- Location
+- **Adaptive Soundscapes**: AI-generated audio that changes based on context
+- **Weather Integration**: Adjusts to current weather conditions
+- **Time-Aware**: Adapts to time of day
+- **Heart Rate Monitoring**: Syncs with listener's heart rate (requires compatible device)
+- **Circadian Rhythm**: Aligns with natural body rhythms
+- **Intriguing Interface**: Unique visual design
 
-## Features
+## Sound Modes
 
-- Real-time adaptive soundscapes
-- Integration with Apple Watch and other wearables
-- Multiple modes: Focus, Relax, Sleep, and On-the-Go
-- Offline playback support
-- Cross-platform availability (iOS, Android, macOS, Apple Watch, Alexa)
-- Scientifically validated to improve focus and reduce stress
+- **Focus**: Soundscapes for concentration and productivity
+- **Relax**: Audio for stress reduction
+- **Sleep**: Sounds to improve sleep quality
+- **On-the-Go**: Soundscapes for commuting and movement
 
-## Scientific Validation
+## Technology
 
-Neuroscience research demonstrates that Endel consistently improves focus and lowers stress levels in users.
-
-## Use Cases
-
-- Maintaining focus during work sessions
-- Reducing stress and anxiety
-- Improving sleep quality
-- Managing ADHD symptoms
-- Creating optimal environments for productivity
+Unlike traditional music services, Endel generates soundscapes in real-time using AI algorithms rather than playing pre-recorded tracks.
 
 ## Pricing
 
-Free version available with limited soundscapes. Premium subscription unlocks all modes and features.
+- $14.99/month subscription
+- Annual plans available

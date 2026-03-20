@@ -1,29 +1,30 @@
 ## Overview
 
-StayFocusd is a productivity Chrome extension that helps you stay focused on work by restricting the amount of time you can spend on time-wasting websites. Once your allotted time has been used up, the sites you've blocked are inaccessible for the rest of the day.
+StayFocusd is a free Google Chrome extension designed to help users stay focused by blocking time-wasting and distracting websites.
 
 ## Features
 
-- **Time Restrictions**: Set maximum time allowed on specific sites per day
-- **The Nuclear Option**: Block all websites except work sites for set period
-- **Block Whole Sites**: Block entire domains
-- **Block Specific Content**: Block specific pages, subdomains, or paths
-- **Active Days/Hours**: Set when blocking is active
-- **Challenge Mode**: Difficult to disable once activated
-- **Require Challenge**: Complete typing challenge to change settings
-- **Custom Block Page**: Motivational messages when blocked
-- **Import/Export**: Share settings across devices
-- **Statistics**: Track blocked attempts and time saved
+- **Granular Control**: Block entire sites, specific paths, specific subdomains
+- **Content Blocking**: Block specific in-page content (images, videos, etc.)
+- **Time Limits**: Set allowed time for certain websites
+- **Nuclear Option**: Complete internet block for extreme focus
+- **Challenge Mode**: Difficult-to-disable blocking feature
+- **Customizable Block Pages**: Create custom messages for blocked sites
+- **Active Days**: Choose which days blocking is active
 
-## The Nuclear Option
+## Blocking Options
 
-- Block all sites except whitelist for up to 8 hours
-- Cannot be disabled once activated
-- Ideal for exam prep or important deadlines
-- Forces extreme focus
+- **Entire Sites**: Block complete websites
+- **Specific Paths**: Block only certain pages within a site
+- **Subdomains**: Target specific subdomains
+- **Page Elements**: Block images, videos, or other content types
 
 ## Pricing
 
-- Free Chrome extension
-- No premium version
-- Open source
+Completely free with no in-app purchases or additional charges.
+
+## Limitations
+
+- Chrome-only (not available for other browsers)
+- Desktop browser extension (no mobile support)
+- Requires Chrome browser installation

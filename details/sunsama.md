@@ -1,48 +1,38 @@
 ## Overview
 
-Sunsama takes a different approach to productivity by emphasizing realistic daily planning, reflection, and balance. It guides users through a structured daily planning ritual that prevents overcommitment and encourages mindful work.
-
-## Daily Planning Ritual
-
-**Morning**:
-1. Review yesterday's progress
-2. Import tasks from connected tools
-3. Set realistic goals for today
-4. Timeblock tasks on calendar
-5. Set shutdown time
-
-**Evening**:
-1. Review what got done
-2. Reflect on the day
-3. Move incomplete tasks
-4. Celebrate progress
+Sunsama is a digital daily planner designed to help busy professionals organize their work one day at a time while maintaining work-life balance and reducing stress through a zen-like, intentional approach.
 
 ## Key Features
 
-- Guided daily planning
-- Calendar integration
-- Task import from multiple tools
-- Timeboxing interface
-- Daily objectives setting
-- Reflection prompts
-- Work capacity tracking
-- Mobile app
+### Time Blocking & Calendar Integration
+- **Timeboxing**: Drag tasks onto calendar to decide exactly when to work on them
+- **Automatic Events**: Calendar events created on Google or Outlook calendar
+- **Duration Estimates**: Set how long each task will take
+
+### Task Integration
+- **Pull from Tools**: Import tasks from Asana, Trello, Jira
+- **Email to Tasks**: Drag emails into task list for later work
+- **Slack/Teams Messages**: Convert messages into tasks
+- **Prevents Overwhelm**: Never feel buried under endless to-dos
+
+### Daily Planning Rituals
+- **Guided Planning**: App prompts daily planning process
+- **Yesterday Review**: Review completed tasks from previous day
+- **Focus Selection**: Choose what to focus on today
+- **Backlog Management**: Move non-essential items to another day
+- **Time Estimation**: Estimate task duration
+- **Calendar Blocking**: Block time on calendar
 
 ## Philosophy
 
-- Sustainable productivity
-- Realistic planning (don't overcommit)
-- Work-life balance emphasis
-- Intentional work over hustle
-- Daily review and reflection
+If you like to take an intentional, zen-like approach to planning your day and can carve out 15-20 minutes daily for planning, Sunsama could be ideal.
 
-## Integrations
+## Platform Support
 
-- Todoist, Asana, Trello
-- Gmail, Outlook
-- Slack, ClickUp
-- Google Calendar
+- Desktop (macOS, Windows)
+- iOS
+- Android
 
 ## Pricing
 
-$20/month or $16/month annual. 14-day free trial.
+No permanent free tier. Paid plans available.
