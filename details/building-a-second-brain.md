@@ -1,132 +1,52 @@
 ## Overview
 
-Building a Second Brain is a comprehensive methodology and book by Tiago Forte that provides a systematic approach to managing information and knowledge in the digital age. The system helps individuals capture, organize, distill, and express their ideas and knowledge using digital tools, effectively creating an external "second brain" that enhances productivity and creativity.
+Building a Second Brain (BASB) is a methodology created by Tiago Forte for saving and systematically reminding yourself of ideas, inspirations, insights, and connections you've gained through experience. It's designed for managing information and boosting productivity in the digital age.
 
 ## The CODE Method
 
-Building a Second Brain is built on four core steps:
+The system is built around four key steps:
 
-### C - Capture
+### Capture
+- Keep what resonates: Save only information that genuinely interests or moves you
+- Capture from multiple sources: books, articles, conversations, experiences
+- Focus on quality over quantity
 
-- Save valuable information from various sources
-- Collect insights, ideas, and resources as you encounter them
-- Use digital tools to capture everything worth remembering
-- Focus on what resonates rather than trying to save everything
-
-### O - Organize
-
-- Structure information in actionable categories
+### Organize
 - Use the PARA method: Projects, Areas, Resources, Archives
 - Organize by actionability rather than topic
-- Create systems that support finding and using information
+- Make information easy to find when needed
 
-### D - Distill
+### Distill
+- Progressive summarization: Highlight key points in multiple passes
+- Create layers of understanding
+- Extract the essence without losing context
 
-- Extract the essence from captured information
-- Use progressive summarization to highlight key insights
-- Make information more accessible and useful
-- Create "knowledge gems" from raw material
-
-### E - Express
-
-- Share and create using your collected knowledge
-- Turn consumption into creation
-- Use your second brain as raw material for projects
-- Complete the learning cycle by producing output
+### Express
+- Create tangible outputs from collected knowledge
+- Share insights through writing, presentations, or projects
+- Complete the learning cycle by teaching others
 
 ## The PARA Method
 
-A key organizational framework within Building a Second Brain:
-
-- **Projects**: Short-term efforts with specific goals
-- **Areas**: Long-term responsibilities to maintain
+- **Projects**: Short-term efforts with specific goals and deadlines
+- **Areas**: Long-term responsibilities to maintain over time
 - **Resources**: Topics of ongoing interest
-- **Archives**: Inactive items from the other categories
+- **Archives**: Inactive items from the other three categories
 
-## Key Benefits
+## Benefits for Time Management
 
-### For Productivity
+By implementing a Second Brain, you:
 
-- Reduce mental load by externalizing information
-- Find information quickly when needed
+- Reduce cognitive load and mental clutter
+- Never lose important information
 - Connect ideas across different domains
-- Accelerate project completion
+- Make better decisions with accessible knowledge
+- Accelerate project completion with organized resources
 
-### For Creativity
+## Platform Agnostic
 
-- Discover unexpected connections between ideas
-- Build on past insights rather than starting from scratch
-- Maintain momentum on creative projects
-- Develop a personal knowledge base over time
+The methodology works with various tools including Notion, Evernote, Obsidian, Roam Research, or any digital note-taking system.
 
-### For Time Management
+## Pricing
 
-- Spend less time searching for information
-- Reduce context switching cognitive load
-- Make faster decisions with accessible knowledge
-- Focus energy on creation rather than organization
-
-## Digital Tools
-
-While the methodology is tool-agnostic, common platforms include:
-
-- Notion
-- Evernote
-- Obsidian
-- Roam Research
-- Apple Notes
-- Microsoft OneNote
-
-## 2026 Relevance
-
-In 2026, Building a Second Brain is recognized as:
-
-- **Best for managing information and boosting productivity** (featured in multiple 2026 lists)
-- Essential for knowledge workers dealing with information overload
-- Critical for remote and distributed teams
-- Foundational for AI-augmented work (having organized knowledge to feed AI tools)
-
-## Progressive Summarization
-
-A key technique within the system:
-
-1. **Layer 1**: Original content saved
-2. **Layer 2**: Bold the most interesting passages
-3. **Layer 3**: Highlight the best of what you bolded
-4. **Layer 4**: Create an executive summary
-5. **Layer 5**: Remix into your own work
-
-## Target Audience
-
-Ideal for:
-
-- Knowledge workers managing large amounts of information
-- Creatives wanting to capture and develop ideas
-- Students and researchers organizing learning
-- Writers and content creators building knowledge bases
-- Anyone feeling overwhelmed by information overload
-
-## Community and Resources
-
-- Building a Second Brain (book)
-- Online course by Tiago Forte
-- Forte Labs blog and newsletter
-- Active community of practitioners
-- YouTube channel with tutorials
-
-## Complementary Approaches
-
-Building a Second Brain works well with:
-
-- Getting Things Done (GTD) for task management
-- Zettelkasten for note-taking and linking
-- PARA for organizational structure
-- Time blocking for focused work sessions
-
-## Key Principles
-
-1. **Capture externally, not mentally**: Free your mind by saving ideas
-2. **Organize for actionability**: Structure based on how you'll use information
-3. **Distill progressively**: Make information more useful over time
-4. **Express regularly**: Turn knowledge into creative output
-5. **Iterate continuously**: Improve your system as you use it
+The book is available in multiple formats, and Tiago Forte also offers online courses and training on the methodology.

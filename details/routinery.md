@@ -1,57 +1,67 @@
 ## Overview
 
-Routinery is a mobile app designed to help you build and stick to daily routines through visual timers, progress tracking, and habit stacking. It's particularly effective for morning and evening routines, helping you establish consistent patterns that improve productivity and well-being.
+Routinery is a routine building app designed to help users create, time, and track structured routines throughout the day. Unlike simple habit trackers, Routinery provides step-by-step guidance with timers for each action.
 
-## Features
+## Core Features
 
-- **Visual Routine Timers**: See progress through each routine step
-- **Custom Routines**: Create morning, evening, work, or any custom routine
-- **Habit Stacking**: Link habits together in sequences
-- **Time Estimates**: Set duration for each routine step
-- **Progress Tracking**: Monitor routine completion over time
-- **Streak Counting**: Build momentum with consistency tracking
-- **Routine Templates**: Pre-built routines to get started quickly
-- **Flexible Scheduling**: Different routines for different days
-- **Notification Reminders**: Prompts to start your routine
-- **Dark Mode**: Easy on the eyes for evening routines
-- **Simple Interface**: Clean, distraction-free design
-- **Offline Functionality**: Works without internet
+### Step-by-Step Routines
 
-## Common Routines
+- List out individual steps/actions for each routine
+- Attach specific timers to how long each step should take
+- Visual progress through routine completion
+- Sequential flow keeps users on track
 
-### Morning Routine
-- Wake up at consistent time
-- Hydration
-- Exercise or stretching
-- Meditation
-- Healthy breakfast
-- Planning the day
-- Skincare/grooming
+### Smart Reminders
 
-### Evening Routine
-- Review the day
-- Prepare for tomorrow
-- Skincare/hygiene
-- Reading
-- Gratitude practice
-- Screen-free wind down
-- Consistent bedtime
+- Notifications when it's time to start a routine
+- Alerts to move to the next step
+- Customizable reminder settings
+- Helps maintain consistency
 
-### Work Start Routine
-- Review priorities
-- Clear workspace
-- Check calendar
-- Deep breathing
-- Focus time block
+## Popular Routine Types
+
+### Morning Routines
+
+- Wake-up sequence (5 min)
+- Exercise/stretching (15 min)
+- Shower and grooming (10 min)
+- Breakfast preparation (10 min)
+- Daily planning (5 min)
+
+### Work Routines
+
+- Workday startup (10 min)
+- Mid-morning break (5 min)
+- Lunch routine (30 min)
+- End-of-day shutdown (15 min)
+
+### Evening Routines
+
+- Dinner preparation (20 min)
+- Family time (30 min)
+- Personal care (15 min)
+- Bedtime wind-down (20 min)
 
 ## Benefits
 
-- Reduces decision fatigue in mornings
-- Builds healthy habits through consistency
-- Improves sleep with evening routines
-- Creates structure in flexible schedules
-- Visual progress provides motivation
+- Reduces decision fatigue
+- Maintains consistent timing
+- Prevents routine drift
+- Builds automatic behaviors
+- Provides structure to chaotic days
+
+## Use Cases
+
+- Establishing morning routines
+- ADHD time management support
+- Parent-child routine coordination
+- Fitness and wellness routines
+- Professional productivity workflows
+
+## Platform
+
+Available on iOS and Android devices.
 
 ## Pricing
 
-Free version with basic features. Premium subscription for advanced tracking and unlimited routines.
+Offers both free and premium versions with additional features and customization options.
