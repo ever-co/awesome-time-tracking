@@ -1,58 +1,40 @@
 ## Overview
 
-Total Time Accounting (TTA) is a Defense Contract Audit Agency (DCAA) requirement ensuring that all hours worked by employees on government contracts are accurately tracked and reported, forming the basis for labor cost calculations.
+Total Time Accounting (TTA) is one of the core rules for DCAA-compliant time tracking, requiring government contractors to track and record ALL hours worked by employees without exception.
 
-## Core Principle
+## What Must Be Tracked
 
-TTA requires contractors to account for every hour worked during an employee's day, not just time spent on billable government projects. This includes:
-- Direct project time
-- Indirect time (administrative tasks, training, meetings)
-- Paid time off (vacation, sick leave, holidays)
-- Uncompensated overtime
+Under Total Time Accounting requirements, contractors must track:
 
-## Key Requirements
+- **Direct billable hours**: Time charged directly to government contracts
+- **Indirect (non-billable) hours**: Administrative tasks, training, business development
+- **Overtime**: All hours worked beyond standard schedules
+- **Paid time off**: Vacation, holidays, sick leave
+- **Unpaid time off**: Leave without pay
 
-### Daily Time Entry
-- Employees must record time daily as work is performed
-- No pre-filling, estimating, or rounding of hours
-- All hours and minutes must be precisely documented
+## Why It Matters
 
-### 100% Time Coverage
-- Total recorded time must equal the employee's full work schedule
-- Any gaps or discrepancies must be identified and explained
-- Both compensated and uncompensated time must be captured
+Total Time Accounting ensures complete transparency and accountability in how contractor labor costs are charged to government contracts. It prevents cost shifting and ensures accurate allocation of costs between direct and indirect categories.
 
-### Supervisor Approval
-- Timesheets require supervisor review and approval
-- Approvals must be documented with signatures or electronic records
-- Supervisors verify accuracy and allocations
+## Implementation Requirements
 
-## Benefits
+- Employees must track time daily and in real-time
+- All time must be accounted for, with no gaps in the timesheet
+- Proper cost objective codes must be assigned to all time entries
+- Both billable and non-billable time must be captured
 
-- Ensures fair and accurate billing to government contracts
-- Provides audit trail for DCAA compliance reviews
-- Prevents fraud and misallocation of labor costs
-- Supports accurate indirect rate calculations
+## Audit Considerations
 
-## Implementation
-
-Successful TTA implementation requires:
-- Specialized timekeeping software designed for government contractors
-- Clear policies and employee training on time tracking requirements
-- Regular internal audits to identify and correct discrepancies
-- Six-year record retention as per DCAA guidelines
-
-## Who Needs TTA?
-
-TTA is mandatory for:
-- Cost-reimbursable government contractors
-- Time-and-materials (T&M) contract holders
-- Any organization billing labor costs to federal contracts
+DCAA auditors will verify that:
+- No time is unaccounted for during regular work hours
+- Direct and indirect time is properly segregated
+- Time off is appropriately documented
+- Total hours tracked match payroll records
 
 ## Consequences of Non-Compliance
 
-Failure to maintain proper TTA can result in:
-- Disallowed labor costs during audits
-- Financial penalties and fines
-- Contract suspension or termination
-- Damage to contractor reputation and future bidding opportunities
+Failure to implement Total Time Accounting can result in disallowed costs, fines for inaccurate reporting, and potential contract termination.
+
+## Pricing
+
+N/A - This is a compliance methodology, not a paid product.

@@ -1,84 +1,64 @@
 ## Overview
 
-The 7-minute rule is a time-rounding standard permitted under the Fair Labor Standards Act (FLSA) that allows employers to round employee work time to the nearest quarter hour (15 minutes). The rule gets its name from the 7-minute threshold: times within 7 minutes of a quarter hour round down, while times 8 minutes or more round up.
+The 7-minute rule is a time rounding practice approved by the Department of Labor (DOL) that allows employers to round employee time punches to the nearest 15-minute interval.
 
 ## How It Works
 
-### Rounding Examples:
+When rounding to 15-minute increments:
 
-- Employee clocks in at 8:07 AM → Rounds down to 8:00 AM
-- Employee clocks in at 8:08 AM → Rounds up to 8:15 AM
-- Employee clocks out at 5:07 PM → Rounds down to 5:00 PM
-- Employee clocks out at 5:08 PM → Rounds up to 5:15 PM
-
-### The Formula:
-
-For any time, minutes 1-7 past a quarter hour round to the previous quarter, while minutes 8-14 round to the next quarter.
+- **Minutes 1-7**: Round down to the previous quarter hour
+  - Example: 10:07 AM rounds down to 10:00 AM
+- **Minutes 8-14**: Round up to the next quarter hour
+  - Example: 10:08 AM rounds up to 10:15 AM
 
 ## Legal Requirements
 
-### FLSA Neutrality Requirement
+The DOL permits time rounding if three conditions are met:
 
-The critical legal requirement is that rounding must be **neutral over time**. It cannot systematically benefit the employer. The Department of Labor requires that:
+1. **Neutral Impact**: Rounding cannot systematically favor the employer
+2. **15-Minute Maximum**: The maximum rounding increment allowed is 15 minutes
+3. **Consistent Application**: The rule must be applied uniformly to all employees
 
-- Rounding benefits employees roughly as often as it benefits employers
-- Over any pay period, employees aren't consistently shortchanged
-- The system doesn't create a pattern of underpayment
+## Common Rounding Intervals
 
-### Maximum Rounding Increment
+**15-Minute (Quarter Hour)**:
+- Uses 7-minute split (as described above)
+- Most common in traditional industries
 
-FLSA allows rounding to:
-- 15 minutes (most common)
-- 10 minutes
-- 6 minutes (for industries using 1/10th hour)
-- 5 minutes
+**6-Minute (1/10th Hour)**:
+- Uses 3-minute split for rounding
+- Common in legal billing
 
-Rounding beyond 15 minutes is generally not permitted.
+**5-Minute**:
+- Uses 2.5-minute split
+- Popular in retail and food service
 
-## State-Specific Variations (2026)
+## State Variations
 
-While federal law permits the 7-minute rule, some states have additional requirements:
+Some states have stricter requirements:
+- California has specific restrictions on rounding practices
+- Some jurisdictions prohibit rounding altogether
+- Always check state-specific labor laws
 
-- **California**: Increasingly restrictive, with courts scrutinizing rounding practices
-- **Colorado**: Requires rounding to nearest 15 minutes with neutral outcomes
-- **Nevada**: Similar to federal standards but with strict neutrality enforcement
-- **Oregon**: Permits rounding but requires detailed documentation
+## Best Practices
 
-Many states have no specific rounding rules beyond federal FLSA requirements.
+- Ensure rounding is truly neutral over time
+- Document your rounding policy clearly
+- Communicate the policy to all employees
+- Regular audits to verify neutral impact
+- Consider whether rounding is worth the compliance risk
 
-## Common Violations
+## Risks
 
-Employers face legal risk when:
+Even legally compliant rounding can expose employers to wage and hour claims if:
+- The system consistently rounds against employees
+- Employees perceive unfairness
+- Documentation is insufficient
 
-- Rounding only clock-out times (systematically underpaying)
-- Using different rounding for clock-in vs. clock-out
-- Rounding breaks in ways that favor the employer
-- Applying rounding inconsistently across employees
-- Failing to pay for short periods of work (de minimis time)
+## Alternatives
 
-## Trend Away from Rounding
+Many modern time tracking systems track time to the minute, eliminating rounding controversy entirely.
 
-By 2026, many companies are abandoning timesheet rounding entirely:
+## Pricing
 
-- Modern time tracking technology makes minute-by-minute tracking easy
-- Legal risk from rounding lawsuits is increasing
-- Employees prefer seeing actual time worked
-- Some states are moving to restrict or ban rounding
-- Digital systems eliminate the historical need for rounding
-
-### Notable Case
-
-In 2023, Home Depot changed its rounding policy for hourly employees, agreeing to pay nonexempt employees to the nearest minute based on actual time punches rather than using rounding, following wage and hour lawsuits.
-
-## Best Practices 2026
-
-If using the 7-minute rule:
-
-1. Apply it consistently to all employees and all time entries
-2. Round both clock-in and clock-out times
-3. Document that rounding is neutral over time
-4. Review rounding outcomes quarterly to ensure fairness
-5. Consider eliminating rounding entirely
-6. Train managers on proper rounding procedures
-7. Maintain clear written policies
-8. Consult employment attorney in restrictive states
+N/A - This is a time tracking methodology, not a paid service.

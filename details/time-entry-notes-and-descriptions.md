@@ -1,61 +1,104 @@
 ## Overview
 
-Time entry notes and descriptions provide narrative context for logged hours, explaining what work was performed, decisions made, and value delivered. These details are crucial for billing justification, project management, and creating defensible records of professional services.
+Time Entry Notes transform raw hours into meaningful work records, providing justification for billing, creating audit trails, and enabling project understanding for stakeholders.
 
-## Importance
+## Purpose
 
-### Client Billing
-Detailed descriptions justify billed hours and demonstrate value delivered
+**Client Billing**:
+- Justify hours charged
+- Demonstrate value delivered
+- Support invoice disputes
+- Build trust
 
-### Project Management
-Track progress and document decisions made during work
+**Project Management**:
+- Track progress
+- Identify bottlenecks
+- Document decisions
+- Knowledge transfer
 
-### Audit Defense
-Provide evidence of work performed if billing is questioned
-
-### Knowledge Transfer
-Create record of work for team continuity
-
-### Compliance
-Meet regulatory requirements for detailed time documentation
+**Audit Compliance**:
+- DCAA requirements
+- Legal billing standards
+- Government contracts
+- Internal controls
 
 ## Best Practices
 
-### Be Specific
-Bad: "Worked on project"
-Good: "Reviewed contract terms sections 4-7, drafted amendments for client approval"
+### Specificity
+**Bad**: "Working on project"
+**Good**: "Implemented user authentication API endpoint with JWT tokens"
 
-### Focus on Value
-Describe outcomes and deliverables, not just activities
+**Bad**: "Meeting"
+**Good**: "Client review meeting - discussed Q2 deliverables and approved design mockups"
 
-### Use Professional Language
-Write as if client will read it (they often do)
+**Bad**: "Research"
+**Good**: "Researched React state management libraries, evaluated Redux vs. Context API for project needs"
 
-### Include Key Details
-- What was done
-- Why it was necessary
-- What was accomplished
-- Next steps if applicable
+### Structure
 
-### Keep Contemporaneous
-Add notes while work is fresh, not days later
+**Action + Object + Context**:
+- "Developed customer registration form with email validation"
+- "Reviewed and approved Q3 marketing budget proposal"
+- "Fixed critical bug in payment processing workflow"
 
-## Common Formats
+### Level of Detail
 
-### Legal Services
-"Research case law regarding [issue]; drafted memo summarizing findings"
+**Internal Time**: Can be more concise
+**Billable Time**: More detailed for client transparency
+**Government Contracts**: Highly detailed for audit
 
-### Consulting
-"Stakeholder interviews with 3 department heads; documented requirements for phase 2"
+## Templates
 
-### Development
-"Implemented user authentication feature; resolved 2 related bugs; deployed to staging"
+**Development**:
+- "Implemented [feature] including [details]"
+- "Fixed [bug] by [solution]"
+- "Refactored [component] to improve [metric]"
 
-## Features in Software
+**Consulting**:
+- "Analyzed [topic] and recommended [action]"
+- "Met with [stakeholder] to discuss [topic]"
+- "Prepared [deliverable] including [contents]"
 
-- Rich text formatting
-- Templates for common activities
-- Character limits appropriate for use case
-- Search/filter by keywords
-- Required vs. optional notes
-- Privacy controls (internal vs. client-visible)
+**Administrative**:
+- "Reviewed and processed [documents]"
+- "Coordinated [activity] with [parties]"
+- "Updated [system/process] to reflect [changes]"
+
+## Automation
+
+**Auto-Populate**:
+- From calendar event titles
+- From task names
+- From commit messages
+- From templates
+
+**Smart Suggestions**:
+- Recent descriptions
+- Similar project patterns
+- Frequent phrases
+- Auto-complete
+
+## Common Mistakes
+
+**Too Vague**: Doesn't justify time
+**Too Detailed**: Information overload
+**Client-Inappropriate**: Technical jargon or internal issues
+**No Context**: Missing why work was done
+
+## Compliance Considerations
+
+**Legal Profession**:
+- Ethical billing rules
+- Detailed task descriptions
+- Outcome documentation
+- Time contemporaneous
+
+**Government Contracting**:
+- Work performed must be clear
+- Contract deliverable linkage
+- Audit defensible
+- No generic entries
+
+## Pricing
+
+N/A - This is a time tracking practice.
