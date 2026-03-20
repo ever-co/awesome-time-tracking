@@ -8,7 +8,7 @@ This directory was built and is maintained using the [Ever Works](https://ever.w
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
 ## 📑 Table of Contents
 
-- [Time Management Methodology (160)](#time-management-methodology)
+- [Time Management Methodology (161)](#time-management-methodology)
 - [Time Management Practice (168)](#time-management-practice)
 - [Time Management Philosophy (78)](#time-management-philosophy)
 - [Practices (302)](#practices)
@@ -107,10 +107,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [practices (2)](#practices-1)
 - [Productivity & Process Documentation (3)](#productivity--process-documentation)
 - [Productivity Analytics (19)](#productivity-analytics)
-- [Productivity App (5)](#productivity-app)
+- [Productivity App (6)](#productivity-app)
 - [Productivity Community (2)](#productivity-community)
 - [Productivity Feature (27)](#productivity-feature)
-- [Productivity Philosophy (1)](#productivity-philosophy)
+- [Productivity Philosophy (2)](#productivity-philosophy)
 - [Productivity Statistic (8)](#productivity-statistic)
 - [Productivity Tools (76)](#productivity-tools)
 - [Productivity Trend (3)](#productivity-trend)
@@ -287,6 +287,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Quarterly Planning Cycles](https://www.atlassian.com/blog/productivity/time-management-strategies) - Time management framework using 90-day planning periods (quarters) for goal setting and project execution. Balances long-term vision with short-term action, popular in both business and personal productivity contexts. ([Read more](/details/quarterly-planning-cycles.md)) `Planning` `Goal Setting` `Strategic`
 - [Reverse Pomodoro Technique](https://customodoro.vercel.app/reverse) - Adapted productivity method that starts with rest periods and gradually builds work momentum, designed for individuals with executive dysfunction, ADHD, or anxiety who find traditional Pomodoro overwhelming. ([Read more](/details/reverse-pomodoro-technique.md)) `Accessibility` `Adhd` `Gentle Productivity`
 - [RPM Method (Rapid Planning Method)](https://www.tonyrobbins.com/rpm-system) - Tony Robbins' revolutionary life management system that focuses on results, purpose, and massive action planning rather than traditional time management, helping individuals create fulfilling lives while achieving their goals. ([Read more](/details/rpm-method-rapid-planning-method.md)) `Goal Setting` `Purpose Driven` `Strategic Planning`
+- [Rule of 3](https://gettingresults.com/explained-the-rule-of-3/) - A productivity method introduced by J.D. Meier in 'Getting Results the Agile Way' that involves identifying three key outcomes you want to accomplish at different time horizons (day, week, month, year). The approach forces prioritization and helps maintain focus on what truly matters. ([Read more](/details/rule-of-3.md)) `Prioritization` `Goal Setting` `Agile`
 - [Scott Belsky (Action Method Creator)](https://actionmethod.com) - Behance founder and Adobe executive who created the Action Method productivity system, emphasizing bias toward action by organizing work into Action Items, Backburner Items, and Reference Items to ensure ideas lead to execution. ([Read more](/details/scott-belsky-action-method-creator.md)) `Inventor` `Behance` `Action Method` `Productivity System`
 - [Sequential Task Processing](https://friday.app/p/multi-single-tasking) - Monotasking methodology emphasizing completion of one task fully before starting another, minimizing context switching costs and attention residue by maintaining sustained focus on single objectives until logical completion points. ([Read more](/details/sequential-task-processing.md)) `Monotasking` `Focus` `Productivity`
 - [Single-Tasking Methodology](https://www.psychologytoday.com/us/blog/brain-wise/201209/the-true-cost-multi-tasking) - Productivity approach emphasizing exclusive focus on one task at a time, opposite of multitasking. Neuroscience research shows single-tasking produces 40% better results than task-switching while reducing stress and cognitive load. Core principle: the brain doesn't truly multitask, it rapidly switches, incurring performance penalties. ([Read more](/details/single-tasking-methodology.md)) `Focus` `Neuroscience` `Productivity` `Mono Tasking`
@@ -2661,6 +2662,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Productivity App
 
 - [Destructive Writing Timer - Flowstate Concept](https://www.xda-developers.com/flowstate-is-the-best-app-to-force-yourself-to-write-without-any-distractions/) - Flowstate app's unique approach where writing is deleted if you stop typing for more than 5 seconds, creating intense pressure to maintain flow and overcome writer's block through fear of loss. ([Read more](/details/destructive-writing-timer-flowstate-concept.md)) `Writing` `Extreme Focus` `Gamification`
+- [Due](https://www.dueapp.com/) - A laser-focused reminders app for iPhone, iPad, and Mac that features Auto Snooze, which repeatedly notifies users of missed reminders until marked done or rescheduled. Designed for people who cannot afford to miss critical alerts, deadlines, and important tasks. ([Read more](/details/due.md)) `Reminders` `Timers` `Auto Snooze`
 - [FlowMo Flowtime App](https://flowmo.io) - Dedicated application implementing the Flowtime Technique with count-up timer, proportional break calculator, and focus tracking designed specifically for flexible work sessions that respect natural attention spans. ([Read more](/details/flowmo-flowtime-app.md)) `Flowtime` `Timer` `Breaks` `Focus App`
 - [Focus To-Do - Pomodoro & Tasks Integration](https://www.focustodo.cn) - Task management app that masterfully merges a task manager with a Pomodoro timer, allowing users to assign focus sessions directly to tasks for seamless planning-to-execution workflow. ([Read more](/details/focus-to-do-pomodoro-tasks-integration.md)) `Pomodoro` `Task Management` `Integration`
 - [Habi - Morning Routine App](https://habi.app/) - Free iPhone app named best morning routine app for 2026. Features morning habits that attach directly to your calendar, built-in screen time blocker to prevent doom-scrolling, and requires no account. Designed specifically for starting the day productively. ([Read more](/details/habi-morning-routine-app.md)) `Morning Routine` `Habits` `Ios`
@@ -2704,6 +2706,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Productivity Philosophy
 
 - [6 Hours Unrelenting Intensity Principle](https://www.asianefficiency.com/productivity/ultradian-rhythms/) - Productivity philosophy stating that the most successful people aren't those working 16 hours a day, but those working 6 hours with unrelenting intensity by respecting natural rest cycles. ([Read more](/details/6-hours-unrelenting-intensity-principle.md)) `Intensity` `Quality Over Quantity` `Sustainable Performance`
+- [Sam Altman Productivity Philosophy](https://blog.samaltman.com/productivity) - Productivity philosophy and practices from Sam Altman, CEO of OpenAI, centered on three key pillars: focusing on important work, making lists, and avoiding wasted time. Emphasizes that it doesn't matter how fast you move if it's in a worthless direction, and picking the right thing to work on is the most important element of productivity. ([Read more](/details/sam-altman-productivity-philosophy.md)) `Prioritization` `List Making` `Focus`
 
 ## Productivity Statistic
 
