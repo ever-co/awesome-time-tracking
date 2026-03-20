@@ -1,78 +1,131 @@
 ## Overview
 
-Invoicely is a web-based billing solution that enables small businesses, freelancers, and web designers to send and accept payment invoices while managing and tracking earnings, expenses, activity logs, and more. The platform is completely free to use.
+Invoicely is a completely free invoicing platform designed to help small businesses, freelancers, and entrepreneurs create professional invoices without the cost and complexity of traditional accounting software. With no subscription fees or invoice limits, Invoicely provides essential billing functionality accessible to businesses of any size.
 
-## Key Features
+## Features
 
-- **Invoice Creation**: Create professional invoices quickly with customizable templates
-- **Payment Processing**: Accept payments online through integrated payment gateways
-- **Expense Tracking**: Track and categorize business expenses
-- **Activity Logs**: Monitor all billing and payment activities
-- **Client Management**: Organize and manage client information
-- **Recurring Invoices**: Set up automatic recurring billing for regular clients
-- **Multiple Currencies**: Support for international clients and currencies
-- **Tax Calculation**: Automatic tax calculations based on rates you set
+### Invoice Creation
+- **Unlimited Invoices**: Create and send unlimited invoices at no cost
+- **Professional Templates**: Multiple customizable invoice templates
+- **Custom Branding**: Add your logo and business branding
+- **Multi-Currency**: Invoice in over 100 currencies
+- **Recurring Invoices**: Set up automatic recurring billing
+- **Partial Payments**: Accept and track partial invoice payments
+- **Late Fees**: Automatically add late fees to overdue invoices
+- **Tax Management**: Configure multiple tax rates and rules
 
-## Invoicing Capabilities
+### Client Management
+- **Unlimited Clients**: Add and manage unlimited clients
+- **Client Portal**: Clients can view and pay invoices online
+- **Contact Information**: Store complete client details
+- **Payment History**: Track all client payment records
+- **Client Notes**: Add private notes to client profiles
 
-- Professional invoice templates
-- Customizable branding and logos
-- Line item management
-- Discount and tax options
-- Payment terms and due dates
-- Late payment reminders
-- Invoice status tracking (sent, viewed, paid)
+### Expense Tracking
+- **Expense Recording**: Log business expenses and costs
+- **Receipt Capture**: Upload receipt images
+- **Expense Categories**: Organize expenses by category
+- **Billable Expenses**: Add expenses directly to client invoices
+- **Expense Reports**: Generate expense summaries
 
-## Financial Management
+### Payment Processing
+- **Online Payments**: Accept credit card and bank payments
+- **PayPal Integration**: Direct PayPal payment links
+- **Stripe Integration**: Process payments through Stripe
+- **Payment Tracking**: Automatic payment recording
+- **Payment Reminders**: Automated reminders for unpaid invoices
 
-- **Earnings Tracking**: Monitor income from all invoices
-- **Expense Management**: Record and categorize business expenses
-- **Reports**: Generate financial reports for accounting purposes
-- **Dashboard**: Overview of financial health and outstanding invoices
+### Time Tracking (Basic)
+- **Simple Time Entry**: Log billable hours manually
+- **Time to Invoice**: Convert time entries to invoice line items
+- **Hourly Rate Management**: Set different rates for different services
 
-## Payment Options
+### Reporting
+- **Financial Reports**: Basic profit and loss reporting
+- **Invoice Reports**: Track sent, paid, and outstanding invoices
+- **Client Reports**: Analyze revenue by client
+- **Tax Reports**: Summarize tax collected
+- **Export Options**: Download reports as PDF or Excel
 
-- PayPal integration
-- Credit card processing
-- Bank transfer details
-- Multiple payment method support
+## How Invoicely Works
+
+1. **Create Account**: Sign up for free with email (no credit card required)
+2. **Add Business Info**: Enter your business name, address, and logo
+3. **Add Clients**: Import or manually add client information
+4. **Create Invoices**: Select client, add line items, and set payment terms
+5. **Send Invoices**: Email invoices directly or download as PDF
+6. **Track Payments**: Monitor invoice status and accept online payments
+7. **Manage Expenses**: Record business expenses and generate reports
+
+## Free Forever Model
+
+Invoicely is truly free:
+- **No Subscription Fees**: Never pay monthly or annual fees
+- **No Invoice Limits**: Create unlimited invoices
+- **No Client Limits**: Manage unlimited clients
+- **No Hidden Costs**: All core features are free
+- **No Forced Upgrades**: Continue using free version indefinitely
 
 ## Benefits
 
-- **Completely Free**: No monthly subscription fees
-- **No User Limits**: Suitable for growing teams
-- **Easy to Use**: Simple interface designed for non-accountants
-- **Cloud-Based**: Access from anywhere with internet connection
-- **Professional Appearance**: Polished invoices improve client perception
-- **Time Saving**: Automated invoicing reduces administrative burden
+- **Zero Cost**: Essential invoicing features at no charge
+- **Professional Appearance**: High-quality invoice templates
+- **Quick Setup**: Start invoicing in minutes
+- **Cloud-Based**: Access from anywhere with internet
+- **Easy to Use**: Intuitive interface requires no training
+- **Payment Integration**: Get paid faster with online payments
+- **Client Convenience**: Professional client portal experience
 
-## Best For
+## Ideal Users
 
-- Freelancers starting out with limited budgets
-- Small businesses with basic invoicing needs
-- Web designers and developers
-- Consultants and service providers
-- Anyone needing simple, free invoicing solution
+- **Freelancers**: Independent professionals starting out
+- **Small Businesses**: Companies with basic invoicing needs
+- **Startups**: New businesses managing cash flow carefully
+- **Sole Proprietors**: Individual business owners
+- **Consultants**: Professional service providers
+- **Any Business**: Organizations wanting to eliminate software costs
+
+## Platform Access
+
+- **Web Application**: Full-featured browser-based interface
+- **Mobile Responsive**: Works on tablets and smartphones
+- **No Installation**: Access from any device with a browser
 
 ## Limitations
 
-- May lack advanced features of paid platforms like FreshBooks or Harvest
-- Time tracking capabilities may be limited compared to dedicated time tracking software
-- Support options may be more limited than paid alternatives
-- Advanced reporting may require paid alternatives
+As a free platform, Invoicely has some limitations:
+- Basic time tracking (no timer or automatic tracking)
+- Limited advanced accounting features
+- Basic reporting compared to premium platforms
+- Support primarily through documentation and community
+- Invoicely branding on free invoices (removable in premium)
 
-## Comparison to Alternatives
+## Premium Option
 
-**vs. FreshBooks**: FreshBooks offers more comprehensive accounting features but requires paid subscription ($15+/month)
+Invoicely offers an optional premium plan for businesses needing:
+- Remove Invoicely branding from invoices
+- Advanced reporting and analytics
+- Priority customer support
+- Additional customization options
 
-**vs. Harvest**: Harvest excels at time-based billing with superior time tracking, but isn't free
-
-**vs. QuickBooks**: QuickBooks is more robust for full accounting but complex and expensive
-
-## Platform
-
-Web-based application accessible through any modern web browser. Mobile-responsive design allows invoice management from smartphones and tablets.
+However, the free version remains fully functional indefinitely with no obligation to upgrade.
 
 ## Pricing
 
-Completely free invoicing software with no hidden fees or premium tiers.
+**Free Plan** (Forever):
+- Unlimited invoices
+- Unlimited clients
+- Professional templates
+- Online payments
+- Basic expense tracking
+- Basic time tracking
+- Basic reporting
+
+**Premium Plan** (Optional):
+- All free features
+- Remove branding
+- Advanced reports
+- Priority support
+- Additional customization
+
+Pricing for premium features is available on the Invoicely website.

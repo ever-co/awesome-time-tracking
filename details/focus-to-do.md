@@ -1,59 +1,101 @@
 ## Overview
 
-Focus To-Do is an all-in-one productivity app that combines the Pomodoro Technique with comprehensive task management. It helps you manage tasks, track time spent, and boost productivity through structured focus sessions.
+Focus To-Do merges the Pomodoro Technique with comprehensive task management in a single, elegant application. With over 200 million hours of focused work tracked by users, it has become a popular choice for people who want both time management and task organization in one tool.
 
-## Key Features
+## Features
 
 ### Pomodoro Timer
-- Customizable focus and break intervals
-- Traditional 25-minute work sessions with 5-minute breaks
-- Visual and audio notifications for session transitions
-- Detailed statistics on completed Pomodoros
+- **Customizable Sessions**: Adjust work and break durations to your preferences
+- **Flexible Scheduling**: Set different timer lengths for different task types
+- **Auto-Start Options**: Automatically begin breaks or next Pomodoro
+- **Ticking Sound**: Optional ambient ticking to maintain focus
+- **Statistics Tracking**: Detailed reports on Pomodoros completed
 
 ### Task Management
-- **Task Organizer**: Create, categorize, and prioritize tasks
-- **Project Tracking**: Organize tasks into projects and sub-projects
-- **Due Dates & Reminders**: Never miss a deadline
-- **Recurring Tasks**: Set up repeating tasks automatically
+- **Task Lists**: Organize tasks by projects and categories
+- **Subtasks**: Break down complex tasks into manageable steps
+- **Priorities**: Assign priority levels to tasks
+- **Due Dates**: Set deadlines and receive reminders
+- **Recurring Tasks**: Schedule repeating tasks automatically
+- **Tags**: Categorize tasks with custom tags
+- **Notes**: Add detailed descriptions and context to tasks
 
-### Time Tracking
-- Track exactly how much time you spend on each task and project
-- Historical data showing productivity patterns
-- Visual reports on time allocation
-- Identify time-wasting activities
+### Productivity Tracking
+- **Detailed Reports**: View how time is spent across tasks and projects
+- **Daily/Weekly/Monthly Views**: Analyze productivity patterns over time
+- **Pomodoro History**: Track completed sessions and achievements
+- **Streaks**: Maintain motivation with consecutive day tracking
+- **Time Estimates**: Compare estimated vs actual time spent
+- **Performance Analytics**: Identify productivity trends and opportunities
 
-### Schedule Planner
-- Calendar view of tasks and deadlines
-- Daily, weekly, and monthly planning views
-- Integrate tasks with your schedule
-- Time blocking capabilities
+### Cross-Platform Sync
+- **Desktop Apps**: Windows, macOS, Linux
+- **Mobile Apps**: iOS and Android
+- **Web Access**: Browser-based interface
+- **Cloud Sync**: Automatic synchronization across all devices
+- **Offline Support**: Work without internet connection
 
-## Cross-Platform Synchronization
+## How It Works
 
-Seamless sync across all devices:
-- iPhone and iPad
-- Mac desktop
-- Android phones and tablets
-- Windows PC
-- Apple Watch
+1. **Create Tasks**: Add tasks to your to-do list with descriptions, priorities, and due dates
+2. **Estimate Pomodoros**: Determine how many Pomodoro sessions each task requires
+3. **Start Timer**: Select a task and begin a Pomodoro session
+4. **Focus**: Work on the task until the timer completes
+5. **Take Breaks**: Short breaks after each Pomodoro, longer breaks after four sessions
+6. **Track Progress**: Mark tasks complete and review productivity reports
 
-Start a Pomodoro session on your desktop and continue on mobile without missing a beat.
+## Productivity Reports
 
-## Productivity Analytics
+Focus To-Do provides comprehensive analytics:
+- **Time Distribution**: See where time is allocated across projects
+- **Completion Rates**: Track task completion percentages
+- **Focus Time**: Measure total focused work time
+- **Pomodoro Trends**: Analyze productivity patterns by day/week/month
+- **Task Efficiency**: Compare estimated vs actual time on tasks
 
-- Track completed Pomodoros per day, week, and month
-- Visualize productivity trends over time
-- Compare task estimates vs actual time spent
-- Identify your most productive hours
+## Customization Options
 
-## Additional Features
+- Pomodoro duration (typically 25 minutes, adjustable 1-60 minutes)
+- Short break duration (typically 5 minutes, adjustable 1-60 minutes)
+- Long break duration (typically 15 minutes, adjustable 1-60 minutes)
+- Number of Pomodoros before long break (typically 4)
+- Notification sounds and volumes
+- Theme colors and appearance
+- Reminder settings
 
-- White noise and ambient sounds for better concentration
-- Dark mode for reduced eye strain
-- Customizable themes
-- Subtasks and task notes
-- Priority levels and tags
+## Integration Features
+
+- **Calendar Integration**: Sync tasks with calendar events
+- **Widgets**: Home screen widgets for quick access
+- **Notifications**: Smart reminders for tasks and breaks
+- **White Noise**: Optional background sounds for focus
+
+## Benefits
+
+- **All-in-One Solution**: Combines time tracking and task management
+- **Proven Methodology**: Based on the effective Pomodoro Technique
+- **Comprehensive Reporting**: Understand productivity patterns
+- **Cross-Device Access**: Work from anywhere with full sync
+- **Visual Progress**: See achievements and maintain motivation
+- **Free Core Features**: Essential functionality available at no cost
 
 ## Pricing
 
-Free version available with core features. Premium subscription unlocks advanced analytics, unlimited projects, and additional customization options.
+Focus To-Do offers a freemium model:
+
+**Free Version**:
+- Unlimited tasks and projects
+- Basic Pomodoro timer
+- Task management features
+- Limited reporting
+- Ads supported
+
+**Premium Version**:
+- Ad-free experience
+- Advanced reports and statistics
+- Unlimited project templates
+- Priority support
+- White noise and ambient sounds
+- Calendar integration
+
+Premium pricing is affordable with monthly and annual subscription options. A free trial of premium features is available.
