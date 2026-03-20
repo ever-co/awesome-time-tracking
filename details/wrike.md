@@ -1,28 +1,26 @@
 ## Overview
 
-Wrike is an enterprise-grade work management platform that helps teams collaborate, plan projects, and track time across complex organizational structures. It's designed for large teams with sophisticated workflow requirements.
+Wrike is a versatile work management platform trusted by over 20,000 organizations worldwide. Combines project management, collaboration, and time tracking in an enterprise-ready solution.
+
+## Time Tracking
+
+- Built-in time tracking with timers
+- Time estimates vs actual tracking
+- Resource workload management
+- Billable hours tracking
+- Time reports and analytics
+- Mobile time tracking
 
 ## Features
 
-- **Time Tracking**: Built-in time tracking with timers and manual entry
-- **Project Planning**: Gantt charts, dependencies, and critical path
-- **Custom Workflows**: Create custom workflows for different project types
-- **Resource Management**: Allocate and balance team workloads
-- **Dashboards**: Real-time reporting and customizable dashboards
-- **Automation**: Workflow automation with rules and triggers
-- **Proofing**: Review and approve creative work with annotations
-- **Templates**: Project templates for repeatable processes
-- **Integrations**: 400+ integrations including Salesforce, Adobe, Microsoft
-- **Security**: Enterprise-grade security with SSO and advanced permissions
-
-## Best For
-
-- Marketing teams
-- Creative agencies
-- Professional services
-- Enterprise IT teams
-- Cross-functional projects
+- Custom workflows and automation
+- Gantt charts and timelines
+- Kanban boards and calendars
+- Real-time collaboration
+- Advanced reporting and analytics
+- Workload view and resource management
+- 400+ integrations
 
 ## Pricing
 
-Free plan for unlimited users with basic features. Professional at $9.80/user/month. Business at $24.80/user/month. Enterprise custom pricing.
+Starts at $9.80/user/month. Enterprise plans available with advanced features, security, and support.

@@ -1,42 +1,59 @@
 ## Overview
 
-Focus Keeper is a straightforward Pomodoro technique timer that helps users maintain focus through 25-minute work intervals followed by short breaks, with minimalist design and session tracking.
+Focus Keeper is a Pomodoro timer application designed to help you maintain concentration and create a better work-life balance. It tracks your focus sessions over time to help you build sustainable productivity habits.
 
-## Features
+## Key Features
 
-- Classic 25-minute Pomodoro intervals
-- 5-minute short breaks
-- 15-minute long breaks after 4 sessions
-- Customizable timer durations
-- Session tracking and history
-- Daily goal setting
-- Productivity statistics
-- Minimalist, distraction-free interface
+### Pomodoro Timer
+- Traditional 25/5 minute work/break intervals
+- Customizable session lengths
+- Long break after every 4 Pomodoros
+- Pleasant alarm sounds to signal transitions
 
-## Pomodoro Technique Support
+### History & Analytics
 
-- Standard Pomodoro timing (25/5/15)
-- Automatic break transitions
-- Long break after every 4 pomodoros
-- Audio notifications
-- Visual timer display
+- **Pomodoro Timer with History**: Track all your focus sessions over time
+- **Daily Statistics**: See how many Pomodoros you completed each day
+- **Weekly & Monthly Views**: Visualize productivity patterns
+- **Streak Tracking**: Maintain motivation with consecutive day streaks
 
-## Tracking & Analytics
+### Progress Tracking
 
-- Daily completed sessions
-- Weekly productivity trends
-- Goal achievement tracking
-- Focus time summaries
+- Visual charts showing focus time trends
+- Compare productivity across different time periods
+- Identify your most productive days and times
+- Set daily Pomodoro goals
 
-## Platform
+## Platform Availability
 
-iOS, Android, Web
+- **iOS**: Native iPhone and iPad app
+- **macOS**: Desktop app for Mac
+- **Android**: Native Android app
+- **Web**: Browser-based version
+- **Sync**: Data syncs across all platforms
+
+## Time Management Benefits
+
+- Overcome procrastination with structured work intervals
+- Reduce mental fatigue through regular breaks
+- Increase awareness of time spent on tasks
+- Build consistent work habits
+- Improve focus and concentration
+
+## ADHD-Friendly Features
+
+- Simple, distraction-free interface
+- Visual and audio cues for session transitions
+- Helps with time blindness through structured intervals
+- Regular breaks prevent hyperfocus exhaustion
+
+## Premium Features
+
+- Ad-free experience
+- Advanced analytics
+- Custom goals and targets
+- Cloud backup
 
 ## Pricing
 
-Free with basic features
-Pro version available
-
-## Target Users
-
-Students, knowledge workers, anyone practicing Pomodoro technique
+Free version with core Pomodoro functionality. Premium subscription for advanced features and analytics.

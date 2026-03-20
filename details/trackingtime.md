@@ -1,46 +1,37 @@
 ## Overview
 
-TrackingTime's AutoTrack allows users to review and log hours in one click with AI-powered suggestions. The platform recommends time entries based on actual activity to reduce errors, eliminate guesswork, and fill timesheets faster. Recognizes 300,000+ apps and websites for comprehensive tracking.
+TrackingTime is a comprehensive time tracking solution that combines time tracking with project visibility and workforce features like time cards, attendance, and time off management, enhanced with AI-powered activity suggestions.
 
-## Features
+## Time Tracking Methods
 
-- **AI AutoTrack**: Automatically suggests time entries based on detected activity
-- **300,000+ App Recognition**: Tracks activity across thousands of applications and websites
-- **One-Click Logging**: Review and approve suggested time entries with one click
-- **Manual Timers**: Traditional start/stop timers for active tracking
-- **Project & Task Tracking**: Organize time by projects, tasks, and tags
-- **Team Collaboration**: Shared projects and time visibility
-- **Mobile Apps**: Full-featured iOS and Android applications
-- **Browser Extensions**: Quick time tracking from Chrome, Firefox, and Edge
-- **Integrations**: 100+ integrations with productivity and project management tools
-- **Reporting & Analytics**: Detailed time reports and productivity insights
-- **Budgets & Estimates**: Track time against project budgets
-- **Timesheets**: Generate and export timesheets for payroll
+- **Automatic Background Tracking**: Logs hours effortlessly with AI-powered activity suggestions
+- **Structured Time Blocks**: Plan and track in real-time with time blocking
+- **Manual or Timer Options**: Flexibility to capture every minute spent on tasks and projects
 
-## AI-Powered Features
+## Project & Task Management
 
-- Automatic activity detection and categorization
-- Smart time entry suggestions based on patterns
-- Reduced manual entry through intelligent automation
-- Learning algorithms improve accuracy over time
+- Create, assign, and organize tasks within projects
+- Project visualization for better time and resource allocation
+- Progress tracking alongside time logs
+- Hit deadlines with better visibility into project status
+
+## Reporting & Analytics
+
+- Detailed insights into time usage, project expenses, and employee output
+- Customizable reports by project phase or team member
+- Time entries compiled into online timesheets
+- Summary views for billing, payroll, budgeting, and performance reviews
 
 ## Integrations
 
-- Project management (Asana, Trello, Jira, Monday.com, etc.)
-- Communication (Slack, Microsoft Teams)
-- Development (GitHub, GitLab, Bitbucket)
-- CRM (Salesforce, HubSpot)
-- Design (Figma, Adobe Creative Cloud)
-- 100+ total integrations via Zapier
+- Seamless integration with Asana, Trello, Microsoft Teams, and other popular platforms
+- Full Google Workspace integration
+- Reduces manual data entry through automated sync
 
-## Benefits
+## 2026 Features
 
-- Eliminates forgotten time entries through AI suggestions
-- Reduces timesheet completion time by 80%
-- Improves billing accuracy with comprehensive activity tracking
-- Provides insights into productivity and time allocation
-- Minimizes context switching with browser extensions
+In 2026, TrackingTime offers integrations that predict workloads, surface insights, automate approvals, and integrate deeply with HR/payroll and AI workflows.
 
 ## Pricing
 
-TrackingTime offers a free plan for individuals and small teams, with paid plans starting at $8 per user per month for pro features. Enterprise plans available with custom pricing. Free trial on paid plans.
+Free plan available for unlimited users with basic features. Paid plans offer advanced reporting, integrations, and team management capabilities.

@@ -1,31 +1,40 @@
 ## Overview
 
-Rize is an AI-powered automatic time tracker that categorizes your work across 300,000+ recognized apps and websites. It provides intelligent insights into productivity patterns without manual time entry.
+Rize is the first-ever A.I.-powered time tracker that automatically improves your focus and helps you build better work habits. It serves as both a time tracking tool and an intelligent productivity coach.
 
-## Features
+## Key Features
 
-- **Automatic Tracking**: Tracks all computer activity automatically
-- **AI Categorization**: Recognizes 300,000+ apps and websites
-- **Focus Sessions**: Built-in focus mode with break reminders
-- **Productivity Score**: Daily productivity metrics and trends
-- **Smart Breaks**: AI-suggested break times based on your patterns
-- **Meeting Detection**: Automatically detects and categorizes meetings
-- **Project Tagging**: Automatically assign activities to projects
-- **Privacy Controls**: Sensitive app/site exclusion and incognito mode
-- **Goals**: Set daily focus time and productivity goals
-- **Reports**: Weekly insights and productivity trends
+### Automatic Time Tracking
+- Tracks activity on the computer in the background as you work across apps, tasks, and calls
+- No start/stop buttons required
+- Recognizes over 300,000 apps and websites automatically
 
-## AI Intelligence
+### AI Productivity Coaching
+- Real-time AI advice on when to focus, when to take breaks, and when you're getting off track
+- Analyzes shifts in productivity, focus time, and work hours to highlight patterns
+- Provides personalized insights based on your work habits
 
-- Learns your work patterns over time
-- Suggests optimal focus periods
-- Identifies productivity blockers
-- Recommends workflow improvements
+### Focus Tools
+- App and website blocking to eliminate distractions
+- Focus music integration
+- Flexible Pomodoro timer
+- In-depth, personalized productivity metrics
 
-## Privacy
+### Break Management
+- Alerts you at the ideal time to take breaks
+- Screen-blocking features to ensure breaks are truly effective
+- Smart break scheduling based on your work patterns
 
-All processing happens locally on your device. Activity data is private and never shared.
+## Analytics
+
+Rize analyzes shifts in your productivity, focus time, and work hours to highlight patterns you'd never catch manually, helping you understand and improve your work habits.
 
 ## Pricing
 
-Free tier with basic features. Pro plan at $9.99/month with full AI insights and unlimited history.
+- **Free Plan**: For casual users
+- **Standard Plan**: $9.99/month (billed annually) - Detailed reports and AI-driven insights
+- **Professional Plan**: $23.99/month - Advanced tracking and project management tools
+
+## Availability
+
+Available for macOS and Windows.

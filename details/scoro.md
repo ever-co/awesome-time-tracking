@@ -1,61 +1,31 @@
 ## Overview
 
-Scoro is professional services automation (PSA) software that combines detailed time tracking, project management, CRM, billing, and reporting in one platform. Designed for consulting firms, agencies, and professional services companies.
+Scoro is a comprehensive business management software that unites projects, resources, and finances in one system. It serves as a professional services automation (PSA) platform designed for consultancies, agencies, IT firms, and other professional services businesses.
 
 ## Time Tracking Features
 
-- **Detailed Tracking**: Track time by project, task, client, and activity
-- **Multiple Entry Methods**: Timers, manual entry, calendar sync
-- **Mobile Tracking**: iOS and Android apps
-- **Approval Workflows**: Manager review and timesheet approval
-- **Billable Hours**: Distinguish billable vs non-billable time
-- **Time Budgets**: Set and monitor time budgets by project
-- **Utilization Tracking**: Monitor employee billability rates
+- **Multiple Tracking Methods**: Built-in timer, manual log entries, or automatic time tracking
+- **Real-time Sync**: Employee timesheets are automatically synced, providing real-time insights into daily activities
+- **Advanced Filtering**: Filter by project, date, contacts, and more for precise time information
+- **Billable vs Non-Billable**: Easily track and categorize billable versus non-billable hours
 
-## Project Management
+## Business Management Capabilities
 
-- Gantt charts and project timelines
-- Task management and dependencies
-- Resource allocation and scheduling
-- Project templates
-- File sharing and collaboration
-- Milestone tracking
+- Project management and task tracking
+- Resource planning and scheduling
+- CRM integration and contact management
+- Billing and invoicing based on tracked time
+- Financial tracking and profitability analysis
+- Comprehensive reporting and analytics
 
-## Financial Management
+## Invoicing
 
-- Automated invoicing from tracked time
-- Quote and proposal generation
-- Expense tracking and billable expenses
-- Budget management
-- Profitability analysis by project and client
-- Revenue forecasting
-- Purchase orders
+Create invoices based on time spent and costs incurred in just a few clicks. The system automatically compiles time entries into professional invoices.
 
-## CRM & Sales
+## Target Industries
 
-- Contact and company management
-- Sales pipeline and opportunity tracking
-- Lead management
-- Activity logging
-- Custom sales workflows
-
-## Reporting & Analytics
-
-- Real-time dashboards
-- Profitability reports
-- Utilization reports
-- Custom report builder
-- KPI tracking
-- Executive summaries
-
-## Benefits
-
-- All-in-one solution eliminates multiple tools
-- Real-time project profitability visibility
-- Improved resource utilization
-- Streamlined billing processes
-- Comprehensive business overview
+Consultancy, agencies, architecture, engineering, software development, IT services, and event management.
 
 ## Pricing
 
-Scoro offers tiered pricing based on features and team size. Contact for detailed quote. Free demo available.
+Contact Scoro for customized pricing based on your business size and requirements.

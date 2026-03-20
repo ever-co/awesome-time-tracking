@@ -1,20 +1,25 @@
 ## Overview
 
-Smartsheet is a dynamic work management platform that combines the familiarity of spreadsheets with powerful project management, automation, and collaboration capabilities. It includes mobile time tracking and resource management for enterprise teams.
+Smartsheet is a work execution platform that blends the familiarity of spreadsheets with powerful project management, automation, and collaboration features. Includes time tracking through time column types and resource management.
 
-## Features
+## Time Tracking Features
 
-- **Grid View**: Familiar spreadsheet interface for managing projects and data
-- **Time Tracking**: Built-in time tracking with mobile app support
-- **Resource Management**: Allocate and track team capacity and availability
-- **Gantt Charts**: Visual project timelines and dependencies
-- **Dashboards**: Real-time reporting dashboards with metrics and charts
-- **Automation**: Workflow automation with alerts and approvals
-- **Forms**: Collect data and requests through customizable forms
-- **Proofing**: Review and approve creative work with markup tools
-- **Integrations**: Connect with 100+ apps including Microsoft, Google, Salesforce
-- **Security**: Enterprise-grade security with SSO and advanced permissions
+- Duration column types for time tracking
+- Resource allocation and time estimates
+- Actual hours vs planned hours tracking
+- Timesheet reports
+- Resource management views
+- Integration with dedicated time tracking tools
+
+## Key Features
+
+- Grid, Calendar, Gantt, and Card views
+- Automated workflows and reminders
+- Forms for data collection
+- Dashboards and reporting
+- Real-time collaboration
+- File attachments and proofing
 
 ## Pricing
 
-Individual plan at $9/user/month. Business plans at $19/user/month. Enterprise pricing available with custom features and support. 30-day free trial available.
+Starts at $9/user/month for Pro plan. Enterprise pricing available for large organizations.

@@ -1,76 +1,33 @@
 ## Overview
 
-QBserve is an automatic time tracker designed exclusively for macOS that silently monitors how you spend time on your Mac, providing detailed productivity insights without requiring manual timer management.
+Qbserve is an automatic private time tracker designed exclusively for Mac users. It emphasizes privacy by storing all tracked data locally on your device, never sending information to external servers.
 
-## Features
+## Privacy Features
 
-- **Fully Automatic Tracking**: Monitors all applications and websites automatically
-- **Productivity Scoring**: Classifies activities as productive, neutral, or distracting
-- **Detailed Reports**: Visual breakdowns of time usage patterns
-- **Invoice Generation**: Create invoices from tracked time
-- **Project Assignment**: Automatically categorize work by project
-- **Distraction Alerts**: Optional notifications when spending too much time on distractions
-- **Goal Setting**: Set productivity targets and track progress
-- **Calendar Integration**: See productive time alongside calendar events
+- **Local Storage**: All tracked data is stored locally on your Mac and never sent anywhere
+- **Complete Privacy**: No way for developers to see your tracked history or identify you
+- **Anonymous Statistics**: Only collects anonymous generic statistics with no personal identification
+- **Optional Controls**: Options to ignore private browser tabs or pause tracking at any time
 
-## Privacy & Security
+## Time Tracking Capabilities
 
-- **100% Local**: All data stored on your Mac, never sent to cloud
-- **No Screenshots**: Respects privacy by tracking apps/sites, not content
-- **User Control**: Full control over data viewing and deletion
-- **No Account Required**: Works completely offline
+- Automatic tracking of time spent in web and desktop applications
+- Productivity categorization of apps and websites
+- Detailed reports on time usage and productivity patterns
+- No manual time entry required
 
-## Productivity Insights
+## Productivity Analysis
 
-- Time spent per application and website
-- Productivity trends over time
-- Most distracting sites and apps
-- Productive vs. unproductive time ratios
-- Peak productivity hours identification
-- Weekly and monthly summaries
+Qbserve automatically categorizes your activities as productive, unproductive, or neutral, providing insights into how you spend your time without invasive monitoring.
 
-## Customization
+## Privacy vs Cloud Alternatives
 
-- Custom productivity classifications
-- Project rules and auto-assignment
-- Ignore specific apps or websites
-- Set work hours and break times
-- Configurable notification thresholds
-
-## Invoicing Features
-
-- Convert tracked time to invoices
-- Hourly rate configuration
-- Client and project management
-- Export to various formats
-- Professional invoice templates
-
-## Native Mac Experience
-
-- Menu bar integration
-- macOS-native design
-- Low resource usage
-- Spotlight search support
-- Dark mode support
-
-## Platform
-
-macOS only (native application)
+Unlike cloud-based alternatives like RescueTime, Qbserve's privacy-first design ensures that sensitive information regarding work habits and time allocation remains confidential and secure on your local device.
 
 ## Pricing
 
-One-time purchase: $40 (check website for current pricing)
-No subscription required
-Free trial available
+One-time purchase model (check website for current pricing).
 
-## Target Users
+## Platform
 
-- Mac-using freelancers
-- Knowledge workers wanting productivity insights
-- Developers and creatives
-- Anyone seeking to understand time usage
-- Professionals billing by the hour
-
-## Comparison
-
-Compared to RescueTime (subscription-based, cloud-dependent) or Timing (more expensive), QBserve offers a privacy-first, one-time purchase option with automatic tracking and invoicing specifically for Mac users.
+macOS only.

@@ -1,53 +1,54 @@
 ## Overview
 
-Airtable provides a highly customizable platform for building time tracking solutions using its database, automation, and integration capabilities, allowing teams to create time tracking systems tailored to their specific needs.
+Airtable enables teams to create custom time tracking solutions using its flexible spreadsheet-database hybrid platform. Ideal for organizations with unique tracking requirements that off-the-shelf solutions don't address.
 
-## Time Tracking Capabilities
+## Custom Time Tracking Capabilities
 
-### Custom Base Creation
-- Build time tracking databases from scratch or templates
-- Link time entries to projects, clients, and tasks
-- Use formulas to calculate durations, rates, and totals
-- Create multiple views (calendar, kanban, timeline, Gantt)
+- Build custom time entry forms
+- Create linked tables for projects, clients, tasks
+- Formula fields for automatic calculations
+- Duration field type for time tracking
+- Date and timestamp fields
+- Filtered and grouped views
 
-### Automation Features
-- Automated time entry creation from triggers
-- Notification reminders for time tracking
-- Automatic calculations of billable hours
-- Status updates based on time logged
+## Automation
 
-### Integration Options
-- Connect with Toggl, Harvest, or Clockify
-- Zapier integrations for workflow automation
-- API access for custom integrations
-- Sync with calendars and project tools
+- Auto-calculate billable amounts
+- Send weekly timesheet reminders
+- Notify managers of overtime
+- Generate invoices from time data
+- Sync with other tools via Zapier/Make
 
-## Features
+## Reporting & Analytics
 
-- **Linked Records** - Connect time to projects, clients, and invoices
-- **Custom Fields** - Track any data points relevant to your workflow
-- **Views** - Calendar, grid, kanban, timeline, and Gantt views
-- **Formulas** - Calculate totals, rates, and summaries automatically
-- **Interfaces** - Build custom dashboards for time tracking
-- **Forms** - Create time entry forms for team members
-- **Collabor** - Real-time collaboration on time data
-- **Mobile Apps** - Full-featured iOS and Android apps
+- Pivot tables for time analysis
+- Charts and graphs
+- Summary statistics by project/client
+- Export to Excel/CSV
+- Share views with stakeholders
 
-## Time Tracking Templates
+## Templates Available
 
-Airtable offers pre-built templates for:
-- Freelance time tracking and invoicing
-- Project time and budget tracking
-- Team capacity planning
-- Client billing and time management
+- Time tracking for freelancers
+- Agency project time tracking
+- Billable hours management
+- Employee timesheet templates
 
-## Use Cases
+## Benefits
 
-Ideal for teams wanting highly customized time tracking that integrates with project management, client management, and billing workflows.
+- Complete customization flexibility
+- No coding required
+- Scales from solo to enterprise
+- Beautiful interface
+- Powerful yet intuitive
+
+## Limitations
+
+- Not a dedicated time tracking tool
+- Requires setup and configuration
+- No built-in timer (use with Toggl Button extension)
+- Learning curve for advanced features
 
 ## Pricing
 
-- **Free** - Basic features for individuals and small teams
-- **Plus** - $10/user/month
-- **Pro** - $20/user/month  
-- **Enterprise** - Custom pricing
+Starts at $10/seat/month for Plus plan. Free plan available with limitations on records and features.

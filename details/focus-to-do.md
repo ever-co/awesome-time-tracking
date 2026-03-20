@@ -1,43 +1,59 @@
 ## Overview
 
-Focus To-Do combines Pomodoro technique with task management, enabling users to plan their day and execute tasks with structured focus sessions, syncing seamlessly across devices.
+Focus To-Do is an all-in-one productivity app that combines the Pomodoro Technique with comprehensive task management. It helps you manage tasks, track time spent, and boost productivity through structured focus sessions.
 
-## Features
+## Key Features
 
-- Integrated Pomodoro timer and to-do list
-- Task planning and organization
-- Cross-platform sync (iPhone, Mac, Android, Windows, iPad, Apple Watch)
-- White noise and focus sounds
-- Productivity statistics and reports
-- Recurring tasks
-- Task prioritization
-- Subtasks and projects
+### Pomodoro Timer
+- Customizable focus and break intervals
+- Traditional 25-minute work sessions with 5-minute breaks
+- Visual and audio notifications for session transitions
+- Detailed statistics on completed Pomodoros
 
-## Pomodoro Features
+### Task Management
+- **Task Organizer**: Create, categorize, and prioritize tasks
+- **Project Tracking**: Organize tasks into projects and sub-projects
+- **Due Dates & Reminders**: Never miss a deadline
+- **Recurring Tasks**: Set up repeating tasks automatically
 
-- Customizable work/break intervals
-- Auto-start options
-- Long break automation
-- Focus mode
-- Completion tracking
+### Time Tracking
+- Track exactly how much time you spend on each task and project
+- Historical data showing productivity patterns
+- Visual reports on time allocation
+- Identify time-wasting activities
 
-## Task Management
+### Schedule Planner
+- Calendar view of tasks and deadlines
+- Daily, weekly, and monthly planning views
+- Integrate tasks with your schedule
+- Time blocking capabilities
 
-- Smart lists (Today, Important, Scheduled)
-- Project organization
-- Tags and filters
-- Due dates and reminders
-- Note attachments
+## Cross-Platform Synchronization
 
-## Platform
+Seamless sync across all devices:
+- iPhone and iPad
+- Mac desktop
+- Android phones and tablets
+- Windows PC
+- Apple Watch
 
-iOS, Android, Windows, Mac, Web, Apple Watch
+Start a Pomodoro session on your desktop and continue on mobile without missing a beat.
+
+## Productivity Analytics
+
+- Track completed Pomodoros per day, week, and month
+- Visualize productivity trends over time
+- Compare task estimates vs actual time spent
+- Identify your most productive hours
+
+## Additional Features
+
+- White noise and ambient sounds for better concentration
+- Dark mode for reduced eye strain
+- Customizable themes
+- Subtasks and task notes
+- Priority levels and tags
 
 ## Pricing
 
-Free with core features
-Premium for advanced features
-
-## Target Users
-
-Productivity enthusiasts, students, professionals combining planning with execution
+Free version available with core features. Premium subscription unlocks advanced analytics, unlimited projects, and additional customization options.

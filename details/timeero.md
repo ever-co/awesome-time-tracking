@@ -1,51 +1,44 @@
 ## Overview
 
-Timeero is a GPS time tracking application designed for mobile workforces. The platform provides advanced location tracking, geofencing, mileage tracking, and time clock capabilities for businesses with field employees.
+Timeero is a comprehensive tracking solution for businesses with mobile teams that primarily tracks employee time (clock-ins, outs, and breaks), GPS location, and mileage traveled. Perfect for field services, construction, real estate, home healthcare, and sales teams.
 
-## Features
+## Time & Mileage Tracking
 
-- **GPS Tracking**: Continuous or segmented GPS tracking during work hours
-- **Geofencing**: Virtual boundaries around job sites trigger automatic clock-in/out
-- **Mileage Tracking**: Automatic mileage calculation for reimbursement and tax purposes
-- **Mobile Time Clock**: Clock in/out from smartphones with location verification
-- **Breadcrumb Trail**: View complete route history for the day
-- **Photo Capture**: Attach photos to time entries for job documentation
-- **Offline Mode**: Track time and location without internet connection
-- **Scheduled Jobs**: Assign employees to specific job sites and times
-- **Time Off Management**: Track and approve PTO requests
-- **Reporting**: Generate reports on hours, mileage, and location data
+- Tracks time and mileage through a mobile app that works both online and offline
+- Creates and tracks timesheets automatically
+- Collects mileage logs from GPS locations and calculates total miles driven
+- Travel speed exceeding 4.47 miles per hour is included in mileage calculations
 
-## Industry Applications
+## GPS Features
 
-- Field service technicians (HVAC, plumbing, electrical)
-- Construction crews and contractors
-- Healthcare home care providers
-- Delivery and logistics companies
-- Property maintenance and landscaping
-- Sales teams with territory management
+- Real-time GPS location tracking during work hours
+- Geofencing for automated clock-in/out prompts
+- Location verification for remote employees
+- Privacy-focused: Only captures locations when clocked in or tracking mileage
 
-## Mileage Tracking
+## Mobile App Capabilities
 
-- Automatic trip detection and calculation
-- IRS-compliant mileage logs
-- Route optimization suggestions
-- Personal vs business trip classification
-- Export for tax and reimbursement purposes
+- Works offline without internet connection
+- Data syncs automatically once connectivity is restored
+- Dashboard accessible from any location
+- Track time, location, mileage, and view schedules from mobile devices
 
-## Benefits
+## Use Cases
 
-- Eliminates buddy punching with GPS verification
-- Reduces mileage reimbursement costs through accurate tracking
-- Improves job costing with location-verified time
-- Ensures employees are where they should be
-- Simplifies DOL compliance with detailed location records
-
-## Integrations
-
-- QuickBooks for payroll and accounting
-- Gusto, ADP, and other payroll providers
-- Various project management platforms
+- Field services and mobile workforces
+- Construction teams
+- Real estate agents
+- Home healthcare providers
+- Sales representatives
+- Any business requiring mileage reimbursement tracking
 
 ## Pricing
 
-Timeero offers tiered pricing based on features and team size. Plans typically start around $4 per user per month. Free trial available.
+- **Basic Plan**: $4/user/month
+- **Pro Plan**: $8/user/month
+- **Premium Plan**: $11/user/month
+- **Enterprise Plan**: Custom pricing for large organizations
+
+## Offline Functionality
+
+Employees can clock in/out and track activities without internet access, with all data automatically syncing when back online.

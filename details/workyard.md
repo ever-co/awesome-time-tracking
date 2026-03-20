@@ -1,28 +1,87 @@
 ## Overview
 
-Workyard is a GPS time tracking and job management platform built specifically for construction, landscaping, and field service businesses. Unlike tools that only record location at clock-in or clock-out, Workyard tracks where crews go throughout the entire day, including travel between sites.
+Workyard is a comprehensive GPS time tracking and workforce management platform built specifically for construction companies and field service businesses. It combines employee time tracking with job costing, scheduling, and project management.
 
-## Features
+## Key Features
 
-- **Continuous GPS Tracking**: Captures every minute worked with full visibility into locations, mileage, and travel time throughout the workday
-- **Geofencing**: Employees can only clock in or out within designated job areas, with automatic prompts when entering/exiting sites
-- **Job Costing**: Real-time labor cost tracking by job, project, and client
-- **Crew Management**: Organize teams, assign jobs, and track productivity across multiple locations
-- **Mobile Time Clock**: Easy clock in/out from smartphones with photo verification
-- **Offline Mode**: Stores clock-ins without internet and syncs later
-- **Mileage Tracking**: Automatic mileage calculation for reimbursement and job costing
-- **Certified Payroll**: Compliant reporting for government and prevailing wage projects
-- **Scheduling**: Create and distribute crew schedules with job assignments
-- **Reporting Dashboard**: Real-time insights into labor costs, hours worked, and job profitability
+### GPS Time Tracking
+- Automatic GPS tracking when employees clock in/out
+- Geofencing capabilities to verify employees are at correct job sites
+- Real-time location tracking breadcrumb trail
+- Offline time tracking that syncs when connection is restored
+
+### Job Costing
+- Track labor costs by project, phase, and cost code
+- Real-time project cost monitoring
+- Compare estimated vs actual labor costs
+- Identify profitable and unprofitable jobs
+- Integration with accounting software for seamless data transfer
+
+### Automated Timesheets
+- GPS-verified time entries
+- Automatic calculation of hours worked
+- Overtime tracking
+- Break time management
+- Reduce timesheet errors by up to 75%
+
+### Certified Payroll
+- Compliant certified payroll reports for government projects
+- Davis-Bacon wage rate management
+- Prevailing wage calculations
+- Digital signature capture
+
+## Construction-Specific Features
+
+### Equipment Tracking
+- Track equipment usage and location
+- Monitor equipment hours for maintenance scheduling
+- Assign equipment to specific jobs
+
+### Photo Documentation
+- Timestamp and GPS-stamped job site photos
+- Visual documentation of work completed
+- Store photos by project
+
+### Scheduling
+- Drag-and-drop crew scheduling
+- Assign workers to multiple job sites
+- Mobile schedule access for field teams
+- Schedule changes notify affected employees
+
+## Mobile App
+
+- iOS and Android apps for field workers
+- Clock in/out with GPS verification
+- View schedules and job details
+- Upload job site photos
+- Works offline without internet connection
+
+## Integrations
+
+- QuickBooks Desktop and Online
+- Sage 100 and 300
+- Foundation
+- Acumatica
+- Other major construction accounting software
 
 ## Benefits
 
-- Eliminates buddy punching with GPS verification
-- Reduces payroll processing time by 75%
-- Improves job costing accuracy with real-time labor tracking
-- Prevents time theft through location monitoring
-- Simplifies certified payroll reporting for government contracts
+- Cut labor costs by up to 32% in first year
+- Eliminate buddy punching with GPS verification
+- Reduce payroll processing time by 75%
+- Improve project profitability through accurate job costing
+- Ensure compliance with certified payroll requirements
 
 ## Pricing
 
-Workyard offers tiered pricing starting at $6 per user per month, with volume discounts for larger teams. Free 14-day trial available.
+Contact Workyard for pricing based on company size and features needed. Typically ranges from $8-15 per user per month.
+
+## Industries Served
+
+- Commercial construction
+- Residential construction
+- Landscaping
+- Electrical contractors
+- Plumbing contractors
+- HVAC companies
+- Field service businesses

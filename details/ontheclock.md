@@ -1,224 +1,126 @@
 ## Overview
 
-OnTheClock is an easy-to-use employee time clock, scheduling, and payroll software designed to help businesses of all sizes manage their hourly workforce. The platform combines time tracking, employee scheduling, and payroll management in one solution, helping companies save 5-10 hours per week on administrative work.
-
-## Core Features
-
-### Time Clock
-- Web-based time clock
-- Mobile apps (iOS and Android)
-- Kiosk mode for shared devices
-- GPS location verification
-- Photo capture at clock-in
-- Offline capability with sync
-
-### Clock-In Methods
-- Computer/laptop browser
-- Mobile app
-- Tablet kiosk
-- Phone call (dial-in)
-- SMS text message
-- Web browser on any device
-
-## Scheduling
-
-### Employee Scheduling
-- Drag-and-drop schedule creation
-- Shift templates
-- Recurring schedules
-- Multiple locations support
-- Department-based scheduling
-- Copy previous week's schedule
-
-### Schedule Management
-- Publish schedules to employees
-- Schedule change notifications
-- Employee availability tracking
-- Shift swap requests
-- Open shift posting
-- Schedule vs. actual comparison
-
-## Payroll Integration
-
-### Payroll Processing
-- Calculate regular and overtime hours
-- Multiple pay rates support
-- PTO and holiday pay
-- Tips and bonuses tracking
-- Export to payroll providers
-- Direct integration with major payroll systems
-
-### Payroll Partners
-- QuickBooks
-- ADP
-- Paychex
-- Gusto
-- Square Payroll
-- Custom CSV export
+OnTheClock is a cloud-based employee time tracking and scheduling software designed to simplify workforce management for businesses of all sizes. Known for its ease of use and comprehensive feature set at an affordable price.
 
 ## Time Tracking Features
 
-### Accuracy Tools
-- GPS geofencing
-- IP address restrictions
-- Facial recognition (add-on)
-- Prevent early clock-ins
-- Break compliance enforcement
-- Rounding rules
+### Multiple Clock-In Methods
+- Web-based time clock
+- Mobile apps (iOS and Android)
+- Landline or cell phone punch-in (call-in system)
+- Kiosk mode for shared devices
+- Facial recognition time clock
 
-### Oversight
-- Real-time "Who's Working" dashboard
-- Late/absent alerts
-- Overtime warnings
-- Manager approval workflow
-- Edit history and audit trail
+### GPS & Location Tracking
+- GPS coordinates captured at clock-in/out
+- Geofencing with customizable job site boundaries
+- Real-time employee location tracking
+- Location-based clock-in restrictions
+- Breadcrumb trail showing employee routes
 
-## Reporting
+### Time Theft Prevention
+- Facial recognition to prevent buddy punching
+- Photo capture at each clock-in/out
+- GPS verification of location
+- IP address restrictions for web clock-ins
+- Alerts for suspicious activity
 
-### Standard Reports
-- Timecard summaries
-- Payroll reports
-- Hours by employee/department/location
-- Overtime reports
-- PTO balances
-- Schedule adherence
+## Scheduling
+
+- Drag-and-drop shift scheduler
+- Recurring schedule templates
+- Shift trading and approval workflows
+- Schedule notifications to employees
+- Availability management
+- Conflict detection
+
+## Payroll & Reporting
+
+### Automatic Calculations
+- Regular and overtime hours
+- Multiple pay rates and wage rules
+- Break time deductions
+- Meal period compliance
+- Department and job costing
+
+### Payroll Integration
+Direct integration with:
+- QuickBooks (Desktop and Online)
+- ADP
+- Paychex
+- Gusto
+- 60+ other payroll providers
+
+### Reports
+- Over 40 pre-built reports
 - Custom report builder
+- Export to Excel, PDF, CSV
+- Scheduled email reports
+- Real-time dashboards
 
-### Export Formats
-- PDF
-- Excel/CSV
-- Email delivery
-- Scheduled reports
+## PTO Management
 
-## Time Off Management
+- Unlimited PTO policies
+- Automatic accrual calculations
+- Employee PTO request and approval
+- PTO balance tracking
+- Integration with timesheets
 
-### PTO Tracking
-- Accrual policies
-- Request and approval workflow
-- Balance tracking
-- Calendar integration
-- Carryover rules
-- Multiple PTO types (vacation, sick, personal)
+## Additional Features
 
-## Mobile Experience
+### Job Costing
+- Track time by job, project, or client
+- Multiple cost centers
+- Real-time labor cost visibility
+- Budget vs actual comparisons
 
-### Employee App
-- Clock in/out
-- View schedule
-- Request time off
-- View timecard
-- Receive notifications
-- Add notes to time entries
+### Team Communication
+- In-app messaging
+- Schedule announcements
+- Shift reminders
+- Policy acknowledgments
 
-### Manager App
-- Approve time cards
-- View who's working
-- Edit time entries
+### Compliance
+- FLSA overtime compliance
+- Break and meal period tracking
+- Audit trails for all changes
+- Labor law poster compliance
+
+## Mobile App
+
+- Clock in/out with GPS verification
+- View schedules and upcoming shifts
+- Request PTO
+- Receive push notifications
+- Works offline and syncs when connected
+
+## Admin Portal
+
+- Real-time employee tracking dashboard
+- Approve or edit timesheets
 - Manage schedules
 - Run reports
-
-## Compliance
-
-### Labor Law Support
-- Overtime calculation (FLSA)
-- Break reminders
-- Meal period tracking
-- Minor labor rules
-- Certified payroll reports
-- Audit-ready records
-
-## Industries Served
-
-- Restaurants and food service
-- Retail stores
-- Healthcare facilities
-- Construction companies
-- Manufacturing
-- Professional services
-- Nonprofit organizations
-
-## Customer Support
-
-### Support Channels
-- Phone support (US-based)
-- Email support
-- Live chat
-- Help center and knowledge base
-- Video tutorials
-- Onboarding assistance
-
-### Training
-- Free setup assistance
-- Training webinars
-- Documentation library
-- Best practices guides
+- Set up geofences and restrictions
+- User permission levels
 
 ## Pricing
 
-- **Per Employee Pricing**: Starting around $3-4 per employee/month
-- **No Base Fee** on some plans
-- **Free Trial**: 30 days
-- **No Contracts**: Month-to-month billing
-- **Transparent Pricing**: No hidden fees
+Affordable pricing starting at around $3-4 per user per month, with volume discounts. No contracts or setup fees. 30-day free trial available.
 
-## Key Advantages
+## Industries Served
 
-### Ease of Use
-- Intuitive interface
-- Minimal training required
-- Quick setup process
-- Clean, modern design
+- Construction
+- Healthcare
+- Retail
+- Hospitality
+- Professional services
+- Manufacturing
+- Any business with hourly employees
 
-### Affordability
-- Competitive pricing
-- Good value for features
-- No long-term contracts
-- Scales with business growth
+## Customer Support
 
-### Time Savings
-- Customers report saving 5-10 hours weekly
-- Automated timesheet calculations
-- Streamlined payroll process
-- Reduced manual data entry
-
-### Flexibility
-- Works for remote, in-office, and field employees
-- Multiple clock-in options
-- Customizable to business needs
-- Multi-location support
-
-## Integration Features
-
-- QuickBooks Online and Desktop
-- Major payroll providers
-- Calendar apps (Google, Outlook)
-- Zapier for custom workflows
-- API for custom integrations
-
-## Security
-
-- Secure cloud storage
-- SSL encryption
-- Regular backups
-- Role-based access control
-- IP restrictions
-- Data privacy compliance
-
-## Best For
-
-- Small to medium-sized businesses
-- Companies with hourly employees
-- Businesses needing simple, affordable solution
-- Multi-location operations
-- Companies wanting ease of use over complexity
-
-## Competitive Position
-
-OnTheClock competes with:
-- TSheets/QuickBooks Time
-- Clockify
-- Homebase
-- When I Work
-- Deputy
-
-Differentiator: Balance of features, ease of use, and affordability with strong customer support.
+- Free unlimited phone and email support
+- Live chat available
+- Comprehensive help center
+- Video tutorials
+- Onboarding assistance

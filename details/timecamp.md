@@ -1,41 +1,28 @@
 ## Overview
 
-TimeCamp provides automatic time tracking with detailed productivity monitoring. It tracks computer activities, categorizes them, and generates insights into how time is spent.
-
-## Features
-
-- Automatic desktop tracking
-- Manual time entry
-- App and website monitoring
-- Productivity categorization
-- Timesheets and approvals
-- Invoicing
-- Budgeting
-- Integrations (50+ tools)
-- Mobile apps
+TimeCamp is an automatic time tracking application that monitors your computer activity and assigns time to projects based on keywords you define. Ideal for teams wanting detailed time data without manual tracking burden.
 
 ## Automatic Tracking
 
-- Monitors apps and websites
-- Auto-categorizes activities
+- Desktop app tracks all applications and websites
+- Keyword-based automatic task categorization
 - Idle time detection
-- Offline time tracking
+- Offline capability with cloud sync
+- Activity timeline showing minute-by-minute work
 
-## Productivity Insights
+## Key Features
 
-- Productive vs. unproductive time
-- Distraction analysis
-- Focus time metrics
-- Daily/weekly reports
+- Automatic timesheet generation
+- Budgeting and billing
+- Attendance tracking
+- Invoicing from tracked time
+- Productivity reports
+- 50+ integrations (Asana, Trello, Jira, etc.)
 
-## Integrations
+## Privacy
 
-- Asana, Trello, Jira
-- Slack, Todoist
-- QuickBooks, Xero
-- Google Calendar
+Can be configured from full automatic tracking to simple manual timer, respecting team privacy preferences.
 
 ## Pricing
 
-Free basic plan
-Pro: $7/user/month
+Free plan available with basic features. Paid plans start at $2.99/user/month for Pro features.
