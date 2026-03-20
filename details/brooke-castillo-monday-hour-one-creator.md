@@ -1,24 +1,50 @@
-## About Brooke Castillo
+## Overview
 
-Brooke Castillo is the founder of The Life Coach School and creator of the Monday Hour One time management system. Her approach integrates life coaching principles with practical productivity methods.
+Brooke Castillo is the founder of The Life Coach School and creator of the Monday Hour One time management system. Her approach emphasizes intentional weekly planning and building self-trust through commitment to your calendar.
 
-## Monday Hour One Philosophy
+## Monday Hour One System
 
-This isn't just time blocking—it's a complete time management system that accounts for thoughts, feelings, actions, and results, not just actions. It gets to the root cause of productivity struggles rather than just solving symptoms.
+The method involves dedicating one hour at the start of your workweek (typically Monday, though it can be done Sunday) to plan the entire week:
 
-## The Method
+**Process**:
+1. Brain dump everything that needs to be done
+2. Move tasks from list directly onto calendar
+3. Assign specific time blocks for each task
+4. Throw away the to-do list
+5. Follow calendar exactly throughout the week
 
-Spend the first hour of your work week (Monday morning) before any other work:
-1. Get clear on the results you want
-2. Brain dump all necessary tasks
-3. Put tasks onto your calendar
-4. Plan in free time and rest
-5. Create the calendar of your dreams
+## Core Philosophy
 
-## Key Innovation
+**Intentionality**: Choose how to spend time rather than reacting to demands
 
-Castillo's approach goes beyond traditional time management by addressing the psychological and emotional aspects of productivity, making it particularly effective for those who struggle with willpower, motivation, and self-discipline.
+**Self-Commitment**: Build trust by honoring commitments to yourself
 
-## Companion Practice
+**Calendar Over Lists**: Plan when you'll do things, not just what
 
-Friday Hour Done complements Monday Hour One, creating a weekly rhythm of intentional planning and reflective closure.
+**Whole Life Planning**: Schedule work and personal time intentionally
+
+## Key Principles
+
+- Plan your entire week, not just work days
+- Make decisions ahead of time to reduce stress
+- Following your calendar builds self-trust
+- Time management creates self-care and honor
+- Decision fatigue is prevented through advance planning
+
+## Benefits
+
+- Less overwhelm and anxiety
+- Increased productivity
+- Better work-life balance
+- Stronger self-trust
+- Reduced decision fatigue
+
+## Broader Impact
+
+Castillo's system has influenced thousands through:
+- The Life Coach School Podcast
+- Coaching certification programs
+- Online courses and resources
+- Integration into life coaching methodology
+
+Her contribution emphasizes the emotional and psychological aspects of time management, viewing it as a tool for self-relationship rather than just efficiency.
