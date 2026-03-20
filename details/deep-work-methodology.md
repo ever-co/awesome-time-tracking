@@ -1,36 +1,74 @@
 ## Overview
 
-Deep Work is a methodology developed by Cal Newport, defined as professional activity performed in a state of distraction-free concentration that pushes cognitive capabilities to their limit. This contrasts with shallow work: non-cognitively demanding, logistical-style tasks often performed while distracted.
+Deep Work is a productivity concept introduced by Cal Newport in his 2016 book. It refers to professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
 
-## Four Deep Work Philosophies
+## Deep Work vs Shallow Work
 
-### 1. Monastic Philosophy
-Drastically minimize or eliminate shallow activities. Example: Science fiction writer Neal Stephenson doesn't provide his email address on his website.
+### Deep Work Characteristics
+- Requires sustained focus
+- Cognitively demanding
+- Creates significant value
+- Difficult to replicate
+- Builds expertise and skills
+- Examples: Writing, coding, strategic planning, learning new skills
+
+### Shallow Work Characteristics
+- Can be done while distracted
+- Logistical or administrative
+- Easily replicated
+- Limited value creation
+- Examples: Email, meetings, data entry, social media
+
+## The Deep Work Formula
+
+**Deep Work = Time Spent × Intensity of Focus**
+
+- More time in deep work = higher quality output
+- Higher intensity of focus = better results
+- Both factors multiply, not add
+
+## Implementation Strategies
+
+### 1. Rhythmic Philosophy
+- Establish deep work as daily habit
+- Same time and place each day
+- Makes deep work automatic
 
 ### 2. Bimodal Philosophy
-Divide time into deep work periods and everything else. Dedicate specific time blocks exclusively to deep thoughts while handling shallow activities separately.
+- Dedicate large blocks (days/weeks) to deep work
+- Alternate with periods of shallow work
+- Requires flexibility
 
-### 3. Rhythmic Philosophy
-Transform deep work into a habit through consistent daily sessions. The chain of consistent work creates rhythmic routine and powerful motivation.
+### 3. Journalistic Philosophy
+- Fit deep work whenever you can
+- Requires discipline and skill
+- Not for beginners
 
-### 4. Journalistic Philosophy
-Take advantage of any free time block in your calendar to schedule deep work sessions, fitting deep work around other commitments.
+## 2026 Research Findings
 
-## Time Blocking Method
+A 2026 remote work study found that only 51% of work time was spent on deep work, with the remainder on shallow tasks and context switching.
 
-Newport's personal practice involves scheduling every minute of the day:
-- Write down work hours on a lined sheet
-- Divide hours into blocks and assign activities
-- Update the schedule when knocked off track
-- Give every minute a job
+## Building Deep Work Capacity
 
-## Newport's Personal Practice
+- Start with 60-90 minute sessions
+- Gradually increase duration
+- Most people max out at 4 hours of deep work per day
+- Requires practice and discipline
+- Quality sleep essential for cognitive capacity
 
-Newport builds his days around 3-4 hours per day, five days a week, of uninterrupted and carefully directed concentration. He batches shallow activities into smaller bursts at the peripheries of his schedule.
+## Environmental Design
+
+- Eliminate digital distractions
+- Physical space optimized for focus
+- Clear start and end rituals
+- Protect time blocks from interruptions
+- Communicate boundaries to others
 
 ## Benefits
 
-- Produces high-quality, valuable output
-- Maximizes cognitive capabilities
-- Reduces time wasted on shallow work
-- Creates meaningful, satisfying work
+- Dramatically improved productivity
+- Higher quality work output
+- Faster skill development
+- Increased career capital
+- Greater professional satisfaction
+- Competitive advantage in knowledge work

@@ -1,50 +1,19 @@
 ## Overview
 
-Scoro is an end-to-end work management solution targeting professional services firms. It replaces 5-10 separate tools by combining time tracking, project management, CRM, billing, and reporting in a unified platform.
+Scoro is an all-in-one work management solution designed for professional and creative services. It combines project management, time tracking, quoting, billing, and reporting to give complete visibility into your business operations.
 
-## Core Modules
+## Features
 
-### Time Tracking
-- Timer and manual entry
-- Mobile time tracking
-- Approval workflows
-- Billable vs. non-billable
-- Integration with tasks and projects
-
-### Project Management
-- Gantt charts and task lists
-- Resource planning
-- Budget tracking
-- Milestone management
-- Project profitability analysis
-
-### CRM & Sales
-- Contact and company management
-- Sales pipeline
-- Quote generation
-- Lead tracking
-
-### Financial Management
-- Invoicing
-- Expense tracking
-- Budget forecasting
-- Financial reporting
-- Payment collection
-
-### Reporting & Analytics
-- Real-time dashboards
-- Custom reports
-- Team performance metrics
-- Financial KPIs
-
-## Best For
-
-- Consulting firms
-- Creative agencies
-- IT services companies
-- Architecture/engineering firms
-- Marketing agencies
+- **Detailed Time Tracking**: Track time across projects, tasks, and clients with precision
+- **Project Management**: Comprehensive project planning, scheduling, and collaboration tools
+- **Financial Management**: Budgeting, quoting, invoicing, and expense tracking
+- **Resource Planning**: Visual resource allocation and capacity planning
+- **CRM**: Built-in customer relationship management
+- **Reporting Dashboard**: Real-time KPI dashboards and customizable reports
+- **Workflow Automation**: Automate repetitive tasks and processes
+- **Integrations**: Connect with accounting, email, and business tools
+- **Mobile Apps**: Track time and manage work on the go
 
 ## Pricing
 
-Starting around $28/user/month, scales with features and user count.
+Pricing starts at $26/user/month for Essential plan. Custom quotes available for Plus and Ultimate plans with advanced features. 14-day free trial available.

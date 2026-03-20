@@ -1,17 +1,20 @@
 ## Overview
 
-Zoho Sprints is an agile project management tool that brings software teams together to organize user stories, visualize release progress, and is specifically used as scrum software for agile teams.
+Zoho Sprints is an agile project management software designed to help teams plan projects, track progress, and collaborate using scrum methodologies. It offers features like backlog management, sprint planning, time tracking, and real-time collaborative teamwork.
 
 ## Features
 
-- **Sprint Planning**: Plan and execute sprints with backlog management, story points, and velocity tracking
-- **Scrum Boards**: Visualize work with customizable kanban and scrum boards
-- **Time Tracking**: Track time spent on user stories and tasks to improve sprint estimates
-- **Release Management**: Plan releases and track progress with burndown charts
-- **Team Collaboration**: Built-in chat, meetings, and feed for team communication
-- **Reporting**: Comprehensive sprint reports including velocity charts, burndown charts, and cumulative flow diagrams
-- **Integration**: Connects with other Zoho apps and popular development tools
+- **Sprint Planning**: Plan and manage sprints with drag-and-drop interface
+- **Time Tracking**: Log time on user stories and tasks
+- **Scrum Boards**: Visual kanban-style boards for workflow management
+- **Backlog Management**: Prioritize and organize product backlog
+- **Burndown Charts**: Track sprint progress and team velocity
+- **Epics & User Stories**: Organize work hierarchically
+- **Meetings**: Built-in support for daily standups and retrospectives
+- **Reporting**: Sprint reports, velocity charts, and team analytics
+- **Integrations**: Connect with Zoho suite and third-party tools
+- **Mobile Apps**: iOS and Android apps for on-the-go access
 
 ## Pricing
 
-Free plan available for up to 5 users. Paid plans start at $1.50 per user per month (billed annually) with advanced features like custom fields, time tracking, and reporting.
+Free plan for up to 5 users. Premium plan at $1/user/month. Enterprise plan at $2.50/user/month with advanced features.

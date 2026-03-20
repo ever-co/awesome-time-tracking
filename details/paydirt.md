@@ -1,29 +1,31 @@
-# Paydirt
+## Overview
 
-[Paydirt](https://www.paydirtapp.com/) is a web-based time tracking and invoicing application designed for freelancers and small businesses. It streamlines the process of tracking work hours, generating invoices, and receiving payments online.
+Paydirt is a straightforward time tracking and invoicing tool designed for freelancers and small teams who want simplicity without sacrificing essential features.
 
 ## Features
-- **Time Tracking:** Start timers for clients with a single click and track billable/unbillable hours easily.
-- **Invoicing & Payments:** Automatically generate and customize invoices from tracked time; supports online payments via PayPal and Stripe.
-- **Team Management:** Monitor team performance, track progress, and manage responsibilities.
-- **Online Quoting:** Create, duplicate, send, and track quotes online.
-- **Business Reports:** Access business insights, export data, and optimize performance.
-- **Browser Extension:** Track time directly from your browser.
 
-## Integrations
-- PayPal (payments)
-- Stripe (payments)
+- **Time Tracking**: Simple timers and manual time entry
+- **Invoicing**: Professional invoices from tracked time
+- **Expense Tracking**: Track project expenses and billable costs
+- **Project Budgets**: Set and monitor project budgets
+- **Team Management**: Add team members and manage permissions
+- **Reports**: Basic time and financial reports
+- **Recurring Invoices**: Automate regular client billing
+- **Payment Integration**: Accept payments through Stripe and PayPal
+- **Mobile App**: Track time on iOS and Android
+- **Timer Widget**: Desktop widget for quick time tracking
 
-## Limitations
-- Lacks extensive third-party integrations.
-- No offline support.
+## Philosophy
+
+Paydirt focuses on doing time tracking and invoicing well without adding unnecessary complexity. No bloated features, just what freelancers actually need.
+
+## Best For
+
+- Solo freelancers
+- Small consulting teams
+- Anyone who wants simple, reliable time tracking
+- Users tired of overcomplicated software
 
 ## Pricing
-- **14-day Free Trial:** No credit card required.
-- (No additional pricing details provided in the content.)
 
-## Tags
-invoicing, freelancers, web-based, billing
-
-## Category
-Team Project Time Tracking
+Single plan at $8/user/month with all features. No tiers, no upsells. 14-day free trial.

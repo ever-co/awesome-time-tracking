@@ -1,33 +1,28 @@
 ## Overview
 
-Deputy is an AI-powered employee scheduling and workforce management platform designed for medium to large organizations with frequent shift changes, particularly in hospitality, retail, and healthcare industries.
+Deputy is a workforce management platform that combines employee scheduling, time tracking, and labor compliance. It uses AI to forecast demand and optimize schedules while ensuring compliance with labor laws.
 
 ## Features
 
-- **AI-Powered Scheduling** - Intelligent auto-scheduling based on demand forecasts and availability
-- **Demand Forecasting** - Predict staffing needs based on historical data and trends
-- **Time & Attendance** - Mobile time clock with GPS and photo verification
-- **Shift Management** - Easy shift creation, assignment, and swapping
-- **Labor Cost Control** - Real-time labor cost tracking against budgets
-- **Compliance Management** - Automatic compliance with labor laws and break rules
-- **Communication** - In-app messaging and shift notifications
-- **Leave Management** - PTO tracking and approval workflows
-- **Task Management** - Assign and track operational tasks
-- **POS Integration** - Connect with point-of-sale systems for sales-based scheduling
-- **Payroll Export** - Seamless integration with major payroll providers
-- **Multi-Location** - Manage multiple locations from one dashboard
+- **Auto-Scheduling**: AI-powered schedule creation based on demand forecasting
+- **Time & Attendance**: Clock in/out with GPS and facial recognition
+- **Demand Forecasting**: Predict staffing needs based on historical data
+- **Labor Cost Control**: Real-time visibility into labor costs vs. budget
+- **Shift Swapping**: Employees can trade shifts with manager approval
+- **Task Management**: Assign and track tasks for each shift
+- **Compliance**: Automatically enforce break rules and overtime laws
+- **Mobile App**: Full-featured iOS and Android apps
+- **Communication**: Announcements and team messaging
+- **Integrations**: 300+ integrations including POS, payroll, and HR systems
 
-## AI Capabilities
+## Industries Served
 
-Deputy's AI gives it an edge by analyzing patterns to optimize schedules, reduce overstaffing, and ensure adequate coverage during peak times.
-
-## Industries
-
-- Hospitality and restaurants
+- Restaurants and hospitality
 - Retail
 - Healthcare
 - Manufacturing
+- Warehousing
 
 ## Pricing
 
-Starts at approximately $4.50-6 per user per month, with custom enterprise pricing available.
+Scheduling at $2.50/user/month. Premium at $4.50/user/month with time tracking. Enterprise custom pricing. 31-day free trial.

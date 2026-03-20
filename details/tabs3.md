@@ -1,41 +1,20 @@
 ## Overview
 
-Tabs3 is a comprehensive legal billing and practice management software designed specifically for law firms. It provides robust time tracking, billing, trust accounting, and case management features tailored to legal professionals' unique needs.
+Tabs3 is one of the most trusted names in legal billing and practice management software, serving law firms for over 40 years. It provides comprehensive time tracking, billing, trust accounting, and practice management tools designed specifically for attorneys.
 
 ## Features
 
-### Time & Billing
-- **Time Tracking** - Capture billable time with timers and manual entry
-- **Fee Management** - Flexible billing rates and fee structures
-- **Invoice Generation** - Create professional invoices from tracked time
-- **Billing Automation** - Automate recurring billing and retainer management
-- **Pre-Billing Reports** - Review time entries before creating invoices
-- **Payment Processing** - Accept credit cards and process payments
-- **Collections** - Track aging accounts and manage collections
-
-### Trust Accounting
-- **IOLTA Compliance** - Maintain compliant trust accounts
-- **Trust-to-Operating** - Transfer funds between trust and operating accounts
-- **Three-Way Reconciliation** - Ensure trust account accuracy
-- **Trust Transaction Tracking** - Monitor all trust account activity
-- **Trust Reports** - Comprehensive trust accounting reports
-
-### Practice Management
-- **Client Management** - Centralize client information and communications
-- **Matter Management** - Organize cases and matters
-- **Document Management** - Store case-related documents
-- **Calendar & Dockets** - Track deadlines and appointments
-- **Contact Management** - Manage client and professional contacts
-
-### Reporting
-- **Financial Reports** - Detailed financial analysis and reporting
-- **Productivity Reports** - Track attorney time and billable hours
-- **Custom Reports** - Create custom report templates
-
-## Platform
-
-Windows desktop application with optional cloud hosting
+- **Time & Billing**: Flexible time entry with timers, batch entry, and activity tracking
+- **Trust Accounting**: IOLTA/IOLA compliant three-way reconciliation
+- **General Ledger**: Full accounting with accounts payable and receivable
+- **Matter Management**: Track cases, clients, and matters
+- **Document Management**: Integrate with PracticeMaster for document organization
+- **Calendar**: Deadline tracking and court date management
+- **Conflict Checking**: Identify potential conflicts of interest
+- **Billing Arrangements**: Support for hourly, flat fee, contingent, and hybrid billing
+- **Electronic Billing**: LEDES billing for insurance and corporate clients
+- **Reports**: Over 100 standard reports plus custom report builder
 
 ## Pricing
 
-One-time purchase or subscription options; contact for pricing.
+Perpetual license available starting at $595 per user (one-time) plus annual maintenance. Cloud hosting also available. Contact for custom pricing and demo.

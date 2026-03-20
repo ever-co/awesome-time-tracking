@@ -1,28 +1,24 @@
 ## Overview
 
-TrackingTime is a modern time tracking platform that offers unlimited free users, making it accessible for teams of any size. The software combines time tracking with visual timelines, task management, and comprehensive reporting.
+TrackingTime is a visually-oriented time tracking platform designed for creative teams, agencies, and freelancers. It combines beautiful design with powerful features for time tracking, project management, and team collaboration.
 
 ## Features
 
-- **Unlimited Free Users**: No restrictions on team size for free plan
-- **Visual Timeline**: See how time is distributed across projects and tasks
-- **One-Click Tracking**: Start/stop timers with single click
-- **Manual Time Entry**: Add time retroactively
-- **Project Management**: Organize work by projects, clients, and tasks
-- **Team Collaboration**: Assign tasks, share projects, comment on work
-- **Calendar Integration**: Sync with Google Calendar and Outlook
-- **Time Estimates**: Set expected durations and compare to actuals
-- **Budget Tracking**: Monitor project budgets and time remaining
-- **Billable Hours**: Mark time as billable or non-billable
+- **Visual Time Tracking**: Color-coded timeline view of tracked time
+- **Project Budgets**: Set and monitor time and financial budgets
+- **Team Scheduling**: Visual team calendar and availability
+- **Task Management**: Create and assign tasks within projects
+- **Timesheets**: Automatic timesheet generation with approvals
+- **Reporting**: Visual reports on time usage and project profitability
+- **Integrations**: Connect with 60+ tools including Asana, Trello, Slack
+- **Mobile Apps**: Track time on iOS and Android
+- **Client Access**: Share project progress with clients
 - **Invoicing**: Generate invoices from tracked time
-- **Reports**: Time reports, project profitability, team productivity
-- **Integrations**: Connect with 1000+ tools via Zapier, native integrations with Asana, Trello, Jira
-- **Mobile Apps**: iOS and Android apps for mobile tracking
-- **Browser Extension**: Chrome extension for tracking from any website
+
+## Best Practices
+
+The platform provides guides on agile time tracking, best practices for different industries, and comparisons of time tracking software.
 
 ## Pricing
 
-- **Free**: Unlimited users, unlimited projects, basic features
-- **Pro**: $5 per user/month - Advanced features, billing, integrations
-- **Business**: $10 per user/month - Team management, custom reports
-- **Enterprise**: Custom pricing - White-label, API access, priority support
+Free plan for unlimited users with basic features. Pro plan at $5/user/month. Business plan at $10/user/month with all features.

@@ -1,31 +1,31 @@
 ## Overview
 
-WorkTime is an employee monitoring solution designed with privacy and compliance at its core. Unlike invasive monitoring tools, WorkTime focuses on productivity metrics without capturing screenshots, recording keystrokes, or accessing personal data, making it compliant with HIPAA, GDPR, and GLBA regulations.
+WorkTime is a non-invasive employee productivity monitoring software that focuses on work patterns rather than individual surveillance. It's designed to improve productivity while respecting employee privacy and maintaining compliance with regulations.
 
 ## Features
 
-- **Non-Invasive Monitoring**: Track productivity without screenshots, keystroke logging, or webcam access
-- **Application and Website Tracking**: Monitor which applications and websites employees use and for how long
-- **Active/Idle Time**: Distinguish between active working time and idle periods
-- **Productivity Analysis**: Categorize activities as productive, unproductive, or neutral
-- **Attendance Tracking**: Monitor arrival times, departures, and breaks
-- **Compliance Modes**: Built-in HIPAA, GDPR, and GLBA compliance features
-- **Off-Hours Detection**: Identify employees working outside standard hours
-- **Team Performance Reports**: Generate detailed reports on individual and team productivity
-- **Alerts and Notifications**: Set up custom alerts for specific productivity patterns
-- **Cloud and On-Premise**: Available in both cloud-hosted and on-premise deployment options
+- **Productivity Monitoring**: Track application and website usage
+- **No Screenshots**: Privacy-first approach without screenshot monitoring
+- **No Keystroke Logging**: Respects employee privacy
+- **Attendance Tracking**: Monitor work hours and attendance patterns
+- **Productivity Scoring**: Automatic categorization of productive/unproductive time
+- **Compliance Modes**: Built-in HIPAA, GDPR, and GLBA compliance
+- **Reports**: Detailed productivity and time utilization reports
+- **Real-Time Monitoring**: Live view of team activity levels
+- **Custom Categories**: Define productive/unproductive apps for your business
+- **Cloud & On-Premise**: Available as cloud service or on-premise installation
 
-## Privacy Approach
+## Privacy Focus
 
-WorkTime emphasizes "green" or ethical monitoring, collecting only the data necessary for productivity analysis while respecting employee privacy. The software does not access file contents, emails, personal communications, or capture visual records of employee screens.
+- 59% of workers feel digital tracking hurts trust - WorkTime addresses this
+- No recording of content or keystrokes
+- Focus on patterns, not surveillance
+- Transparent to employees
 
-## Use Cases
+## Results
 
-- Organizations requiring HIPAA, GDPR, or GLBA compliance
-- Companies wanting productivity insights without invasive surveillance
-- Remote team management with privacy considerations
-- Healthcare, finance, and legal sectors with strict data protection requirements
+Companies report 40% increase in employee performance after implementing WorkTime.
 
 ## Pricing
 
-WorkTime offers flexible pricing starting around $6 per user per month for cloud deployment and $200+ for on-premise licenses. Pricing varies based on deployment type, number of users, and support level.
+Cloud version starts at $6.99/user/month. On-premise licensing also available. Free trial for 14 days.

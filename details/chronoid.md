@@ -1,61 +1,31 @@
 ## Overview
 
-Chronoid is a free time tracking application that provides essential time tracking functionality without requiring a paid subscription. It offers a clean, intuitive interface with project-based tracking, reporting, and integration capabilities suitable for freelancers, consultants, and small teams who need reliable time tracking without ongoing costs.
+Chronoid is a free time tracking application that emphasizes simplicity and privacy. It provides all essential time tracking features without ads, subscriptions, or user tracking.
 
-## Key Features
+## Features
 
-### Time Tracking
-- Start/stop timer functionality
-- Manual time entry
-- Project and task categorization
-- Description and notes per entry
-- Billable vs non-billable marking
-- Date range time entry
+- **Unlimited Tracking**: Track unlimited projects and tasks
+- **Manual & Timer**: Both manual entry and running timers
+- **Privacy-First**: No user tracking or data collection
+- **Reports**: Basic reporting and export capabilities
+- **Tags**: Organize time entries with tags
+- **Cross-Platform**: Available on web and mobile
+- **Offline Mode**: Works without internet connection
+- **Export**: Export data to CSV
+- **No Ads**: Completely ad-free experience
+- **Open Source**: Transparent codebase
 
-### Project Management
-- Unlimited projects (free tier)
-- Project color coding
-- Task organization within projects
-- Project archiving
-- Budget setting (optional)
+## Philosophy
 
-### Reporting
-- Time summaries by project
-- Daily, weekly, monthly views
-- Billable hours reporting
-- Exportable reports (CSV, PDF)
-- Visual charts and graphs
+Chronoid believes time tracking should be simple, private, and free. No complex features that get in the way, no subscription fees, and no data mining.
 
-### Team Features (if applicable)
-- Multiple user support
-- Team time tracking
-- Project collaboration
-- Shared reporting
+## Best For
 
-## Free Tier Benefits
+- Freelancers who need basic time tracking
+- Privacy-conscious users
+- Anyone wanting a simple, no-cost solution
+- Students tracking study time
 
-Unlike many competitors, Chronoid offers substantial functionality at no cost:
-- No user limits on free plan
-- Unlimited projects
-- Full reporting capabilities
-- Export functionality
-- No time-limited trial
+## Pricing
 
-## Use Cases
-
-- **Freelancers**: Track billable hours for multiple clients
-- **Consultants**: Project-based time tracking for billing
-- **Small Teams**: Collaborative time tracking without SaaS costs
-- **Students**: Track study time and project work
-- **Personal Use**: Time awareness and productivity tracking
-
-## Integration
-
-Basic integrations available:
-- Calendar sync
-- Export to accounting software
-- API access for custom integrations
-
-## Ideal For
-
-Freelancers starting out, small teams with limited budgets, individuals wanting simple time tracking, consultants needing basic project tracking, and anyone seeking free alternative to paid time tracking apps.
+Completely free with no premium tiers or hidden costs.

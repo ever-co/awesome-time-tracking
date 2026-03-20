@@ -1,56 +1,27 @@
 ## Overview
 
-Kitesuite is a project management resource platform that provides educational content on time tracking implementation. Their "Complete Guide to Time Tracking in Project Management (2026)" offers comprehensive insights into effective time tracking practices for project-based work.
+Kitesuite is an integrated platform designed for professional services firms that need to manage projects, track time, bill clients, and collaborate with teams and clients all in one place.
 
-## 2026 Guide Coverage
+## Features
 
-### Time Tracking in Projects
-- Why time tracking matters for project success
-- Choosing the right time tracking approach
-- Integration with project management workflows
-- Team adoption strategies
-- Measuring ROI of time tracking
+- **Time Tracking**: Track billable and non-billable time with timers or manual entry
+- **Project Management**: Plan, assign, and track projects and tasks
+- **Invoicing**: Generate professional invoices from tracked time
+- **Expense Management**: Track and bill project expenses
+- **Resource Planning**: Allocate team members across projects
+- **Client Portal**: Secure client access for collaboration and approvals
+- **Document Management**: Centralized file storage and sharing
+- **Financial Reporting**: Project profitability and financial dashboards
+- **Team Collaboration**: Internal communication and task comments
+- **Mobile Access**: iOS and Android apps for field time tracking
 
-### Implementation Best Practices
-- Setting up time tracking systems
-- Defining tracking granularity
-- Establishing tracking policies
-- Training team members
-- Overcoming resistance
+## Best For
 
-## Key Topics
+- Consulting firms
+- Marketing agencies
+- IT services companies
+- Professional services teams
 
-- Time estimation techniques
-- Actual vs. estimated time analysis
-- Resource allocation optimization
-- Project profitability tracking
-- Billable hours management
-- Reporting and analytics
+## Pricing
 
-## Methodologies Covered
-
-- Agile time tracking approaches
-- Waterfall project time management
-- Hybrid methodology time tracking
-- Remote team time tracking
-- Distributed team coordination
-
-## Tools & Technology
-
-- Time tracking software comparison
-- Integration with PM platforms
-- Mobile time tracking solutions
-- Automation opportunities
-- Reporting capabilities
-
-## Benefits of Proper Time Tracking
-
-- Improved project estimation
-- Better resource planning
-- Increased profitability
-- Enhanced client transparency
-- Data-driven decision making
-
-## Target Audience
-
-Project managers, team leaders, agency owners, and organizations implementing or improving their time tracking practices within project management contexts.
+Pricing available upon request. Typically starts at $20-30/user/month depending on features and team size.

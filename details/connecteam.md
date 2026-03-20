@@ -1,66 +1,20 @@
 ## Overview
 
-Connecteam is a comprehensive employee management platform designed specifically for deskless and mobile teams, featuring GPS time tracking as a core capability.
+Connecteam is a comprehensive mobile-first workforce management platform designed specifically for deskless and field teams. It combines time tracking with GPS, employee scheduling, task management, and team communication in one easy-to-use app.
 
-## Time Clock Features
+## Features
 
-**GPS Time Tracking:**
-- GPS location capture on clock in/out
-- Geofencing for job sites
-- Live location tracking
-- Mileage tracking
-- Offline clock in/out
-
-**Time Management:**
-- Mobile time clock app
-- Kiosk mode for shared devices
-- Break tracking
-- Overtime calculations
-- Time-off management
-- Shift scheduling
-
-**Compliance:**
-- Prevent early clock-ins
-- Break enforcement
-- Overtime alerts
-- Labor law compliance
-- Audit trails
-
-## Additional Features
-
-**Communication:**
-- Team chat and messaging
-- Announcements
-- Updates and alerts
-- File sharing
-- Company directory
-
-**Task Management:**
-- Checklists and forms
-- Job scheduling
-- Task assignments
-- Photo and document capture
-- Digital workflows
-
-**HR & Training:**
-- Employee onboarding
-- Training courses
-- Document management
-- Policy acknowledgments
-- Skills tracking
-
-## Target Industries
-
-- Construction and field services
-- Retail and hospitality
-- Healthcare
-- Transportation and logistics
-- Cleaning and facilities
+- **GPS Time Clock**: Employees clock in/out with GPS location verification
+- **Geofencing**: Automatic clock-in when employees arrive at job sites
+- **Job Scheduling**: Create and assign shifts with drag-and-drop ease
+- **Team Communication**: Built-in chat, updates feed, and announcements
+- **Task Management**: Assign tasks and checklists with photo documentation
+- **Timesheets**: Automatic timesheet generation with GPS breadcrumbs
+- **Forms & Checklists**: Digital forms for reports, inspections, and workflows
+- **Training & Onboarding**: Built-in employee training modules
+- **Safety & Compliance**: Safety alerts, incident reports, and compliance tracking
+- **Payroll Integration**: Export timesheets to payroll systems
 
 ## Pricing
 
-Small Business Plan: Free for up to 10 users
-Basic: $29/month for up to 30 users
-Advanced: $49/month for up to 30 users
-Expert: $99/month for up to 30 users
-Enterprise: Custom pricing
+Free plan for up to 10 users. Paid plans start at $29/month for up to 30 users (Basic), $49/month (Advanced), and $99/month (Expert) with full features.

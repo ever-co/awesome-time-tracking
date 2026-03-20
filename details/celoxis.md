@@ -1,28 +1,20 @@
 ## Overview
 
-Celoxis is a comprehensive project management platform offering integrated time tracking capabilities alongside advanced project planning and resource management features. The platform is designed for teams and enterprises that need robust time tracking combined with full-featured project management.
+Celoxis is a comprehensive project management platform with robust time tracking capabilities designed for enterprises and teams that need advanced resource planning, portfolio management, and detailed analytics.
 
 ## Features
 
-- **Integrated Time Tracking**: Track time directly within project tasks and activities
-- **Project Management**: Full-featured project planning with Gantt charts and dependencies
-- **Resource Management**: Allocate and track resources across multiple projects
-- **Timesheet Management**: Comprehensive timesheet functionality with approval workflows
-- **Billable Hours Tracking**: Track billable vs. non-billable hours for client projects
-- **Budget Tracking**: Monitor project budgets and compare actual vs. planned costs
-- **Custom Reports**: Generate detailed reports on time, costs, and project progress
-- **Portfolio Management**: Manage multiple projects across your organization
-- **Collaboration Tools**: Built-in communication and file sharing capabilities
-- **Mobile Apps**: iOS and Android apps for time tracking on the go
-
-## Integration
-
-- Microsoft Project
-- JIRA
-- Salesforce
-- QuickBooks
-- Other popular business tools
+- **Time Tracking**: Flexible timesheets with approval workflows
+- **Resource Management**: Visual resource allocation and capacity planning
+- **Project Planning**: Gantt charts, task dependencies, and critical path analysis
+- **Portfolio Management**: Manage multiple projects across the organization
+- **Budget Tracking**: Track project costs against budgets in real-time
+- **Custom Workflows**: Configurable workflows for different project types
+- **Advanced Reporting**: Interactive dashboards and customizable reports
+- **Risk Management**: Identify and track project risks
+- **Collaboration**: Document sharing, discussions, and team collaboration
+- **Integrations**: Connect with Jira, MS Project, Salesforce, and more
 
 ## Pricing
 
-Celoxis offers both cloud-hosted and on-premise deployment options with pricing based on team size and features. Contact Celoxis for detailed pricing information.
+Cloud version starts at $25/user/month. On-premise options available for enterprise customers. 30-day free trial with no credit card required.

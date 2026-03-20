@@ -1,27 +1,17 @@
 ## Overview
 
-Motion is an AI-driven productivity suite that revolutionizes time management by automatically scheduling tasks from your to-do list into your calendar. It uses artificial intelligence to create optimal time blocks and dynamically adjusts schedules as priorities change throughout the day.
+Motion is a project management software with a calendar at its core that was built to be your team's project management software and AI calendar. Motion is the only daily planner that actually leverages AI to plan your day for you, rather than requiring manual time blocking.
 
 ## Features
 
-- **AI Auto-Scheduling** - Automatically schedules tasks from to-do lists into calendar time blocks
-- **Dynamic Re-scheduling** - Intelligently adjusts schedule when new tasks or meetings are added
-- **Project Management** - AI-assisted project creation and task breakdown
-- **Team Coordination** - Helps teams coordinate complex projects with automated scheduling
-- **Priority Management** - Automatically prioritizes tasks based on deadlines and importance
-- **Calendar Integration** - Syncs with Google Calendar, Outlook, and other calendar services
-- **Meeting Scheduling** - Smart scheduling assistant for finding optimal meeting times
-- **Focus Time Protection** - Blocks time for deep work automatically
-- **Deadline Tracking** - Ensures tasks are scheduled with enough time before deadlines
-- **Mobile Apps** - Access and manage your AI-scheduled day from iOS and Android
-
-## Use Cases
-
-- Individual professionals managing complex workloads
-- Teams coordinating projects with multiple dependencies
-- Executives balancing meetings and strategic work
-- Anyone struggling with manual calendar management
+- **AI Auto-Scheduling**: Automatically schedules tasks to your calendar based on priority, deadlines, and available time
+- **Project Management**: Full-featured project management with task dependencies and team collaboration
+- **Meeting Scheduler**: Intelligent meeting booking that finds optimal times
+- **Calendar Integration**: Connects with Google Calendar and Outlook
+- **Task Prioritization**: AI-driven prioritization based on deadlines and importance
+- **Time Blocking**: Automatic time blocking without manual effort
+- **Team Coordination**: Helps teams coordinate schedules and workloads
 
 ## Pricing
 
-Starts at $19-34 per user per month with a free trial available.
+Motion costs $19/month on an annual plan or $34/month when billed monthly. There is a 7-day free trial available.

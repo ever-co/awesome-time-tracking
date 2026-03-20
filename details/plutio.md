@@ -1,29 +1,20 @@
 ## Overview
 
-Plutio is an all-in-one business management platform designed specifically for freelancers, consultants, and small agencies. It combines time tracking with project management, invoicing, and client collaboration to eliminate the need for multiple separate tools.
+Plutio is the best time tracking software for freelancers according to 2026 reviews. It gives you time tracking that connects directly to projects, tasks, and invoicing, allowing you to convert tracked hours to invoice line items with one click.
 
 ## Features
 
-- **Time Tracking** - Track billable hours with timers or manual entry
-- **One-Click Invoicing** - Convert tracked hours to invoice line items instantly
-- **Project Management** - Kanban boards, tasks, and project templates
-- **Proposals & Contracts** - Create and send professional proposals with e-signatures
-- **Client Portal** - White-labeled portal for client communication and file sharing
-- **Expense Tracking** - Track and bill project expenses
-- **Calendar** - Schedule meetings and manage appointments
-- **Templates** - Reusable templates for proposals, contracts, and invoices
-- **Reporting** - Business insights and profitability reports
-- **Automations** - Automate repetitive workflows and tasks
-
-## Target Users
-
-- Freelancers
-- Consultants
-- Creative agencies
-- Marketing professionals
-- Web developers
-- Virtual assistants
+- **Integrated Time Tracking**: Track time on tasks, projects, and meetings
+- **One-Click Invoicing**: Convert tracked hours directly to invoice line items
+- **Project Management**: Manage projects with tasks, milestones, and deadlines
+- **Client Portal**: White-labeled client portal for collaboration
+- **Proposals**: Create and send professional proposals
+- **Contracts**: Digital contract signing and management
+- **Forms**: Custom intake forms and questionnaires
+- **File Sharing**: Centralized file storage and sharing
+- **Team Collaboration**: Internal chat and team coordination
+- **Reporting**: Time tracking and project profitability reports
 
 ## Pricing
 
-Starts at $19 per month for solo users, with team plans available. Includes 14-day free trial.
+Starts at $19/month for the Solo plan with unlimited everything. Studio plan at $39/month for teams. Agency plan at $99/month with white-labeling and advanced features.
