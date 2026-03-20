@@ -1,31 +1,64 @@
 ## Overview
 
-The PLAN: Manage Your Time Like a Lazy Genius by Kendra Adachi offers a refreshing approach to time management that balances getting things done with not burning out.
+The PLAN: Manage Your Time Like a Lazy Genius is a time management book by Kendra Adachi that presents a refreshing approach to productivity. The book is part of the Lazy Genius philosophy, which encourages readers to be a genius about the things that matter and lazy about the things that don't.
 
-## Philosophy
+## Core Philosophy
 
-Based on the Lazy Genius principles: be a genius about the things that matter and lazy about the things that don't.
+The Lazy Genius approach to time management focuses on:
+
+- **Selective Optimization**: Being strategic about where you invest energy and attention
+- **Simplification**: Removing unnecessary complexity from planning systems
+- **Permission to Be Lazy**: Acknowledging that not everything deserves equal attention
+- **Sustainable Practices**: Building systems that work with your life, not against it
 
 ## Key Principles
 
-- **Sustainable Planning**: Create plans you can actually maintain
-- **Flexible Systems**: Build in flexibility rather than rigid schedules
-- **Priority Focus**: Be intentional about what truly matters
-- **Rest Integration**: Plan for rest as seriously as you plan for work
-- **Context-Aware**: Recognize different seasons require different approaches
+### The PLAN Framework
 
-## Time Management Approach
+The book introduces a structured yet flexible framework for managing time and tasks:
 
-Rejects the "do more" mentality in favor of "do what matters" with built-in grace for the realities of daily life.
+- **Prepare**: Set yourself up for success
+- **Learn**: Understand what works for you
+- **Adjust**: Make changes as needed
+- **Notice**: Pay attention to what matters
+
+### Contextual Planning
+
+Rather than applying one-size-fits-all productivity rules, the book teaches readers to:
+
+- Identify their personal priorities
+- Design systems that fit their unique context
+- Adjust approaches for different seasons of life
+- Let go of guilt about what doesn't get done
 
 ## Target Audience
 
-Ideal for people tired of productivity systems that demand perfection and leave no room for life's unpredictability.
+Ideal for:
 
-## Format
+- People overwhelmed by complex productivity systems
+- Those seeking a more relaxed approach to time management
+- Individuals juggling multiple life responsibilities
+- Anyone feeling burnout from trying to do it all
 
-Available in multiple formats including hardcover and audiobook.
+## Related Resources
 
-## Author
+Kendra Adachi also offers:
 
-Kendra Adachi - creator of The Lazy Genius Collective.
+- The Lazy Genius Podcast
+- The Lazy Genius Collective community
+- Additional books on simplifying various life areas
+- Workshops and speaking engagements
+
+## Reception
+
+The PLAN is frequently recommended in 2026 time management book lists as one of the best options for those seeking a more balanced, less stressful approach to productivity. It's particularly praised for:
+
+- Practical, actionable advice
+- Permission-giving tone
+- Realistic expectations
+- Adaptable framework
+- Focus on what truly matters
+
+## Why It Resonates in 2026
+
+In an era of energy management replacing time management, The PLAN's philosophy aligns perfectly with understanding that not all tasks deserve equal energy investment. The book helps readers identify where to focus their limited energy rather than trying to maximize every minute.
