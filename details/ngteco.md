@@ -1,32 +1,73 @@
 ## Overview
 
-NGTECO specializes in biometric security and time clock solutions for workforce management. Their time clocks use advanced facial recognition and fingerprint scanning technology to accurately track employee attendance while preventing time theft and buddy punching.
+NGTECO is a provider of biometric time clocks and face ID employee time tracking systems. The company offers facial recognition time clocks, fingerprint scanners, and RFID badge readers for workforce management and access control.
+
+## Product Line
+
+- **Facial Recognition Time Clocks**: Touchless authentication with face ID technology
+- **Fingerprint Time Clocks**: Secure biometric authentication via fingerprint
+- **RFID Card Readers**: Badge-based time tracking systems
+- **Combination Devices**: Multi-modal authentication (face + fingerprint + RFID)
+- **Access Control Systems**: Combined time tracking and door access
+
+## Facial Recognition Technology
+
+- **Fast Recognition**: Identify employees in under 1 second
+- **High Accuracy**: Advanced algorithms for reliable authentication
+- **Mask Detection**: Works even when employees wear face masks
+- **Anti-Spoofing**: Detects photo and video spoofing attempts
+- **Large Capacity**: Store thousands of employee face templates
+- **Touchless**: Hygienic, contact-free authentication
 
 ## Features
 
-- **Multi-Modal Biometric Authentication**: Support for facial recognition, fingerprint scanning, and password authentication
-- **Fast Identification**: Less than 1-second identification time for quick employee clock-ins
-- **Large Storage Capacity**: Stores up to 300 faces, 1,000 fingerprints, 1,000 passwords, and 300,000 attendance records
-- **Three Identification Modes**: Single mode or multiple mode authentication for enhanced security
-- **Touchless Options**: Facial recognition provides contactless attendance tracking
-- **PoE Support**: Power over Ethernet capability for simplified installation
-- **WiFi Connectivity**: Wireless network support for flexible placement
-- **RFID Integration**: Optional RFID badge reader support
-- **Real-Time Sync**: Attendance data syncs to cloud-based management systems
-- **Tamper-Resistant Design**: Industrial-grade construction for reliability
+- **Biometric Authentication**: Eliminates buddy punching
+- **Multi-Authentication Modes**: Face, fingerprint, RFID, or PIN
+- **WiFi or Ethernet Connectivity**: Flexible network options
+- **Cloud or On-Premise**: Choose deployment model
+- **Mobile App Integration**: Manage system from smartphones
+- **Shift Scheduling**: Built-in scheduling capabilities
+- **Attendance Reports**: Comprehensive reporting and analytics
+- **Payroll Export**: Export data for payroll processing
+- **Visitor Management**: Track visitor check-ins
+- **Access Control**: Integrate with door locks
 
-## Technology
+## Hardware Specifications
 
-NGTECO time clocks use fuzzy identification algorithms for high accuracy even with variations in appearance, lighting conditions, or fingerprint quality. The facial recognition system can identify employees at various angles and distances.
+- High-resolution cameras for facial recognition
+- Capacitive fingerprint sensors
+- LCD touchscreen displays
+- Built-in battery backup
+- Wall-mount or stand options
+- PoE (Power over Ethernet) support
+
+## Benefits
+
+- Prevents time theft with biometric verification
+- Improves hygiene with touchless facial recognition
+- Works in various lighting conditions
+- Reduces hardware costs with multi-modal devices
+- Provides accurate attendance records
+- Enhances security with access control integration
 
 ## Applications
 
-Ideal for businesses of all sizes, from small offices to large enterprises, across industries including manufacturing, healthcare, retail, hospitality, and construction where accurate attendance tracking is critical.
+- Corporate offices requiring secure access
+- Manufacturing facilities with shift workers
+- Healthcare facilities (hospitals, clinics)
+- Retail stores and restaurants
+- Warehouses and logistics centers
+- Construction sites with field offices
 
-## Hardware Options
+## Software Platform
 
-NGTECO offers various time clock models including wall-mounted units, desktop devices, and kiosk-style terminals with different screen sizes and feature sets to match specific business requirements.
+- Web-based management console
+- Real-time attendance monitoring
+- Multiple report formats
+- Employee self-service portal
+- Department and location management
+- Integration APIs available
 
 ## Pricing
 
-Contact NGTECO or authorized distributors for pricing information based on specific model requirements and quantity.
+NGTECO time clocks typically range from $200-600 depending on features (facial recognition, fingerprint, screen size, etc.). Software pricing varies based on number of employees and deployment model. Contact for detailed quote.

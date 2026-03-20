@@ -1,23 +1,71 @@
 ## Overview
 
-Toggl Track is a time tracking tool designed for freelancers, teams, and businesses to monitor work hours, track billable time, and generate detailed productivity reports. The software is built for speed and minimal friction, allowing users to start tracking time with a single click.
+Toggl Track is one of the most well-known time tracking tools, featuring an uncluttered, straightforward interface with idle time notification, easy syncing across devices, tagging, and thorough reporting. Used by over 5 million users worldwide.
 
-## Key Features
+## Features
 
-- **One-click timer** - Start tracking instantly with keyword mapping that automatically links app and website activity to specific projects
-- **Multi-platform support** - Access on web, mobile, and desktop with automatic data syncing across devices
-- **Advanced reporting** - Summary, Detailed, and Workload reports provide comprehensive insights into time allocation and team productivity
-- **Idle detection** - Prompts users when the timer is running but no computer activity is detected
-- **Labor cost tracking** - Compare labor costs vs. billable rates to optimize pricing, staffing, and budgeting
-- **Automated reminders** - System sends email notifications if team members forget to log hours
-- **100+ integrations** - Connect with popular project management and productivity tools
-- **Offline tracking** - Continue tracking time even without internet connection
+- **One-Click Timers**: Start tracking with single click
+- **Manual Time Entry**: Add time retroactively
+- **Idle Detection**: Alerts when computer is inactive
+- **Project & Client Organization**: Group time by projects and clients
+- **Tags**: Add context to time entries with tags
+- **Billable Rates**: Set hourly rates for billing
+- **Calendar View**: Visualize time entries on calendar
+- **Pomodoro Timer**: Built-in pomodoro functionality
+- **Reminders**: Get reminded to track time
+- **Browser Extensions**: Track from Chrome, Firefox, Edge
+- **Desktop Apps**: Native apps for Windows, Mac, Linux
+- **Mobile Apps**: Full-featured iOS and Android apps
+
+## Reporting
+
+- **Summary Reports**: Overview of time by project, client, user
+- **Detailed Reports**: Granular time entry data
+- **Weekly Reports**: Email summaries
+- **Export**: PDF, CSV, Excel formats
+- **Custom Reports**: Filter and customize views
+- **Visual Dashboards**: Charts and graphs
+
+## Team Features
+
+- **Team Dashboard**: View team activity in real-time
+- **Project Templates**: Reusable project setups
+- **Rounding**: Configure time rounding rules
+- **Required Fields**: Enforce project/tag selection
+- **Alerts**: Get notified of team time tracking
+- **Permissions**: Role-based access control
+
+## Integrations
+
+100+ integrations:
+- Project management (Asana, Trello, Jira, Monday, ClickUp)
+- Development (GitHub, GitLab, VS Code)
+- Design (Figma, Adobe XD)
+- Documentation (Notion, Google Docs)
+- Calendar (Google Calendar, Outlook)
+
+## Use Cases
+
+- Freelancers tracking billable hours
+- Agencies managing client projects
+- Remote teams tracking work time
+- Personal productivity and time awareness
+- Project-based billing
+
+## Benefits
+
+- Extremely simple and intuitive
+- Works seamlessly across all devices
+- Reliable syncing
+- Free plan generous for individuals
+- Minimal learning curve
+- Privacy-focused
 
 ## Pricing
 
-- **Free Plan**: Up to 5 users, forever free
-- **Starter Plan**: $9 per user/month (billed annually) - includes basic reporting and project management
-- **Premium Plan**: $18 per user/month (billed annually) - adds advanced reports, time audits, and scheduled email reports
-- **Enterprise Plan**: Custom pricing with dedicated account manager
+- **Free**: Unlimited tracking for up to 5 users
+- **Starter**: $10 per user/month - basic team features
+- **Premium**: $20 per user/month - advanced features
+- **Enterprise**: Custom pricing
 
-All paid plans include a 30-day free trial with savings up to 10% on annual subscriptions.
+Free plan includes unlimited time tracking, projects, and clients.

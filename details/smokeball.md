@@ -1,27 +1,51 @@
 ## Overview
 
-Smokeball is a comprehensive legal practice management platform that includes automatic time tracking capabilities designed to capture more billable hours without manual timers. The software is built specifically for small to mid-size law firms and automatically tracks work across documents, emails, and phone calls.
+Smokeball is a legal practice management platform with integrated automatic time tracking. The software tracks billable hours in the background as attorneys work, capturing time that would otherwise be lost to manual tracking failures.
 
-## Features
+## Automatic Time Tracking
 
-- **Automatic Time Tracking**: Tracks time automatically as you work on documents, emails, and calls
-- **Matter Management**: Centralized case management with document organization
-- **Document Automation**: Create legal documents with built-in templates and automation
-- **Billing & Invoicing**: Generate invoices based on automatically tracked time
-- **Email Integration**: Track time spent on emails within Outlook
-- **Calendar Management**: Manage appointments and court dates
-- **Task Management**: Create and assign tasks with deadline tracking
-- **Client Portal**: Secure portal for client communication and document sharing
-- **Reporting**: Track billable vs. non-billable time and firm productivity
-- **Mobile App**: Access matters and track time on mobile devices
+- **Background Tracking**: Automatically captures time spent on documents, emails, and research
+- **Matter-Based Recording**: Time is automatically assigned to the correct matter
+- **No Manual Timers**: Eliminates need to start/stop timers
+- **Activity Recognition**: Detects when work begins and ends
+- **One-Click Billing**: Convert tracked time to invoices instantly
+
+## Practice Management Features
+
+- **Matter Management**: Complete case and matter organization
+- **Document Automation**: Template-based document generation
+- **Calendar & Deadlines**: Court date and deadline tracking
+- **Task Management**: Workflows and task assignments
+- **Contact Management**: Client and contact database
+- **Email Integration**: Outlook integration with automatic filing
+
+## Billing Features
+
+- **Automated Billing**: Generate invoices from auto-tracked time
+- **Trust Accounting**: IOLTA-compliant trust management
+- **Expense Tracking**: Bill expenses to matters
+- **Payment Processing**: Online payment acceptance
+- **Billing Rate Management**: Multiple rates per attorney
 
 ## Key Benefits
 
-- Captures billable hours that would otherwise be lost
-- Eliminates manual time entry and timer management
-- Provides accurate records for billing and compliance
-- Improves overall firm profitability
+- According to Smokeball data, lawyers capture an average of 64 additional billable hours per year with automatic tracking
+- Eliminates time leakage from forgotten or unbilled work
+- Reduces administrative time spent on manual time entry
+- Improves billing accuracy and client satisfaction
+
+## Integrations
+
+- Microsoft Outlook (deep integration)
+- QuickBooks for accounting
+- LawPay for payments
+- Various legal research platforms
 
 ## Pricing
 
-Smokeball offers tiered pricing based on firm size and features, with plans designed for solo practitioners through mid-size firms. Pricing details available upon request.
+Smokeball offers tiered pricing based on firm size:
+- Boost: Essential features for solo practitioners
+- Grow: Advanced features for small firms
+- Prosper: Complete features for growing firms
+
+Contact for detailed pricing. Free demo and trial available.

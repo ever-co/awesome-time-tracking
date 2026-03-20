@@ -1,24 +1,46 @@
 ## Overview
 
-Productive is a comprehensive agency management platform that combines time tracking with project management, budgeting, resource planning, sales, invoicing, and reporting. Built specifically for agencies, consultancies, and service-based teams, Productive provides end-to-end visibility from initial sales pipeline through project delivery and profitability analysis.
+Productive is an all-in-one agency management platform that combines time tracking, project management, billing, reporting, budgeting, resource planning, and sales tools specifically designed for creative agencies and professional services firms.
 
-## Features
+## Time Tracking Features
 
-- **Time Tracking**: Track billable and non-billable hours with multiple entry methods including timers, manual entry, and calendar integration
-- **Project Management**: Plan and track projects with tasks, milestones, budgets, and deadlines
-- **Resource Planning**: Visualize team capacity, allocate resources, and balance workloads across projects
-- **Budgeting**: Set project budgets by time, money, or both, with real-time budget tracking and alerts
-- **Sales Pipeline**: Manage deals, create estimates, and convert opportunities to projects
-- **Invoicing**: Generate and send invoices based on tracked time and expenses
-- **Expense Tracking**: Record and categorize project expenses for accurate billing
-- **Profitability Analysis**: Real-time insights into project and company profitability
-- **Reporting**: Customizable reports and dashboards for utilization, revenue, and performance metrics
-- **Integrations**: Connect with Slack, Google Workspace, QuickBooks, Xero, and other business tools
+- **Flexible Time Entry**: Manual entry, timers, and bulk time logging
+- **Project-Based Tracking**: Track time by project, task, and service type
+- **Billable vs Non-Billable**: Categorize hours for accurate client billing
+- **Mobile Time Tracking**: Native iOS and Android apps
+- **Timer Integrations**: Browser extensions for quick time capture
+- **Calendar Integration**: Sync time entries with calendar events
+- **Approval Workflows**: Manager review and approval of timesheets
+- **Time Budgets**: Set and monitor time budgets by project
 
-## Use Cases
+## Project Management
 
-Productive is ideal for creative agencies, marketing firms, consulting companies, software development teams, and other professional services organizations that need to track time, manage multiple projects, and maintain profitability.
+- Task management with kanban boards
+- Project templates for repeatable workflows
+- Dependencies and milestone tracking
+- File management and client collaboration
+
+## Financial Management
+
+- Budgeting and profitability analysis
+- Automated invoicing from tracked time
+- Expense tracking and project costing
+- Revenue forecasting and financial reporting
+
+## Resource Management
+
+- Capacity planning and resource scheduling
+- Utilization tracking and workload balancing
+- Skills management and team allocation
+
+## Benefits
+
+- Centralizes all agency operations in one platform
+- Provides real-time visibility into project profitability
+- Improves resource utilization and prevents over-allocation
+- Streamlines billing and invoicing processes
+- Enables data-driven decision making
 
 ## Pricing
 
-Productive offers a 14-day free trial. The Essential plan starts at $9 per user per month (billed annually), Professional at $24 per user per month, and Ultimate at $39 per user per month. All plans include core time tracking and project management features.
+Productive offers tiered pricing starting at $11 per user/month for essential features, $28 per user/month for professional features, and custom pricing for ultimate tier. 14-day free trial available.

@@ -1,38 +1,74 @@
 ## Overview
 
-Journyx is an enterprise-grade time tracking and project management platform designed for organizations with complex timekeeping requirements. The system supports multiple time capture methods including biometric clocks, web entry, mobile apps, and integrations, with advanced project costing and compliance features for government contractors and regulated industries.
+Journyx is an enterprise time tracking and project management software platform with support for biometric time clocks. The platform provides comprehensive time tracking, expense management, and resource management for project-based organizations.
 
-## Features
+## Time Tracking Features
 
-- **Multiple Time Entry Methods**: Web portal, mobile apps, biometric clocks, SMS, email, and API integrations
-- **Biometric Time Clock Support**: Integration with fingerprint and facial recognition terminals
-- **Project Time Tracking**: Track time across projects, tasks, phases, and activities
-- **Job Costing**: Detailed labor cost allocation by project, department, or cost center
-- **Resource Management**: Capacity planning and resource allocation across projects
-- **Expense Tracking**: Record and approve project expenses with receipt capture
-- **Timesheet Approvals**: Multi-level approval workflows with delegation capabilities
-- **DCAA Compliance**: Features for government contractors requiring DCAA-compliant timekeeping
-- **Labor Law Compliance**: Support for FLSA, union rules, and state-specific regulations
-- **Payroll Integration**: Export to ADP, Paychex, SAP, Oracle, and custom payroll systems
-- **Advanced Reporting**: Customizable reports on utilization, labor costs, and project profitability
-- **PTO Management**: Track vacation, sick time, holidays, and other leave types
-- **Scheduling**: Create employee schedules with shift assignments and forecasting
-- **Mobile Apps**: Full-featured iOS and Android applications for time entry on the go
-- **API Access**: RESTful API for custom integrations and data exchange
+- **Multiple Entry Methods**: Timers, manual entry, timesheet grids, and calendar views
+- **Biometric Time Clock Support**: Integration with fingerprint and facial recognition devices
+- **Project Time Tracking**: Track time by project, task, and phase
+- **Mobile Apps**: Full-featured iOS and Android applications
+- **Offline Tracking**: Record time without internet connection
+- **Approval Workflows**: Multi-level timesheet approval process
+- **Time Allocation**: Split time across multiple projects
+- **Activity Codes**: Detailed categorization of work activities
 
-## Industries Served
+## Project Management
 
-Journyx serves government contractors, professional services firms, healthcare organizations, engineering companies, and other industries requiring detailed time tracking with compliance oversight.
+- **Resource Management**: Allocate and schedule resources across projects
+- **Project Budgeting**: Track time and costs against project budgets
+- **Utilization Tracking**: Monitor billable vs non-billable time
+- **Capacity Planning**: Forecast resource availability
+- **Project Templates**: Reusable project structures
+- **Gantt Charts**: Visual project timeline management
 
-## Compliance Capabilities
+## Expense Management
 
-Journyx includes specialized features for:
-- DCAA (Defense Contract Audit Agency) requirements
-- FLSA overtime calculations
-- Government contract labor tracking
-- Sarbanes-Oxley compliance
-- Audit trails and data integrity
+- **Expense Tracking**: Capture and categorize project expenses
+- **Receipt Capture**: Mobile photo capture of receipts
+- **Mileage Tracking**: Log and calculate mileage expenses
+- **Expense Reports**: Generate and submit expense reports
+- **Approval Workflows**: Manager review and approval
+- **Reimbursement Processing**: Track employee reimbursements
+
+## Enterprise Features
+
+- **Multi-Tenant**: Support for multiple business units or clients
+- **Role-Based Security**: Granular permission controls
+- **Custom Fields**: Flexible data capture for unique needs
+- **API Access**: RESTful API for integrations
+- **SSO Integration**: Single sign-on with enterprise systems
+- **Audit Trails**: Complete history of changes
+
+## Reporting & Analytics
+
+- **Standard Reports**: Pre-built reports for common needs
+- **Custom Reports**: Build reports specific to your requirements
+- **Executive Dashboards**: High-level visibility into key metrics
+- **Utilization Analysis**: Track employee and resource utilization
+- **Profitability Reports**: Project and client profitability
+- **Compliance Reports**: Government contract compliance (DCAA, etc.)
+
+## Benefits
+
+- Comprehensive solution for project-based businesses
+- Supports both knowledge workers and field employees
+- Enterprise-grade security and scalability
+- Flexible enough for complex organizational structures
+- Strong compliance capabilities for government contractors
+
+## Integrations
+
+- QuickBooks and other accounting systems
+- Microsoft Project
+- Salesforce
+- Various ERP and project management platforms
+- Biometric time clock hardware
 
 ## Pricing
 
-Journyx offers flexible pricing based on modules, user count, and deployment model (cloud or on-premise). Enterprise pricing available with custom implementation and support packages.
+Journyx offers tiered pricing based on number of users and features:
+- Professional: Starting at $12 per user per month
+- Enterprise: Custom pricing for large organizations
+
+Free trial available. Annual billing discounts offered.

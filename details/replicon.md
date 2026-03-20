@@ -1,30 +1,28 @@
 ## Overview
 
-Replicon, now owned by Deltek, is an enterprise-grade time tracking and workforce management platform powered by artificial intelligence. Recognized in G2's 2026 Best Software Awards for Best ERP Software Products, it handles complex multi-jurisdiction labor compliance, project costing, and billing requirements.
+Replicon by Deltek is an AI-powered platform that tracks project time and manages workforce needs & labor compliance in one integrated system for on-time billing, precise costing, and accurate gross pay calculations. The platform was recognized in G2's 2026 Best Software Awards for Best ERP Software Products.
 
 ## Features
 
-- **AI-Powered Time Tracking**: Intelligent automation for time capture and categorization
-- **Labor Compliance**: Coverage for 145 jurisdictions worldwide with automatic rule enforcement
-- **Project Time Management**: Track billable and non-billable time across projects and tasks
-- **Resource Management**: Manage workforce capacity, allocation, and scheduling
-- **Timesheet Automation**: Intelligent timesheet generation and approval workflows
-- **Billing and Invoicing**: Convert tracked time to invoices with configurable billing rates
-- **Leave and Absence Management**: Handle PTO, sick leave, and complex leave policies
-- **Mobile Time Tracking**: GPS-enabled mobile apps for field workers
-- **ERP Integration**: Deep integration with major ERP systems for seamless data flow
-- **Advanced Analytics**: Real-time dashboards and custom reports for workforce insights
-- **Gross Pay Calculations**: Accurate payroll calculations considering overtime, shifts, and jurisdictional rules
+- **AI-Powered Time Tracking**: Intelligent time capture with automated suggestions and learning
+- **Labor Compliance Management**: 145+ jurisdiction labor law coverage with automatic compliance checking
+- **Workforce Management**: Complete scheduling, attendance, and resource planning tools
+- **100+ Workflow Integrations**: Connects with major business systems including ERP, HRIS, and project management
+- **Project Time Tracking**: Detailed tracking at task, project, and client levels
+- **Advanced Reporting**: Customizable reports for billing, costing, and workforce analytics
+- **Mobile Access**: Full-featured mobile apps for iOS and Android
+- **Geofencing & GPS**: Location-based tracking for field workers
+- **Absence Management**: PTO, vacation, and leave tracking with approval workflows
+- **Payroll Integration**: Seamless connection to payroll systems for accurate compensation
 
-## Target Audience
+## Industry Solutions
 
-Replicon is designed for:
-- Large enterprises with complex workforce requirements
-- Professional services firms requiring detailed project costing
-- Organizations operating across multiple countries and jurisdictions
-- Companies needing tight integration with ERP and HCM systems
-- Industries with strict labor compliance requirements
+- Professional services with project-based billing
+- Construction with field worker tracking and certified payroll
+- Healthcare with compliance-focused time tracking
+- Government contractors with DCAA-compliant reporting
+- Manufacturing with shop floor time tracking
 
 ## Pricing
 
-Replicon offers custom enterprise pricing based on organization size, required modules, and implementation complexity. Contact Deltek for detailed quotes tailored to specific business needs.
+Pricing is customized based on organization size, features required, and deployment model. Contact Deltek for a detailed quote.

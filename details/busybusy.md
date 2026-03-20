@@ -1,28 +1,56 @@
 ## Overview
 
-BusyBusy is a GPS time tracking and scheduling solution designed specifically for construction and field service companies. The app provides simple mobile time clocks with built-in GPS verification, job costing capabilities, and compliance features for the construction industry.
+BusyBusy is a time-tracking and job-costing application designed specifically for construction and field service teams. The platform includes GPS time tracking, job costing, project maps, and mobile tools built for contractors.
 
 ## Features
 
-- **GPS Time Clock**: Mobile time tracking with automatic GPS location verification
-- **Job Costing**: Track labor costs by job, phase, and cost code
-- **Scheduling**: Plan and assign work schedules for field crews
-- **Certified Payroll**: Generate certified payroll reports for prevailing wage projects
-- **Offline Functionality**: Track time even without cellular or WiFi connection
-- **Equipment Tracking**: Monitor equipment usage and location
-- **Photo Documentation**: Capture and attach photos to timecards and jobs
-- **Geofencing**: Set up job site boundaries for automatic clock in/out
-- **Integration**: Sync with QuickBooks, Sage, and other accounting platforms
-- **Reporting**: Comprehensive reports on labor, jobs, and productivity
+- **GPS Time Tracking**: Automatic location capture with every clock-in/out
+- **Job Costing**: Real-time labor cost tracking by job and cost code
+- **Equipment Tracking**: Monitor equipment usage and costs by job
+- **Project Maps**: Visualize job locations and crew assignments
+- **Crew Management**: Organize teams and track productivity
+- **Daily Logs**: Digital job site logs with photo attachments
+- **Mobile Apps**: Full-featured iOS and Android applications
+- **Offline Mode**: Track time without internet connection
+- **Geofencing**: Job site boundaries for automatic clock-in
+- **Scheduling**: Assign crews to jobs with daily schedules
+- **Payroll Reports**: Export time data for payroll processing
+- **Certified Payroll**: DOL-compliant reporting for government contracts
 
-## Use Cases
+## Job Costing Features
+
+- Track labor hours and costs by job
+- Multiple cost code levels
+- Equipment cost allocation
+- Material tracking integration
+- Real-time job profitability
+- Budget vs actual comparisons
+
+## Industry Focus
 
 - General contractors
-- Subcontractors
-- Construction companies
-- Electrical and plumbing contractors
-- Landscaping and excavation businesses
+- Specialty contractors (electrical, plumbing, HVAC)
+- Landscaping and site work
+- Roofing and exterior services
+- Field service companies
+
+## Benefits
+
+- Improves job costing accuracy by 30%
+- Reduces payroll processing time
+- Eliminates paper timesheets and daily logs
+- Provides real-time job profitability visibility
+- Prevents time theft with GPS verification
+- Simplifies certified payroll compliance
+
+## Integrations
+
+- QuickBooks (Online and Desktop)
+- Sage 100 Contractor and 300 CRE
+- Foundation Software
+- Vista by Viewpoint
+- Various payroll providers
 
 ## Pricing
 
-BusyBusy offers simple per-user pricing starting at around $8-10 per user per month with discounts for annual subscriptions.
+BusyBusy offers tiered pricing starting at $7 per user per month. Volume discounts available for larger teams. Free 14-day trial with no credit card required.

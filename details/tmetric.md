@@ -1,20 +1,38 @@
 ## Overview
 
-TMetric is time tracking software designed for professional teams that need accurate billing, project budgeting, and productivity insights. It provides detailed tracking capabilities while maintaining simplicity for end users.
+TMetric enables teams to efficiently plan projects, estimate task durations, and set realistic deadlines. The platform is particularly popular with creative agencies and marketing teams, offering 100+ app integrations.
 
 ## Features
 
-- **Time Tracking**: Manual and automatic time tracking with one-click timers
-- **Billable Hours**: Track billable and non-billable time with customizable rates
-- **Project Budgeting**: Set and monitor project budgets in real-time
-- **Integrations**: Connects with 50+ tools including Jira, Asana, Trello, GitHub, and more
-- **Reporting**: Comprehensive reports on time usage, costs, and productivity
-- **Invoicing**: Generate invoices based on tracked time
-- **Team Management**: Monitor team workload and productivity
-- **Mobile Apps**: Available on iOS and Android
-- **Screenshots**: Optional screenshot monitoring for remote teams
-- **Timesheet Approvals**: Workflow for reviewing and approving timesheets
+- **Time Tracking**: Start/stop timers, manual entry, or calendar-based tracking
+- **Project Management**: Organize work by projects, tasks, and tags
+- **Billable Hours**: Track billable vs non-billable time
+- **Team Collaboration**: Shared projects and time visibility
+- **Automated Time Tracking**: AI-powered suggestions for time entries
+- **Productivity Monitoring**: Track app and website usage (optional)
+- **Budgets & Estimates**: Set time budgets and compare against actuals
+- **Invoicing**: Generate invoices from tracked time
+- **Reporting**: Detailed time reports and analytics
+- **Mobile Apps**: Full-featured iOS and Android apps
+- **Browser Extensions**: Quick time tracking from Chrome, Firefox, Edge
+- **100+ Integrations**: Connect with project management and productivity tools
+
+## Key Integrations
+
+- Project management: Asana, Trello, Jira, Monday.com, ClickUp
+- Development: GitHub, GitLab, Bitbucket
+- Design: Figma, Adobe XD
+- Communication: Slack, Microsoft Teams
+- CRM: Salesforce, HubSpot
+
+## Benefits
+
+- Comprehensive integration ecosystem reduces app switching
+- Accurate time estimates improve project planning
+- Better resource allocation through time insights
+- Streamlined billing with automatic invoice generation
+- Flexible enough for various workflows and industries
 
 ## Pricing
 
-Free plan available for unlimited users with basic features. Paid plans start at $5/user/month (Professional) and $7/user/month (Business) with advanced features.
+TMetric offers a free plan for individuals and small teams, with paid plans starting at $5 per user per month for professional features. Free trial available on paid plans.

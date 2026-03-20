@@ -1,24 +1,49 @@
 ## Overview
 
-Lawmatics is a comprehensive legal CRM and practice management platform that uniquely combines client intake, relationship management, and time tracking in one system. It's designed to help law firms grow their practice while efficiently managing billable time and client work.
+Lawmatics is a legal time tracking and CRM software platform that combines client intake, time tracking, billing, and marketing automation. The platform features AI-assisted time tracking that automatically suggests time entries based on work activity.
 
-## Features
+## Time Tracking Features
 
-- **Time Tracking**: Built-in time tracking with timers and manual entry options
-- **Legal CRM**: Manage leads, contacts, and client relationships
-- **Client Intake**: Automated client intake forms and workflows
-- **Matter Management**: Track cases, matters, and associated time entries
-- **Marketing Automation**: Email campaigns and client communication workflows
-- **Document Automation**: Generate documents and contracts automatically
-- **Reporting & Analytics**: Track billable hours, conversion rates, and firm metrics
-- **Calendar Integration**: Sync with Outlook and Google Calendar
-- **Payment Processing**: Accept online payments and retainers
-- **Mobile Access**: Track time and manage clients from mobile devices
+- **AI-Assisted Tracking**: Automatically suggests time entries based on detected work activity
+- **Activity-Based Capture**: Tracks work across emails, documents, calls, and meetings
+- **Timers**: Start/stop timers for active work
+- **Manual Entry**: Add time retroactively with detailed descriptions
+- **Billing Increments**: 6-minute or custom increment settings
+- **Rate Management**: Multiple billing rates per attorney/matter
+- **Mobile Tracking**: Track time from iOS and Android apps
 
-## Unique Value
+## CRM & Intake Features
 
-Lawmatics stands out by combining firm growth tools (CRM, marketing) with operational tools (time tracking, matter management), providing complete visibility from lead to billable hour.
+- **Lead Management**: Capture and nurture prospective clients
+- **Automated Workflows**: Marketing and client communication automation
+- **Client Portal**: Secure client communication and document sharing
+- **E-Signatures**: Digital document signing
+- **Online Payment**: Accept retainer and invoice payments online
+- **Conflict Checking**: Automated conflict of interest checks
+
+## Billing Features
+
+- **Automated Invoicing**: Generate invoices from tracked time
+- **Trust Accounting**: IOLTA-compliant trust management
+- **Expense Tracking**: Bill client expenses
+- **Payment Processing**: Integrated credit card and ACH processing
+- **Retainer Tracking**: Monitor retainer balances
+
+## Benefits
+
+- Reduces time tracking burden through AI automation
+- Captures more billable time with automatic suggestions
+- Streamlines client intake and onboarding
+- Improves client communication with automated workflows
+- Increases conversion rates with CRM features
+
+## Integrations
+
+- Microsoft Outlook and Google Workspace
+- QuickBooks for accounting
+- Clio and other practice management systems
+- Document automation platforms
 
 ## Pricing
 
-Pricing starts at approximately $99 per month for solo practitioners, with tiered plans for growing firms and custom enterprise solutions available.
+Lawmatics offers tiered pricing based on firm size and features. Contact for detailed quote. Free demo available.

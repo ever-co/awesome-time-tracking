@@ -1,33 +1,71 @@
 ## Overview
 
-uAttend is a comprehensive cloud-based time and attendance solution that combines hardware time clocks with software for tracking employee hours, managing schedules, and processing payroll. The system supports multiple clock-in methods including biometric fingerprint/facial recognition, badge/card readers, mobile GPS tracking, and web browser.
+uAttend is a cloud-based time and attendance system offering affordable biometric time clocks and mobile apps. The uAttend JR2000 connects via WiFi or LAN and features a fingerprint scanner and RFID reader for just $179.99, making biometric time tracking accessible to small businesses.
+
+## Time Clock Hardware
+
+- **JR2000**: WiFi/LAN fingerprint and RFID time clock ($179.99)
+- **BN6500**: Advanced facial recognition and fingerprint terminal
+- **CB6500**: WiFi time clock with RFID and biometric options
+- **MN2000**: Basic RFID badge reader time clock
+- **Mobile Apps**: iOS and Android apps for remote clock-in
 
 ## Features
 
-- **Multiple Time Clock Options**: Fingerprint scanners, facial recognition, badge readers, and mobile punch
-- **Cloud-Based Software**: Access from anywhere with real-time data synchronization
-- **Biometric Verification**: Eliminate buddy punching with fingerprint or face recognition
-- **GPS Mobile Tracking**: Track employee location when clocking in/out via mobile app
-- **Geofencing**: Set location boundaries for mobile clock-ins
-- **Scheduling**: Create and manage employee schedules with shift templates
-- **PTO Management**: Track vacation, sick time, and other paid time off
-- **Overtime Alerts**: Automatic notifications when employees approach overtime
-- **Department/Job Tracking**: Assign employees to departments and track labor costs
-- **Reporting**: Generate detailed reports on hours worked, overtime, attendance, and labor costs
-- **Payroll Integration**: Export to ADP, QuickBooks, Paychex, and other payroll providers
-- **Optional Payroll Services**: Full-service payroll processing available
-- **Mobile Apps**: iOS and Android apps for employees and managers
-- **Time Off Requests**: Employees can request time off through the system
+- **Biometric Authentication**: Fingerprint scanning eliminates buddy punching
+- **RFID Cards**: Badge-based time tracking as alternative to biometric
+- **Cloud-Based Software**: Access from any device with internet
+- **WiFi Connectivity**: Easy installation without running cables
+- **Real-Time Sync**: Instant upload of punches to cloud
+- **Geolocation**: GPS tracking for mobile clock-ins
+- **Overtime Alerts**: Automatic notifications for overtime
+- **PTO Tracking**: Vacation and sick time management
+- **Scheduling**: Create and publish employee schedules
+- **Reporting**: Attendance, hours, and payroll reports
+- **Multi-Location**: Manage multiple locations from one account
 
-## Hardware Options
+## Software Capabilities
 
-uAttend offers various time clock hardware including:
-- Fingerprint time clocks
-- Facial recognition terminals
-- RFID badge readers
-- Combination biometric/badge systems
-- Mobile-only solutions (no hardware required)
+- **Payroll Integration**: Export to QuickBooks, ADP, Paychex, Gusto, and others
+- **Timesheet Editing**: Managers can adjust time entries
+- **Department Tracking**: Organize employees by department
+- **Job Costing**: Assign time to specific jobs or projects
+- **Break Deductions**: Automatic break time deductions
+- **Rounding Rules**: Configurable time rounding
+- **Notifications**: Email alerts for missed punches and overtime
+
+## Benefits
+
+- Extremely affordable hardware ($179.99 for biometric terminal)
+- No long-term contracts required
+- Prevents time theft and buddy punching
+- Reduces payroll processing time
+- Cloud-based for anywhere access
+- Simple setup and operation
 
 ## Pricing
 
-uAttend pricing includes a monthly software subscription plus optional hardware purchase or rental. Software starts at $9.95 per month for up to 10 employees. Time clock hardware ranges from $199 to $599 depending on features. Optional payroll services are priced per employee per pay period.
+- **Hardware**: Time clocks range from $99 (basic RFID) to $299 (advanced facial recognition)
+- **Software**: $10 per employee per month (minimum 2 employees)
+- **Bundle Deals**: Hardware + software packages available
+- **No Setup Fees**: Free activation and setup
+
+## Free Trial
+
+30-day money-back guarantee on hardware, 30-day free software trial.
+
+## Integrations
+
+- QuickBooks (Online and Desktop)
+- ADP
+- Paychex
+- Gusto
+- Various payroll and accounting systems via CSV export
+
+## Target Market
+
+- Small businesses (5-50 employees)
+- Retail stores and restaurants
+- Medical and dental offices
+- Service businesses
+- Companies needing affordable biometric time clocks

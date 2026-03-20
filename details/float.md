@@ -1,37 +1,39 @@
-## Float: Time Tracking & Resource Scheduling Application
+## Overview
 
-**Overview**
-Float is a user-friendly application designed to facilitate time tracking and resource scheduling for teams. It offers a visually appealing interface with a Kanban board for straightforward task management, enabling teams to efficiently plan and track time. While its reporting capabilities are basic, Float integrates with various systems for seamless data management.
+Float combines capacity management, project planning, and time tracking into one visual interface. The platform helps agencies and professional services firms optimize resource utilization and prevent over-allocation.
 
-**Features**
-- **Time Tracking:** Manage and track time across tasks, projects, and team members with a drag-and-drop interface.
-- **Resource Scheduling:** Build a centralized resourcing plan to match work with the right skills, availability, and capacity.
-- **Project Scoping:** Set prices with target budgets and margins in mind, and compare actuals with baseline estimates.
-- **Financial Insights:** Understand how resourcing decisions impact utilization and profitability.
-- **Integrations:** Seamlessly integrate with existing people, project, and financial systems.
-- **Compliance:** GDPR and SOC2 compliant, ensuring security and privacy.
-- **B Corp Certified:** Committed to a positive impact as a for-profit business.
+## Features
 
-**Additional Resources**
-- **Mobile App:** Access and manage tasks on-the-go.
-- **Guides:** Comprehensive guides on resource management, capacity planning, and resource planning.
+- **Visual Resource Planning**: Drag-and-drop interface for scheduling team members
+- **Capacity Management**: View team availability and workload at a glance
+- **Time Tracking**: Track actual time worked vs planned hours
+- **Project Planning**: Timeline view of all projects and assignments
+- **Skills Management**: Match team members to projects by skills
+- **Workload Balancing**: Prevent over-allocation and burnout
+- **Forecasting**: Predict future capacity needs
+- **Budget Tracking**: Monitor project budgets and profitability
+- **Tentative Bookings**: Plan for potential projects
+- **Repeating Tasks**: Schedule recurring work automatically
+- **Team Availability**: Track PTO and availability
+- **Mobile Apps**: iOS and Android apps for team access
 
-**Pricing**
-Visit the [Float Pricing Page](https://www.float.com/pricing) for detailed information on available plans.
+## Benefits
 
-**Website**
-[Visit Float](https://www.float.com/)
+- Visualize team capacity across all projects
+- Prevent over-allocation and resource conflicts
+- Improve project profitability through better planning
+- Reduce scheduling time by 90%
+- Make data-driven hiring decisions
+- Balance workloads to prevent burnout
 
-**Visuals**
-![Float Screenshot 1](https://cdn.prod.website-files.com/673473202f01ae5c847dfbe1/673473202f01ae5c847e01f2_Screenshot%202023-03-16%20113324.png)
-![Float Screenshot 2](https://cdn.prod.website-files.com/673473202f01ae5c847dfbe1/673473202f01ae5c847e01e3_Screenshot%202023-03-16%20113819.png)
-![Float Screenshot 3](https://cdn.prod.website-files.com/673473202f01ae5c847dfbe1/673473202f01ae5c847e01f3_Screenshot%202023-03-16%20113920.png)
+## Integrations
 
-**Brand**
-![Float Logo](/673473202f01ae5c847dfbe1/673473202f01ae5c847e0087_avaza%20logo.png)
+- Slack for team communication
+- Google Calendar and Outlook
+- Harvest for detailed time tracking
+- Asana, Trello, and other project management tools
+- Zapier for workflow automation
 
-**Category**
-Resource Scheduling
+## Pricing
 
-**Tags**
-Kanban, Resource Management, Task Management
+Float offers tiered pricing starting at $9 per person per month. Free 30-day trial available.

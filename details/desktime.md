@@ -1,31 +1,70 @@
 ## Overview
 
-DeskTime is a comprehensive time tracker and productivity monitoring platform designed for both remote and on-site teams. It combines automatic time tracking with productivity analytics to help teams move from guesswork to data-driven decision-making.
+DeskTime is an automatic time tracking software that monitors productivity by tracking applications and websites used during work hours. The company is famous for research discovering the 52/17 rule - that top 10% of productive employees work for 52 minutes then break for 17 minutes.
 
 ## Features
 
-### Automatic Time Tracking
-- **Arrival/Departure Timestamps** - Automatically records when employees start and end work
-- **Work Time Calculation** - Tracks total time spent on work-related tasks
-- **Productivity Tracking** - Automatically calculates daily team productivity
-- **Idle Time Detection** - Identifies periods of inactivity
+- **Automatic Tracking**: Tracks apps and URLs without manual timers
+- **Productivity Calculation**: Categorizes activities as productive, unproductive, or neutral
+- **Screenshots**: Optional screenshot monitoring (configurable frequency)
+- **Project Time Tracking**: Assign time to specific projects
+- **Shift Scheduling**: Create and manage employee schedules
+- **Absence Calendar**: Track vacations and time off
+- **Invoicing**: Generate invoices from tracked time
+- **Custom Reports**: Detailed productivity and time reports
+- **Mobile Apps**: iOS and Android for mobile tracking
+- **Offline Tracking**: Continue tracking without internet
 
-### Monitoring & Analytics
-- **URL & App Tracking** - Logs which apps and websites are used and for how long
-- **Productivity Calculation** - Employees categorize apps/URLs as productive or unproductive
-- **Project Tracking** - Track time spent on specific projects and tasks
-- **Screenshots** - Optional screenshot feature for visual work verification
-- **Reports & Insights** - Detailed productivity and time usage reports
+## The 52/17 Rule
 
-### Privacy Features
-- **Private Time** - All tracking stops during private moments for personal matters
-- **Transparent Monitoring** - Not designed as surveillance but productivity improvement
-- **Employee Control** - Workers can pause tracking when needed
+DeskTime research in 2014 found:
+- Top 10% most productive employees work for 52 minutes
+- Then take 17-minute breaks
+- This 75/33 work-rest ratio (updated research) is optimal
+- Regular breaks prevent burnout and maintain focus
 
-## Platforms
+## Productivity Categories
 
-Desktop apps for Windows, Mac, Linux. Mobile apps for iOS and Android.
+- **Productive**: Work-related apps (development tools, design software, email)
+- **Unproductive**: Time-wasting sites (social media, entertainment)
+- **Neutral**: Could be either (browsers, Slack)
+- **Custom Rules**: Define your own productivity categories
 
-## Pricing (2026)
+## Privacy Options
 
-Free version with unlimited users. Pro: $7/user/month, Premium: $10/user/month, Enterprise: $20/user/month. 14-day free trial.
+- **Private Time**: Users can mark periods as private
+- **URL Masking**: Hide specific websites from reports
+- **Screenshot Controls**: Employees can disable during private work
+- **Transparent Tracking**: Employees see what's being tracked
+
+## Benefits
+
+- Understand actual time allocation
+- Identify productivity patterns and distractions
+- Improve time estimates with historical data
+- Reduce time theft and non-work activities
+- Data-driven insights for productivity improvement
+
+## Use Cases
+
+- Remote team productivity monitoring
+- Freelancers tracking billable hours
+- Agencies monitoring project time
+- Companies measuring productivity trends
+
+## Integrations
+
+- Jira for project tracking
+- Google Calendar
+- Asana and other project management tools
+- Zapier for custom integrations
+
+## Pricing
+
+DeskTime offers:
+- Lite (Free): 1 user, basic tracking
+- Pro: $7 per user/month, full features
+- Premium: $10 per user/month, includes screenshots
+- Enterprise: Custom pricing
+
+Free trial available on paid plans.

@@ -1,40 +1,35 @@
 ## Overview
 
-Paycor is a human capital management platform that builds HR and payroll software for leaders and frontline managers to help build winning teams through integrated workforce management solutions.
+Paycor is an HCM (Human Capital Management) platform with integrated time and attendance, payroll, and HR management. The platform provides comprehensive workforce management capabilities designed for mid-market businesses.
 
-## Features
+## Time & Attendance
 
-### Time & Attendance
-- Automated time tracking that reduces compliance issues and improves payroll accuracy
-- Seamless integration with payroll to eliminate duplicate data entry
-- Mobile time clock with GPS verification and geofencing capabilities
-- Automated overtime calculations and break tracking
+- **Time Clocks**: Web, mobile, kiosk, and biometric options
+- **Scheduling**: Create and manage employee schedules
+- **Geofencing**: Location-based clock-in restrictions
+- **Overtime Management**: Automatic OT calculations and alerts
+- **PTO Tracking**: Vacation and sick leave management
+- **Compliance**: Labor law compliance across jurisdictions
 
-### HR Management
-- Unified system where HR, payroll, time, and talent work together seamlessly
-- Employee self-service portal for time-off requests and personal information updates
-- Benefits administration and enrollment management
-- Compliance tracking and reporting tools
+## HCM Platform
 
-### Payroll Integration
-- Automated payroll processing with direct deposit and tax filing
-- Integration with time and attendance data for accurate wage calculations
-- Year-end tax form generation and filing
-- Multi-state payroll support
+- **Payroll**: Full-service payroll processing
+- **HR Management**: Employee database and records
+- **Benefits Administration**: Health insurance and benefits management
+- **Talent Acquisition**: Applicant tracking and recruiting
+- **Onboarding**: Digital new hire paperwork
+- **Performance Management**: Reviews and goal setting
+- **Learning Management**: Training and development
+- **Analytics**: Workforce analytics and reporting
 
-### Talent Management
-- Performance management and continuous feedback tools
-- Learning and development programs
-- Recruiting and applicant tracking system
-- Succession planning capabilities
+## Benefits
 
-## Target Users
+- All-in-one HCM eliminates multiple systems
+- Integrated payroll reduces errors
+- Streamlines HR processes
+- Improves compliance management
+- Mobile access for employees and managers
 
-Paycor serves small to mid-sized businesses across various industries looking for a unified HCM platform rather than pieced-together point solutions.
+## Pricing
 
-## Key Advantages
-
-- Built as a unified platform rather than through acquisitions
-- Seamless data flow between all modules
-- Scalable solution that grows with business needs
-- Dedicated support and implementation services
+Paycor offers tiered pricing based on company size and features. Contact for detailed quote and demo.

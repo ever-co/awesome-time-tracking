@@ -1,26 +1,38 @@
 ## Overview
 
-Factorial is a comprehensive HR management platform that combines time tracking, attendance management, payroll, and employee management features with advanced biometric authentication to provide an all-in-one solution for modern businesses.
+Factorial is an all-in-one HR software platform that combines time tracking, attendance management, and comprehensive HR tools in a single system. The platform supports biometric time clocks and provides full workforce management capabilities.
 
-## Features
+## Time & Attendance Features
 
-- **Biometric Time Clocks**: Support for fingerprint readers and facial recognition technology
-- **Multiple Clock-In Methods**: Mobile app, web portal, physical time clocks, and kiosk mode
-- **Buddy Punch Prevention**: Biometric verification ensures only the actual employee can clock in
-- **Shift Scheduling**: Create and manage employee schedules with drag-and-drop interface
-- **Time Off Management**: PTO requests, approval workflows, and balance tracking
-- **Attendance Reports**: Detailed reports on punctuality, absences, and work patterns
-- **Payroll Integration**: Automatic timesheet data flow to payroll processing
-- **HR Management**: Complete HR suite including employee records, documents, and onboarding
-- **Performance Reviews**: Built-in performance management and review cycles
-- **Mobile Apps**: Native apps for iOS and Android
-- **Notifications**: Automatic alerts for late arrivals, early departures, and missing clock-outs
-- **Geofencing**: Location-based clock-in restrictions for remote workers
+- **Biometric Time Clocks**: Support for fingerprint and facial recognition time tracking
+- **Mobile Time Tracking**: Clock in/out from mobile devices with GPS verification
+- **Shift Scheduling**: Create and manage employee schedules
+- **Time Off Management**: Track PTO, vacation, and sick leave with approval workflows
+- **Attendance Reports**: Comprehensive reporting on hours worked, absences, and overtime
+- **Multiple Clock-In Methods**: Support for web, mobile, kiosk, and biometric devices
+- **Geofencing**: Location-based restrictions for clock-in/out
+- **Overtime Tracking**: Automatic calculation of overtime hours
+
+## Additional HR Capabilities
+
+- Employee database and information management
+- Payroll integration with time data
+- Performance management with goal setting and reviews
+- Recruitment and applicant tracking
+- Document management for HR files
+- Onboarding workflows for new employees
+- Company portal and internal communication
+- HR analytics and reporting
 
 ## Benefits
 
-By combining biometric time tracking with full HR management, Factorial eliminates the need for multiple systems and ensures data consistency across all workforce management functions.
+- Eliminates buddy punching with biometric verification
+- Reduces HR administrative workload by up to 80%
+- Centralizes all HR functions in one platform
+- Improves compliance with labor laws and regulations
+- Provides real-time visibility into attendance and hours
+- Streamlines payroll processing with accurate time data
 
 ## Pricing
 
-Tiered pricing based on features and number of employees, with plans for small businesses to enterprise organizations.
+Factorial offers tiered pricing based on number of employees and features. Free trial available for 14 days.

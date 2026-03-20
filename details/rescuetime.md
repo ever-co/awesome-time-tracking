@@ -1,30 +1,69 @@
 ## Overview
 
-RescueTime is a pioneering automatic time tracking and productivity solution with over a decade of development. In 2026, it has evolved into a sophisticated tool that combines time tracking with AI-based focus guidance and burnout prevention, specifically designed for remote workers facing cognitive fatigue in hybrid environments.
+RescueTime is automatic time tracking and productivity analytics software that runs in the background, tracking time spent on applications and websites without requiring manual input. The platform provides detailed reports on productivity patterns and helps identify time-wasting activities.
 
 ## Features
 
-### Automatic Time Tracking
-- **Background Monitoring** - Silently tracks all desktop and mobile activities without manual timers
-- **App & Website Tracking** - Records time spent in every application and website
-- **Productivity Scoring** - Automatically categorizes activities as productive or distracting
-- **Detailed Reports** - Comprehensive analytics on time usage patterns
+- **Automatic Tracking**: Tracks all computer and mobile activity
+- **Productivity Scores**: Daily productivity percentage based on activities
+- **Detailed Reports**: See exactly where time goes
+- **Goal Setting**: Set daily productivity goals
+- **FocusTime**: Block distracting websites during focus sessions
+- **Alerts**: Get notified when spending too much time on specific activities
+- **Weekly Email Reports**: Summary of productivity trends
+- **Categories**: Classify activities as very productive to very distracting
+- **Offline Time Logging**: Manually log time away from computer
+- **Mobile Tracking**: Track phone usage (Android)
 
-### 2026 AI Enhancements
-- **AI-Based Focus Sessions** - Personalized focus blocks with intelligent distraction prevention
-- **Real-Time Alerts** - Detects and interrupts poor focus patterns immediately
-- **Smart Burnout Warnings** - Monitors work intensity and suggests breaks before burnout
-- **Productivity Coach** - AI-optimized guidance for digital professionals
+## How It Works
 
-### Focus Tools
-- **Distraction Blocking** - Block distracting websites and apps during focus time
-- **FocusTime** - Scheduled deep work sessions with automatic blocking
-- **Goal Setting** - Set daily productivity goals and track progress
+1. Install RescueTime on computer and mobile devices
+2. Software runs in background tracking applications and websites
+3. Activities automatically categorized by productivity level
+4. View daily, weekly, and monthly productivity reports
+5. Identify patterns and time drains
+6. Set goals and use FocusTime to improve habits
 
-## Platforms
+## Productivity Categories
 
-Supports Windows, macOS, Android, and web. iOS supported via calendar sync and summary emails.
+- **Very Productive**: Core work activities
+- **Productive**: Productive but not core focus
+- **Neutral**: Neither productive nor distracting
+- **Distracting**: Mild time-wasters
+- **Very Distracting**: Major productivity killers
+
+## FocusTime
+
+- Block distracting websites
+- Schedule focus sessions in advance
+- Get into flow state without temptations
+- Available with Premium plan
+
+## Benefits
+
+- Understand actual time usage vs perception
+- Identify biggest time drains
+- Set and track productivity goals
+- Reduce distractions with website blocking
+- Make data-driven productivity improvements
+- No manual tracking required
+
+## Privacy
+
+- Data stored securely and privately
+- You control what's tracked
+- Can pause tracking anytime
+- Exclude specific applications or websites
+
+## Integrations
+
+- Calendar integration to see meetings vs work time
+- Zapier for custom workflows
+- Various third-party productivity tools
 
 ## Pricing
 
-14-day free trial. Paid plans available with no charge until trial ends.
+- **Free**: Basic tracking and reports
+- **Premium**: $12/month - FocusTime, detailed reports, goals, alerts
+
+Free plan includes core automatic tracking. Premium adds blocking and advanced features.

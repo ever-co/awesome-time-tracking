@@ -1,50 +1,67 @@
 ## Overview
 
-When2Work is an established online employee scheduling platform that combines shift scheduling with time clock functionality, designed for businesses that need to manage hourly and shift-based workers efficiently.
+When2Work is online employee scheduling software that makes it easy to create and manage work schedules, track employee time and attendance, and communicate with staff. The platform is popular with restaurants, retail, healthcare, and service industries.
 
-## Key Features
+## Scheduling Features
 
-- **Online Scheduling**: Create and publish employee schedules online
-- **Time Clock**: Employees clock in/out from web or mobile app
-- **Shift Trading**: Employees can swap shifts with manager approval
-- **Availability Management**: Employees set their availability preferences
-- **Schedule Templates**: Reuse common scheduling patterns
-- **Automatic Notifications**: Email and text alerts for schedule changes
-- **Labor Cost Tracking**: Monitor labor costs against budget
-- **Mobile Access**: iOS and Android apps for employees and managers
-- **Messaging**: Built-in communication tools
-- **Time Off Requests**: Digital PTO request and approval system
-- **Reports**: Attendance, hours worked, and labor cost reports
+- **Drag-and-Drop Scheduling**: Visual schedule builder
+- **Schedule Templates**: Reusable weekly patterns
+- **Employee Availability**: Collect and honor availability preferences
+- **Shift Trading**: Employees can trade shifts with approval
+- **Open Shifts**: Post shifts for employees to claim
+- **Automated Notifications**: Alerts for new schedules and changes
+- **Multi-Location**: Manage schedules across multiple locations
+- **Mobile Access**: Employees view schedules from phones
+
+## Time & Attendance
+
+- **Online Time Clock**: Web-based clock in/out
+- **Mobile Punch**: Clock in from mobile devices
+- **GPS Tracking**: Location verification for mobile clock-ins
+- **Shift Verification**: Compare scheduled vs actual hours
+- **Overtime Tracking**: Automatic overtime calculations
+- **PTO Management**: Track vacation and sick time
+- **Attendance Reports**: Hours worked and attendance history
+
+## Communication
+
+- **Message Board**: Company announcements
+- **Text/Email Alerts**: Schedule notifications
+- **Shift Reminders**: Upcoming shift alerts
+- **Direct Messaging**: Manager-employee communication
+
+## Employee Self-Service
+
+- View schedules online or mobile
+- Submit availability preferences
+- Request time off
+- Trade or pick up shifts
+- View earned time off balances
+- Update contact information
 
 ## Benefits
 
-- Reduce time spent on scheduling by 75%
-- Eliminate scheduling conflicts and errors
-- Empower employees with self-service tools
-- Improve communication about shifts and changes
-- Track actual hours worked for payroll
+- Reduces time spent on scheduling by 80%
+- Decreases no-shows with automatic reminders
+- Empowers employees with self-service
+- Improves communication with instant notifications
+- Affordable pricing for small businesses
+- Easy to learn and use
 
-## Target Users
+## Industry Applications
 
+- Restaurants and food service
 - Retail stores
-- Restaurants
-- Healthcare facilities
-- Hospitality businesses
-- Any business with shift workers
-
-## Employee Experience
-
-- View schedule from any device
-- Request time off online
-- Swap shifts with coworkers
-- Set availability preferences
-- Receive schedule change alerts
-- Clock in/out from mobile device
+- Healthcare and medical offices
+- Hospitality and hotels
+- Call centers
+- Service businesses
 
 ## Pricing
 
-Free trial available. Paid plans start at approximately $1.50-2.50 per employee per month, making it very affordable for small businesses.
+When2Work offers:
+- **Free Plan**: Up to 75 employees, basic features
+- **Standard**: $2 per employee/month - full features
+- **Professional**: $2.50 per employee/month - advanced features
 
-## Longevity
-
-When2Work has been providing scheduling solutions since 1999, making it one of the longest-running platforms in the space with proven reliability.
+30-day free trial of paid plans available.

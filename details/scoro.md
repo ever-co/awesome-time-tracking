@@ -1,19 +1,61 @@
 ## Overview
 
-Scoro is an all-in-one work management solution designed for professional and creative services. It combines project management, time tracking, quoting, billing, and reporting to give complete visibility into your business operations.
+Scoro is professional services automation (PSA) software that combines detailed time tracking, project management, CRM, billing, and reporting in one platform. Designed for consulting firms, agencies, and professional services companies.
 
-## Features
+## Time Tracking Features
 
-- **Detailed Time Tracking**: Track time across projects, tasks, and clients with precision
-- **Project Management**: Comprehensive project planning, scheduling, and collaboration tools
-- **Financial Management**: Budgeting, quoting, invoicing, and expense tracking
-- **Resource Planning**: Visual resource allocation and capacity planning
-- **CRM**: Built-in customer relationship management
-- **Reporting Dashboard**: Real-time KPI dashboards and customizable reports
-- **Workflow Automation**: Automate repetitive tasks and processes
-- **Integrations**: Connect with accounting, email, and business tools
-- **Mobile Apps**: Track time and manage work on the go
+- **Detailed Tracking**: Track time by project, task, client, and activity
+- **Multiple Entry Methods**: Timers, manual entry, calendar sync
+- **Mobile Tracking**: iOS and Android apps
+- **Approval Workflows**: Manager review and timesheet approval
+- **Billable Hours**: Distinguish billable vs non-billable time
+- **Time Budgets**: Set and monitor time budgets by project
+- **Utilization Tracking**: Monitor employee billability rates
+
+## Project Management
+
+- Gantt charts and project timelines
+- Task management and dependencies
+- Resource allocation and scheduling
+- Project templates
+- File sharing and collaboration
+- Milestone tracking
+
+## Financial Management
+
+- Automated invoicing from tracked time
+- Quote and proposal generation
+- Expense tracking and billable expenses
+- Budget management
+- Profitability analysis by project and client
+- Revenue forecasting
+- Purchase orders
+
+## CRM & Sales
+
+- Contact and company management
+- Sales pipeline and opportunity tracking
+- Lead management
+- Activity logging
+- Custom sales workflows
+
+## Reporting & Analytics
+
+- Real-time dashboards
+- Profitability reports
+- Utilization reports
+- Custom report builder
+- KPI tracking
+- Executive summaries
+
+## Benefits
+
+- All-in-one solution eliminates multiple tools
+- Real-time project profitability visibility
+- Improved resource utilization
+- Streamlined billing processes
+- Comprehensive business overview
 
 ## Pricing
 
-Pricing starts at $26/user/month for Essential plan. Custom quotes available for Plus and Ultimate plans with advanced features. 14-day free trial available.
+Scoro offers tiered pricing based on features and team size. Contact for detailed quote. Free demo available.

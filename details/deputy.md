@@ -1,28 +1,35 @@
 ## Overview
 
-Deputy is a workforce management platform that combines employee scheduling, time tracking, and labor compliance. It uses AI to forecast demand and optimize schedules while ensuring compliance with labor laws.
+Deputy is a workforce management platform that uses AI-powered demand forecasting to align staffing with customer demand. The platform allows managers to build and publish schedules in minutes while ensuring compliance with labor laws.
 
 ## Features
 
-- **Auto-Scheduling**: AI-powered schedule creation based on demand forecasting
-- **Time & Attendance**: Clock in/out with GPS and facial recognition
-- **Demand Forecasting**: Predict staffing needs based on historical data
-- **Labor Cost Control**: Real-time visibility into labor costs vs. budget
-- **Shift Swapping**: Employees can trade shifts with manager approval
-- **Task Management**: Assign and track tasks for each shift
-- **Compliance**: Automatically enforce break rules and overtime laws
-- **Mobile App**: Full-featured iOS and Android apps
-- **Communication**: Announcements and team messaging
-- **Integrations**: 300+ integrations including POS, payroll, and HR systems
+- **AI-Powered Scheduling**: Demand forecasting aligns staffing with predicted business needs
+- **Time & Attendance**: Mobile and kiosk-based time clocks with biometric options
+- **Leave Management**: PTO tracking and approval workflows
+- **Task Management**: Assign and track operational tasks
+- **Communication**: Team messaging and shift announcements
+- **Compliance Management**: Automatic labor law compliance checking
+- **Payroll Integration**: Export time data to major payroll providers
+- **Mobile Apps**: Full-featured iOS and Android applications
+- **Reporting**: Labor cost, attendance, and productivity analytics
 
-## Industries Served
+## Industry Focus
 
-- Restaurants and hospitality
-- Retail
-- Healthcare
-- Manufacturing
-- Warehousing
+- Restaurants and food service
+- Retail stores and chains
+- Hotels and hospitality
+- Healthcare facilities
+- Event venues
+
+## Benefits
+
+- Reduces scheduling time by 80%
+- Prevents overtime with proactive alerts
+- Ensures labor law compliance across jurisdictions
+- Improves employee engagement with mobile access
+- Provides real-time visibility into labor costs
 
 ## Pricing
 
-Scheduling at $2.50/user/month. Premium at $4.50/user/month with time tracking. Enterprise custom pricing. 31-day free trial.
+Deputy offers tiered pricing starting at $4.50 per user per month. Free trial available for 31 days.

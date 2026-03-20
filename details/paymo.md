@@ -1,29 +1,58 @@
 ## Overview
 
-Paymo combines project management, time tracking, and invoicing in one platform. It's designed for small agencies and freelancers who need to track time, manage projects, and get paid.
+Paymo has developed project management functionalities around time tracking to better assist small businesses and freelancers in managing their work. The platform combines time tracking, task management, invoicing, and resource scheduling.
 
-## Features
+## Time Tracking Features
 
-- Time tracking (timer, manual, bulk)
-- Task management and Kanban boards
-- Gantt charts
-- Team scheduling
-- Invoicing and payments
-- Expense tracking
-- Client portal
-- Resource planning
-- Mobile apps
+- **Automatic Time Tracking**: Desktop app tracks application usage automatically
+- **Manual Timers**: Start/stop timers for active tasks
+- **Bulk Time Entry**: Add multiple time entries at once
+- **Calendar View**: Visualize time entries on a calendar
+- **Mobile Tracking**: iOS and Android apps for on-the-go tracking
+- **Browser Extension**: Quick time tracking from any web page
+- **Timesheet Management**: Review and approve team timesheets
+- **Billable vs Non-Billable**: Categorize time for client billing
 
-## Workflow
+## Project Management
 
-1. Create projects and tasks
-2. Track time on tasks
-3. Generate invoices from tracked time
-4. Send to clients and accept payments
-5. Track project profitability
+- Kanban boards and task lists
+- Gantt charts for project planning
+- File storage and sharing
+- Team collaboration and comments
+- Project templates
+- Dependencies and milestones
+
+## Financial Management
+
+- Automated invoicing from tracked time and expenses
+- Expense tracking and management
+- Budget management by project
+- Profitability reports
+- Multiple currencies support
+- Online payment acceptance
+
+## Resource Management
+
+- Team workload view
+- Resource scheduling
+- Capacity planning
+- Utilization tracking
+
+## Benefits
+
+- All-in-one solution eliminates need for multiple tools
+- Accurate billing based on tracked time
+- Improved project profitability visibility
+- Better resource allocation and workload balancing
+- Streamlined invoicing and payment collection
+
+## Integrations
+
+- Zapier for workflow automation
+- Google Calendar and Outlook
+- Slack for team communication
+- Various payment gateways
 
 ## Pricing
 
-Free for 1 user
-Small Office: $11.95/user/month
-Business: $24.95/user/month
+Paymo offers a free plan for individuals, and paid plans starting at $4.95 per user per month for small teams, with advanced features at higher tiers. 15-day free trial on paid plans.

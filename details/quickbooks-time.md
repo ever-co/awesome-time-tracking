@@ -1,19 +1,58 @@
 ## Overview
 
-QuickBooks Time (formerly TSheets) is a comprehensive time tracking and employee scheduling solution designed for mobile, hybrid, and field-based teams. Acquired by Intuit, it offers deep integration with QuickBooks for streamlined payroll and billing processes.
+QuickBooks Time (formerly TSheets) is a mobile time tracking and scheduling software acquired by Intuit for $340 million in 2017. The platform provides GPS tracking, job costing, and seamless integration with QuickBooks for automated payroll processing.
 
 ## Features
 
-- **GPS and Geofencing**: Track employee locations and confirm clock-ins with GPS coordinates and geofencing capabilities
-- **Mobile Time Tracking**: Allow employees to clock in/out from smartphones, tablets, or any device
-- **Shift Scheduling**: Create and manage employee schedules with drag-and-drop simplicity
-- **QuickBooks Integration**: Seamlessly sync time data with QuickBooks Online and QuickBooks Desktop for payroll processing
-- **Job Costing**: Track labor costs by job, project, or client for accurate profitability analysis
-- **Overtime Alerts**: Receive real-time alerts when employees approach overtime thresholds
-- **Crew Clock-In**: Allow one employee to clock in an entire crew from a single device
-- **PTO Management**: Track vacation time, sick leave, and other paid time off
-- **Reporting**: Generate detailed reports on labor costs, project hours, and employee attendance
+- **Mobile Time Clock**: Employees clock in/out from smartphones
+- **GPS Tracking**: Location verification for every time entry
+- **Geofencing**: Set virtual boundaries around job sites
+- **Job Costing**: Track labor costs by job, project, or client
+- **Scheduling**: Create and publish employee schedules
+- **Crew Clock-In**: Single device for multiple employees to clock in
+- **Time Off Management**: Track and approve PTO requests
+- **Overtime Alerts**: Automatic notifications when approaching overtime
+- **Photo Capture**: Attach photos to time entries
+- **QuickBooks Integration**: Automatic sync with QuickBooks for payroll
+- **Mobile Apps**: Full-featured iOS and Android apps
+- **Web Dashboard**: Manage time, schedules, and reports from browser
+
+## QuickBooks Integration
+
+- One-click payroll processing from tracked time
+- Automatic job costing sync
+- Seamless employee data synchronization
+- Integrated expense tracking
+- Unified invoicing with labor costs
+
+## Industry Applications
+
+- Construction and contractors
+- Field service businesses
+- Professional services
+- Restaurants and hospitality
+- Healthcare
+- Retail and manufacturing
+
+## Benefits
+
+- Eliminates manual timesheet entry and errors
+- Reduces payroll processing time by 50%
+- Improves job costing accuracy with GPS verification
+- Prevents time theft and buddy punching
+- Simplifies compliance with labor laws
+- Provides real-time visibility into labor costs
+
+## Integrations
+
+- QuickBooks Online and Desktop (primary integration)
+- ADP, Paychex, and other payroll providers
+- Various accounting and project management platforms
 
 ## Pricing
 
-QuickBooks Time offers tiered pricing based on the number of employees and features required. Pricing typically starts at around $8-20 per user per month when bundled with QuickBooks, with discounts for annual billing.
+QuickBooks Time offers tiered pricing:
+- Premium: $8 per user per month + $20 base fee
+- Elite: $12 per user per month + $40 base fee
+
+30-day free trial available. Discounts for annual billing.

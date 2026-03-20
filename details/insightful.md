@@ -1,36 +1,62 @@
 ## Overview
 
-Insightful (formerly Workpuls) is a workforce analytics platform that specializes in employee monitoring and time tracking to enhance organizational productivity. Recognized by Forbes for championing productivity transparency, it provides real-time visibility into daily activities linked to measurable outcomes.
+Insightful is employee monitoring and time tracking software that provides workforce analytics, productivity monitoring, and automatic time tracking for remote and in-office teams. The platform helps managers understand how time is spent and improve team productivity.
 
 ## Features
 
-### Time Tracking
-- **Automatic Time Tracking** - Accurately measures employee work hours and project durations
-- **Manual Time Entries** - Option for employees to manually log time
-- **Automatic Time Mapping** - AI-based tracking tied to specific apps and projects
-- **Project Time Allocation** - Track time across multiple projects and clients
+- **Automatic Time Tracking**: Track time without manual timers
+- **Activity Monitoring**: Monitor applications and websites used
+- **Screenshots**: Optional periodic screenshots (configurable)
+- **Productivity Analysis**: Categorize activities as productive or unproductive
+- **Real-Time Dashboard**: Live view of team activity
+- **Attendance Tracking**: Monitor work hours and attendance
+- **Project Time Tracking**: Assign time to projects and clients
+- **Idle Time Detection**: Identify inactive periods
+- **Detailed Reports**: Comprehensive productivity and time reports
+- **Mobile Tracking**: Track mobile device usage
+- **Stealth Mode**: Invisible tracking option
 
-### Productivity Analytics
-- **Employee Behavior Analytics** - Detailed real-time insights into work behaviors
-- **Keystroke Logging** - Monitor keyboard activity patterns
-- **Website Activity Tracking** - Track which websites employees visit
-- **Productivity Labeling** - Categorize activities as productive or unproductive
-- **Visual Proof of Work** - Automated screenshots and screen recording
+## Workforce Analytics
 
-### Business Impact
-- **Cost Savings** - Companies report saving $2.5M in contractor costs
-- **Productivity Gains** - Businesses see up to 92% productivity lifts
-- **Efficiency Improvements** - 24% more efficient operations on average
-- **Time Accuracy** - 60% more accurate time tracking
-- **Annual Savings** - Save up to $10 million in time annually
+- Productivity trends and patterns
+- Time allocation by project and task
+- Employee utilization rates
+- Attendance and punctuality metrics
+- Workload distribution
+- Comparative team analytics
 
-## Pricing Tiers (2026)
+## Use Cases
 
-- **Employee Monitoring** - Core time and activity tracking
-- **Time Tracking** - Adds manual entries and productivity labeling
-- **Automatic Time Mapping** - AI-based project tracking
-- **Enterprise** - Custom setup, dedicated support, privacy features
+- Remote team productivity monitoring
+- Hybrid workforce management
+- Project-based time tracking
+- Compliance and attendance tracking
+- Productivity improvement initiatives
+- Workload balancing
 
-## User Rating
+## Privacy & Compliance
 
-4.7/5 stars - Users praise intuitive interface and clarity of reports.
+- GDPR compliant
+- Transparent tracking with employee consent
+- Configurable monitoring levels
+- Data privacy controls
+
+## Benefits
+
+- Understand how remote teams spend time
+- Identify productivity bottlenecks
+- Improve project time estimates
+- Balance workloads across team
+- Data-driven productivity decisions
+- Monitor compliance and attendance
+
+## Integrations
+
+- Project management tools (Jira, Asana, Trello)
+- Communication platforms (Slack, Microsoft Teams)
+- Calendar applications
+- Payroll systems
+
+## Pricing
+
+Insightful offers tiered pricing based on features and team size. Contact for detailed quote. Free trial available.
