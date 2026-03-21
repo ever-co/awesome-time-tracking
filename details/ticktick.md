@@ -1,36 +1,50 @@
 ## Overview
 
-TickTick is a feature-rich task management app available on all major platforms. It combines traditional to-do list functionality with calendar integration, Pomodoro timer, habit tracking, and collaboration features at a competitive price point.
+TickTick is a comprehensive productivity app combining task management, calendar, Pomodoro timer, and habit tracking in one integrated platform.
 
-## Features
+## Key Features
 
-- **Cross-Platform**: Windows, Mac, iOS, Android, web, browser extensions, Apple Watch, Wear OS
-- **Smart Lists**: Dynamic lists based on dates, priorities, and custom filters
-- **Calendar View**: Integrated calendar showing tasks and events
-- **Pomodoro Timer**: Built-in focus timer with statistics
-- **Habit Tracking**: Track daily habits with streak counters
-- **Sub-tasks**: Unlimited checklists within tasks
-- **Tags**: Flexible tagging and filtering
-- **Folders**: Organize lists into folders
-- **Duration**: Set time estimates for tasks
-- **Priority Levels**: Multiple priority options
-- **Reminders**: Location-based and time-based reminders
-- **Collaboration**: Share lists and assign tasks to others
-- **Attachments**: Add files, images, and audio to tasks
-- **Natural Language**: Type "tomorrow 3pm" to set due date
-- **Widgets**: Home screen widgets for quick access
-- **Integrations**: Calendar sync (Google, Outlook), Siri, Alexa
-- **Themes**: Light and dark modes with custom themes
+### Task Management
+- Multiple lists and folders
+- Subtasks and checklists
+- Tags and priorities
+- Smart date parsing
+- Recurring tasks
 
-## Unique Features
+### Built-in Pomodoro
+- Focus timer for each task
+- Track focused time
+- Customizable work/break intervals
+- White noise options
+- Focus statistics
 
-- **Eisenhower Matrix**: Built-in view based on urgency/importance
-- **Summary**: Weekly email summarizing completed tasks
-- **Timeline View**: Visual timeline of upcoming tasks
-- **Duration Tracking**: Optional time tracking for completed tasks
-- **Focus Mode**: Distraction-free task view
+### Calendar Integration
+- Calendar view of tasks
+- Google Calendar sync
+- Time blocking on calendar
+- Agenda view
+
+### Habit Tracking
+- Daily habit checkboxes
+- Streak tracking
+- Habit analytics
+- Reminders
+
+## Platform Availability
+
+- Web app
+- iOS (iPhone, iPad, Apple Watch)
+- Android (phone, tablet, Wear OS)
+- Desktop (Mac, Windows, Linux)
+- Browser extensions
 
 ## Pricing
 
-- **Free**: Up to 2 lists per folder, basic features
-- **Premium**: $27.99/year or $2.99/month - Unlimited features, calendar view, habit tracker, premium themes
+Generous free tier with premium subscription for advanced features like calendar view, custom smart lists, and themes.
+
+## Best For
+
+- Users wanting all-in-one solution
+- Cross-platform productivity seekers
+- Pomodoro + task management combo
+- Budget-conscious users (free tier)

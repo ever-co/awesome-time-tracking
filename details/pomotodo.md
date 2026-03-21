@@ -1,22 +1,40 @@
 ## Overview
 
-Pomotodo combines the Pomodoro Technique with task management, allowing you to estimate tasks in pomodoros, track completion, and analyze your productivity over time.
+Pomotodo combines the Pomodoro Technique with task management and time tracking, creating an integrated system for focused work and productivity measurement.
 
-## Features
+## Core Features
 
-- **Integrated Task List**: Combine timer with to-dos
-- **Pomodoro Estimation**: Estimate tasks in 25-minute units
-- **Time Tracking**: Track actual pomodoros spent
-- **Statistics**: Detailed productivity analytics
-- **Streaks**: Build daily pomodoro habits
-- **Cross-Platform**: Web, iOS, Android, Mac, Windows
-- **Cloud Sync**: Sync across all devices
-- **Customizable Timer**: Adjust durations
-- **History**: View past pomodoros and tasks
-- **Focus Sounds**: Optional background sounds
+### Pomodoro Timer
+- 25-minute focus sessions
+- 5-minute short breaks
+- 15-minute long breaks (after 4 pomodoros)
+- Customizable durations
+- Audio notifications
 
-## Pricing
+### Task Integration
+- Link pomodoros to specific tasks
+- Track time per task automatically
+- See which tasks consume most time
+- Historical task data
 
-- **Free**: Basic features with limitations
-- **Premium**: $2.99/month - Full features and sync
-- Available on all major platforms
+### Analytics
+- Daily/weekly/monthly statistics
+- Pomodoros completed
+- Focus patterns
+- Productivity trends
+- Task time breakdown
+
+## Platform Availability
+
+- Web application
+- iOS app
+- Android app
+- Desktop apps (Mac, Windows)
+- Browser extensions
+
+## Best For
+
+- Pomodoro technique practitioners
+- Users wanting task-level time data
+- People combining focus and tracking
+- Students and knowledge workers

@@ -1,139 +1,74 @@
 ## Overview
 
-Super Productivity is an advanced open-source todo list app with integrated timeboxing and time tracking capabilities, specifically built for makers, developers, and deep work. The latest version (17.2.4) was updated on March 1, 2026.
+Super Productivity is an offline-first daily planner, time blocking, and time boxing app built for professionals who value privacy and want full control over their data.
 
 ## Key Features
 
-### Time Tracking & Timeboxing
-
-**Automatic Time Tracking**: Start or pause timers from any task or subtask, with time tracking, notes, and checklists staying together
-
-**Professional Timeboxing**: Allocate specific time slots to tasks and pick the length of focus blocks and breaks, with the app reminding you when to pause
-
-**Reports & Analytics**:
-- See exactly where hours went each day or week
-- Export clean summaries for reports, invoices, or personal reflection
-- Plan vs. Actual insights: add time estimates, compare with reality
-- Learn how long work really takes
+### Time Blocking & Time Boxing
+- **Drag tasks into schedule**: Assign realistic time boxes to each task
+- **Capacity visualization**: See your capacity for the day before starting
+- **Prevent overcommitment**: Visual timeline prevents scheduling too much
+- **Flexible rescheduling**: Easily move tasks when plans change
 
 ### Task Management
+- **Project organization**: Group tasks by projects or areas
+- **Sub-tasks**: Break down complex work into manageable pieces
+- **Task notes**: Rich text formatting for detailed task descriptions
+- **Tags and labels**: Organize and filter tasks efficiently
+- **Recurrent tasks**: Set up repeating tasks automatically
 
-**Advanced Todo Features**:
-- Tasks and subtasks with notes and checklists
-- Drag-and-drop organization
-- Recurring tasks
-- Task prioritization
-- Project organization
-- Customizable workflows
-
-**Timeboxing & Pomodoro**:
-- Built-in Pomodoro timer support
-- Custom focus block lengths
-- Break reminders
-- Flexible time allocation
-
-### Privacy & Data
-
-**Complete Privacy**:
-- **Zero tracking**
-- **Zero accounts required**
-- **Maximum privacy**
-- All data stored locally
-- Data never leaves your device
-
-**Offline Functionality**:
-- Works completely offline
-- Keep working on planes, in cafés, or anywhere
-- No internet connection required
-- Perfect for privacy-conscious users
+### Time Tracking
+- **Built-in timer**: Track time spent on each task
+- **Manual time entry**: Add time retrospectively
+- **Time estimates**: Set expected durations for tasks
+- **Pomodoro integration**: Work in focused intervals
+- **Idle detection**: Automatic pause when away from computer
 
 ### Integrations
+- **Jira**: Sync tasks and time tracking
+- **GitHub**: Import issues and track development time
+- **GitLab**: Connect with GitLab issues
+- **Caldav**: Calendar integration
+- **OpenProject**: Project management sync
 
-**Developer-Focused Connections**:
-- **Jira**: Sync issues and track time
-- **GitHub**: Import issues and pull requests
-- **GitLab**: Project and issue integration
-- **Calendars**: Calendar synchronization
-- Slack integration
+## Privacy & Data Control
 
-**Time Tracking Export**:
-- Export to various formats
-- Compatible with invoicing tools
-- CSV and JSON export
-- Custom report generation
+### Offline-First Architecture
+- Works completely offline
+- No cloud dependency for core features
+- Data stored locally on your device
+- Sync only if you choose
 
-## Platform Support
+### Open Source
+- **Transparent code**: Inspect what the app does
+- **Community-driven**: Contributions welcome
+- **No vendor lock-in**: Your data in standard formats
+- **Free forever**: No subscription required
 
-- **Desktop**: Linux, macOS, Windows
-- **Mobile**: Android (updated March 13, 2026), iOS
-- **Web**: Browser-based access
-- **Snap**: Available on Linux Snap Store
-- **Microsoft Store**: Windows installation
+## Platform Availability
 
-## Target Audience
+- Windows desktop app
+- macOS desktop app
+- Linux desktop app
+- Android mobile app
+- Web version (for optional cloud sync)
 
-### Perfect For:
-- Developers and software engineers
-- Freelancers needing time tracking
+## Best For
+
 - Privacy-conscious professionals
-- Remote workers
-- People who work offline frequently
-- Open-source enthusiasts
-- Users of Jira, GitHub, or GitLab
-
-### Use Cases:
-- Software development projects
-- Freelance client work
-- Personal productivity
-- Academic research
-- Any work requiring time tracking and task management
-
-## Key Differentiators
-
-**Open Source**: Complete transparency, community-driven development
-
-**Privacy-First**: Zero data collection, fully offline capability
-
-**Cross-Platform**: Works everywhere - desktop, mobile, web
-
-**Developer-Friendly**: Native integrations with dev tools
-
-**Timeboxing Built-In**: Not an add-on, core functionality
-
-**No Vendor Lock-In**: Own your data, export anytime
-
-## 2026 Updates
-
-- Windows version 17.2.4 released March 1, 2026
-- Android app updated March 13, 2026
-- Continued active development and community support
-- Regular feature additions and bug fixes
-
-## Technical Details
-
-**Open Source**: Available on GitHub (johannesjo/super-productivity)
-
-**License**: Free and open-source
-
-**Technologies**: Modern web technologies, Electron for desktop
-
-**Data Storage**: Local storage, user-controlled
-
-## Community & Support
-
-- Active GitHub community
-- Regular updates and improvements
-- Community-driven feature requests
-- Comprehensive documentation
-- User guides and tutorials
+- Developers who prefer open-source tools
+- Users wanting offline productivity apps
+- Teams working on open-source projects
+- Anyone avoiding subscription fatigue
 
 ## Pricing
 
-**Completely FREE**
-- No subscription fees
-- No premium tiers
-- No feature limitations
-- No account required
-- No hidden costs
+Completely free and open-source. No premium tiers or paid features.
 
-As open-source software, Super Productivity is free forever with optional donations to support development.
+## Community
+
+Active community on GitHub for:
+- Feature requests
+- Bug reports
+- Contributions
+- Support and discussions

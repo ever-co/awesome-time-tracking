@@ -1,31 +1,55 @@
 ## Overview
 
-monday.com includes built-in time tracking capabilities through its Time Tracking Column and widget system, designed for teams managing projects and workflows.
+monday.com offers built-in time tracking capabilities through the Time Tracking Column and Time Tracking Widget, integrated directly into its work management platform.
 
-## Native Features
+## Time Tracking Column
 
-### Time Tracking Column (Pro & Enterprise Plans)
+### Key Features
+- **Start/stop timer**: Click play to start tracking when beginning a task, pause anytime
+- **Manual time entry**: Add session manually for retrospective tracking
+- **Time format options**: Toggle between seconds and minutes display
+- **History and log**: View task progress and time intervals
+- **Editable entries**: Manually edit any time tracking cell
+- **Subitems support**: Add Time Tracking Column to subitems on boards
 
-- **Timer Controls**: Start, pause, and stop timer by clicking play button in board items
-- **Manual Entry**: Add time ranges manually by clicking into cells
-- **Display Options**: Show time in seconds (default) or minutes
-- **Sub-item Support**: Add time tracking to sub-items with optional sum display in parent item
-- **Future Restriction**: Cannot enter future time values
+### Availability
+All users except Collaborators and Viewers can use Time Tracker. Available with Pro and Enterprise plans.
 
-### Time Tracking Widget
+## Time Tracking Widget
 
-- **Dashboard Visualization**: View time across boards by person and project
-- **Basic Reporting**: Total numbers based on selected boards and filters
-- **Export Capability**: Export entire column to Excel with item name, user, and time totals
+### Consolidated View
+- **Multi-board aggregation**: Gathers data from Time Tracking Columns across various boards
+- **Flexible timeframes**: View time tracked over day, week, month, or year
+- **Total calculations**: Shows sum based on selected boards and filters
+- **Dashboard integration**: Add to dashboards for team-wide visibility
 
-## Advanced Options for 2026
+## Limitations
 
-Since 2025, **monday Vibe** allows building custom time tracking solutions directly in monday.com using AI-generated apps, offering flexibility for teams with specific needs.
+### Manual Operation
+Starting and stopping the Time Tracking Column is manual by default. While automation is possible, many users find setup challenging.
 
-## Integration Options
+### Basic Widget
+The Time Tracking Widget provides only total numbers based on selected boards and filters, without detailed breakdown.
 
-monday.com integrates with third-party time tracking tools like Everhour, TimeCamp, and others for enhanced functionality.
+## Third-Party Integrations
 
-## Pricing
+Many teams use enhanced time tracking through integrations:
+- **TimeCamp**: Full automatic time tracking
+- **Timely**: AI-powered automatic tracking
+- **Tracket**: Enhanced time tracking in monday.com
+- **Everhour**: Advanced billing and budgets
 
-Time tracking features available on Pro and Enterprise plans.
+## Best For
+
+- Teams already using monday.com who need basic time tracking
+- Project managers wanting task-level time data
+- Teams seeking unified work and time management
+- Organizations preferring all-in-one platforms
+
+## Use Cases
+
+- Track billable hours per project
+- Monitor team capacity and workload
+- Generate time reports for clients
+- Analyze project profitability
+- Improve time estimates for future work

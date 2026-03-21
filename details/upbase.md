@@ -1,71 +1,58 @@
 ## Overview
 
-Upbase is described as "the simplest way for agencies, consultants, and service businesses to manage projects, clients, and daily tasks — without juggling 5+ tools." It is a fully-featured productivity app that offers timeboxing, time blocking, calendar, task management, journaling, and more.
+Upbase is an all-in-one work management platform that combines project management, task tracking, and timeboxing in a single integrated workspace.
 
-## Features
+## Daily Planner & Time Blocking
 
-### Timeboxing
-- Goal-oriented time management inspired by Parkinson's Law
-- Set constraints on time to prevent procrastination
-- Take back control of schedule
-- Practice assigning each task a specific interval
-- Spend less time planning, more time in flow
-- Combine timeboxing, Pomodoro, and time blocking techniques
+### Built-in Time Blocks
+Upbase's Daily Planner and Weekly Calendar are built with time blocks at their core:
+- Visual timeline for the entire day
+- Drag-and-drop time block creation
+- Easy rescheduling of blocks
+- Color-coded projects and tasks
 
-### Daily Planner Tools
-- Pomodoro timer
-- Timeboxing functionality
-- Private notepad
-- Private daily journal
-- Day planner view with all tools integrated
+### Integrated Features
+The daily view includes:
+- **Pomodoro timers**: Built-in focus sessions
+- **Daily notes**: Capture thoughts and ideas
+- **Notepad**: Quick capture area
+- All placed side-by-side for easy access
 
-### Time Management Flexibility
-- Time blocks for scheduling
-- Pomodoro timers for focus
-- Timeboxing for goal setting
-- Use techniques separately or combined
-- Adapt based on your demand
+## Project & Task Management
 
-### Project & Client Management
-- Manage projects and clients
-- Task management system
-- Suitable for agencies and consultants
-- Service business workflows
-- Client organization
+### Project Organization
+- Multiple project views (List, Board, Calendar)
+- Task dependencies and subtasks
+- File attachments and comments
+- Project templates for repeatable workflows
 
-### Interface
-- Intuitive interface
-- Versatile functionality
-- Powerful features for time management
-- All-in-one platform
+### Collaboration
+- Team workspaces
+- Real-time updates
+- @mentions and notifications
+- Activity feeds
 
-## Who It's For
+## Time Tracking
 
-- Agencies
-- Consultants
-- Service businesses
-- Teams managing multiple clients
-- Professionals wanting to consolidate tools
-- Anyone implementing timeboxing techniques
+- Track time spent on tasks
+- Pomodoro-based tracking
+- Manual time entry
+- Time reports and analytics
 
-## Benefits
+## Best For
 
-- Replace multiple productivity tools with one
-- Implement proven time management techniques
-- Prevent procrastination through time constraints
-- Increase productivity with structured time
-- Maintain focus with integrated timer tools
-- Keep all project and time data in one place
-
-## Pricing
-
-- **Free Plan**: Free forever, no credit card required
-- **Individual Plan**: $19/month (annual billing) or $34/month (monthly billing)
-- **Team Plan**: $12/month per user (annual billing) or $20/month per user (monthly billing)
-- 7-day free trial for paid plans
+- Small to medium teams wanting unified workspace
+- Remote teams coordinating work
+- Professionals adopting timeboxing
+- Teams seeking all-in-one solution
+- Groups wanting to avoid tool sprawl
 
 ## Platform Availability
 
-- Web-based application
-- Accessible from any browser
-- Cloud-hosted solution
+- Web application
+- Desktop apps (Windows, Mac)
+- Mobile apps (iOS, Android)
+
+## Pricing
+
+Offers free tier for small teams with paid plans for advanced features and larger organizations.

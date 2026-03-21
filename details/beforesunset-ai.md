@@ -1,51 +1,95 @@
 ## Overview
 
-BeforeSunset AI uses artificial intelligence to create optimized daily schedules, analyzing your tasks, estimated durations, energy patterns, and existing calendar to suggest realistic time-blocked plans.
+BeforeSunset AI is a daily planning and timeboxing application that uses artificial intelligence to help you create realistic, optimized schedules that match your energy patterns and priorities.
 
-## AI Features
+## Core Timeboxing Features
 
-- AI-powered task scheduling
-- Automatic time blocking
-- Smart task prioritization
-- Energy-aware scheduling
-- Realistic workload assessment
-- Calendar conflict detection
+### AI-Powered Schedule Creation
+- **Automatic time allocation**: AI suggests optimal time blocks for tasks
+- **Energy consideration**: Matches tasks to your high/low energy periods
+- **Priority-based**: Schedules most important work first
+- **Realistic estimation**: Helps prevent overcommitment
+- **Buffer time**: Automatically includes breaks and transitions
 
-## Daily Planning
+### Timebox Management
+- **Drag-and-drop interface**: Easy schedule adjustments
+- **Visual timeline**: See your entire day at a glance
+- **Flexible rescheduling**: Move tasks when plans change
+- **Duration estimates**: Set and track task time
+- **Calendar sync**: Integrates with Google Calendar
 
-- Morning planning ritual
-- Task import from various sources
-- Time estimation assistance
-- Priority-based scheduling
-- Buffer time inclusion
-- End-of-day review
+## AI Capabilities
 
-## Time Blocking
+### Intelligent Suggestions
+- Learns from your working patterns
+- Recommends optimal task sequencing
+- Identifies realistic daily capacity
+- Suggests break times
+- Warns about overloaded schedules
 
-- Automatic calendar block creation
-- Visual timeline view
-- Drag-and-drop adjustments
-- Color-coded categories
-- Integration with Google Calendar
+### Task Analysis
+- Estimates task duration based on description
+- Categorizes tasks automatically
+- Prioritizes based on deadlines and importance
+- Groups similar tasks together
 
-## Features
+## Daily Planning Workflow
 
-- Task management
-- Time tracking
-- Analytics and insights
-- Pomodoro timer
-- Focus mode
-- Daily/weekly reviews
+1. **Morning Planning**: Review and organize tasks for the day
+2. **AI Scheduling**: Let AI create optimized time blocks
+3. **Manual Adjustment**: Fine-tune schedule to preferences
+4. **Execution**: Work through timeboxed schedule
+5. **Evening Review**: Reflect on completed work
 
-## Platform
+## Additional Features
 
-Web, mobile apps
+### Time Tracking
+- Track actual time spent on tasks
+- Compare estimates vs. actuals
+- Improve future time estimates
+- Generate time reports
+
+### Productivity Analytics
+- Daily/weekly productivity insights
+- Task completion rates
+- Time allocation analysis
+- Energy pattern recognition
+
+### Integrations
+- Google Calendar sync
+- Task import from other tools
+- Export capabilities
+- API access
+
+## Best For
+
+- Professionals with variable daily schedules
+- People who struggle with time estimation
+- Users wanting AI-assisted planning
+- Teams adopting timeboxing methodology
+- Individuals optimizing energy management
+
+## Platform Availability
+
+- Web application
+- iOS app (coming soon/available)
+- Android app (coming soon/available)
+- Desktop apps
+
+## Comparison to Other Timeboxing Tools
+
+### vs. Sunsama
+- **BeforeSunset**: AI-powered scheduling
+- **Sunsama**: Guided planning ritual
+
+### vs. Akiflow
+- **BeforeSunset**: AI schedule optimization
+- **Akiflow**: Unified inbox and calendar
+
+### vs. Motion
+- **BeforeSunset**: Daily planning focus
+- **Motion**: Automated project management
 
 ## Pricing
 
-Free plan available
-Pro plan for advanced AI features
-
-## Target Users
-
-Knowledge workers, professionals, anyone seeking AI-assisted daily planning
+Offers free tier with core features, paid plans unlock AI capabilities and advanced features.

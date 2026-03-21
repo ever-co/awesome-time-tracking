@@ -1,34 +1,49 @@
 ## Overview
 
-Freedom is the only distraction blocker that can sync blocking sessions across all your devices, making it ideal for multi-device users.
-
-## Platform Support
-
-- **iPhones & iPads**: iOS app blocking
-- **Mac Computers**: macOS app and website blocking
-- **Windows Computers**: Windows app and website blocking
-- **Android Devices**: Android app blocking
-- **Chrome Devices**: Browser-based blocking
+Freedom is a powerful distraction-blocking app that helps you stay focused by blocking websites and applications across all your devices simultaneously.
 
 ## Key Features
 
-- **Cross-Device Sync**: Block on all devices simultaneously
-- **Scheduled Sessions**: Pre-schedule blocking times
-- **Locked Mode**: Make blocks unbreakable during sessions
-- **Website Lists**: Create custom block lists
-- **App Blocking**: Block distracting applications
-- **Full Internet Block**: Block entire internet if needed
-- **Session Analytics**: Track blocking patterns
+### Cross-Device Blocking
+- Block on all devices at once
+- Sync block sessions across platforms
+- Unified control from any device
+- Consistent focus environment
 
-## Use Cases
+### Flexible Blocking
+- **Website blocking**: Specific sites or categories
+- **App blocking**: Desktop and mobile apps
+- **Entire internet**: Nuclear option for deep focus
+- **Custom blocklists**: Create personalized lists
 
-- **Consultants & Managers**: Work spanning multiple devices
-- **Students**: Study sessions without distractions
-- **Writers & Creatives**: Deep focus work periods
-- **Remote Workers**: Maintain productivity at home
+### Scheduling
+- Schedule recurring block sessions
+- Daily routines (e.g., 9 AM - 12 PM)
+- Different schedules for different days
+- Set it and forget it automation
+
+### Locked Mode
+- Can't disable during session
+- Ensures commitment
+- Prevents weak moments
+- Scheduled unlock time
+
+## Platform Availability
+
+- Mac desktop
+- Windows desktop
+- iOS (iPhone, iPad)
+- Android
+- Chrome Extension
+
+## Best For
+
+- People with serious distraction issues
+- Deep work practitioners
+- Students during study sessions
+- Writers and creators
+- Anyone wanting digital boundaries
 
 ## Pricing
 
-- Monthly: $8.99/month
-- Annual: $3.33/month (billed annually)
-- Lifetime: $199 one-time payment
+Subscription-based with monthly and annual plans. Offers free trial to test effectiveness.

@@ -1,24 +1,60 @@
 ## Overview
 
-Timesheet Mobile is a time tracking application designed specifically for mobile and field workers. It provides GPS verification, photo capture, and offline functionality for teams working at remote job sites without reliable internet connectivity.
+Timesheet Mobile is a specialized time tracking solution built for construction companies and field service businesses managing crews across multiple job sites.
 
-## Features
+## Key Features
 
-- **GPS Clock In/Out**: Location verification for each time entry
-- **Photo Verification**: Capture photos at clock in/out
-- **Offline Mode**: Track time without internet, sync later
-- **Geofencing**: Restrict clock-in to specific locations
-- **Project Tracking**: Assign time to specific jobs or projects
-- **Break Management**: Track paid and unpaid breaks
-- **Mileage Tracking**: Log travel between job sites
-- **Mobile App**: iOS and Android native apps
-- **Admin Dashboard**: Web portal for managers
-- **Payroll Export**: Export for payroll processing
-- **Timesheet Approval**: Manager review and approval
-- **Reporting**: Hours by employee, project, date range
+### Mobile-First Design
+- **Native mobile apps**: Designed for phones and tablets
+- **Offline functionality**: Works without cell service
+- **Simple interface**: Easy for field workers
+- **Quick clock-in**: Minimal taps to start tracking
+- **Rugged-friendly**: Works with work gloves
+
+### GPS & Location
+- **Automatic location**: GPS stamps on clock-in
+- **Job site verification**: Confirm workers at correct location
+- **Travel tracking**: Monitor time between sites
+- **Geofencing**: Set allowed clock-in areas
+- **Route history**: See where crews traveled
+
+### Construction-Specific Features
+- **Job cost tracking**: Track costs per project
+- **Equipment tracking**: Monitor equipment usage and location
+- **Photo documentation**: Attach job site photos
+- **Daily reports**: End-of-day summaries
+- **Crew management**: Organize by teams/crews
+
+### Field Service Tools
+- **Work orders**: Assign and track jobs
+- **Service tickets**: Customer service requests
+- **Materials tracking**: Record materials used
+- **Customer signatures**: Digital sign-off
+- **Scheduling**: Dispatch crews to jobs
+
+## Integrations
+
+- **QuickBooks**: Sync with accounting
+- **Payroll systems**: Export time for payroll
+- **Project management**: Connect with PM tools
+- **GPS platforms**: Enhanced tracking
+
+## Best For
+
+- Construction companies
+- Landscaping businesses
+- HVAC and plumbing contractors
+- Electrical contractors
+- Field service companies
+- Any business with mobile workforce
+
+## Platform Availability
+
+- iOS mobile app
+- Android mobile app
+- Web dashboard (for managers)
+- Tablet apps
 
 ## Pricing
 
-- **Starter**: $5 per user/month
-- **Pro**: $8 per user/month
-- **Enterprise**: Custom pricing
+Per-user monthly pricing with plans based on company size and features needed.

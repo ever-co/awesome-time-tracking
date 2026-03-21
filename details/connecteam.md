@@ -1,59 +1,55 @@
 ## Overview
 
-Connecteam is a mobile-first workforce management platform designed for deskless workers. The app provides GPS time tracking, scheduling, team communication, task management, and more for field service, construction, retail, and mobile teams.
+Connecteam is an all-in-one employee app built for deskless teams and mobile workforces, combining time tracking, GPS location tracking, scheduling, and team communication in a single platform.
 
-## Time & Attendance
+## Key Time Tracking Features
 
-- **GPS Time Clock**: Location-verified clock in/out
-- **Geofencing**: Job site boundaries for automatic tracking
-- **Face Recognition**: Biometric authentication via selfie
-- **Kiosk Mode**: Shared device for multiple employees
-- **Offline Mode**: Track time without internet
-- **Break Management**: Track and enforce breaks
-- **Overtime Alerts**: Automatic overtime notifications
-- **PTO Management**: Request and approve time off
+### Time Clock
+- **Mobile time clock** with GPS stamping
+- **Kiosk mode** for shared device check-ins
+- **Face recognition** to prevent buddy punching
+- **Geofencing** to ensure on-site clock-ins
+- **Break tracking** and overtime monitoring
 
-## Scheduling
+### GPS & Location Tracking
+- Real-time location tracking for field employees
+- **Breadcrumb trail** showing employee routes throughout the day
+- Geofence alerts when employees enter or leave job sites
+- Location-based clock-in restrictions
 
-- Shift scheduling and management
+### Scheduling
+- Drag-and-drop shift scheduling
 - Shift templates for recurring schedules
-- Employee availability tracking
-- Shift reminders and notifications
+- Automatic notifications for schedule changes
+- Shift swapping with manager approval
 - Open shift marketplace
-- Schedule publishing
 
-## Communication
+## Additional Features
 
-- Team chat and messaging
-- Company updates and announcements
-- File sharing
-- Surveys and polls
-- Event calendar
+- **Employee monitoring**: Track productivity and work patterns
+- **Team communication**: In-app chat and updates
+- **Task management**: Assign and track job completion
+- **Forms & checklists**: Digital workflows and safety inspections
+- **Training & onboarding**: Built-in learning management
+- **Payroll integration**: Export timesheets to payroll systems
 
-## Task Management
+## Best For
 
-- Checklists and forms
-- Standard operating procedures
-- Job assignments
-- Photo and signature capture
-- Quality control inspections
-
-## Features for Deskless Workers
-
-- Mobile-first design
-- Easy-to-use interface
-- Works offline
-- Available in 30+ languages
-- Branded employee app
-
-## Benefits
-
-- Improves communication with field teams
-- Reduces time theft with GPS verification
-- Streamlines scheduling for mobile workers
-- Provides digital checklists and SOPs
-- Affordable pricing for small businesses
+- Construction companies
+- Field service businesses
+- Healthcare facilities
+- Retail chains
+- Hospitality and restaurants
+- Cleaning and maintenance services
+- Any business with deskless or mobile workers
 
 ## Pricing
 
-Connecteam offers a free plan for small teams (up to 10 users), with paid plans starting at $29/month for up to 30 users, then $0.50 per additional user.
+Offers a free plan for small teams, with paid plans starting at competitive rates for growing businesses.
+
+## Platform Availability
+
+- iOS mobile app
+- Android mobile app
+- Web dashboard for managers
+- Tablet kiosk mode

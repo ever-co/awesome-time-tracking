@@ -1,23 +1,55 @@
 ## Overview
 
-Workflowy is a powerful online outliner app that lets you organize your thoughts, notes, and projects in infinitely nested lists. It's a clean and distraction-free app that helps you quickly capture notes, plan your to-do's, and get organized.
+WorkFlowy is a simple yet powerful outliner that allows infinite nesting of bulleted lists, creating a flexible system for note-taking, task management, and thought organization.
+
+## Core Concept
+
+### Infinite Zoom
+- Start with main topics as bullets
+- Nest sub-items infinitely deep
+- Zoom into any item to focus
+- Zoom out to see big picture
+- Navigate entire knowledge base as nested lists
 
 ## Key Features
 
-- Capture notes and ideas in an instant
-- Organize complex thinking with infinite nesting
-- Ask AI to summarize or brainstorm with your notes
-- Plan and manage tasks with kanban boards
-- Tag and assign items
-- Link items across lists
-- Share and collaborate in real-time
-- Upload photos and files
-- Search your entire Workflowy in seconds
+### Simplicity
+- Only bullets and text
+- No formatting complexity
+- Keyboard-driven navigation
+- Fast and lightweight
+- Minimal learning curve
 
-## Notable Users
+### Flexibility
+- Use for GTD workflows
+- Project management
+- Meeting notes
+- Personal wiki
+- Daily journaling
+- Brainstorming
 
-Used by Mike Cannon-Brookes (CEO of Atlassian), Farhad Manjoo from the New York Times, Slack's founders, and thousands of entrepreneurs, writers, engineers, scientists, creatives and students across the globe.
+### Collaboration
+- Real-time collaboration
+- Share specific branches
+- Team workspaces
+- Comments and mentions
+
+## For Task Management
+
+- Create project hierarchies
+- Nest tasks under projects
+- Use tags for contexts (#work, #home)
+- Mark completed items
+- Archive finished projects
+
+## Platform Availability
+
+- Web application
+- iOS app
+- Android app
+- Desktop apps
+- Offline support
 
 ## Pricing
 
-Free plan available. Premium version costs $4.99/month or $49.99/year.
+Free tier with monthly item limit. Pro version offers unlimited items and advanced features.

@@ -1,47 +1,49 @@
 ## Overview
 
-Memtime takes a unique approach: it automatically records everything you do on your computer (which apps, documents, websites), then lets you review this "memory" later to accurately log your time. Perfect for professionals who forget to start timers.
+Memtime is a relatively new automated time tracking tool that keeps track of your computer activity in a completely private and offline manner. Unlike other automatic trackers, Memtime doesn't take screenshots or monitor in a way that feels invasive.
 
 ## How It Works
 
-1. **Background Capture**: Memtime runs silently, tracking all computer activity
-2. **Private Timeline**: Creates visual timeline of your day (apps, docs, meetings)
-3. **Retroactive Logging**: Review timeline and assign time to projects/clients
-4. **Export/Sync**: Push logged time to billing systems
+Memtime creates a private timeline of your computer activities by tracking:
+- Applications used
+- Documents opened
+- Websites visited
+- Time spent in each activity
+
+All data is stored locally on your device and is visible only to you.
 
 ## Key Features
 
-- Fully automatic activity capture
-- Visual timeline reconstruction
-- 100% offline and private
-- No cloud upload of activity data
-- Integration with billing tools
-- Calendar integration
-- Meeting auto-detection
-- Custom project mapping
+### Privacy-First Approach
+- **No screenshots**: Tracks activity without visual monitoring
+- **Offline storage**: All data stays on your local device
+- **No surveillance**: Designed for personal productivity, not employee monitoring
+- **GDPR compliant**: Respects European privacy standards
 
-## Privacy
+### Automatic Tracking
+- **Runs in background**: No need to start/stop timers
+- **Captures all activities**: Complete record of your workday
+- **Smart categorization**: Automatically groups similar activities
+- **Memory recall**: Review your day hour-by-hour
 
-- All data stored locally
-- No screenshots or keylogging
-- Only app names and doc titles captured
-- User controls what gets logged
-- GDPR compliant
-
-## Best For
-
-- Lawyers and consultants
-- Freelancers with multiple clients
-- Anyone who forgets to track time
-- Professionals billing by the hour
+### Timesheet Creation
+- **Reconstruct your day**: Look back at any point and remember what you worked on
+- **Manual refinement**: Convert tracked activity into billable time entries
+- **Project assignment**: Allocate time to specific clients and projects
+- **Export capabilities**: Send timesheets to billing systems
 
 ## Integrations
 
-- Jira, Asana
-- QuickBooks
-- Harvest
-- Toggl
+Connects with popular project management and invoicing tools to streamline timesheet submission.
 
-## Pricing
+## Best For
 
-Approximately €10-15/month
+- Consultants billing by the hour
+- Freelancers needing accurate time records
+- Professionals juggling multiple projects
+- Anyone who forgets to track time manually
+- Teams wanting private, non-invasive tracking
+
+## Comparison to Competitors
+
+Unlike RescueTime (which focuses on productivity analytics) or Hubstaff (which includes screenshots), Memtime focuses solely on helping you remember and reconstruct your time for billing purposes without surveillance features.

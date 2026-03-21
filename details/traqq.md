@@ -1,69 +1,63 @@
 ## Overview
 
-Traqq is an ethical time tracking solution that helps businesses monitor productivity while respecting employee privacy. The software focuses on tracking work hours and activity levels in a balanced way to help teams stay productive and keep track of billable hours.
+Traqq is a silent automatic time tracker designed for freelancers and remote teams, running in the background to monitor computer activity and generate detailed productivity reports.
 
-## Features
+## Key Features
 
-### Smart Time Tracking
-- Automatically captures work time accurately and efficiently
-- Tracks both online and offline work
-- Accurate data collection for each employee's workday
-- Works for remote, traveling, or on-site employees
-- Lightweight tracker that doesn't slow down computers
+### Automatic Time Tracking
+- **Silent operation**: Runs invisibly in the background
+- **App & website monitoring**: Tracks all applications and sites used
+- **Idle time detection**: Automatically pauses when away from computer
+- **Smart categorization**: Classifies activities as productive or unproductive
+- **Offline tracking**: Continues tracking without internet connection
 
-### Activity Monitoring
-- Application usage tracking
-- Shows which programs are used and time spent on each
-- Keyboard and mouse activity monitoring
-- Productivity pattern analysis
-- Billable hours tracking
+### Productivity Analysis
+- **Activity levels**: Visual timeline of work intensity
+- **Productive vs. unproductive**: Automatic classification of time
+- **Application breakdown**: See time spent in each program
+- **Website usage**: Detailed web browsing analytics
+- **Daily/weekly reports**: Comprehensive productivity summaries
 
-### Privacy-Focused Approach
-- Non-intrusive employee time tracking
-- NOT a spy system
-- Employees decide when their activities will be tracked
-- Screen recording has been discontinued to uphold employee privacy rights
-- Ethical monitoring practices
-- Respects employee privacy while providing productivity insights
+### Screenshot Capabilities (Optional)
+- **Periodic screenshots**: Configurable screenshot intervals
+- **Activity verification**: Visual proof of work for clients
+- **Blur sensitive data**: Automatically obscure private information
+- **Screenshot gallery**: Review captured screens by project
 
-### Platform Support
-- Windows
-- Mac
-- Linux
-- Runs smoothly without hogging computer resources
-- Lightweight application
+### Team Management
+- **Team dashboard**: Overview of all team members' activity
+- **Individual reports**: Per-person productivity breakdowns
+- **Project time allocation**: See how time is distributed across projects
+- **Attendance tracking**: Monitor work hours and schedules
 
-## Philosophy
+## Privacy Features
 
-Traqq stands for non-intrusive employee time tracking. It is not a spy system, but a tool that helps employees track their billable hours and control their working time. As an ethical employee monitoring software, Traqq lets users decide when their activities will be tracked.
+- User-controlled screenshot settings
+- Option to blur screenshots
+- Ability to delete captured data
+- Transparent about what's being tracked
+- No keystroke logging
 
-## Who It's For
+## Integrations
 
-- Remote teams
-- Freelancers tracking billable hours
-- Businesses wanting ethical monitoring
-- Teams needing productivity insights
-- Organizations valuing employee privacy
-- Companies with distributed workforces
+- Export to popular billing systems
+- Calendar synchronization
+- Project management tool connections
 
-## Benefits
+## Best For
 
-- Balance productivity tracking with privacy
-- Accurate billable hour tracking
-- Identify productivity patterns
-- Support remote work management
-- Ethical approach builds trust
-- Lightweight system performance
-
-## Use Cases
-
-- Billable hours tracking for client work
-- Productivity analysis
-- Remote team management
-- Workday monitoring
-- Activity pattern identification
-- Time allocation insights
+- Freelancers tracking billable hours for clients
+- Remote teams needing accountability
+- Agencies managing distributed contractors
+- Businesses requiring time verification
+- Individuals wanting automatic productivity insights
 
 ## Pricing
 
-Pricing information available on website.
+Offers free tier for individuals with paid plans for teams and advanced features.
+
+## Platform Availability
+
+- Windows desktop app
+- macOS desktop app
+- Web dashboard for reports

@@ -1,34 +1,32 @@
 ## Overview
 
-TIMEFLIP2 is a 12-sided time tracking cube that transforms time tracking into a physical, tactile experience. Users can track up to 12 different activities by simply flipping the device to the corresponding side, making time tracking as easy as flipping a dice.
+TIMEFLIP2 is a 12-sided connected dice for tracking time that provides a radically different user experience compared to software time tracking tools through its physical, tactile interface.
 
 ## How It Works
 
-Each of the 12 sides can be personalized and associated with a specific task or activity. When a side faces upward, time tracking begins for that associated task. When the device is placed in its stand, no task is active. The device connects via Bluetooth to desktop (macOS, Windows, Linux) and mobile apps (iOS and Android).
+Users mark TIMEFLIP2 sides with the tasks or activities they want to track and assign them once in the mobile app. Simply place TIMEFLIP2 with the corresponding side facing up and the device automatically starts clocking time for it.
 
 ## Features
 
-- **12-Sided Design**: Track up to 12 different activities (more than the 8-sided Timeular/EARLY tracker)
-- **Tactile Engagement**: Physical interaction builds muscle memory and creates a powerful reminder to track time
-- **Bluetooth Connectivity**: Seamlessly syncs with desktop and mobile applications
-- **Battery Life**: With typical usage (8 hours/day, 5 days/week), lasts several months between charges
-- **Visual Organization**: Can label each side with stickers or markers for quick identification
+- **12-sided dice** for tracking up to 12 different tasks or activities
+- **Direct or Pomodoro timer mode** for flexible time tracking approaches
+- **Blinks periodically** in user-defined task color to notify on current task status
+- **Offline capability**: Stores tracking data locally, no constant phone connection needed
+- **Free iOS/Android and Web apps** for viewing and managing tracked time
+- **Export functionality**: Time stats can be exported in XLS or CSV format
+- **Battery powered**: Uses two AA batteries
+- **Tap-to-pause**: Quick pause feature for interruptions
 
-## Benefits
+## Specifications
 
-- Makes time tracking interactive and engaging
-- Reduces the barrier to starting time tracking (no need to open apps or click buttons)
-- Builds consistent time tracking habits through physical action
-- Ideal for visual and kinesthetic learners
+- 12-sided physical time tracking cube
+- Bluetooth connectivity
+- AA battery powered (2 batteries)
+- Price: $59
 
-## Platform Compatibility
+## Use Cases
 
-- macOS
-- Windows
-- Linux
-- iOS
-- Android
-
-## Pricing
-
-Requires hardware purchase plus software subscription
+- Freelancers tracking billable hours across multiple clients
+- Students managing study time for different subjects
+- Remote workers maintaining focus on specific projects
+- Anyone preferring physical interaction over digital timers

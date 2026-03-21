@@ -1,134 +1,71 @@
 ## Overview
 
-OmniFocus is a sophisticated task management application for Apple platforms that implements the Getting Things Done (GTD) methodology in depth. Known for its power and flexibility, it's designed for professionals managing complex projects and workflows who need advanced features like perspectives, contexts, review cycles, and intricate filtering.
+OmniFocus is a comprehensive task management application built specifically for Mac and iOS that implements David Allen's Getting Things Done (GTD) methodology with powerful organizational features.
 
-## Core GTD Implementation
+## Key GTD Features
 
-### Inbox
+### Inbox Processing
 - Quick capture from anywhere
-- Process regularly
-- Clarify and organize
-- Batch processing
+- Process inbox methodically
+- Clarify next actions
+- Organize into projects
 
-### Projects & Single Actions
-- Sequential projects (steps in order)
-- Parallel projects (steps independent)
-- Single action lists
-- Project templates
-- On Hold status
+### Projects and Actions
+- **Sequential projects**: Tasks must be done in order
+- **Parallel projects**: Tasks can be done anytime
+- **Single-action lists**: Unrelated tasks grouped
+- **Project hierarchy**: Nested projects and folders
 
 ### Contexts
-- Where/when/with tasks can be done
-- @Computer, @Home, @Calls, @Errands
-- Nested contexts
-- Context-based views
+- Location-based contexts (@office, @home)
+- Tool-based contexts (@computer, @phone)
+- People contexts (@boss, @assistant)
+- Energy contexts (@high-energy, @low-energy)
 
-### Perspectives
-- Custom views of tasks
-- Saved filters and groupings
-- Quick access to workflows
-- Pro feature, highly powerful
+### Advanced Filtering
+- **Perspectives**: Custom views of tasks
+- **Forecast view**: Calendar integration
+- **Flagged items**: Priority markers
+- **Defer dates**: Hide until relevant
+- **Due dates**: Deadline tracking
 
-### Review
-- Scheduled review cycles
-- Project-level review dates
-- Review mode for batch processing
-- Next review tracking
+## Powerful Features
 
-## Advanced Features
-
-### Start Dates & Defer
-- Hide tasks until ready
-- Future planning
-- Reduce current overwhelm
-- Sequential dependencies
-
-### Estimated Duration
-- Time needed per task
-- Planning capacity
-- Finding quick wins
-- Realistic scheduling
-
-### Forecast View
-- Calendar integration
-- Deadlines visualization
-- Today's schedule
-- Week ahead planning
-
-### Flagging
-- Mark important tasks
-- Quick filter to flagged
-- Temporary priority
-- Review attention items
-
-### Tags (OmniFocus 3)
-- Multiple tags per task
-- Replaces/extends contexts
-- More flexible categorization
-- Tag combinations
-
-## Power User Features
-
-### Custom Perspectives (Pro)
-- Build complex filters
-- Save for quick access
-- Share with team
-- Automate workflows
+### Review System
+- Built-in weekly review
+- Project review scheduling
+- Review frequency per project
+- Completion tracking
 
 ### Automation
+- Repeating tasks
+- Template projects
+- Automation shortcuts
 - URL schemes
-- Shortcuts integration
-- AppleScript support (Mac)
-- Task templates
+- AppleScript support
 
-### Repeating Tasks
-- Complex recurrence patterns
-- Due vs defer-based
-- Skip occurrences
-- Template-based repeats
+### Sync & Integration
+- OmniSync for cloud sync
+- Siri integration
+- Mail to OmniFocus
+- Calendar integration
+- Third-party app integration
 
-## Sync & Platforms
+## Platform Availability
 
-### Omni Sync Server
-- Free sync service
-- End-to-end encryption
-- Real-time sync
-- Conflict resolution
-
-### Alternative Sync
-- WebDAV support
-- Local network sync
-- Third-party servers
-
-### Platforms
-- macOS (desktop)
-- iPhone
-- iPad
+- macOS desktop app
+- iOS (iPhone and iPad)
 - Apple Watch
-- Web (read-only)
+- Cross-device sync
+
+## Best For
+
+- Serious GTD practitioners
+- Power users needing complexity
+- Mac/iOS ecosystem users
+- People managing many projects
+- Those valuing powerful filtering
 
 ## Pricing
 
-Two options:
-- **Subscription**: All platforms, all updates
-- **One-Time Purchase**: Single platform, major version
-
-Pro features (Perspectives) available in both.
-
-## Learning Curve
-
-### Complexity
-- Steep learning curve
-- Many features to master
-- Requires GTD understanding
-- Investment in setup
-
-### Power
-- Handles any workflow
-- Scales to complex needs
-- Professional-grade
-- Worth the learning
-
-## Ideal For
-
-GTD purists, professionals with complex workflows, Apple ecosystem power users, people managing 100+ active tasks, individuals wanting total control, and those willing to invest time in setup for long-term power.
+Premium pricing with separate purchases for Mac and iOS, or subscription option for all platforms. One-time purchase or subscription available.

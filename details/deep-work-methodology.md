@@ -1,74 +1,99 @@
-## Overview
+## What is Deep Work?
 
-Deep Work is a productivity concept introduced by Cal Newport in his 2016 book. It refers to professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
+Deep Work is a productivity philosophy developed by Cal Newport, defined as "Professional activity performed in a state of distraction-free concentration that push your cognitive capabilities to their limit."
 
-## Deep Work vs Shallow Work
+## Deep Work vs. Shallow Work
 
-### Deep Work Characteristics
-- Requires sustained focus
-- Cognitively demanding
-- Creates significant value
-- Difficult to replicate
-- Builds expertise and skills
-- Examples: Writing, coding, strategic planning, learning new skills
+Newport distinguishes between:
 
-### Shallow Work Characteristics
-- Can be done while distracted
-- Logistical or administrative
-- Easily replicated
-- Limited value creation
-- Examples: Email, meetings, data entry, social media
+### Deep Work
+Cognitively demanding tasks like:
+- Writing
+- Researching
+- Coding
+- Analysis
+- Strategy development
 
-## The Deep Work Formula
+### Shallow Work
+Non-cognitively demanding tasks like:
+- Emails
+- Meetings
+- Admin work
+- Routine tasks
 
-**Deep Work = Time Spent × Intensity of Focus**
+## Time Blocking Method
 
-- More time in deep work = higher quality output
-- Higher intensity of focus = better results
-- Both factors multiply, not add
+Newport's key to daily productivity: **schedule out every minute of your day**.
 
-## Implementation Strategies
+### How to Implement
 
-### 1. Rhythmic Philosophy
-- Establish deep work as daily habit
-- Same time and place each day
-- Makes deep work automatic
+1. **Before work each morning**: Write the hours of the day on lined paper
+2. **Each line represents 30 minutes** of work
+3. **Divide hours into blocks**: Assign specific activities to each block
+4. **Protect deep work blocks**: Guard against interruptions
+5. **Review and adjust**: Modify schedule as needed
 
-### 2. Bimodal Philosophy
-- Dedicate large blocks (days/weeks) to deep work
-- Alternate with periods of shallow work
-- Requires flexibility
+### Why It Works
 
-### 3. Journalistic Philosophy
-- Fit deep work whenever you can
-- Requires discipline and skill
-- Not for beginners
+Newport argues this is the best way to keep yourself focused on "deep work" and fight off the temptation to engage in shallow tasks.
 
-## 2026 Research Findings
+## Four Deep Work Approaches
 
-A 2026 remote work study found that only 51% of work time was spent on deep work, with the remainder on shallow tasks and context switching.
+Newport's framework offers four different strategies:
 
-## Building Deep Work Capacity
+### 1. Monastic
+Maximize deep work by eliminating or radically minimizing shallow obligations.
 
-- Start with 60-90 minute sessions
-- Gradually increase duration
-- Most people max out at 4 hours of deep work per day
-- Requires practice and discipline
-- Quality sleep essential for cognitive capacity
+### 2. Bimodal
+Divide time into clearly defined stretches of deep work and open time.
 
-## Environmental Design
+### 3. Rhythmic
+Establish a regular habit of deep work sessions at set times.
 
-- Eliminate digital distractions
-- Physical space optimized for focus
-- Clear start and end rituals
-- Protect time blocks from interruptions
-- Communicate boundaries to others
+### 4. Journalistic
+Fit deep work into your schedule whenever you have free time (most challenging).
 
-## Benefits
+## Additional Rules
 
-- Dramatically improved productivity
-- Higher quality work output
-- Faster skill development
-- Increased career capital
-- Greater professional satisfaction
-- Competitive advantage in knowledge work
+### Ritualize Deep Work
+- Plan the time, place, and resources beforehand
+- Eliminate all possible distractions
+- Make it easier not to give in to unexpected interruptions
+
+### Shutdown Ritual
+Newport recommends ending your work day by **5:30 PM** with a shutdown ritual:
+- Analyze your progress for the day
+- Plan the following day
+- Completely disconnect from work
+
+### Work Duration
+Schedule deep work in blocks, understanding that:
+- Beginners: 1 hour of deep work can be challenging
+- Experienced: Up to 4 hours of deep work per day is achievable
+- Elite performers: Rarely exceed 4-5 hours
+
+## Benefits of Deep Work
+
+- Produce higher quality work
+- Learn complex skills faster
+- Achieve more in less time
+- Develop expertise in your field
+- Create competitive advantage in knowledge economy
+
+## Tools Supporting Deep Work
+
+- **Time-Block Planner**: Newport's physical planner for daily scheduling
+- **Reclaim.ai**: AI-powered focus time protection
+- **Clockwise** (now joining Salesforce): Calendar optimization
+- **Forest App**: Digital distraction blocker
+
+## Cal Newport's Personal Practice
+
+Newport schedules every minute of his day, including:
+- Sleep time
+- Going to bed
+- Free time (which he considers critical)
+- All work activities
+- Personal time
+
+His calendar is color-coordinated for visual clarity.
