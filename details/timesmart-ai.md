@@ -1,93 +1,74 @@
 ## Overview
 
-TimeSmart AI is revolutionizing physician time tracking by providing a solution that allows providers to log time in seconds while giving finance and operations teams total visibility into physician spend, time allocation, and return on investment.
+TimeSmart AI is a specialized time tracking solution designed specifically for healthcare organizations and physician time tracking, addressing the evolving challenges of medical staff management in 2026.
+
+## 2026 Healthcare Time Tracking Trends
+
+In 2026, the narrative around physician time tracking is changing. Forward-thinking healthcare organizations recognize that modern time tracking solves two critical problems simultaneously:
+
+1. **Retention Strategy**: Helps retain medical staff by providing visibility into workload and preventing burnout
+2. **Financial Strategy**: Validates ROI on massive investments in physician leadership for the C-suite
 
 ## Key Features
 
-### Rapid Time Capture
-- **Seconds to log**: Physicians can record time entries in just a few seconds
-- **Mobile-optimized**: Quick entry from smartphones between patient encounters
-- **Voice-enabled**: Voice-to-text for hands-free time logging
-- **Smart templates**: Pre-configured activity categories for common tasks
-- **Calendar integration**: Auto-suggest entries based on scheduled activities
+### Physician-Specific Tracking
+- Track administrative hours vs clinical hours
+- Leadership time allocation monitoring
+- Academic and teaching time documentation
+- Research time logging
 
-### AI-Powered Intelligence
-- **Pattern recognition**: Learn physician routines and suggest likely activities
-- **Anomaly detection**: Flag unusual time allocation patterns
-- **Predictive analytics**: Forecast future time needs based on historical data
-- **Smart categorization**: Automatically categorize activities by type
-
-### Financial Analytics
-- **ROI tracking**: Validate return on investment for physician leadership roles
-- **Service line attribution**: Accurately allocate physician costs across departments
-- **Grant compliance**: Track time for research grants and funding requirements
-- **Budget optimization**: Identify opportunities to reallocate physician time
-- **Cost center analysis**: Detailed breakdowns of physician time by cost center
-
-### Activity Categories
-- Clinical care (patient encounters)
-- Administrative duties
-- Research activities
-- Teaching and education
-- Committee work
-- Leadership responsibilities
-- Quality improvement projects
-- Community service
+### ROI Validation
+- CFO-level reporting on physician leadership investment
+- Administrative hours impact on clinical outcomes
+- Fair Market Value (FMV) alignment tracking
+- Financial performance analytics
 
 ### Compliance & Reporting
-- **Academic requirements**: Track teaching and research for academic medical centers
-- **Grant reporting**: Generate reports for NIH and other funding agencies
-- **ACGME compliance**: Monitor duty hours for training programs
-- **State regulations**: Ensure compliance with state-specific requirements
-- **Custom reports**: Build reports for specific organizational needs
+- HIPAA-compliant time tracking
+- Regulatory requirement adherence
+- Audit-ready documentation
+- Multi-jurisdiction labor law compliance
 
-## Benefits for Healthcare Organizations
+### Healthcare-Specific Capabilities
+- 24/7 shift rotation support
+- On-call time tracking
+- Multiple location tracking
+- Department and specialty-based reporting
 
-### For Finance Leadership
-- Convert vague "administrative blocks" into granular financial data
-- Accurately attribute physician costs across service lines
-- Validate ROI on physician leadership investments
-- Identify cost optimization opportunities
-- Support strategic planning with accurate time data
+## 2026 Use Cases
 
-### For Physician Leaders
-- Demonstrate value of leadership time investment
-- Justify administrative FTE allocations
-- Balance clinical and non-clinical responsibilities
-- Track time for academic promotion requirements
-- Report grant-funded activities accurately
+### C-Suite Financial Analysis
+CFOs use time tracking data to validate whether:
+- Administrative hours drive clinical outcomes
+- Physician leadership spending aligns with Fair Market Value
+- Investment in physician leadership shows measurable ROI
 
-### For Individual Physicians
-- Minimal time burden (seconds to log)
-- Visibility into own time allocation
-- Support for academic advancement
-- Fair compensation for all activities
-- Work-life balance insights
+### Retention & Well-being
+- Monitor physician workload to prevent burnout
+- Identify unsustainable schedules
+- Support work-life balance initiatives
+- Demonstrate organizational commitment to staff wellness
 
-## Integration
+## Best For
 
-- Electronic health records (Epic, Cerner, etc.)
-- Scheduling systems (QGenda, Lightning Bolt)
-- Payroll and compensation systems
-- Financial planning systems
-- Research grant management
-- Microsoft 365 and Google Workspace calendars
+- Hospital systems and medical centers
+- Academic medical institutions
+- Large physician groups
+- Healthcare organizations with physician leaders
+- CFOs seeking leadership ROI validation
 
-## Use Cases
+## Platform Features
 
-- Academic medical centers tracking teaching and research
-- Hospital systems validating physician leadership ROI
-- Research institutions managing grant compliance
-- Department chairs balancing faculty time allocation
-- CMOs monitoring administrative vs. clinical time
-- Physician compensation committees ensuring fair pay
+- Mobile and web access
+- Integration with EMR/EHR systems
+- Multi-location support
+- Real-time reporting
+- Customizable tracking categories
 
-## Pricing
+## Key Differentiators
 
-TimeSmart AI offers flexible pricing:
-- Based on number of physicians
-- Tiered by feature requirements
-- Annual or multi-year contracts
-- Implementation and training included
-
-Contact TimeSmart AI for customized pricing and demonstration.
+- Purpose-built for physician time tracking
+- Addresses 2026 healthcare trends
+- Dual focus on retention and financial performance
+- HIPAA compliance built-in
+- Healthcare-specific reporting and analytics

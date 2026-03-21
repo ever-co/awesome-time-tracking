@@ -1,87 +1,144 @@
 ## Overview
 
-Workyard is a comprehensive GPS time tracking and workforce management platform built specifically for construction companies and field service businesses. It combines employee time tracking with job costing, scheduling, and project management.
+Workyard is the best GPS time clock for construction crews, providing continuous GPS tracking that captures every minute worked with full visibility into locations, mileage, and travel time. The platform leverages data from over 50,000 construction workers to optimize field operations.
 
 ## Key Features
 
 ### GPS Time Tracking
-- Automatic GPS tracking when employees clock in/out
-- Geofencing capabilities to verify employees are at correct job sites
-- Real-time location tracking breadcrumb trail
-- Offline time tracking that syncs when connection is restored
 
-### Job Costing
-- Track labor costs by project, phase, and cost code
-- Real-time project cost monitoring
-- Compare estimated vs actual labor costs
-- Identify profitable and unprofitable jobs
-- Integration with accounting software for seamless data transfer
+**Continuous GPS Monitoring**:
+- Captures every minute worked with location data
+- Full visibility into crew locations throughout the day
+- Breadcrumb trail creation during shifts
+- Real-time location tracking
 
-### Automated Timesheets
-- GPS-verified time entries
-- Automatic calculation of hours worked
-- Overtime tracking
-- Break time management
-- Reduce timesheet errors by up to 75%
+**Jobsite Verification**:
+- Geofencing for designated work areas
+- Employees can only clock in/out within job boundaries
+- Automatic location stamping at clock-in
+- Prevents buddy punching and time theft
 
-### Certified Payroll
-- Compliant certified payroll reports for government projects
-- Davis-Bacon wage rate management
-- Prevailing wage calculations
-- Digital signature capture
+### Mileage & Travel Time
 
-## Construction-Specific Features
+**Automatic Mileage Tracking**:
+- Continuous mileage monitoring
+- Travel time between jobsites
+- Route visualization
+- IRS-compliant mileage reporting
+- Fuel cost calculations
 
-### Equipment Tracking
-- Track equipment usage and location
-- Monitor equipment hours for maintenance scheduling
-- Assign equipment to specific jobs
+**Travel Time Management**:
+- Separate tracking of productive vs travel time
+- Multi-site workday support
+- Route optimization insights
 
-### Photo Documentation
-- Timestamp and GPS-stamped job site photos
-- Visual documentation of work completed
-- Store photos by project
+## 2026 Construction Technology
 
-### Scheduling
-- Drag-and-drop crew scheduling
-- Assign workers to multiple job sites
-- Mobile schedule access for field teams
-- Schedule changes notify affected employees
+### Modern Capabilities
+- **Biometric facial verification** reliable in field conditions
+- **Dramatically improved GPS accuracy**
+- **True offline tracking** as standard (not premium)
+- **Real-time project tracking** integrated with time tracking
 
-## Mobile App
+### Field-Ready Features
+- Works in areas with poor connectivity
+- Rugged mobile app design
+- Weather-resistant time capture
+- Construction site optimized UI
 
-- iOS and Android apps for field workers
-- Clock in/out with GPS verification
-- View schedules and job details
-- Upload job site photos
-- Works offline without internet connection
+## Job Costing & Project Management
 
-## Integrations
+### Time to Project Allocation
+- Tag hours to specific jobs
+- Cost code assignment
+- Labor cost tracking by project
+- Real-time budget monitoring
 
-- QuickBooks Desktop and Online
-- Sage 100 and 300
-- Foundation
-- Acumatica
-- Other major construction accounting software
+### Reporting & Analytics
+- Labor cost per project
+- Crew productivity metrics
+- Overtime analysis
+- Job profitability tracking
+- Payroll-ready timesheets
 
-## Benefits
+## Mobile-First Design
 
-- Cut labor costs by up to 32% in first year
-- Eliminate buddy punching with GPS verification
-- Reduce payroll processing time by 75%
-- Improve project profitability through accurate job costing
-- Ensure compliance with certified payroll requirements
+### Mobile App Features
+- Easy clock in/out from job sites
+- Photo documentation
+- Digital forms and checklists
+- Push notifications
+- Offline capability with auto-sync
+
+### Manager Dashboard
+- Live crew location viewing
+- Real-time attendance
+- Jobsite assignment
+- Daily activity summaries
+- Exception alerts
+
+## Integration & Compatibility
+
+### Payroll Integration
+- QuickBooks sync
+- ADP compatibility
+- Gusto integration
+- Other major payroll systems
+- Automated timesheet export
+
+### Accounting Software
+- Project cost export
+- Labor burden calculation
+- Certified payroll reports
+- WIP (Work in Progress) tracking
+
+## Construction-Specific Benefits
+
+### Time Theft Prevention
+- GPS verification eliminates false clock-ins
+- Geofencing ensures on-site presence
+- Photo verification options
+- Buddy punching prevention
+
+### Compliance & Documentation
+- Certified payroll requirements
+- Prevailing wage tracking
+- Union compliance
+- DOT hours tracking
+- OSHA documentation support
+
+### Project Profitability
+- Real-time labor cost visibility
+- Budget vs actual comparison
+- Crew efficiency metrics
+- Equipment time tracking
+- Job costing accuracy
+
+## Industry Coverage
+
+- **Construction**: General contractors, specialty trades
+- **Field Service**: HVAC, plumbing, electrical
+- **Landscaping**: Lawn care, tree service
+- **Roofing**: Commercial and residential
+- **Concrete**: Flatwork and foundations
+- **Any Mobile Workforce**: Field-based operations
+
+## Best For
+
+- Construction contractors of all sizes
+- Multi-crew operations
+- Field service companies
+- Mobile workforce management
+- Companies with multiple job sites
+- Contractors needing GPS verification
+
+## Platform Data
+
+- **User Base**: 50,000+ construction workers
+- **Proven Track Record**: Extensive field testing
+- **Industry Focus**: Purpose-built for construction
+- **Regular Updates**: Continuous feature improvements
 
 ## Pricing
 
-Contact Workyard for pricing based on company size and features needed. Typically ranges from $8-15 per user per month.
-
-## Industries Served
-
-- Commercial construction
-- Residential construction
-- Landscaping
-- Electrical contractors
-- Plumbing contractors
-- HVAC companies
-- Field service businesses
+Workyard offers tiered pricing based on crew size and features. Contact for construction-specific pricing and demos.
