@@ -1,72 +1,52 @@
 ## Overview
 
-The Planning Fallacy is a cognitive bias discovered by Daniel Kahneman and Amos Tversky where people systematically underestimate the time needed to complete tasks, even when they have extensive experience with similar tasks taking longer.
+The Planning Fallacy is a cognitive bias in which people underestimate the time, costs, and risks of future actions while overestimating the benefits. This phenomenon was first proposed by Daniel Kahneman and Amos Tversky in 1979 and is closely related to Hofstadter's Law.
 
-## The Phenomenon
+## Key Characteristics
 
-We predict task completion based on:
-- **Best-case scenarios**
-- **Ideal conditions**
-- **No interruptions**
-- **Everything going right**
+- Persistent tendency to underestimate task completion time
+- Occurs even when people have experience with similar tasks
+- Affects individuals and teams alike
+- Strengthens with optimism bias and wishful thinking
+- Often leads to missed deadlines and budget overruns
 
-But reality includes:
-- Interruptions and distractions
-- Unexpected complications
-- Dependencies on others
-- Hidden complexity
-- Competing priorities
+## Causes
 
-## Why It Happens
+- **Optimism Bias**: Overly optimistic about one's own abilities
+- **Outside View Neglect**: Ignoring historical data from similar projects
+- **Singular Focus**: Focusing on best-case scenarios
+- **Motivation**: Desire to please stakeholders with shorter timelines
+- **Lack of Detail**: Not breaking down tasks sufficiently
 
-**Optimism Bias:**
-Natural tendency to expect positive outcomes.
+## Impact on Time Tracking
 
-**Inside View:**
-Focus on specific plan ignoring statistical base rates.
+- Leads to inaccurate time estimates in project planning
+- Causes chronic underestimation of task duration
+- Results in overcommitment and deadline pressure
+- Affects resource allocation and capacity planning
+- Creates unrealistic client expectations
 
-**Anchoring:**
-Initial estimate anchors all subsequent thinking.
+## Mitigation Strategies
 
-**Motivated Reasoning:**
-Wanting task to take less time influences estimate.
+- **Reference Class Forecasting**: Use historical data from similar projects
+- **Break Down Tasks**: Divide large projects into smaller components
+- **Track Actuals**: Compare estimated vs actual time consistently
+- **Add Buffers**: Build contingency time into estimates
+- **Seek Outside View**: Get estimates from uninvolved parties
+- **Use Data**: Leverage time tracking data for evidence-based estimation
 
-**Availability Bias:**
-Recent quick completions more mentally available than typical delays.
+## Role of Time Tracking Software
 
-## Consequences
+Time tracking tools help combat the Planning Fallacy by:
+- Providing historical data on actual task duration
+- Revealing patterns in estimation errors
+- Enabling data-driven estimation
+- Supporting continuous improvement in planning accuracy
 
-- Chronic schedule overruns
-- Missed deadlines
-- Overcommitment
-- Stress and burnout
-- Damaged credibility
-- Rushed, lower-quality work
+## Related Concepts
 
-## Combating Planning Fallacy
-
-**Reference Class Forecasting:**
-Look at similar past projects, not idealized plans.
-
-**Add Buffer Time:**
-Multiply estimates by 1.5-2x based on historical data.
-
-**Break Down Tasks:**
-Estimate smaller components (harder to be optimistic about details).
-
-**Track Actual Time:**
-Compare estimates to reality to calibrate future estimates.
-
-**Assume Interruptions:**
-Plan for typical disruptions, not perfect conditions.
-
-**Outside View:**
-Ask others for estimates based on similar work.
-
-## Improvement Strategies
-
-- Keep estimate vs actual log
-- Review past project timelines
-- Build in contingency time
-- Use historical data for similar tasks
-- Get input from experienced team members
+- Hofstadter's Law
+- Optimism Bias
+- Student Syndrome
+- Parkinson's Law
+- Scope Creep

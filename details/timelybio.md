@@ -1,85 +1,43 @@
 ## Overview
 
-timely.bio is a mobile-first attendance and time tracking application that leverages facial recognition technology to provide contactless, accurate employee attendance marking. The system combines biometric verification with GPS geofencing to ensure employees are both who they claim to be and where they should be.
+Timely.bio is an AI-powered face recognition attendance system that provides contactless biometric time tracking with real-time verification and advanced anti-spoofing technology for modern workplaces.
 
-## Key Features
+## Features
 
-### Facial Recognition Technology
-
-- **Contactless Attendance**: Mark attendance without touching shared devices
-- **Liveness Detection**: AI verifies that a real person is present (prevents photo spoofing)
-- **Fast Recognition**: Instant identity verification in under 2 seconds
-- **Works in Various Conditions**: Functions in different lighting and with accessories
-- **Mask Detection**: Can identify employees wearing face masks
-
-### GPS & Geofencing
-
-- **Location Verification**: Verify employee location instantly with GPS geofencing
-- **Authorized Zones**: Set up multiple allowed check-in locations
-- **Distance Tracking**: Ensure employees are within specified radius of work site
-- **Location History**: Track where attendance was marked
-
-### Mobile Application
-
-- **iOS and Android Support**: Available on all major mobile platforms
-- **Offline Capability**: Capture attendance even without internet connection
-- **Simple Interface**: Easy-to-use one-tap attendance marking
-- **Push Notifications**: Remind employees to mark attendance
-
-### Security & Privacy
-
-- **Encrypted Data**: All biometric data is encrypted
-- **Privacy Compliant**: GDPR and privacy regulation compliant
-- **Secure Storage**: Facial data stored securely in cloud
-- **Access Controls**: Role-based access to attendance data
+- **AI Face Recognition**: Advanced facial recognition for accurate employee identification
+- **Anti-Spoofing Technology**: Prevents fraud attempts using photos or videos
+- **Contactless Check-In**: Touchless attendance tracking for health and safety
+- **Real-Time Verification**: Instant identity verification at clock-in
+- **Multi-Device Support**: Works on tablets, kiosks, and mobile devices
+- **Cloud Integration**: Syncs attendance data to cloud-based systems
+- **Offline Capability**: Continues functioning without internet connection
+- **Temperature Screening**: Optional integration with thermal cameras
+- **Mask Detection**: Can identify individuals even when wearing masks
+- **Attendance Reports**: Automated reporting and analytics
+- **GPS Integration**: Can combine facial recognition with location verification
+- **API Access**: Integrate with existing HR and payroll systems
 
 ## Use Cases
 
-### Field Workforce
-
-- Sales teams visiting client locations
-- Service technicians at customer sites
-- Construction workers at job sites
-- Healthcare workers doing home visits
-
-### Office Environments
-
-- Touchless attendance post-pandemic
-- Hot-desking and flexible workspaces
-- Multi-location companies
-- Hybrid work models
-
-### Distributed Teams
-
-- Remote workers checking in from home
-- Employees at co-working spaces
-- Traveling staff
+- Office buildings requiring contactless entry
+- Manufacturing facilities with shift workers
+- Healthcare facilities needing hygiene-focused solutions
+- Retail stores with multiple locations
+- Educational institutions for student attendance
+- Construction sites with safety requirements
 
 ## Benefits
 
-- **Fraud Prevention**: Eliminates buddy punching and proxy attendance
-- **Hygiene**: Contactless solution reduces disease transmission risk
-- **Accuracy**: Precise location and identity verification
-- **Convenience**: No cards or badges to carry or forget
-- **Real-Time**: Instant attendance visibility for managers
-- **Audit Trail**: Complete record of who, when, and where
+- Eliminates buddy punching completely
+- Improves health safety with contactless operation
+- Reduces time theft and attendance fraud
+- Saves administrative time with automated records
+- Provides audit trail for compliance
 
-## Admin Features
+## Technology
 
-- **Dashboard**: Real-time attendance overview
-- **Reporting**: Comprehensive attendance reports and analytics
-- **Shift Management**: Define shifts and schedules
-- **Leave Management**: Track time off and absences
-- **Export Data**: Export to payroll and HR systems
-- **Multi-Location Support**: Manage attendance across multiple sites
-
-## Integration
-
-- Integrates with payroll systems
-- HR management software compatibility
-- API access for custom integrations
-- Export to Excel and other formats
+Utilizes advanced AI algorithms to recognize faces in various conditions including different angles, lighting, and with face coverings.
 
 ## Pricing
 
-timely.bio offers subscription-based pricing typically charged per employee per month, with different tiers based on features and organization size.
+Contact vendor for pricing based on number of employees and hardware requirements.

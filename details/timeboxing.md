@@ -1,50 +1,75 @@
 ## Overview
 
-Timeboxing is a productivity technique that involves allocating fixed time slots to tasks, helping individuals minimize distractions, prioritize effectively, and avoid burnout. At its core, timeboxing means assigning a fixed, predetermined amount of time to a task — and sticking to it.
-
-## How It Works
-
-1. Choose a task to work on
-2. Set a fixed time limit (the timebox)
-3. Work on the task until the time expires
-4. Stop when time is up, regardless of completion status
-5. Review progress and schedule next timebox if needed
+Timeboxing is a scheduling method where a fixed maximum time is allocated to an activity or task in advance, and that activity must be completed within the defined time frame. Originally designed for Agile software development (particularly Scrum), timeboxing has evolved into a versatile productivity tool applicable across various fields.
 
 ## Key Principles
 
-- **Fixed Duration**: Time limits are firm, not flexible
-- **Single Focus**: One task per timebox
-- **Hard Stops**: Stop when time expires
-- **No Extensions**: Prevents perfectionism and scope creep
-- **Iterative**: Incomplete tasks get new timeboxes
+- Set a specific, predetermined time limit for each task
+- Work must fit within the allocated timebox
+- Stop when time expires, regardless of completion status
+- Review results and adjust approach for next timebox
+- Combine timeboxes into larger planning horizons
 
-## Research & Effectiveness
+## Origins
 
-In a 2018 Harvard Business Review article, Marc Zao-Sanders reported that timeboxing ranked as the most useful technique in a survey of 100 productivity methods.
+- Initially designed to improve efficiency in project management
+- Rooted in software development, particularly Agile and Scrum methodologies
+- Has since evolved into versatile productivity tool for various fields
 
-Cal Newport stated that a 40-hour time-blocked work week produces the same output as a 60+ hour work week pursued without structure.
+## How It Differs from Time Blocking
+
+**Time Blocking**: Reserves time on calendar for specific activities
+
+**Timeboxing**: Adds a hard deadline - task must be completed within the allocated time
+
+Timeboxing is a work/break cycle (e.g., 25m work/5m break in Pomodoro), while time blocking is scheduling blocks on calendar.
 
 ## Benefits
 
-- Prevents tasks from expanding indefinitely (Parkinson's Law)
-- Creates healthy constraints that boost creativity
-- Improves focus by setting clear boundaries
-- Reduces decision fatigue
-- Provides realistic view of available time
-- Prevents burnout through built-in limits
+- Prevents perfectionism and over-engineering
+- Encourages focus and urgency
+- Combats Parkinson's Law (work expanding to fill time)
+- Improves time estimation skills
+- Creates clear stopping points
+- Reduces scope creep
 
-## Best Practices (2026)
+## Common Timeboxing Methods
 
-- Never schedule boxes back-to-back
-- Always leave 15 minutes for context switching
-- Combine with Pomodoro for micro-timeboxing
-- Use apps like Motion, Notion, or Sunsama for digital timeboxing
-- Review and adjust timeboxes based on actual completion times
+**Pomodoro Technique**: 25-minute work blocks with 5-minute breaks
 
-## Common Timeboxes
+**52/17 Rule**: 52 minutes of work, 17 minutes of break
 
-- 25 minutes (Pomodoro)
-- 50 minutes (focus session)
-- 90 minutes (deep work block)
-- 2 hours (project milestone)
-- 4 hours (major deliverable)
+**Sprint Planning**: 2-week timeboxes in Agile development
+
+**Meetings**: Strict 25 or 50-minute meeting timeboxes
+
+## Applications
+
+- Software development sprints (1-4 week timeboxes)
+- Daily standup meetings (15-minute timeboxes)
+- Email processing (30-minute timeboxes)
+- Creative work (90-minute timeboxes)
+- Administrative tasks (pomodoro timeboxes)
+
+## Tools Supporting Timeboxing
+
+- Motion, Notion, and Sunsama for digital timeboxing
+- Pomodoro timer apps for micro-timeboxing
+- Project management tools with sprint planning
+- Calendar apps for meeting timeboxes
+
+## Best Practices
+
+- Be realistic about what fits in a timebox
+- Build in buffer time between timeboxes
+- Use shorter timeboxes for uncertain tasks
+- Review and adjust timebox duration based on results
+- Combine with time blocking for comprehensive scheduling
+
+## Related Concepts
+
+- Time Blocking
+- Pomodoro Technique
+- Parkinson's Law
+- Sprint Planning
+- Agile Methodology

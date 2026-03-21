@@ -1,50 +1,62 @@
 ## Overview
 
-Paul Graham's essay "Maker's Schedule, Manager's Schedule" describes two fundamentally different ways of using time. Understanding the distinction helps knowledge workers protect their productivity.
+Paul Graham's essay 'Maker's Schedule, Manager's Schedule' distinguishes between two fundamentally different ways of using time. Makers (programmers, writers, designers) need long, uninterrupted blocks for creative work, while managers operate in hour-long appointment blocks throughout their day.
 
-## Manager's Schedule
+## The Two Schedules
 
-- Day divided into one-hour intervals
-- Default mode for bosses and executives
-- Meetings scattered throughout day
-- Context switching between topics
-- Interruptions are expected and manageable
-- Each hour can be allocated independently
+### Manager's Schedule
+- Day divided into one-hour blocks
+- Switch between different activities frequently
+- Meetings are the default mode of work
+- Flexibility to change tasks every hour
+- Well-suited for coordination and decision-making
 
-## Maker's Schedule
-
-- Day divided into half-day or full-day blocks
-- Needed for programmers, writers, designers
-- Single meeting can disrupt entire afternoon
-- Deep work requires uninterrupted time
-- Context switching is costly
-- Momentum and flow are critical
+### Maker's Schedule
+- Needs blocks of at least half a day
+- Single meeting can fragment entire day
+- Prefer long uninterrupted stretches
+- Context switching is extremely costly
+- Best for programming, writing, designing
 
 ## The Conflict
 
-Problems arise when people on different schedules interact. A manager might schedule a one-hour meeting at 2pm, not realizing it effectively destroys the entire afternoon for someone on a maker's schedule.
+A single one-hour meeting can blow an entire afternoon for a maker, because they need time to ramp up into deep focus before and after. What seems like a small interruption to a manager can destroy a maker's entire productive window.
 
-## Protecting Maker Time
+## Solutions for Mixed Teams
 
-**Hold Office Hours:**
-Designate specific times for meetings and interruptions.
+**Office Hours**: Makers batch meetings into specific times
 
-**Batch Meetings:**
-Schedule all meetings on specific days or times.
+**No-Meeting Days**: Dedicate certain days for maker work
 
-**Block Morning/Afternoon:**
-Protect at least one half-day block for deep work.
+**Meeting Blocks**: Schedule all meetings together
 
-**Communicate Needs:**
-Explain maker schedule requirements to managers.
+**Async Communication**: Use written updates instead of meetings
 
-**Use Buffer Time:**
-Schedule transition time before and after meetings.
+**Core Hours**: Protect morning hours for maker work
 
-## Benefits of Understanding
+## Time Tracking Implications
 
-- Better scheduling decisions
-- Improved productivity for makers
-- More respectful collaboration
-- Clearer communication about time needs
-- Reduced frustration on both sides
+- Track maker time vs manager time separately
+- Measure cost of context switching
+- Monitor meeting impact on productive output
+- Analyze optimal maker block duration
+- Identify and protect maker time
+
+## Applications in Modern Work
+
+- Software development teams need maker time for coding
+- Writers and designers require uninterrupted creative blocks
+- Researchers benefit from extended focus periods
+- Hybrid roles need to balance both schedule types
+
+## 2026 Relevance
+
+With remote work and async collaboration, protecting maker time has become both easier (fewer interruptions) and harder (always-on culture, Slack notifications).
+
+## Related Concepts
+
+- Deep Work
+- Time Blocking
+- Context Switching
+- Flow State
+- Meeting Recovery Syndrome

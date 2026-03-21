@@ -1,38 +1,39 @@
 ## Overview
 
-Factorial is an all-in-one HR software platform that combines time tracking, attendance management, and comprehensive HR tools in a single system. The platform supports biometric time clocks and provides full workforce management capabilities.
+Factorial is an all-in-one HR software platform that combines time tracking, attendance management, payroll, document management, and employee self-service capabilities designed for small and medium businesses, particularly popular in Europe and Latin America.
 
-## Time & Attendance Features
+## Features
 
-- **Biometric Time Clocks**: Support for fingerprint and facial recognition time tracking
-- **Mobile Time Tracking**: Clock in/out from mobile devices with GPS verification
-- **Shift Scheduling**: Create and manage employee schedules
-- **Time Off Management**: Track PTO, vacation, and sick leave with approval workflows
-- **Attendance Reports**: Comprehensive reporting on hours worked, absences, and overtime
-- **Multiple Clock-In Methods**: Support for web, mobile, kiosk, and biometric devices
-- **Geofencing**: Location-based restrictions for clock-in/out
-- **Overtime Tracking**: Automatic calculation of overtime hours
+- **Time & Attendance**: Digital time clock with multiple check-in methods
+- **Leave Management**: PTO, vacation, and sick leave tracking
+- **Payroll**: Automated payroll processing and compliance
+- **Document Management**: Digital storage for employee documents
+- **Employee Self-Service**: Portal for employees to manage their own data
+- **Recruitment**: Applicant tracking and hiring workflows
+- **Performance Reviews**: 360-degree performance management
+- **Org Charts**: Visual organization structure
+- **Reports & Analytics**: HR metrics and insights dashboards
+- **Mobile Apps**: iOS and Android for on-the-go access
+- **Integrations**: Connect with accounting and productivity tools
+- **Multi-Country Support**: Compliance for multiple countries
 
-## Additional HR Capabilities
+## Time Tracking Capabilities
 
-- Employee database and information management
-- Payroll integration with time data
-- Performance management with goal setting and reviews
-- Recruitment and applicant tracking
-- Document management for HR files
-- Onboarding workflows for new employees
-- Company portal and internal communication
-- HR analytics and reporting
+- Biometric time tracking options
+- Geolocation for field workers
+- Project time allocation
+- Shift scheduling
+- Break tracking
+- Overtime calculations
 
-## Benefits
+## Target Market
 
-- Eliminates buddy punching with biometric verification
-- Reduces HR administrative workload by up to 80%
-- Centralizes all HR functions in one platform
-- Improves compliance with labor laws and regulations
-- Provides real-time visibility into attendance and hours
-- Streamlines payroll processing with accurate time data
+Small to medium-sized businesses (10-500 employees) in Europe and Latin America looking for comprehensive HR management.
+
+## Geographic Focus
+
+Particularly strong in Spain, Mexico, Brazil, and other European and Latin American markets with localized compliance features.
 
 ## Pricing
 
-Factorial offers tiered pricing based on number of employees and features. Free trial available for 14 days.
+Tiered pricing starting around €3-8 per employee per month depending on features and region.

@@ -1,49 +1,41 @@
 ## Overview
 
-SmartBarrel is a comprehensive construction management platform that combines time tracking, job costing, equipment management, and project tracking specifically designed for construction contractors. It helps construction companies track labor costs in real-time, monitor project profitability, and streamline field-to-office workflows.
+SmartBarrel is a construction-focused time tracking software that combines precise GPS geofencing with AI facial verification to verify both employee location data and identity with every clock-in. The platform is specifically designed for field crews, contractors, and construction companies.
 
-## Key Features
+## Features
 
-### Time Tracking for Construction
-- Mobile time clock for field workers
-- Job and cost code tracking
-- Equipment time tracking
-- GPS location verification
-- Offline mode for remote job sites
-- Photo time stamps
-- Break tracking and compliance
+- **GPS Geofencing**: Define job site boundaries for location-based clock-ins
+- **AI Facial Verification**: Biometric identity verification at each clock-in/out
+- **Dual Verification**: Combines location + identity in single verification
+- **Mobile Time Clock**: iOS and Android apps for field workers
+- **Offline Mode**: Tracks time even without cellular connection
+- **Job Costing**: Track labor costs by project and phase
+- **Equipment Tracking**: Monitor equipment usage and hours
+- **Photo Documentation**: Capture job site photos at clock-in
+- **Weather Tracking**: Automatic weather condition logging
+- **Certified Payroll**: Generate certified payroll reports
+- **Break Tracking**: Automated break compliance tracking
+- **Mileage Tracking**: Track travel between job sites
+- **Integration**: Connects with accounting and payroll systems
+- **Reporting**: Real-time labor cost and productivity reports
 
-### Job Costing
-- Real-time labor cost tracking
-- Budget vs actual comparison
-- Cost code allocation
-- Equipment cost tracking
-- Material cost management
-- Profitability analysis by job
+## Benefits for Construction
 
-### Project Management
-- Schedule management
-- Daily field reports
-- Punch lists
-- Document management
-- RFI tracking
-- Change order management
+- Eliminates buddy punching with facial recognition
+- Ensures workers are on correct job sites with geofencing
+- Reduces time theft and payroll errors
+- Simplifies certified payroll compliance
+- Tracks actual labor costs per project in real-time
+- Works in remote areas with offline capability
 
-### Equipment Management
-- Equipment time tracking
-- Maintenance scheduling
-- Utilization rates
-- Cost allocation to jobs
+## Target Market
 
-## Benefits
+General contractors, specialty contractors, field service companies, construction crews, and any business with mobile workers who need location and identity verification.
 
-- Accurate job costing for better bidding
-- Real-time project profitability visibility
-- Reduced administrative time
-- Improved accountability in the field
-- Certified payroll support
-- Integration with construction accounting software
+## Technology
 
-## Ideal For
+Combines GPS location tracking with advanced AI facial recognition to create a comprehensive verification system that works in harsh outdoor construction environments.
 
-General contractors, specialty trade contractors, construction project managers, and construction companies needing integrated time and cost tracking.
+## Pricing
+
+Contact vendor for pricing based on crew size and feature requirements.
