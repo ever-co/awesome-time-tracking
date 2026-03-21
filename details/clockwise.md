@@ -1,50 +1,60 @@
 ## Overview
 
-Clockwise is an AI-powered calendar management platform that automatically reorganizes meetings to create longer blocks of uninterrupted focus time. It works across team calendars to find optimal meeting times that maximize everyone's productivity.
+Clockwise is an AI-powered time management and scheduling platform that automatically optimizes calendars to create more Focus Time, reduce meeting conflicts, and help teams collaborate more efficiently through intelligent scheduling algorithms.
 
-## Key Features
+## Core Features
 
-- **Focus Time Creation**: AI moves flexible meetings to create focus blocks
-- **Team Coordination**: Optimizes across multiple team member calendars
-- **Flexible Meetings**: Marks which meetings can be moved
-- **Auto-Rescheduling**: Continuously optimizes as schedules change
-- **Meeting Analytics**: Insights into meeting time and focus time
-- **Slack Integration**: Calendar updates through Slack
-- **Time Zone Intelligence**: Handles distributed teams
-- **Calendar Sync**: Works with Google Calendar and Microsoft Outlook
+### AI Calendar Optimization
+- Automatically moves flexible meetings to create blocks of uninterrupted focus time
+- Uses machine learning to learn scheduling preferences and patterns
+- Continuously analyzes and adjusts calendars in real-time
+- Respects meeting priorities and constraints
 
-## How It Works
+### Focus Time Protection
+- Identifies and defends time blocks for deep work
+- Automatically declines or reschedules conflicting meetings
+- Creates "no meeting" windows during peak productivity hours
+- Syncs focus time across team calendars to prevent interruptions
 
-1. **Connect Calendar**: Link your Google or Microsoft calendar
-2. **Mark Flexibility**: Indicate which meetings are flexible
-3. **AI Optimization**: Clockwise rearranges to create focus time
-4. **Continuous Adjustment**: Re-optimizes as schedules change
-5. **Team Benefits**: Everyone gets more focus time
+### Smart Meeting Scheduling
+- Finds optimal meeting times that minimize disruption
+- Considers time zones for distributed teams
+- Respects working hours and personal preferences
+- Reduces scheduling back-and-forth
 
-## Focus Time Protection
+### Team Collaboration
+- Provides visibility into team availability
+- Coordinates schedules across departments
+- Identifies best times for group meetings
+- Balances individual focus time with collaboration needs
 
-- Automatically blocks focus time on calendar
-- Defends these blocks from new meeting requests
-- Moves flexible meetings away from focus blocks
-- Creates longer stretches of uninterrupted time
-- Syncs focus time across team
+## AI Algorithms for Time Management
+
+Clockwise employs sophisticated AI algorithms including:
+- Predictive scheduling based on historical patterns
+- Multi-constraint optimization for complex calendars
+- Machine learning for personalized preferences
+- Real-time adaptation to schedule changes
 
 ## Benefits
 
-- **More Focus Time**: Average 20% increase in uninterrupted blocks
-- **Reduced Meeting Overload**: Consolidates meetings efficiently
-- **Better Team Coordination**: Everyone's needs considered
-- **Less Manual Scheduling**: Automation handles optimization
-- **Improved Productivity**: More deep work time available
+- Average of 3-5 hours per week saved through automated scheduling
+- Increased focus time for deep work
+- Reduced meeting fatigue and calendar fragmentation
+- Better work-life balance through smart boundary management
+- Improved team coordination and collaboration
 
-## Target Audience
+## Integration
 
-- Teams with heavy meeting schedules
-- Distributed teams across time zones
-- Knowledge workers needing focus time
-- Managers coordinating multiple calendars
-- Companies prioritizing deep work
+- Works with Google Calendar and Microsoft Outlook
+- Integrates with Slack for status updates
+- Connects with Asana, Notion, and other productivity tools
+- API available for custom integrations
 
 ## Pricing
 
-Offers free tier with basic features and paid plans for teams with advanced optimization and analytics.
+Offers free tier with basic features, with paid plans providing advanced AI optimization, team features, and unlimited focus time protection.
+
+## 2026 Context
+
+As one of the leading AI scheduling tools mentioned in 2026 reviews, Clockwise continues to pioneer the use of machine learning algorithms for calendar optimization and time management automation.

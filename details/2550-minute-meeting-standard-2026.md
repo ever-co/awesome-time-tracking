@@ -1,57 +1,52 @@
 ## Overview
 
-The 25/50-Minute Meeting Standard is a calendaring convention that shortens standard meeting lengths by 5-10 minutes, creating automatic buffers between meetings and reducing meeting fatigue.
+The 25/50-minute meeting standard replaces traditional 30 and 60-minute defaults with slightly shorter durations, automatically creating 5-10 minute buffers between meetings to prevent burnout, allow preparation, and provide bio-breaks.
 
-## The Standard
+## The Problem with Back-to-Back Meetings
 
-**Instead of 30-minute meetings**: Schedule 25 minutes
-**Instead of 60-minute meetings**: Schedule 50 minutes
+- No time for breaks, bathroom, or water
+- No preparation time for next meeting
+- No time to process or take notes
+- Accumulating fatigue throughout day
+- Increased stress and reduced effectiveness
 
-## Built-In Benefits
+## How 25/50-Minute Standard Works
 
-### Automatic Buffers
+### Calendar Defaults
+- 30-minute meetings → 25 minutes
+- 1-hour meetings → 50 minutes
+- Creates automatic 5-10 minute gaps
+- Built-in buffer time
 
-With back-to-back meetings:
-- 25-min meeting → 5-min buffer before next
-- 50-min meeting → 10-min buffer before next
+### Benefits of Built-In Buffers
+- Bio-breaks between meetings
+- Time to grab coffee/water
+- Review notes from previous meeting
+- Prepare for upcoming meeting
+- Reduced meeting fatigue
+- Better meeting quality
 
-### Time for Transitions
+## Implementation in 2026
 
-- Bathroom breaks
-- Coffee/water
-- Stretch and move
-- Check urgent messages
-- Review next meeting agenda
-- Mental context switch
+### Calendar Tool Support
+- Google Calendar: Speedy meetings setting
+- Outlook: Shorten events option
+- Calendly: Custom duration defaults
+- Reclaim.ai: Automatic buffer insertion
 
-## 2026 Adoption
+### Organization Adoption
+- Set as company-wide default
+- Include in meeting best practices
+- Respect the shortened durations
+- Use extra time intentionally
 
-Major calendar platforms added support:
-- Google Calendar: "Speedy meetings" setting
-- Outlook: Configurable default durations
-- Reclaim.ai: Enforces shortened meetings
-- Motion: AI scheduling respects standard
+## Research Support
 
-## Research Foundation
+Studies show that brief breaks between meetings reduce fatigue and improve focus, with the 25/50-minute standard gaining widespread adoption in 2026 as awareness of meeting fatigue grows.
 
-**Meeting Recovery Syndrome**: Studies show 45 minutes needed to fully recover focus after meetings. Built-in buffers help mitigate this.
+## Related Practices
 
-**Parkinson's Law**: Work expands to fill available time. Shorter meetings often accomplish same goals as longer ones.
-
-## Implementation
-
-### Individual Level
-
-1. Enable in calendar settings
-2. Default new meetings to 25/50 min
-3. Communicate standard to colleagues
-
-### Team Level
-
-1. Establish as team norm
-2. Update recurring meetings
-3. Respect buffer time (don't schedule over it)
-
-## Pricing
-
-N/A - This is a meeting scheduling practice, free to implement.
+- No-meeting blocks for focus time
+- Meeting-free Fridays
+- Async-first communication
+- Time blocking methodologies

@@ -1,29 +1,71 @@
 ## Overview
 
-Multi-currency time billing enables professional services firms to track time in one currency while billing clients in their preferred currency. The system handles currency conversion, exchange rate fluctuations, and maintains accurate financial records across multiple currencies.
+Multi-currency time billing enables organizations with international clients to track time in home currency while billing clients in their local currency, managing exchange rates and conversions automatically.
 
-## Key Features
+## Key Capabilities
 
-- Automatic currency conversion at current exchange rates
+### Currency Management
 - Support for 100+ global currencies
-- Client-specific currency preferences
-- Historical exchange rate tracking
-- Multi-currency financial reporting
-- Currency symbol and format localization
+- Real-time or fixed exchange rates
+- Historical rate tracking
+- Multiple billing currencies per client
 
-## Benefits
+### Rate Configuration
+- Set billing rates in any currency
+- Auto-convert to client currency
+- Handle currency-specific rounding
+- Support for multiple rate cards
 
-- Simplifies international billing
-- Reduces manual conversion errors
-- Provides professional client experience
-- Ensures accurate financial records
-- Handles exchange rate fluctuations
-- Supports global business expansion
+### Invoicing
+- Generate invoices in client currency
+- Display both currencies if needed
+- Comply with local tax requirements
+- Support international payment methods
 
-## Common Use Cases
+## Use Cases
 
-- International consulting firms
-- Remote teams serving global clients
-- Digital agencies with worldwide clientele
-- Legal firms with cross-border practice
-- Freelancers working with international companies
+### Global Consulting Firms
+- US-based firm billing European clients in EUR
+- Track costs in USD, bill in client currency
+- Manage exchange rate risk
+
+### Offshore Development
+- Development team in India
+- Clients in US, Europe, Asia
+- Different currencies for different clients
+
+### International Legal Services
+- Law firms with global clients
+- Compliance with local billing requirements
+- Multi-currency trust accounting
+
+## Challenges
+
+- Exchange rate fluctuations affecting revenue
+- Currency conversion timing (real-time vs fixed)
+- Accounting complexity
+- Tax and regulatory compliance
+- Payment processing fees
+
+## Tools Supporting Multi-Currency
+
+- **Replicon**: Multi-currency, multi-location support
+- **Scoro**: Global billing capabilities
+- **TimeSolv**: International billing features
+- **Harvest**: Multi-currency invoicing
+
+## Best Practices
+
+- Define currency conversion policy upfront
+- Lock exchange rates for project duration
+- Clearly communicate currency on invoices
+- Use professional payment processors
+- Maintain audit trail of conversions
+
+## Compliance Considerations
+
+- Local tax laws and VAT requirements
+- Currency reporting regulations
+- Banking and payment compliance
+- Transfer pricing documentation
+- GDPR and data residency

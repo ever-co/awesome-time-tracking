@@ -1,20 +1,70 @@
 ## Overview
 
-SkedPal is an AI-powered calendar that turns your to-do list into a dynamic schedule. SkedPal's auto-scheduler takes your goals, preferences, and constraints and builds the optimal schedule — intelligently and effortlessly.
+SkedPal is an intelligent calendar and task scheduling application that uses AI algorithms to automatically schedule tasks, projects, and routines around your fixed commitments, creating an optimized daily plan that adapts to your energy levels and priorities.
 
-## Features
+## Core Features
 
-- **Intelligent Time Blocking**: Uses natural language processing (NLP) to create tasks and schedules them based on priority, deadlines, and available work hours
-- **Dynamic Rescheduling**: Keeps your life fully scheduled, rescheduling everything automatically if anything goes wrong
-- **Priority Management**: SkedPal board helps you prioritize what matters most to you with just one click, all your tasks are scheduled at your preferred times
-- **Calendar Integration**: Integrates with popular calendar apps like Google Calendar, Office 365, and iCloud for seamless synchronization
-- **Customization**: Customizes your schedule based on your work habits, commitments, priorities, urgencies, and energy shifts throughout the day
-- **GPS for Your Work**: Reschedules anything in one easy step, functioning like a GPS that gets you back on track when you're off schedule
+### AI-Powered Scheduling
+- Automatically schedules tasks in optimal time slots
+- Analyzes task priorities, deadlines, and dependencies
+- Considers energy levels and peak productivity times
+- Reschedules automatically when plans change
 
-## Who It's For
+### Time Map
+- Define when you're available for different types of work
+- Set time preferences for specific categories of tasks
+- Specify your most productive hours for challenging work
+- Create boundaries for work-life balance
 
-SkedPal AI suits knowledge workers, freelancers, students, consultants, and managers who need reliable time management and automatic scheduling. It helps anyone balancing meetings with deep work, coordinating multiple projects, or aligning personal and professional priorities.
+### Task Scheduling
+- Breaks large projects into schedulable chunks
+- Handles recurring tasks and routines
+- Respects deadlines and dependencies
+- Balances urgent and important work
 
-## Pricing
+### Adaptive Rescheduling
+- Automatically adjusts schedule when tasks take longer than expected
+- Reschedules incomplete tasks to future time slots
+- Maintains priorities when conflicts arise
+- Learns from your actual task completion patterns
 
-Pricing information available on the SkedPal website.
+## How It Works
+
+1. **Input Tasks**: Add tasks, projects, and routines with priorities and deadlines
+2. **Define Availability**: Set your time map showing when you can work on different types of tasks
+3. **AI Scheduling**: SkedPal's algorithm creates an optimized schedule
+4. **Execute & Adapt**: Follow your schedule, and SkedPal automatically adjusts as needed
+
+## Unique Features
+
+- Time Zoning: Allocate specific calendar zones for different work types
+- Soft scheduling: Flexible time blocks that can move as priorities shift
+- Project breakdown: Automatically schedules project milestones
+- Routine management: Recurring tasks scheduled optimally
+
+## Benefits
+
+- Eliminates decision fatigue about what to work on next
+- Ensures important work gets scheduled before urgent work fills calendar
+- Adapts to reality rather than rigid planning
+- Balances multiple projects and priorities automatically
+- Reduces planning time while improving execution
+
+## Integration
+
+- Syncs with Google Calendar, Outlook, and iCal
+- Two-way sync keeps all calendars updated
+- Respects fixed appointments and meetings
+- Compatible with both desktop and mobile devices
+
+## Ideal Users
+
+- Knowledge workers juggling multiple projects
+- Entrepreneurs and solopreneurs
+- Students managing coursework and activities
+- Anyone who struggles with task prioritization
+- People who need structure but also flexibility
+
+## 2026 Recognition
+
+Listed among top AI-based calendar tools in 2026 for its intelligent task scheduling and adaptive rescheduling capabilities.

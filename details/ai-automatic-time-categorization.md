@@ -1,30 +1,74 @@
 ## Overview
 
-AI Automatic Time Categorization uses artificial intelligence to classify time entries without manual input. This technology represents a major 2026 advancement in time tracking, with rapid adoption across industries.
+AI automatic time categorization uses machine learning to analyze work activities and automatically assign them to appropriate projects, clients, and categories, learning from user corrections to improve accuracy over time.
 
-## How It Works
+## How AI Categorization Works
 
-Machine learning algorithms analyze application usage, document names, emails, calendar events, and historical data to automatically assign time to correct projects, select appropriate tasks, and apply proper billing codes.
+### Data Analysis
+- Application and website usage patterns
+- Document and file access
+- Email sender/recipient patterns
+- Calendar event participants
+- Time of day and day of week
 
-## Key Platforms (2026)
+### Pattern Recognition
+- Associates activities with projects
+- Learns from historical categorizations
+- Identifies client-specific work patterns
+- Recognizes meeting types
 
-- Replicon ZeroTime™: Automates across 100+ work apps
-- Timely: Memory AI for automatic categorization
-- BetterFlow: Smart categorization learning individual styles
-- Journyx: Smart timesheets with system-based suggestions
-- Timewatch: Calendar-to-timesheet automation
+### Intelligent Suggestions
+- Proposes categories for new time entries
+- Auto-applies high-confidence categorizations
+- Flags uncertain entries for review
+- Improves from user feedback
 
 ## Benefits
 
-- Save 5-10 hours per month per employee
-- Capture 15-20% more billable time
-- Ensure billing compliance
-- Provide enhanced project insights
+### Accuracy Improvements
+- Consistent categorization rules
+- No forgotten project associations
+- Reduced human error
+- Complete activity capture
 
-## Advanced Capabilities
+### Time Savings
+- Minimal manual categorization
+- Batch approval of suggestions
+- Less cognitive load
+- Sub-2-minute daily entry
 
-Some AI trackers analyze meeting transcripts, email correspondence, and code commits. Multi-app integration covers Microsoft 365, Google Workspace, Zoom, Slack, Jira, and more.
+### Data Quality
+- Standardized categories
+- No missing categorizations
+- Better billable time capture
+- Improved reporting accuracy
 
-## Pricing
+## Learning Process
 
-Typically $10-50 per user per month as part of comprehensive time tracking packages.
+1. **Initial Setup**: Manual categorization to train
+2. **Pattern Detection**: AI identifies correlations
+3. **Suggestions**: Proposes categories
+4. **Feedback**: User confirms or corrects
+5. **Refinement**: Improves accuracy
+6. **Automation**: High-confidence auto-application
+
+## Tools Offering AI Categorization
+
+- TrackingTime (AutoTrack)
+- Timely (Memory AI)
+- RescueTime (activity categorization)
+- Clockify (AI suggestions)
+
+## Success Metrics
+
+- Categorization accuracy rate (target: >90%)
+- Manual categorization percentage (should decrease)
+- Time entry completion rate (should increase)
+- User acceptance of AI suggestions
+
+## Limitations
+
+- Requires initial training period
+- May struggle with unprecedented activities
+- Needs periodic review for accuracy
+- Works best with consistent work patterns
