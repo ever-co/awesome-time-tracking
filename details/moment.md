@@ -1,26 +1,22 @@
 ## Overview
 
-Moment tracks daily screen time, empowering users to set goals and reduce digital distractions, promoting healthier relationships with technology and better time awareness.
+Moment was one of the pioneering screen time tracking apps for smartphones, developed before iOS and Android offered built-in screen time features. At its introduction, tracking phone usage required workarounds, such as deducing usage from iPhone battery statistics or using apps like Moment in creative ways.
+
+## Historical Significance
+
+Moment emerged at a time when several years ago, screen time tracking required unusual workarounds. The app helped users understand their device usage patterns and served as an early signal of the growing concern around phone addiction and excessive screen time.
 
 ## Features
 
-- **Automatic Tracking**: Passively tracks phone and app usage
-- **Daily Reports**: Detailed breakdowns of screen time by app
-- **Usage Goals**: Set limits and receive alerts when approaching them
-- **Family Monitoring**: Track device usage for family members
-- **Coach Programs**: Guided programs to reduce screen time
-- **Screen-Free Challenges**: Compete with friends to use phones less
-- **Insights**: Understand your digital habits with detailed analytics
-- **Notification Management**: Identify and reduce notification interruptions
+- Track daily phone usage time
+- View usage patterns and trends
+- Set usage goals and limits
+- Family tracking capabilities
 
-## Time Management Benefits
+## Current Status
 
-By understanding how much time is spent on devices and specific apps, users can make more conscious decisions about digital time allocation and reduce time-wasting behaviors.
-
-## Platform
-
-Primarily iOS, with some Android functionality.
+Moment's original screen time tracking utility has largely been superseded by native built-in solutions: Apple's Screen Time on iOS and Google's Digital Wellness on Android. These built-in alternatives now provide similar functionality without requiring third-party apps or workarounds.
 
 ## Pricing
 
-Free basic version with premium features available via subscription.
+Historically offered both free and premium tiers.

@@ -1,62 +1,25 @@
 ## Overview
 
-Harvest is time tracking and invoicing software that provides a full journey from timesheets to invoicing in a format that fits most freelancers and teams. The platform helps agencies generate reports, bill clients, and track project budgets.
+Harvest is a SaaS tool designed for agencies to log time, generate reports, manage budgets, and invoice clients. It enables teams to track where most money is spent and create time data-based invoices directly from the application.
 
-## Time Tracking
+## Features
 
-- **Timers**: Start/stop timers for active work
-- **Manual Entry**: Add time retroactively
-- **Calendar View**: Visualize time entries on calendar
-- **Browser Extensions**: Track time from Chrome, Firefox, Safari
-- **Mobile Apps**: Full-featured iOS and Android apps
-- **Reminders**: Notifications to log time
-- **Integrations**: Track time from tools you already use
-
-## Invoicing
-
-- **Automated Invoicing**: Generate invoices from tracked time
-- **Expense Invoicing**: Bill expenses to clients
-- **Retainer Invoicing**: Track retainer hours and balances
-- **Online Payments**: Accept credit card and PayPal payments
-- **Payment Reminders**: Automatic follow-ups for overdue invoices
-- **Multi-Currency**: Invoice in 160+ currencies
-- **Professional Templates**: Customizable invoice designs
-
-## Project Management
-
-- **Budget Tracking**: Monitor time and costs against budgets
-- **Project Templates**: Reusable project structures
-- **Team Capacity**: View team availability and workload
-- **Project Profitability**: Track actual vs estimated time
-- **Task Management**: Organize work by tasks
-
-## Reporting
-
-- **Visual Reports**: Time, expenses, and team performance
-- **Project Reports**: Budget vs actual analysis
-- **Team Reports**: Individual and team productivity
-- **Client Reports**: Time and expenses by client
-- **Export Options**: CSV, PDF, and Excel exports
-
-## Integrations
-
-100+ integrations including:
-- Project management (Asana, Basecamp, Trello, Jira)
-- Accounting (QuickBooks, Xero, FreshBooks)
-- Communication (Slack)
-- Development (GitHub, GitLab)
-
-## Benefits
-
-- Simple, intuitive interface
-- Comprehensive from time tracking to payment
-- Trusted by 70,000+ companies
-- Excellent mobile experience
-- Strong reporting capabilities
+- Time logging with project-level tracking
+- Report generation for time and budget analysis
+- Budget management to stay on track and analyze spending
+- Direct client invoicing from the app
+- Time data-based invoice creation
+- Extensive integration capabilities with accounting and project management platforms
 
 ## Pricing
 
-- **Free**: 1 seat, 2 projects
-- **Pro**: $12 per seat/month
+- **Free Plan**: Track time for one member on two projects
+- **Paid Plan**: $12.00 per user per month ($10.80 when billed annually), unlimited seats and projects
+- **Enterprise**: Volume discounts available
 
-Free 30-day trial of Pro plan available.
+## Use Cases
+
+- Agencies needing integrated time tracking and invoicing
+- Teams requiring budget tracking across multiple projects
+- Businesses that bill clients based on tracked hours
+- Small to mid-size agencies with 10-50 people
