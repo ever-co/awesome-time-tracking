@@ -52,9 +52,9 @@ Apple Shortcuts allows iPhone, iPad, and Mac users to create custom time trackin
 ### Siri Integration
 
 **Voice Commands**:
-- "Hey Siri, start working on Client A"
-- "Hey Siri, stop tracking"
-- "Hey Siri, show my time this week"
+- \"Hey Siri, start working on Client A\"
+- \"Hey Siri, stop tracking\"
+- \"Hey Siri, show my time this week\"
 - Hands-free time logging
 
 ## Data Storage Options
@@ -123,7 +123,7 @@ Apple Shortcuts allows iPhone, iPad, and Mac users to create custom time trackin
 ### Freelancer Billing Tracker
 
 **Complete Workflow**:
-1. Morning: "Start workday" shortcut
+1. Morning: \"Start workday\" shortcut
 2. Switch projects: Quick project picker
 3. Log breaks automatically
 4. End of day: Calculate total hours
@@ -218,7 +218,7 @@ Apple Shortcuts allows iPhone, iPad, and Mac users to create custom time trackin
 
 ### First Steps
 1. Open Shortcuts app
-2. Start with "Gallery" templates
+2. Start with \"Gallery\" templates
 3. Modify existing shortcuts
 4. Experiment with actions
 5. Test thoroughly before relying on
@@ -229,7 +229,7 @@ Apple Shortcuts allows iPhone, iPad, and Mac users to create custom time trackin
 - **Use dictionaries**: Store structured data
 - **Menu actions**: Create choice-based workflows
 - **Repeat actions**: Loop through lists
-- **Error handling**: Add "If" checks
+- **Error handling**: Add \"If\" checks
 - **Notifications**: Confirm actions completed
 - **Variables**: Store and reuse data
 - **Comments**: Document complex shortcuts
