@@ -161,6 +161,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Tracking Practice (121)](#time-tracking-practice)
 - [Time Tracking Principle (3)](#time-tracking-principle)
 - [Time Tracking Process (3)](#time-tracking-process)
+- [Time Tracking Tool (1)](#time-tracking-tool)
 - [Time Tracking Utilities & Calculators (52)](#time-tracking-utilities--calculators)
 - [time-tracking-apis-integrations (12)](#time-tracking-apis-integrations)
 - [time-tracking-cli-tools (58)](#time-tracking-cli-tools-2)
@@ -3530,7 +3531,6 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Taskwarrior](https://taskwarrior.org/) - Open-source command-line task management tool with powerful features including human-readable date formats, synchronization capabilities, and time tracking through its companion TimeWarrior extension. Designed for developers and CLI enthusiasts who prefer terminal-based workflow management. ([Read more](/details/taskwarrior.md)) `Open Source` `Command Line` `Developers`
 - [Timebox & Track for Stream Deck](https://marketplace.elgato.com/product/timebox-track-6d46662d-b1b6-4caf-b52d-bcbe788f27c6) - A productivity plugin for Elgato Stream Deck that transforms your device into a powerful time tracking companion, allowing you to start, stop, and track time sessions with a single button press while displaying live countdown timers on your keys. ([Read more](/details/timebox-track-for-stream-deck.md)) `Hardware` `Physical Device` `one-click-tracking` `Timer`
 - [Topydo](https://github.com/topydo/topydo) - Powerful command-line todo list application using the todo.txt format with GTD methodology support. Features multiple interface modes including CLI, prompt mode, and a TUI with vim-like bindings, along with advanced tagging for due dates and contexts. ([Read more](/details/topydo.md)) `Open Source` `Command Line` `GTD`
-- [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - Terminal-native LifeOS for managing intentions, habits, and timelogs with agent-friendly interface and PostgreSQL backend. ([Read more](/details/lifeos-cli.md)) `Open Source` `Command Line` `Productivity` `Agent Friendly`
 
 ## Time Tracking Comparison
 
@@ -3726,6 +3726,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Tracking Onboarding](https://www.workyard.com) - Structured process for introducing new employees to time tracking systems, policies, and best practices. Effective onboarding includes software training, policy review, practice entries, and ongoing support to ensure compliance from day one. ([Read more](/details/time-tracking-onboarding.md)) `Onboarding` `Training` `Adoption` `Change Management`
 - [Timesheet Approval Workflow](https://www.apps365.com/blog/time-tracking-best-practices/) - Structured process for reviewing, approving, and processing time entries before they flow to billing or payroll systems. Effective approval workflows balance accuracy verification with speed, typically requiring manager approval within 48 hours of submission. ([Read more](/details/timesheet-approval-workflow.md)) `Approval` `Workflow` `Governance`
 - [Weekly Timesheet Approval Workflow](https://www.shiftbase.com/glossary/timesheet-approval) - Structured process for submitting, reviewing, and approving employee timesheets on weekly basis. Includes submission deadlines, approval hierarchy, exception handling, and integration with payroll to ensure accurate, timely wage payment. ([Read more](/details/weekly-timesheet-approval-workflow.md)) `Approval` `Workflow` `Payroll` `Compliance`
+
+## Time Tracking Tool
+
+- [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - Lifeos-cli is a terminal-native application that helps users manage their intentions, habits, and time logs through an agent-friendly interface. It uses a PostgreSQL backend for data storage and is designed for productivity tracking via command line. ([Read more](/details/lifeos-cli.md)) `Open Source` `Command Line` `Productivity`
 
 ## Time Tracking Utilities & Calculators
 
