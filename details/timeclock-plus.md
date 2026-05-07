@@ -1,34 +1,41 @@
-## Overview
+# TimeClock Plus
 
-TimeClock Plus is one of three workforce management solutions offered by TCP Software. This module focuses specifically on time tracking and payroll reporting compliance for enterprise organizations.
+## Overview
+TimeClock Plus is a comprehensive time tracking solution designed for organizations with complex labor rules, multiple locations, compliance requirements, or diverse workforce types. It offers powerful automation features and flexible integrations.
 
 ## Features
+- Automated time collection
+- Complex pay rule automation
+- Compliance tracking
+- Reporting and analytics
+- Leave and accrual management
+- Multiple clocking methods (mobile apps, web clocks, biometric terminals)
+- Advanced automation for overtime and PTO
+- Strong compliance capabilities with audit trails and attestations
+- Flexible integrations
+- K-12 resource management (substitute and absence management)
+- Extra duty management
+- Direct integration with Humanity Schedule for employee scheduling
 
-- Advanced time and attendance tracking
-- Payroll reporting and compliance
-- Complex pay calculations (incentive pay, paid breaks, shift differentials)
-- Union rule enforcement
-- Labor law compliance management
-- Multiple clock-in methods (biometric, badge, mobile)
-- Real-time visibility into labor costs
-- Overtime management
-- Schedule enforcement
-- Integration with major payroll systems
-- Comprehensive reporting and analytics
-
-## Target Industries
-
-TimeClock Plus is particularly popular with:
-- Healthcare organizations
-- Manufacturing facilities
-- Unionized workplaces
-- Government agencies
-- Large enterprises with complex labor requirements
-
-## Compliance Features
-
-The system handles various compliance requirements including FLSA overtime rules, union contracts, state and local labor laws, and industry-specific regulations.
+## Use Cases
+- Local government organizations
+- K-12 school districts
+- Large healthcare systems
+- Organizations with complex labor rules
+- Multi-location businesses
+- Companies with compliance requirements
+- Diverse workforce management
 
 ## Pricing
+TimeClock Plus offers custom pricing based on organization size and specific needs. Contact TCP Software for detailed pricing information.
 
-Pricing is quote-based and varies depending on organization size and requirements. Contact TCP Software for custom pricing.
+## Reasons to Buy
+- Well-suited for organizations with complex labor rules
+- Multiple locations support
+- Compliance requirements handling
+- Diverse workforce types accommodation
+- Direct integration with scheduling via Humanity Schedule
+
+## Considerations
+- Advanced features and customization may require additional onboarding time
+- Implementation may take longer than simpler tools
