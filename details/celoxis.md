@@ -1,20 +1,17 @@
+# Celoxis
+
 ## Overview
 
-Celoxis is a comprehensive project management platform with robust time tracking capabilities designed for enterprises and teams that need advanced resource planning, portfolio management, and detailed analytics.
+Celoxis is an enterprise-grade project management platform with built-in time tracking. It unites scheduling, resource planning, timesheets, billing, and reporting in one system.
 
 ## Features
 
-- **Time Tracking**: Flexible timesheets with approval workflows
-- **Resource Management**: Visual resource allocation and capacity planning
-- **Project Planning**: Gantt charts, task dependencies, and critical path analysis
-- **Portfolio Management**: Manage multiple projects across the organization
-- **Budget Tracking**: Track project costs against budgets in real-time
-- **Custom Workflows**: Configurable workflows for different project types
-- **Advanced Reporting**: Interactive dashboards and customizable reports
-- **Risk Management**: Identify and track project risks
-- **Collaboration**: Document sharing, discussions, and team collaboration
-- **Integrations**: Connect with Jira, MS Project, Salesforce, and more
+- All-in-one platform: Time tracking is fully integrated with project planning and resource management.
+- Flexible time entry: Users can start/stop timers or manually log hours for any task.
+- Approval workflows: Configure timesheet submission and sign-off processes to ensure accuracy.
+- Billable hours & invoicing: Flag hours as billable and generate client invoices directly from Celoxis.
+- Advanced reporting: Custom dashboards and drill-down reports (by project, role, client, etc.) show utilization, margins, and budget variance.
 
 ## Pricing
 
-Cloud version starts at $25/user/month. On-premise options available for enterprise customers. 30-day free trial with no credit card required.
+Celoxis plans start at $25/user/month (Essentials tier, includes timesheets and resource planning). A basic Core plan is $10/user (no timesheets), while advanced plans go up to $45/user (Business tier, adds billing, client portal, etc.). All prices are per user/month, billed annually.
