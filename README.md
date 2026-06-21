@@ -13,7 +13,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Management Philosophy (88)](#time-management-philosophy)
 - [Practices (297)](#practices)
 - [AI Powered Time Tracking (36)](#ai-powered-time-tracking)
-- [Time Tracking Software (252)](#time-tracking-software)
+- [Time Tracking Software (253)](#time-tracking-software)
 - [Automatic Time Tracking (29)](#automatic-time-tracking)
 - [Productivity Tool (148)](#productivity-tool)
 - [Time Management Principle (19)](#time-management-principle)
@@ -100,7 +100,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Legal Time Tracking (15)](#legal-time-tracking)
 - [Meeting & Team Time Tracking (26)](#meeting--team-time-tracking)
 - [Mental Health & Productivity (1)](#mental-health--productivity)
-- [Mobile Time Tracking (30)](#mobile-time-tracking-1)
+- [Mobile Time Tracking (31)](#mobile-time-tracking-1)
 - [Mobile Workforce Management (13)](#mobile-workforce-management)
 - [Neuroscience & Productivity (2)](#neuroscience--productivity)
 - [Nonprofit Practice (1)](#nonprofit-practice)
@@ -141,7 +141,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Task and project management (1)](#task-and-project-management)
 - [Task And Project Management (2)](#task-and-project-management-1)
 - [Tax Compliance (1)](#tax-compliance)
-- [Team & Project Time Tracking (20)](#team--project-time-tracking)
+- [Team & Project Time Tracking (21)](#team--project-time-tracking)
 - [Time Blocking (13)](#time-blocking)
 - [Time Blocking & Interval Timers (16)](#time-blocking--interval-timers)
 - [Time Management Policy (5)](#time-management-policy)
@@ -1125,6 +1125,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Tim](https://tim.neat.software) - Native macOS time tracking application featuring beautiful charts with visual breakdown of hours, averages, and revenue, designed specifically for Mac users with full light and dark mode support. ([Read more](/details/tim.md)) `Mac` `Native` `Visualization`
 - [Tim • Time Tracker](https://tim.neat.software/) - Minimalist macOS time tracking app that displays time right in the menu bar with keyboard shortcut control. Privacy-first design with all data stored locally on your device. ([Read more](/details/tim-time-tracker.md)) `Minimalist` `Mac` `Privacy`
 - [Tim Time Tracker for macOS](https://tim.neat.software/) - A native macOS time tracking app by Neat Software that allows users to create, track and edit tasks with groups or tags. Features include menu bar time display, beautiful charts, idle detection, and full data privacy with no internet connection required. ([Read more](/details/tim-time-tracker-for-macos.md)) `Mac` `Privacy` `Offline`
+- [Time & Bill](https://www.timeandbill.de/en/) - Privacy-conscious time tracking for professionals and teams with web and mobile workflows, project and task tracking, stopwatches, reports, and account-based access. ([Read more](/details/timeandbill.md)) `Teams` `Mobile` `Reports` `Privacy`
 - [Time Doctor](https://www.timedoctor.com) - Comprehensive time tracking and productivity monitoring software for remote teams. Features automatic time tracking, optional screenshots, website and app monitoring, and detailed productivity analytics. ([Read more](/details/time-doctor.md)) `Remote Teams` `Productivity Monitoring` `Screenshots`
 - [Time Off Tracking Software 2026](https://www.workyard.com/blog/time-theft) - Modern software solutions for tracking employee vacation, sick leave, and paid time off (PTO). Integrates with time tracking and payroll systems, automates accrual calculations, and streamlines request/approval workflows. ([Read more](/details/time-off-tracking-software-2026.md)) `Pto` `Hr Management` `Workforce`
 - [Time Stream](https://www.focusboosterapp.com) - Productivity and time tracking app from the developers of Focus Booster, combining pomodoro techniques with comprehensive time tracking features to help users maintain focus and track work hours effectively. ([Read more](/details/time-stream.md)) `Pomodoro` `Productivity` `Focus`
@@ -2880,6 +2881,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [TagTrack](https://apps.apple.com/us/app/tagtrack-nfc-qr-habit-tracker/id6754224455) - NFC and QR code based habit and time tracking app for iOS that allows users to trigger tracking by tapping NFC tags or scanning QR codes. Provides a physical, tactile approach to starting timers and logging habits without opening apps or navigating interfaces. ([Read more](/details/tagtrack.md)) `Ios` `Nfc` `Habit Tracking`
 - [TimeBloc](https://timebloc.app/) - Premier iOS time blocking application for streamlining daily planning with customizable timelines, routines, calendar integration, and lock screen widgets for effortless schedule visualization. ([Read more](/details/timebloc.md)) `Ios` `Time Blocking` `Routines` `Calendar Integration`
 - [Timeero](https://timeero.com) - All-in-one GPS time tracking and mileage tracking app designed for mobile teams and field workers. Combines employee time tracking, GPS location monitoring, and automated mileage calculation with offline capabilities. ([Read more](/details/timeero.md)) `Gps Tracking` `Mileage Tracking` `Field Service`
+- [Time & Bill](https://www.timeandbill.de/en/) - Privacy-conscious time tracking for professionals and teams with web and mobile workflows, project and task tracking, stopwatches, reports, and account-based access. ([Read more](/details/timeandbill.md)) `Teams` `Mobile` `Reports` `Privacy`
 - [Timelines - Time Tracking for iPhone and Apple Watch](https://timelines.app) - Visual time tracking app designed specifically for iPhone and Apple Watch, offering an intuitive interface for tracking work hours, projects, and activities with seamless integration across Apple devices including watchOS complications. ([Read more](/details/timelines-time-tracking-app.md)) `Ios` `Apple Watch` `Visual Tracking`
 - [Timelogger by Filipe Martins](https://timeloggerapp.com/) - Simple iOS time tracking app for iPhone, iPad, and Apple Watch with iCloud sync that helps actively manage various tasks including freelancing, daily routines, homemaking, and personal projects. ([Read more](/details/timelogger-by-filipe-martins.md)) `Ios` `Apple Watch` `icloud` `Simple`
 - [Timery](https://apps.apple.com/us/app/timery-time-tracker/id1425368544) - Timery is a powerful time tracking app for iOS, iPadOS, watchOS, and macOS that features interactive widgets allowing users to start and stop time entries, with rich Apple Watch complications and widgets for seamless time tracking from your wrist. ([Read more](/details/timery.md)) `Ios` `Apple Watch` `widgets` `Mobile`
@@ -3436,6 +3438,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Plaky](https://plaky.com/) - Visual project management software with built-in time tracking for creative teams and agencies. Plaky offers Kanban boards, task management, and time tracking in a simple, user-friendly interface. ([Read more](/details/plaky.md)) `Project Management` `Kanban` `creative-teams`
 - [Ravetree](https://www.ravetree.com/) - Work management software for digital agencies and consultancies featuring project management, resource planning, and time tracking. Ravetree helps agencies manage client work, track billable hours, and optimize team utilization. ([Read more](/details/ravetree.md)) `Agencies` `Project Management` `Resource Planning`
 - [Streamtime](https://streamtime.net/) - Project management software built specifically for creative teams, design studios, and creative businesses. Streamtime helps plan jobs, track time, schedule teams, quote and invoice, and report on client and project profitability. ([Read more](/details/streamtime.md)) `creative-teams` `Project Management` `Invoicing`
+- [Time & Bill](https://www.timeandbill.de/en/) - Team-oriented time tracking with projects, tasks, stopwatches, reports, web access, mobile apps, and privacy-conscious account-based workflows. ([Read more](/details/timeandbill.md)) `Team Tracking` `Project Management` `Mobile` `Reports`
 - [Time Tracking for Remote Teams 2026](https://www.timely.com/remote-teams) - Specialized time tracking approaches for distributed and hybrid workforces emphasizing trust, flexibility, and outcomes over surveillance. Features asynchronous tracking, cross-timezone coordination, and balance between accountability and autonomy in remote work environments. ([Read more](/details/time-tracking-for-remote-teams-2026.md)) `Remote Work` `Distributed Teams` `Async` `Flexibility`
 - [TimeChimp](https://www.timechimp.com) - Cloud-based time registration software for tracking working hours, activities, absences, and expenses on project and customer basis. Provides teams with overview and control over hours worked and billing processes. ([Read more](/details/timechimp.md)) `Cloud Based` `Expense Tracking` `Billing`
 - [Timesheet 365](https://www.timesheet365.com) - Microsoft 365-integrated time tracking solution with AI screen tracking and automated timesheet creation from activities in Outlook, Teams, Planner, SharePoint, and Project. ([Read more](/details/timesheet-365.md)) `Microsoft` `Integration` `Ai Powered`
