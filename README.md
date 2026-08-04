@@ -3958,7 +3958,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ever-works/awesome-time-tracking&type=Date)](https://star-history.com/#ever-works/awesome-time-tracking&Date)
+[![Star History Chart](https://stats-github.ever.works/svg?repos=ever-works/awesome-time-tracking&type=Date)](https://stats-github.ever.works/#ever-works/awesome-time-tracking&Date)
 
 ## ™️ Legal
 
