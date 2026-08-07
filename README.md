@@ -15,7 +15,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Management Philosophy (88)](#time-management-philosophy)
 - [Practices (297)](#practices)
 - [AI Powered Time Tracking (36)](#ai-powered-time-tracking)
-- [Time Tracking Software (252)](#time-tracking-software)
+- [Time Tracking Software (253)](#time-tracking-software)
 - [Automatic Time Tracking (29)](#automatic-time-tracking)
 - [Productivity Tool (148)](#productivity-tool)
 - [Time Management Principle (19)](#time-management-principle)
@@ -107,7 +107,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Neuroscience & Productivity (2)](#neuroscience--productivity)
 - [Nonprofit Practice (1)](#nonprofit-practice)
 - [Open Source (10)](#open-source)
-- [Open Source Time Trackers (3)](#open-source-time-trackers)
+- [Open Source Time Trackers (4)](#open-source-time-trackers)
 - [Open Sources (7)](#open-sources)
 - [open-sources (7)](#open-sources-1)
 - [others (22)](#others)
@@ -152,7 +152,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Tracking Apis & Integrations (1)](#time-tracking-apis--integrations)
 - [Time Tracking APIs & Integrations (20)](#time-tracking-apis--integrations-1)
 - [Time Tracking Cli Tools (1)](#time-tracking-cli-tools)
-- [Time Tracking CLI Tools (3)](#time-tracking-cli-tools-1)
+- [Time Tracking CLI Tools (4)](#time-tracking-cli-tools-1)
 - [Time Tracking Comparison (1)](#time-tracking-comparison)
 - [Time Tracking Compliance (28)](#time-tracking-compliance)
 - [Time Tracking Concept (2)](#time-tracking-concept)
@@ -1045,6 +1045,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [HiveDesk](https://www.hivedesk.com/) - Affordable time tracking and workforce management software designed for remote and hybrid teams, offering comprehensive features at $5 per user per month with automatic time tracking, screenshots, and productivity monitoring capabilities. ([Read more](/details/hivedesk.md)) `Remote Teams` `Employee Monitoring` `Affordable`
 - [Homebase Scheduling Assistant - December 2025 Launch](https://www.parim.co/articles/best-time-tracking-app) - AI-powered shift scheduling feature launched by Homebase in December 2025, providing automated shift creation and conflict resolution for shift-based workforces in hospitality, retail, and service industries. ([Read more](/details/homebase-scheduling-assistant-december-2025-launch.md)) `Ai Powered` `Scheduling` `Shift Work`
 - [Hours Time Tracking](https://hourstimetracking.com) - Simple, beautiful time tracking app for freelancers and small teams with elegant interface, detailed reporting, and team collaboration features focused on ease of use without complexity. ([Read more](/details/hours-time-tracking.md)) `Freelancer` `Simple` `Beautiful Design`
+- [HumbleBee](https://www.timeandbill.de/en/humblebee/) - Local-first time tracking for developers, freelancers, consultants, and solo users with a CLI, desktop GUI, local SQLite storage, reports, and Time & Bill import. ([Read more](/details/humblebee.md)) `Open Source` `Local First` `Cli` `Desktop`
 - [Hourstack](https://hourstack.com/) - Visual time blocking and tracking calendar app that combines planning with execution. Drag-and-drop interface for scheduling tasks then tracking actual time spent against planned time. ([Read more](/details/hourstack.md)) `Time Blocking` `Visual` `Calendar` `Planning`
 - [HourStack Visual Time Management Tool](https://hourstack.com) - Calendar-based time management platform combining scheduling and time tracking in one visual timeline. HourStack allowed users to schedule tasks directly on a calendar interface, track time with timers or manual entry, and compare planned versus actual time. Note: HourStack team joined ClickUp in 2025. ([Read more](/details/hourstack-visual-time-management-tool.md)) `Visual Planning` `Calendar Interface` `Time Blocking`
 - [Hubstaff](https://hubstaff.com) - Hubstaff captures precise time data with screenshots, keyboard/mouse activity rates, URL tracking, and GPS for remote and on-site workers. Integrates with 30+ tools including Asana, QuickBooks, Slack, offers in-depth productivity reports, automated invoicing/payroll, and scheduling tools. Enterprises gain workforce insights with monitoring not in Jibble's privacy approach, freelancers use affordable starters vs Harvest's higher tiers, distinguishing by anti-theft features over free plans like Clockify. ([Read more](/details/hubstaff.md)) `Remote Teams` `Productivity Monitoring` `Screenshots`
@@ -2932,6 +2933,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [ActivityWatch](https://activitywatch.net/) - An open-source automatic time tracker that monitors application usage, website visits, and computer activity with complete privacy, storing all data locally without cloud dependency. ([Read more](/details/activitywatch.md)) `Open Source` `Privacy First` `Automatic` `Self Hosted` `Cross Platform`
 - [Cattr](https://cattr.app/) - Open-source time tracking and employee monitoring software with screenshot capture, activity detection, and project tracking capabilities, designed as a self-hosted alternative to proprietary solutions. ([Read more](/details/cattr.md)) `Open Source` `Self Hosted` `Employee Monitoring` `Screenshots`
+- [HumbleBee](https://www.timeandbill.de/en/humblebee/) - Open-source local-first time tracking with CLI and desktop GUI, storing work time in a local SQLite database without a required cloud account. ([Read more](/details/humblebee.md)) `Open Source` `Local First` `Privacy` `Go`
 - [timetrackcli](https://github.com/rezmoss/timetrackcli) - Privacy-Focused Time Tracker - Lightweight, privacy-focused command-line time tracking tool built in Go. Features automatic productivity monitoring with beautiful terminal dashboard, smart reports, and configurable goals. All data stays local with no cloud synchronization, ensuring complete privacy and data ownership. ([Read more](/details/timetrackcli.md)) `Cli` `Privacy` `Golang` `Open Source` `Developer Focused`
 
 ## Open Sources
@@ -3532,6 +3534,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Time Tracking CLI Tools
 
+- [HumbleBee](https://www.timeandbill.de/en/humblebee/) - Command-line and desktop time tracker for local work logs, project/task tracking, reports, and Time & Bill imports backed by SQLite. ([Read more](/details/humblebee.md)) `Open Source` `Command Line` `Go` `Local First`
 - [Taskwarrior](https://taskwarrior.org/) - Open-source command-line task management tool with powerful features including human-readable date formats, synchronization capabilities, and time tracking through its companion TimeWarrior extension. Designed for developers and CLI enthusiasts who prefer terminal-based workflow management. ([Read more](/details/taskwarrior.md)) `Open Source` `Command Line` `Developers`
 - [Timebox & Track for Stream Deck](https://marketplace.elgato.com/product/timebox-track-6d46662d-b1b6-4caf-b52d-bcbe788f27c6) - A productivity plugin for Elgato Stream Deck that transforms your device into a powerful time tracking companion, allowing you to start, stop, and track time sessions with a single button press while displaying live countdown timers on your keys. ([Read more](/details/timebox-track-for-stream-deck.md)) `Hardware` `Physical Device` `one-click-tracking` `Timer`
 - [Topydo](https://github.com/topydo/topydo) - Powerful command-line todo list application using the todo.txt format with GTD methodology support. Features multiple interface modes including CLI, prompt mode, and a TUI with vim-like bindings, along with advanced tagging for due dates and contexts. ([Read more](/details/topydo.md)) `Open Source` `Command Line` `GTD`
