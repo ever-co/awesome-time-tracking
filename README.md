@@ -82,7 +82,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Field Team Management (5)](#field-team-management)
 - [field-team-management (4)](#field-team-management-1)
 - [Freelance & Consulting (11)](#freelance--consulting)
-- [Freelancers (8)](#freelancers)
+- [Freelancers (9)](#freelancers)
 - [Gamification (2)](#gamification)
 - [Global Team Practice (1)](#global-team-practice)
 - [Government (2)](#government)
@@ -2665,6 +2665,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Indy](https://weareindy.com) - All-in-one project management software for freelancers featuring hourly rate calculator, proposal and contract templates, time tracking, task management, and automated invoicing. ([Read more](/details/indy.md)) `Freelance` `Invoicing` `Contracts`
 - [Neon CRM](https://www.neonone.com/) - Comprehensive nonprofit management platform that integrates volunteer management with donor engagement, offering tools for recruiting, onboarding, scheduling, and tracking volunteer activities alongside fundraising capabilities. ([Read more](/details/neon-crm.md)) `Nonprofit` `Crm` `volunteer-management`
 - [Timecounts](https://www.timecounts.org/) - Modern volunteer management solution providing scheduling, hour tracking, communication, and impact reporting tools designed to help nonprofits maximize volunteer engagement and demonstrate program outcomes. ([Read more](/details/timecounts.md)) `volunteer-management` `Nonprofit` `Modern`
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Browser invoice and receipt generator for freelancers; fill seller, buyer, and line items, then print or save as PDF locally with no account. [Commercial white-label pack](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-time-tracking-v1) (EUR 249 one-time) adds logo, colors, six templates, and unlimited batch CLI. ([Read more](/details/toolkitlabs-invoice.md)) `Free` `Invoicing` `Freelancers` `Pdf`
 - [TripLog](https://www.triplog.net/) - Automatic mileage tracker app that tracks business miles and expenses automatically, saving time and maximizing tax deductions. Features GPS-based automatic trip detection, receipt scanning, expense categorization, and IRS-compliant reporting for freelancers, businesses, and employees requiring mileage reimbursement. ([Read more](/details/triplog.md)) `Mileage Tracking` `Gps` `Automatic`
 - [Volgistics](https://www.volgistics.com/) - Comprehensive volunteer management software solution helping organizations coordinate volunteer schedules, track service hours, manage communications, and generate reports for thousands of volunteers efficiently. ([Read more](/details/volgistics.md)) `volunteer-management` `Nonprofit` `Cloud Based`
 - [Wave Accounting](https://www.waveapps.com/) - Free cloud-based accounting software for small businesses and freelancers, offering unlimited invoicing, receipt scanning, income and expense tracking, and financial reporting with optional paid add-ons for payments and payroll. ([Read more](/details/wave-accounting.md)) `Free` `Invoicing` `Accounting` `Small Business`
